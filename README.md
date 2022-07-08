@@ -5,7 +5,7 @@ This program is developed as a user friendly interface in order to implement the
 ## Non-Dominated Sorted Genetic Algorithm-II (NSGA-II)
 İletim sisteminde kısa devre akımlarını sınırlandırırken N-1 güvenliğini sürdürebilmek amacıyla uygulanan bara bölme optimizasyonu için **NSGA-II** tekniği kullanılmıştır. **[Bara bölme optimizasyonu ve NSGA-II yöntemiyle ilgili detaylı bilgileri içeren makalemize buraya tıklayarak ulaşabilirsiniz.](http://pajes.pau.edu.tr/jvi.aspx?un=PAJES-77672&volume=).**
 
-NSGA-II technique is used to execute the bus splitting optimization restricting the short-circuit current while maintaining N-1 security in the transmission system. Please [click]((http://pajes.pau.edu.tr/jvi.aspx?un=PAJES-77672&volume=)) to reach further explanation about the designed technique.
+NSGA-II technique is used to execute the bus splitting optimization restricting the short-circuit current while maintaining N-1 security in the transmission system. Please **[click](http://pajes.pau.edu.tr/jvi.aspx?un=PAJES-77672&volume=)** to reach further explanation about the designed technique.
 ## Programın Çalışma Koşulları
 - Geliştirilen yazılım Newton Raphson güç akışları ve kısa devre analizleri için **PSS/E** programını kullanmaktadır. Dolayısıyla yazılımın çalışması için PSS/E **dongle'a** ihtiyacınız olacaktır. 
 - Hali hazırda yazılım sadece **KBA Yük Tevzi İşletme Müdürlüğünde** kullanılacak şekilde oluşturulmuştur. Daha sonra uygulama bölgesi genişletilebilir.
