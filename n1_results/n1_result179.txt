@@ -1,0 +1,33 @@
+
+ 07.03.2022 14:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220307_1400_SN1_TR0.sav was saved on X
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+ File not found. C:\Users\ERDIDO~1\AppData\Local\Temp\_MEI189562\kba.sub (OpnApplFil/OPNSEA)
+DFAX ERROR TYPE: 9
+ File not found. kba.dfx (OpnApplFil/OPNSEA)
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      220121  BURSASANAYI        30769.71       25905.54
+1      210122  TEPEOREN           30763.18       27331.29
+2      231121  OSMANCA            28338.40       24550.74
+3      212021  DUDULLU            28239.41       27767.62
+---------------------------------------------------------------

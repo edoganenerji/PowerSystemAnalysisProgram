@@ -1,0 +1,53 @@
+
+ 28.01.2022 11:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220128_1100_SN5_TR0.sav was saved on MON, JAN 31 2022  11:18
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210410 - 410410, ADA1DGKC     - TEMELLI      (1 )
+----------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   210311  210321   ADAPAZARI B   ADAPAZARI B  1            210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5  3         107.88         269.700  250.0
+1  BANK:   220010  220021     BURSADG A     BURSADG A  1            220011  220024    BURSADG B-OTR-3    BURSADG B-OTR-3  1         105.94         264.850  250.0
+2   EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         103.11         257.775  250.0
+3   EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            210122  211822       TEPEOREN           GEBZEOSB      1          99.04         247.600  250.0
+4   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          97.14         242.850  250.0
+5  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4  1          95.38         238.450  250.0
+6   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          93.34         233.350  250.0
+7  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210010  210021  UMRANIYE B-OTR-12  UMRANIYE B-OTR-12  1          92.33         138.495  150.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+
+ 19.06.2022 13:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220619_1300_SN7_TR0 (3).sav was saved on WED, JUN 22 2022  16:32
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210121 - 211821, TEPEOREN     - GEBZEOSB     (2 )
+Inkitaya giden bara numaralari:
+[211821]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                             
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214822  217221  MAKINAOSB     SIDDIK        1         108.52           271.3  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   214822  216722  MAKINAOSB     GEBZEKIMYA    1            216722  GEBZEKIMYA    0.948029
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+Kýsa devre akýmý 28 kA'in üzerinde herhangi bir bara yoktur
+---------------------------------------------------------------

@@ -1,0 +1,118 @@
+Optimal bara düzeni analizin yapýldýðý dosyaya kaydedilmiþtir.            
+Lütfen ilgili sav. dosyasýnda yine ÞAP programý üzerinden N-1 ve kýsa devre etüdü yapýnýz.
+Bara Düzeni Yapýlan Bolge (owner):
+[702]
+Bara Düzeni Yapýlan TM Sayýsý:
+6
+Bara Düzeni Yapýlan TM Listesi:
+['BURSADG     ', 'GORUKLE     ', 'DEMIRTAS    ', 'ULUDAG      ', 'OSMANGAZI   ', 'ORHANELI    ']
+--------------------------------------------------
+Bara Düzeni Yapýlan TM'lerde fider daðýlýmý:
+--------------------------------------------------
+BURSADG     
+--------------------------
+Bara-1:
+-------
+154KV BURSADG-DEMIRTAS-I
+154KV BURSADG-GEMLIK
+154KV BURSADG-ORHANGAZI-II
+154KV BURSADG-DEMIRTAS-II
+154KV BURSADG-ORHANGAZI-I
+154KV BURSADG-KARSAK
+BURSADG YOL VERME
+BURSADG GR-A2
+BURSADG GR-A3
+
+Bara-2:
+-------
+BURSADG A-OTR-1
+BURSADG A-OTR-2
+154KV BURSADG-RBKARESI
+154KV BURSADG-OTOSANSIT
+BURSADG B-OTR-3
+BURSADG GR-A1
+--------------------------
+
+GORUKLE     
+--------------------------
+Bara-1:
+-------
+154KV BURSASANAYI-GORUKLE
+GORUKLE TR-A
+154KV HASANAGA-GORUKLE
+
+Bara-2:
+-------
+154KV GORUKLE-AKCALAR
+154KV BURSASANAYI-GORUKLE _1
+--------------------------
+
+DEMIRTAS    
+--------------------------
+Bara-1:
+-------
+154KV BOSEN-DEMIRTAS
+DEMIRTAS TR-C
+154KV BURSASANAYI-DEMIRTAS
+
+Bara-2:
+-------
+154KV BURSADG-DEMIRTAS-I
+DEMIRTAS TR-A
+DEMIRTAS TR-B
+154KV BURSADG-DEMIRTAS-II
+DEMIRTAS TR-D
+--------------------------
+
+ULUDAG      
+--------------------------
+Bara-1:
+-------
+154KV YENISEHIR-ULUDAG-II
+154KV YENISEHIR-ULUDAG-I
+ULUDAG A-OTR-1
+ULUDAG B-OTR-4
+ULUDAG TR-A
+
+Bara-2:
+-------
+154KV TURANKOY-ULUDAG
+154KV ULUDAG-KESTELSANAL
+154KV INEGOL-ULUDAG
+154KV YILDIRIM-ULUDAG
+--------------------------
+
+OSMANGAZI   
+--------------------------
+Bara-1:
+-------
+154KV BURSASANAYI-OSMANGAZI-I
+154KV OSMANGAZI-BSANAYISANAL-II
+OSMANGAZI TR-A
+OSMANGAZI TR-C
+
+Bara-2:
+-------
+154KV YILDIRIM-OSMANGAZI-I
+154KV YILDIRIM-OSMANGAZI-II
+OSMANGAZI TR-B
+--------------------------
+
+ORHANELI    
+--------------------------
+Bara-1:
+-------
+154KV BURSASANAYI-ORHANELI
+154KV BESEVLER-ORHANELI
+
+Bara-2:
+-------
+154KV ORHANELITES-ORHANELI-I
+154KV ORHANELITES-ORHANELI-II
+154KV POYRAZRES_SU-ORHANELI
+154KV DEVECIKONAGI-ORHANELI
+154KV INEGOL-ORHANELI
+154KV ULURES-ORHANELI
+ORHANELI TR-A
+--------------------------
+

@@ -1,0 +1,41 @@
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211521 - 219121, COLAKOGLU    - COLAKOGLU400 (1 )
+Inkitaya giden bara numaralari:
+[214910, 219110, 219121, 290310]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+         Kýsýt                                                              Ýzlenen Techizat                                                                                       
+          Type From Bus  To Bus          From Name            To Name    ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0         EIH:   211321  211422       TUZLA              KROMANCELIK     1            214321  214821       DILISKELESIG       MAKINAOSB     1         120.40         301.000  250.0
+1         EIH:   211521  214321       COLAKOGLU          DILISKELESIG    1            211321  211422       TUZLA              KROMANCELIK   1         114.58         286.450  250.0
+2         EIH:   214321  214821       DILISKELESIG       MAKINAOSB       1            211321  211422       TUZLA              KROMANCELIK   1         114.57         286.425  250.0
+3         EIH:   211321  211822       TUZLA              GEBZEOSB        1            214321  214821       DILISKELESIG       MAKINAOSB     1         112.67         281.675  250.0
+4         EIH:   214822  217221       MAKINAOSB          SIDDIK          1            214321  214821       DILISKELESIG       MAKINAOSB     1         107.30         268.250  250.0
+5         OTR:   214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1    1            210122  211822       TEPEOREN           GEBZEOSB      1         106.04         265.100  250.0
+6   Generator:   211562    None       COLAKOGLUOP2               None  None           214321  214821       DILISKELESIG       MAKINAOSB     1         102.79         256.975  250.0
+7         EIH:   211622  214322       ICMELER            DILISKELESIG    1            214321  214821       DILISKELESIG       MAKINAOSB     1         102.00         255.000  250.0
+8         EIH:   211321  211621       TUZLA              ICMELER         1            210122  211822       TEPEOREN           GEBZEOSB      1         100.94         252.350  250.0
+9         EIH:   214822  217221       MAKINAOSB          SIDDIK          1            210122  211822       TEPEOREN           GEBZEOSB      1          97.71         244.275  250.0
+10        EIH:   211622  214322       ICMELER            DILISKELESIG    1            211321  211422       TUZLA              KROMANCELIK   1          97.41         243.525  250.0
+11        EIH:   210122  211822       TEPEOREN           GEBZEOSB        1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          96.92         242.300  250.0
+12        EIH:   214822  217221       MAKINAOSB          SIDDIK          1            211321  211422       TUZLA              KROMANCELIK   1          96.45         241.125  250.0
+13        EIH:   214821  216721       MAKINAOSB          GEBZEKIMYA      1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.90         237.250  250.0
+14  Generator:   211562    None       COLAKOGLUOP2               None  None           210122  211822       TEPEOREN           GEBZEOSB      1          94.71         236.775  250.0
+15        EIH:   211222  211621       KARTAL             ICMELER         1            210122  211822       TEPEOREN           GEBZEOSB      1          94.36         235.900  250.0
+16  Generator:   211562    None       COLAKOGLUOP2               None  None           211321  211422       TUZLA              KROMANCELIK   1          93.52         233.800  250.0
+17        EIH:   211221  211622       KARTAL             ICMELER         1            210122  211822       TEPEOREN           GEBZEOSB      1          93.26         233.150  250.0
+18        EIH:   211822  216721       GEBZEOSB           GEBZEKIMYA      1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.16         232.900  250.0
+19        EIH:   214821  216721       MAKINAOSB          GEBZEKIMYA      1            210122  211822       TEPEOREN           GEBZEOSB      1          92.20         230.500  250.0
+20        OTR:   214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3    1            214321  214821       DILISKELESIG       MAKINAOSB     1          91.37         228.425  250.0
+21        EIH:   211822  216721       GEBZEOSB           GEBZEKIMYA      1            210122  211822       TEPEOREN           GEBZEOSB      1          90.71         226.775  250.0
+22        EIH:   211522  217221       COLAKOGLU          SIDDIK          1            214321  214821       DILISKELESIG       MAKINAOSB     1          90.44         226.100  250.0
+23       BANK:   210211  210222          PASAKOY B          PASAKOY B    1            210122  211822       TEPEOREN           GEBZEOSB      1          90.22         225.550  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

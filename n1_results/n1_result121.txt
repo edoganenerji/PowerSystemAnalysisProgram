@@ -1,0 +1,65 @@
+
+ Messages for api FDNS
+ 9 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212622, 212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210321 - 213021, ADAPAZARI    - YARIMCA2     (1 )
+Inkitaya giden bara numaralari:
+[213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210310 - 210411, ADAPAZARI    - ADA1DGKC     (1 )
+----------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                        Ýzlenen Techizat                                                                                        
+     Type From Bus  To Bus        From Name          To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0   BANK:   210311  210321      ADAPAZARI B      ADAPAZARI B  1            210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5  3         141.13        352.8250   250.0
+1    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            210621  212422       HYUNDAI            ENJKOSEKOY    1         110.72        276.8000   250.0
+2    OTR:   214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1         103.02        257.5500   250.0
+3    OTR:   214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         103.02        257.5500   250.0
+4    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1          99.69        249.2250   250.0
+5    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.69        249.2250   250.0
+6   BANK:   210110  210121       TEPEOREN A       TEPEOREN A  2            210121  211921       TEPEOREN           KURTKOY       1          97.58        327.8688   336.0
+7    EIH:   210111  214310     TEPEOREN         DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1          97.40        243.5000   250.0
+8   BANK:   210110  210121       TEPEOREN A       TEPEOREN A  2            211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4  1          96.97        242.4250   250.0
+9    EIH:   210321  214222     ADAPAZARI        KOCAELI       2            210321  212521       ADAPAZARI          KOSEKOY       2          96.72        241.8000   250.0
+10   EIH:   212521  215021     KOSEKOY          GOLCUK        1            213621  213721       KARAMURSEL         YALOVA        1          96.09        172.9620   180.0
+11   EIH:   214210  214810     KOCAELI          MAKINAOSB     1            212322  212421       IZMIT              ENJKOSEKOY    1          93.89        234.7250   250.0
+12   EIH:   214310  290310     DILISKELESIG     DCELIKSANAL   1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.00        232.5000   250.0
+13   EIH:   230010  231110     BOLUCEK          OSMANCA       1            217321  230021       ALAPLI             BOLUCEK       1          92.85        167.1300   180.0
+14   EIH:   210321  212521     ADAPAZARI        KOSEKOY       2            210321  214222       ADAPAZARI          KOCAELI       2          91.38        228.4500   250.0
+15   EIH:   210111  214310     TEPEOREN         DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          90.75        226.8750   250.0
+16   EIH:   210111  214310     TEPEOREN         DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          90.42        226.0500   250.0
+17   EIH:   214210  214810     KOCAELI          MAKINAOSB     1            210311  214211       ADAPAZARI          KOCAELI       1          90.39       1229.3040  1360.0
+18   EIH:   214210  214810     KOCAELI          MAKINAOSB     1            210111  214211       TEPEOREN           KOCAELI       1          90.25       1227.4000  1360.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

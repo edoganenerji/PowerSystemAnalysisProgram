@@ -1,0 +1,29 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                  Ýzlenen Techizat                                                                                   
+     Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus        From Name          To Name  ID Power Flow(%) Power Flow(MVA)  RATEC
+0    EIH:   220511  222811  SEYITOMER     ESKISEHIR3    1            220221  220421     GURAGAC          TUNCBILEK-B   1         139.37        253.6534  182.0
+1    EIH:   220511  222811  SEYITOMER     ESKISEHIR3    1            220510  220521  SEYITOMER OTR-1  SEYITOMER OTR-1  1         129.87        194.8050  150.0
+2    EIH:   220321  220421  TUNCBILEK-A   TUNCBILEK-B   1            220322  220421     TUNCBILEK-A      TUNCBILEK-B   1         121.65        160.5780  132.0
+3   BANK:   222810  222822  ESKISEHIR3 A  ESKISEHIR3 A  2            220221  220421     GURAGAC          TUNCBILEK-B   1         110.88        201.8016  182.0
+4    EIH:   220511  222811  SEYITOMER     ESKISEHIR3    1            220321  220421     TUNCBILEK-A      TUNCBILEK-B   1         108.17        196.8694  182.0
+5    EIH:   220210  220510  GURAGAC       SEYITOMER     1            220221  220421     GURAGAC          TUNCBILEK-B   1         103.62        188.5884  182.0
+6    EIH:   220821  222221  ORHANGAZI     PASALAR       1            220221  220421     GURAGAC          TUNCBILEK-B   1          98.56        179.3792  182.0
+7    EIH:   220221  290821  GURAGAC       KUMBETSANAL   1            220221  220421     GURAGAC          TUNCBILEK-B   1          98.25        178.8150  182.0
+8    EIH:   222721  290821  ESKISEHIR2    KUMBETSANAL   1            220221  220421     GURAGAC          TUNCBILEK-B   1          97.35        177.1770  182.0
+9    EIH:   222521  225321  BOZUYUK       BOZUYUKRES    1            220221  220421     GURAGAC          TUNCBILEK-B   1          97.00        176.5400  182.0
+10   EIH:   220111  220210  BURSASANAYI   GURAGAC       1            220221  220421     GURAGAC          TUNCBILEK-B   1          93.92        170.9344  182.0
+11   EIH:   220521  225321  SEYITOMER     BOZUYUKRES    1            220221  220421     GURAGAC          TUNCBILEK-B   1          93.33        169.8606  182.0
+12   EIH:   216121  225521  DINCERCIM     MERYEMRES     1            220221  220421     GURAGAC          TUNCBILEK-B   1          92.39        168.1498  182.0
+13   EIH:   222421  222521  SOGUT         BOZUYUK       1            220221  220421     GURAGAC          TUNCBILEK-B   1          92.32        168.0224  182.0
+14   EIH:   220221  224422  GURAGAC       ETIGUMUS      1            220221  220421     GURAGAC          TUNCBILEK-B   1          91.58        166.6756  182.0
+15   EIH:   220221  223321  GURAGAC       KUTAHYA       1            220221  220421     GURAGAC          TUNCBILEK-B   1          91.47        166.4754  182.0
+16   EIH:   216121  222221  DINCERCIM     PASALAR       1            220221  220421     GURAGAC          TUNCBILEK-B   1          90.90        165.4380  182.0
+17   EIH:   220521  227521  SEYITOMER     KUMAS         1            220221  220421     GURAGAC          TUNCBILEK-B   1          90.87        165.3834  182.0
+18   EIH:   225821  291321  KUTAHYAOSB    KUTAHYASANAL  1            220221  220421     GURAGAC          TUNCBILEK-B   1          90.63        164.9466  182.0
+19   EIH:   223221  520421  GEDIZ         USAK          1            220221  220421     GURAGAC          TUNCBILEK-B   1          90.53        164.7646  182.0
+20   EIH:   223321  224422  KUTAHYA       ETIGUMUS      1            220221  220421     GURAGAC          TUNCBILEK-B   1          90.45        164.6190  182.0
+21   EIH:   222421  225521  SOGUT         MERYEMRES     1            220221  220421     GURAGAC          TUNCBILEK-B   1          90.44        164.6008  182.0
+22   EIH:   223621  227522  KIRKA         KUMAS         1            220221  220421     GURAGAC          TUNCBILEK-B   1          90.16        164.0912  182.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

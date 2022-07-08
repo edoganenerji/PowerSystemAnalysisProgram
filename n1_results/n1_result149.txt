@@ -1,0 +1,19 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                              Ýzlenen Techizat                                                                                          
+     Type From Bus  To Bus           From Name             To Name  ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0   BANK:   210110  210121          TEPEOREN A          TEPEOREN A  2            211211  211221      KARTAL B-OTR-4      KARTAL B-OTR-4  1         108.61        271.5250   250.0
+1    EIH:   210111  214310        TEPEOREN            DILISKELESIG  1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1         107.81        269.5250   250.0
+2    EIH:   211522  214322        COLAKOGLU           DILISKELESIG  1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1         105.80        264.5000   250.0
+3    EIH:   210111  214310        TEPEOREN            DILISKELESIG  1            214321  214821        DILISKELESIG        MAKINAOSB     1         102.26        255.6500   250.0
+4    EIH:   210111  214310        TEPEOREN            DILISKELESIG  1            214810  214821   MAKINAOSB A-OTR-1   MAKINAOSB A-OTR-1  1          99.90        249.7500   250.0
+5    EIH:   214210  214810        KOCAELI             MAKINAOSB     1            210111  214211        TEPEOREN            KOCAELI       1          95.89       1304.1040  1360.0
+6    EIH:   214310  290310        DILISKELESIG        DCELIKSANAL   1            214321  214821        DILISKELESIG        MAKINAOSB     1          94.72        236.8000   250.0
+7    EIH:   214310  290310        DILISKELESIG        DCELIKSANAL   1            214810  214821   MAKINAOSB A-OTR-1   MAKINAOSB A-OTR-1  1          94.65        236.6250   250.0
+8   BANK:   210110  210121          TEPEOREN A          TEPEOREN A  2            210121  211921        TEPEOREN            KURTKOY       1          94.54        317.6544   336.0
+9   BANK:   210111  210122          TEPEOREN B          TEPEOREN B  1            211822  216721        GEBZEOSB            GEBZEKIMYA    1          92.59        231.4750   250.0
+10   OTR:   214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1          91.67        229.1750   250.0
+11   OTR:   214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1            214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1          91.47        228.6750   250.0
+12   OTR:   211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1            210110  210121    TEPEOREN A-OTR-2    TEPEOREN A-OTR-2  1          90.12        225.3000   250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

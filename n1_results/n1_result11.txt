@@ -1,0 +1,38 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212021 - 217621, DUDULLU      - DUDULLUMETRO (1 )
+Inkitaya giden bara numaralari:
+[217621, 217622]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 8 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210122 - 212221, TEPEOREN     - SILE         (1 )
+Inkitaya giden bara numaralari:
+[212221, 214021, 214022]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                     
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus         From Name           To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   211221  211622  KARTAL        ICMELER       1            210122  211822      TEPEOREN          GEBZEOSB      1         128.75         321.875  250.0
+1   EIH:   211221  211622  KARTAL        ICMELER       1            211421  211521      KROMANCELIK       COLAKOGLU     1         112.56         281.400  250.0
+2   EIH:   210122  211822  TEPEOREN      GEBZEOSB      1            211221  211622      KARTAL            ICMELER       1         102.28         368.208  360.0
+3   EIH:   211421  211521  KROMANCELIK   COLAKOGLU     1            211221  211622      KARTAL            ICMELER       1          99.43         357.948  360.0
+4  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210111  210122  TEPEOREN B-OTR-3  TEPEOREN B-OTR-3  1          98.05         245.125  250.0
+5  BANK:   210111  210122    TEPEOREN B    TEPEOREN B  1            211221  211622      KARTAL            ICMELER       1          97.24         350.064  360.0
+6  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210111  210122  TEPEOREN B-OTR-4  TEPEOREN B-OTR-4  2          95.94         239.850  250.0
+7   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            211221  211622      KARTAL            ICMELER       1          94.64         340.704  360.0
+8  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            211221  211622      KARTAL            ICMELER       1          93.67         337.212  360.0
+9   EIH:   211421  211521  KROMANCELIK   COLAKOGLU     1            210122  211822      TEPEOREN          GEBZEOSB      1          92.12         230.300  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

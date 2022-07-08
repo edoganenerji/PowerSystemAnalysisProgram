@@ -1,0 +1,42 @@
+
+ Messages for api FDNS
+ 12 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212622, 212721, 212722, 213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 213021, HEREKE       - YARIMCA2     (1 )
+Inkitaya giden bara numaralari:
+[213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   220010  220021     BURSADG A     BURSADG A  1            220011  220024    BURSADG B-OTR-3    BURSADG B-OTR-3  1         111.64         279.100  250.0
+1   EIH:   220921  221921  OTOSANSIT     KESTEL        1            220011  220024    BURSADG B-OTR-3    BURSADG B-OTR-3  1          91.23         228.075  250.0
+2   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          90.16         225.400  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

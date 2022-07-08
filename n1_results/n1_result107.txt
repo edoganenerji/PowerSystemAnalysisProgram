@@ -1,0 +1,24 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212021 - 217621, DUDULLU      - DUDULLUMETRO (1 )
+Inkitaya giden bara numaralari:
+[217621, 217622]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4  1         106.36        265.9000  250.0
+1  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            210121  211921       TEPEOREN           KURTKOY       1          98.44        330.7584  336.0
+2   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          97.39        243.4750  250.0
+3  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210111  210122   TEPEOREN B-OTR-3   TEPEOREN B-OTR-3  1          94.46        236.1500  250.0
+4   EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.21        235.5250  250.0
+5  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210111  210122   TEPEOREN B-OTR-4   TEPEOREN B-OTR-4  2          92.41        231.0250  250.0
+6   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1          91.14        227.8500  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

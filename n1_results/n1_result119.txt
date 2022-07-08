@@ -1,0 +1,203 @@
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210310 - 210411, ADAPAZARI    - ADA1DGKC     (1 )
+----------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+          Kýsýt                                                                    Ýzlenen Techizat                                                                                        
+           Type From Bus  To Bus             From Name               To Name    ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0          EIH:   214210  214810          KOCAELI               MAKINAOSB       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         148.86        372.1500   250.0
+1         BANK:   210311  210321           ADAPAZARI B           ADAPAZARI B    1            210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5  3         143.99        359.9750   250.0
+2          OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         112.03        280.0750   250.0
+3          EIH:   210111  214310          TEPEOREN              DILISKELESIG    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         110.94        277.3500   250.0
+4         BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         109.59        273.9750   250.0
+5          EIH:   210111  214211          TEPEOREN              KOCAELI         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         108.65        271.6250   250.0
+6          EIH:   210311  214211          ADAPAZARI             KOCAELI         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         108.51        271.2750   250.0
+7          EIH:   210321  213021          ADAPAZARI             YARIMCA2        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         107.89        269.7250   250.0
+8          EIH:   210510  216911          ADA2DGKC              KAVACIK         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         106.91        267.2750   250.0
+9          EIH:   210210  210410          PASAKOY               ADA1DGKC        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         106.73        266.8250   250.0
+10         EIH:   210211  231111          PASAKOY               OSMANCA         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         106.04        265.1000   250.0
+11         EIH:   211522  214322          COLAKOGLU             DILISKELESIG    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         105.88        264.7000   250.0
+12         EIH:   120710  210511          HABIBLER              ADA2DGKC        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         104.74        261.8500   250.0
+13        BANK:   210210  210221             PASAKOY A             PASAKOY A    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         104.48        261.2000   250.0
+14   Generator:   211562    None          COLAKOGLUOP2                  None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         103.98        259.9500   250.0
+15        BANK:   210311  210321           ADAPAZARI B           ADAPAZARI B    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         103.58        258.9500   250.0
+16         EIH:   212621  213021          HEREKE                YARIMCA2        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         103.21        258.0250   250.0
+17         EIH:   210221  212021          PASAKOY               DUDULLU         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         102.28        255.7000   250.0
+18   Generator:   214762    None          YENIELEKTRIK                  None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         102.23        255.5750   250.0
+19   Generator:   214761    None          YENIELEKTRIK                  None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         102.22        255.5500   250.0
+20   Generator:   214763    None          YENIELEKTRIK                  None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         102.14        255.3500   250.0
+21         EIH:   210110  214811          TEPEOREN              MAKINAOSB       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.99        254.9750   250.0
+22         OTR:   214310  214322    DILISKELESIG OTR-1    DILISKELESIG OTR-1    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.90        254.7500   250.0
+23         OTR:   214311  214322    DILISKELESIG OTR-2    DILISKELESIG OTR-2    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.89        254.7250   250.0
+24         EIH:   214821  216721          MAKINAOSB             GEBZEKIMYA      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.73        254.3250   250.0
+25         EIH:   211222  211621          KARTAL                ICMELER         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.67        254.1750   250.0
+26         EIH:   214310  290310          DILISKELESIG          DCELIKSANAL     1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.63        254.0750   250.0
+27        BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.54        253.8500   250.0
+28         EIH:   211822  216721          GEBZEOSB              GEBZEKIMYA      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.53        253.8250   250.0
+29        BANK:   210010  210021           UMRANIYE B-           UMRANIYE B-    2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.43        253.5750   250.0
+30         EIH:   211211  214711          KARTAL                YENIDGKC        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.23        253.0750   250.0
+31         OTR:   210311  210321     ADAPAZARI C-OTR-5     ADAPAZARI C-OTR-5    3            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.14        252.8500   250.0
+32         EIH:   211221  211622          KARTAL                ICMELER         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.12        252.8000   250.0
+33         OTR:   214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.02        252.5500   250.0
+34        BANK:   210211  210222             PASAKOY B             PASAKOY B    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.98        252.4500   250.0
+35         EIH:   211521  219121          COLAKOGLU             COLAKOGLU400    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.64        251.6000   250.0
+36         EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.64        251.6000   250.0
+37         EIH:   210410  410410          ADA1DGKC              TEMELLI         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.50        251.2500   250.0
+38         EIH:   210111  210211          TEPEOREN              PASAKOY         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.50        251.2500   250.0
+39         EIH:   210110  214710          TEPEOREN              YENIDGKC        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.49        251.2250   250.0
+40         EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.47        251.1750   250.0
+41         EIH:   211321  211621          TUZLA                 ICMELER         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.46        251.1500   250.0
+42         EIH:   211421  211521          KROMANCELIK           COLAKOGLU       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.42        251.0500   250.0
+43   Generator:   210466    None          GEBZEDG                       None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.41        251.0250   250.0
+44         EIH:   210411  210511          ADA1DGKC              ADA2DGKC        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.41        251.0250   250.0
+45   Generator:   210562    None          ADADGKC                       None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.36        250.9000   250.0
+46   Generator:   210465    None          GEBZEDG                       None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.35        250.8750   250.0
+47   Generator:   210464    None          GEBZEDG                       None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.35        250.8750   250.0
+48         OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.34        250.8500   250.0
+49   Generator:   233662    None          ZETES3                        None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.33        250.8250   250.0
+50   Generator:   233661    None          ZETES3                        None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.33        250.8250   250.0
+51   Generator:   232661    None          ZETES2                        None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.27        250.6750   250.0
+52         EIH:   210511  232611          ADA2DGKC              ZETES2          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.21        250.5250   250.0
+53   Generator:   210563    None          ADADGKC                       None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.21        250.5250   250.0
+54   Generator:   232662    None          ZETES2                        None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.20        250.5000   250.0
+55         EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.17        250.4250   250.0
+56         EIH:   210021  217621          UMRANIYE              DUDULLUMETRO    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.17        250.4250   250.0
+57         EIH:   210310  227210          ADAPAZARI             ULUDAG          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.12        250.3000   250.0
+58         OTR:   211211  211221        KARTAL B-OTR-4        KARTAL B-OTR-4    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.12        250.3000   250.0
+59         EIH:   231110  410311          OSMANCA               SINCAN          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.11        250.2750   250.0
+60         EIH:   231111  612311          OSMANCA               KURSUNLU        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         100.03        250.0750   250.0
+61         EIH:   213621  213721          KARAMURSEL            YALOVA          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.98        249.9500   250.0
+62         EIH:   231111  233611          OSMANCA               ZETES3          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.95        249.8750   250.0
+63         OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.95        249.8750   250.0
+64         EIH:   230010  232610          BOLUCEK               ZETES2          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.93        249.8250   250.0
+65         EIH:   231121  232422          OSMANCA               MELEN           1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.92        249.8000   250.0
+66         OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.91        249.7750   250.0
+67         EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.91        249.7750   250.0
+68         OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.90        249.7500   250.0
+69         EIH:   230010  231110          BOLUCEK               OSMANCA         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.89        249.7250   250.0
+70         EIH:   231221  232422          KARASU                MELEN           1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.89        249.7250   250.0
+71         EIH:   210510  231110          ADA2DGKC              OSMANCA         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.88        249.7000   250.0
+72         EIH:   210910  215211          KBAKKALKOY            MALTEPEIST      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.87        249.6750   250.0
+73         EIH:   214421  215121          AKSAYALOVA            ARSLANBEY       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.86        249.6500   250.0
+74         EIH:   210121  211921          TEPEOREN              KURTKOY         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.84        249.6000   250.0
+75         EIH:   211210  215210          KARTAL                MALTEPEIST      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.78        249.4500   250.0
+76         EIH:   213221  231222          KAYNARCA              KARASU          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.78        249.4500   250.0
+77   Generator:   234361    None          ZETES1                        None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.76        249.4000   250.0
+78         EIH:   213221  218921          KAYNARCA              FERIZLIOSB      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.75        249.3750   250.0
+79   Generator:   230661    None          YENICATES                     None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.74        249.3500   250.0
+80   Generator:   230662    None          YENICATES                     None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.73        249.3250   250.0
+81         EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.73        249.3250   250.0
+82         EIH:   210222  211022          PASAKOY               BBAKKALKOY      2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.72        249.3000   250.0
+83         EIH:   210222  211022          PASAKOY               BBAKKALKOY      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.72        249.3000   250.0
+84         EIH:   211022  211222          BBAKKALKOY            KARTAL          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.71        249.2750   250.0
+85         EIH:   213121  218921          SAKARYA               FERIZLIOSB      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.68        249.2000   250.0
+86         EIH:   234421  412421          BOLU1                 SARIYAR         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.67        249.1750   250.0
+87        BANK:   210310  210322           ADAPAZARI A           ADAPAZARI A    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.66        249.1500   250.0
+88         EIH:   232610  233610          ZETES2                ZETES3          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.66        249.1500   250.0
+89        BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.66        249.1500   250.0
+90         EIH:   210922  216622          KBAKKALKOY            KADIKOY         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.65        249.1250   250.0
+91         EIH:   210022  210922          UMRANIYE              KBAKKALKOY      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.65        249.1250   250.0
+92         EIH:   210821  210922          GOZTEPE               KBAKKALKOY      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.65        249.1250   250.0
+93         EIH:   210022  210721          UMRANIYE              SELIMIYE        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.65        249.1250   250.0
+94         OTR:   210911  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.65        249.1250   250.0
+95         EIH:   230621  231621          CATES                 ZONGULDAK       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.64        249.1000   250.0
+96         EIH:   210121  211821          TEPEOREN              GEBZEOSB        2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.64        249.1000   250.0
+97         EIH:   217321  230021          ALAPLI                BOLUCEK         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.64        249.1000   250.0
+98         EIH:   231821  616521          GERKONSAN             ISMETPASA       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.64        249.1000   250.0
+99         OTR:   210910  210922    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.64        249.1000   250.0
+100        EIH:   217321  231521          ALAPLI                AKCAKOCA        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.63        249.0750   250.0
+101        EIH:   213822  222221          PAMUKOVA              PASALAR         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.63        249.0750   250.0
+102        EIH:   233021  234321          KOZLU                 ZETES1          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.63        249.0750   250.0
+103        EIH:   231121  231521          OSMANCA               AKCAKOCA        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.63        249.0750   250.0
+104        EIH:   210121  211821          TEPEOREN              GEBZEOSB        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.63        249.0750   250.0
+105        EIH:   230021  230621          BOLUCEK               CATES           1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.63        249.0750   250.0
+106        EIH:   230022  233021          BOLUCEK               KOZLU           1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.62        249.0500   250.0
+107        EIH:   230621  230721          CATES                 CAYCUMA         2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.62        249.0500   250.0
+108        EIH:   230021  231621          BOLUCEK               ZONGULDAK       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.62        249.0500   250.0
+109        EIH:   230021  231321          BOLUCEK               ERDEMIR1        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.62        249.0500   250.0
+110       BANK:   231111  231121             OSMANCA B             OSMANCA B    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.62        249.0500   250.0
+111        EIH:   230021  231421          BOLUCEK               ERDEMIR2        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.62        249.0500   250.0
+112        EIH:   230621  230721          CATES                 CAYCUMA         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.62        249.0500   250.0
+113        EIH:   230721  616321          CAYCUMA               SAFRANBOLU      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+114        EIH:   213421  412421          MUDURNU               SARIYAR         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+115        EIH:   213321  216421          KUZULUK               GOKSUHES        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+116        EIH:   230721  616121          CAYCUMA               KARABUK         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+117        EIH:   235121  412421          MAVBIYOKUTLE          SARIYAR         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+118        EIH:   218821  235121          ASAS                  MAVBIYOKUTLE    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+119        EIH:   213421  216421          MUDURNU               GOKSUHES        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+120       BANK:   231110  231121             OSMANCA A             OSMANCA A    2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+121       BANK:   230010  230021             BOLUCEK B             BOLUCEK B    2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+122        EIH:   210311  290510          ADAPAZARI             GOYNUKSANAL     1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+123        EIH:   212521  214222          KOSEKOY               KOCAELI         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+124        EIH:   230621  234322          CATES                 ZETES1          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+125       BANK:   230010  230022             BOLUCEK A             BOLUCEK A    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+126        EIH:   212521  214222          KOSEKOY               KOCAELI         2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.61        249.0250   250.0
+127        EIH:   211521  214321          COLAKOGLU             DILISKELESIG    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.60        249.0000   250.0
+128  Generator:   226362    None          AKSAGOYNUK                    None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.60        249.0000   250.0
+129  Generator:   226361    None          AKSAGOYNUK                    None  None           214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.60        249.0000   250.0
+130        EIH:   214321  214821          DILISKELESIG          MAKINAOSB       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.60        249.0000   250.0
+131        EIH:   211221  211921          KARTAL                KURTKOY         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.59        248.9750   250.0
+132        EIH:   211221  211921          KARTAL                KURTKOY         2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.59        248.9750   250.0
+133        EIH:   232221  233921          KAYNASLI              DUZCEOSB        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.58        248.9500   250.0
+134        EIH:   231121  233921          OSMANCA               DUZCEOSB        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.55        248.8750   250.0
+135        EIH:   210010  210110          UMRANIYE              TEPEOREN        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.54        248.8500   250.0
+136        EIH:   210010  217710          UMRANIYE              ATASEHIR        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.53        248.8250   250.0
+137        EIH:   226311  290510          AKSAGOYNUK            GOYNUKSANAL     1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.52        248.8000   250.0
+138        EIH:   210111  217711          TEPEOREN              ATASEHIR        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.52        248.8000   250.0
+139        EIH:   210310  415310          ADAPAZARI             YUNUSEMRETES    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.49        248.7250   250.0
+140        EIH:   212921  233221          HENDEK                CUMAYERI        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.48        248.7000   250.0
+141        EIH:   231121  233221          OSMANCA               CUMAYERI        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.45        248.6250   250.0
+142        EIH:   210321  214222          ADAPAZARI             KOCAELI         2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.44        248.6000   250.0
+143        EIH:   210311  410011          ADAPAZARI             CAYIRHAN        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.41        248.5250   250.0
+144        EIH:   226310  410110          AKSAGOYNUK            GOKCEKAYA       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.41        248.5250   250.0
+145        EIH:   211321  211422          TUZLA                 KROMANCELIK     1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.41        248.5250   250.0
+146        EIH:   120311  214510          ALIBEYKOY             BEYKOZ          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.40        248.5000   250.0
+147        EIH:   212521  215122          KOSEKOY               ARSLANBEY       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.40        248.5000   250.0
+148        EIH:   211522  217221          COLAKOGLU             SIDDIK          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.39        248.4750   250.0
+149        EIH:   214510  216910          BEYKOZ                KAVACIK         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.38        248.4500   250.0
+150        EIH:   210321  213121          ADAPAZARI             SAKARYA         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.38        248.4500   250.0
+151        EIH:   210321  212521          ADAPAZARI             KOSEKOY         2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.34        248.3500   250.0
+152        EIH:   120310  216911          ALIBEYKOY             KAVACIK         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.23        248.0750   250.0
+153        EIH:   212521  215021          KOSEKOY               GOLCUK          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.22        248.0500   250.0
+154        EIH:   210122  212021          TEPEOREN              DUDULLU         2            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.15        247.8750   250.0
+155        EIH:   210122  212021          TEPEOREN              DUDULLU         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.15        247.8750   250.0
+156        EIH:   210010  216910          UMRANIYE              KAVACIK         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          98.68        246.7000   250.0
+157        EIH:   120911  210210          ZEKERIYAKOY           PASAKOY         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          98.54        246.3500   250.0
+158        EIH:   210311  231110          ADAPAZARI             OSMANCA         1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          98.38        245.9500   250.0
+159        EIH:   211321  211822          TUZLA                 GEBZEOSB        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          98.11        245.2750   250.0
+160       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            210121  211921       TEPEOREN           KURTKOY       1          97.63        328.0368   336.0
+161       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4  1          96.89        242.2250   250.0
+162        EIH:   210111  214310          TEPEOREN              DILISKELESIG    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          96.80        242.0000   250.0
+163        EIH:   214822  216722          MAKINAOSB             GEBZEKIMYA      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          96.70        241.7500   250.0
+164        EIH:   212621  216722          HEREKE                GEBZEKIMYA      1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          96.70        241.7500   250.0
+165        EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          96.63        241.5750   250.0
+166        EIH:   212521  215021          KOSEKOY               GOLCUK          1            213621  213721       KARAMURSEL         YALOVA        1          96.10        172.9800   180.0
+167        EIH:   210321  214222          ADAPAZARI             KOCAELI         2            210321  212521       ADAPAZARI          KOSEKOY       2          95.07        237.6750   250.0
+168        EIH:   214310  290310          DILISKELESIG          DCELIKSANAL     1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.28        235.7000   250.0
+169        EIH:   214210  227211          KOCAELI               ULUDAG          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          94.08        235.2000   250.0
+170        EIH:   210111  214310          TEPEOREN              DILISKELESIG    1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.77        234.4250   250.0
+171        EIH:   230010  231110          BOLUCEK               OSMANCA         1            217321  230021       ALAPLI             BOLUCEK       1          92.98        167.3640   180.0
+172        EIH:   214822  217221          MAKINAOSB             SIDDIK          1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          92.45        231.1250   250.0
+173        EIH:   210111  214310          TEPEOREN              DILISKELESIG    1            210122  211822       TEPEOREN           GEBZEOSB      1          91.97        229.9250   250.0
+174        OTR:   210311  210321     ADAPAZARI C-OTR-5     ADAPAZARI C-OTR-5    3            210311  210321  ADAPAZARI B-OTR-4  ADAPAZARI B-OTR-4  2          91.50        228.7500   250.0
+175        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            210311  214211       ADAPAZARI          KOCAELI       1          91.49       1244.2640  1360.0
+176        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            210111  214211       TEPEOREN           KOCAELI       1          91.38       1242.7680  1360.0
+177        EIH:   214310  290310          DILISKELESIG          DCELIKSANAL     1            214321  214821       DILISKELESIG       MAKINAOSB     1          90.55        226.3750   250.0
+178        OTR:   210311  210321     ADAPAZARI C-OTR-5     ADAPAZARI C-OTR-5    3            210311  210321  ADAPAZARI B-OTR-3  ADAPAZARI B-OTR-3  1          90.07        225.1750   250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

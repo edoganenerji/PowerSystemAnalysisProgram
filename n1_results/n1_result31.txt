@@ -1,0 +1,54 @@
+
+ 20.12.2021 11:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+         Kýsýt                                                                Ýzlenen Techizat                                                                                            
+          Type From Bus  To Bus           From Name             To Name    ID         From Bus  To Bus            From Name              To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0        BANK:   222810  222822        ESKISEHIR3 A        ESKISEHIR3 A    2            222811  222821   ESKISEHIR3 B-OTR-3   ESKISEHIR3 B-OTR-3  2         129.34         323.350   250.0
+1        BANK:   210311  210321         ADAPAZARI B         ADAPAZARI B    1            210311  210321    ADAPAZARI C-OTR-5    ADAPAZARI C-OTR-5  3         113.57         283.925   250.0
+2        BANK:   210110  210121          TEPEOREN A          TEPEOREN A    2            211221  211622         KARTAL               ICMELER       1         107.53         387.108   360.0
+3         EIH:   214210  214810        KOCAELI             MAKINAOSB       1            210621  214221         HYUNDAI              KOCAELI       1         107.52         268.800   250.0
+4        BANK:   220210  220221           GURAGAC A           GURAGAC A    1            220510  220521      SEYITOMER OTR-1      SEYITOMER OTR-1  1         105.53         158.295   150.0
+5         OTR:   214210  214221     KOCAELI A-OTR-1     KOCAELI A-OTR-1    1            214210  214221      KOCAELI B-OTR-3      KOCAELI B-OTR-3  2         105.28         263.200   250.0
+6         OTR:   214210  214221     KOCAELI B-OTR-3     KOCAELI B-OTR-3    2            214210  214221      KOCAELI A-OTR-1      KOCAELI A-OTR-1  1         105.28         263.200   250.0
+7         EIH:   214210  214810        KOCAELI             MAKINAOSB       1            210621  212422         HYUNDAI              ENJKOSEKOY    1         104.36         260.900   250.0
+8         EIH:   214210  214810        KOCAELI             MAKINAOSB       1            214210  214221      KOCAELI A-OTR-1      KOCAELI A-OTR-1  1         101.22         253.050   250.0
+9         EIH:   214210  214810        KOCAELI             MAKINAOSB       1            214210  214221      KOCAELI B-OTR-3      KOCAELI B-OTR-3  2         101.22         253.050   250.0
+10        OTR:   222811  222821  ESKISEHIR3 B-OTR-3  ESKISEHIR3 B-OTR-3    2            222810  222822   ESKISEHIR3 A-OTR-2   ESKISEHIR3 A-OTR-2  1          99.95         149.925   150.0
+11        EIH:   211421  211521        KROMANCELIK         COLAKOGLU       1            210122  211822         TEPEOREN             GEBZEOSB      1          99.22         248.050   250.0
+12        EIH:   220511  222811        SEYITOMER           ESKISEHIR3      1            220510  220521      SEYITOMER OTR-1      SEYITOMER OTR-1  1          98.49         147.735   150.0
+13        EIH:   214310  290310        DILOVASIOSB         DCELIKSANAL     1            214322  216721         DILOVASIOSB          GEBZEKIMYA    1          96.79         241.975   250.0
+14        EIH:   210111  214310        TEPEOREN            DILOVASIOSB     1            214322  216721         DILOVASIOSB          GEBZEKIMYA    1          96.74         241.850   250.0
+15        EIH:   211221  211622        KARTAL              ICMELER         1            210122  211822         TEPEOREN             GEBZEOSB      1          96.38         240.950   250.0
+16        EIH:   211221  211622        KARTAL              ICMELER         1            210110  210121     TEPEOREN A-OTR-2     TEPEOREN A-OTR-2  1          95.35         238.375   250.0
+17       BANK:   220111  220121       BURSASANAYI A       BURSASANAYI A    2            220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5  1          95.21         238.025   250.0
+18        EIH:   211221  211622        KARTAL              ICMELER         1            210110  210121     TEPEOREN A-OTR-1     TEPEOREN A-OTR-1  2          94.79         236.975   250.0
+19        EIH:   210122  211822        TEPEOREN            GEBZEOSB        1            211421  211521         KROMANCELIK          COLAKOGLU     1          93.80         234.500   250.0
+20        OTR:   211210  211222      KARTAL C-OTR-6      KARTAL C-OTR-6    1            210110  210121     TEPEOREN A-OTR-2     TEPEOREN A-OTR-2  1          93.30         233.250   250.0
+21  Generator:   220563    None        SEYITOMERTES                None  None           220510  220521      SEYITOMER OTR-1      SEYITOMER OTR-1  1          93.30         139.950   150.0
+22        OTR:   222811  222821  ESKISEHIR3 B-OTR-3  ESKISEHIR3 B-OTR-3    2            222810  222822   ESKISEHIR3 A-OTR-1   ESKISEHIR3 A-OTR-1  2          93.09         232.725   250.0
+23        EIH:   210122  211822        TEPEOREN            GEBZEOSB        1            211221  211622         KARTAL               ICMELER       1          93.02         334.872   360.0
+24        OTR:   211210  211222      KARTAL C-OTR-6      KARTAL C-OTR-6    1            210110  210121     TEPEOREN A-OTR-1     TEPEOREN A-OTR-1  2          92.75         231.875   250.0
+25        EIH:   214210  214810        KOCAELI             MAKINAOSB       1            210311  214211         ADAPAZARI            KOCAELI       1          92.15        1253.240  1360.0
+26        EIH:   214210  214810        KOCAELI             MAKINAOSB       1            210111  214211         TEPEOREN             KOCAELI       1          92.07        1252.152  1360.0
+27       BANK:   222810  222822        ESKISEHIR3 A        ESKISEHIR3 A    2            220510  220521      SEYITOMER OTR-1      SEYITOMER OTR-1  1          90.99         136.485   150.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

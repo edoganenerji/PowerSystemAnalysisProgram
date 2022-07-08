@@ -1,0 +1,34 @@
+
+ Messages for api FDNS
+ 8 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 221121 - 227221, YILDIRIM     - ULUDAG       (1 )
+Inkitaya giden bara numaralari:
+[222022, 227221]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                    Ýzlenen Techizat                                                                             
+    Type From Bus  To Bus      From Name        To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   220122  228622   BURSASANAYI    OSMANGAZI     1            228621  291821  OSMANGAZI     BSANAYISANAL  1          91.99        308.1665  335.0
+1   EIH:   220122  228622   BURSASANAYI    OSMANGAZI     1            220121  291821  BURSASANAYI   BSANAYISANAL  1          91.95        308.0325  335.0
+2   EIH:   221121  228622   YILDIRIM       OSMANGAZI     2            228621  291821  OSMANGAZI     BSANAYISANAL  1          91.92        307.9320  335.0
+3   EIH:   221121  228622   YILDIRIM       OSMANGAZI     2            220121  291821  BURSASANAYI   BSANAYISANAL  1          91.88        307.7980  335.0
+4   EIH:   228621  291821   OSMANGAZI      BSANAYISANAL  1            221121  228622  YILDIRIM      OSMANGAZI     2          91.55        306.6925  335.0
+5   EIH:   220121  291821   BURSASANAYI    BSANAYISANAL  1            221121  228622  YILDIRIM      OSMANGAZI     2          91.50        306.5250  335.0
+6  BANK:   220110  220122  BURSASANAYI B  BURSASANAYI B  1            220121  221322  BURSASANAYI   BESEVLER      1          91.03        227.5750  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   220022  220721  BURSADG       GEMLIK        1            220721  GEMLIK        0.916709
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      220121  BURSASANAYI        29696.25       25064.98
+---------------------------------------------------------------

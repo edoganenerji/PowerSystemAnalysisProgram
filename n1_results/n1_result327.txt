@@ -1,0 +1,22 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                    Ýzlenen Techizat                                                                             
+    Type From Bus  To Bus      From Name        To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   220110  220122  BURSASANAYI B  BURSASANAYI B  1            220121  221322  BURSASANAYI   BESEVLER      1         120.52        301.3000  250.0
+1   EIH:   214421  220821   AKSAYALOVA     ORHANGAZI     1            213721  220721  YALOVA        GEMLIK        1          94.24        169.6320  180.0
+2   EIH:   220122  221621   BURSASANAYI    GORUKLE       1            221622  221721  GORUKLE       AKCALAR       1          93.18        312.1530  335.0
+3   EIH:   219321  221621   HASANAGA       GORUKLE       1            221622  221721  GORUKLE       AKCALAR       1          93.17        312.1195  335.0
+4   EIH:   228621  291821   OSMANGAZI      BSANAYISANAL  1            220121  221322  BURSASANAYI   BESEVLER      1          92.30        230.7500  250.0
+5   EIH:   220121  291821   BURSASANAYI    BSANAYISANAL  1            220121  221322  BURSASANAYI   BESEVLER      1          92.30        230.7500  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   220021  220721  BURSADG       GEMLIK        1            220721  GEMLIK        0.916362
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      220022  BURSADG            23979.81       28195.12
+---------------------------------------------------------------

@@ -1,0 +1,252 @@
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 230621 - 234322, CATES        - ZETES1       (1 )
+Inkitaya giden bara numaralari:
+[233021, 234321, 234322]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 231111 - 612311, OSMANCA      - KURSUNLU     (1 )
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 210563, generator ismi ADADGKC     
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+          Kýsýt                                                              Ýzlenen Techizat                                                                                        
+           Type From Bus  To Bus          From Name            To Name    ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)   RATEC
+0         BANK:   210310  210322        ADAPAZARI A        ADAPAZARI A    1            231121  233221       OSMANCA            CUMAYERI      1         137.92        182.0544   132.0
+1          EIH:   214210  214810       KOCAELI            MAKINAOSB       1            210311  214211       ADAPAZARI          KOCAELI       1         131.35       1306.9325   995.0
+2          EIH:   214210  214810       KOCAELI            MAKINAOSB       1            210111  214211       TEPEOREN           KOCAELI       1         131.34       1306.8330   995.0
+3         BANK:   210310  210322        ADAPAZARI A        ADAPAZARI A    1            212921  233221       HENDEK             CUMAYERI      1         130.15        171.7980   132.0
+4         BANK:   210311  210321        ADAPAZARI B        ADAPAZARI B    1            210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5  3         129.75        324.3750   250.0
+5          EIH:   210310  214210       ADAPAZARI          KOCAELI         1            210111  214211       TEPEOREN           KOCAELI       1         122.36       1217.4820   995.0
+6          EIH:   210310  214210       ADAPAZARI          KOCAELI         1            210311  214211       ADAPAZARI          KOCAELI       1         122.32       1217.0840   995.0
+7          EIH:   214210  214810       KOCAELI            MAKINAOSB       1            212121  214221       YARIMCA1           KOCAELI       1         115.49        210.1918   182.0
+8          EIH:   214210  214810       KOCAELI            MAKINAOSB       1            210621  214221       HYUNDAI            KOCAELI       1         114.49        208.3718   182.0
+9          EIH:   231821  616521       GERKONSAN          ISMETPASA       1            231121  233921       OSMANCA            DUZCEOSB      1         113.63        149.9916   132.0
+10         EIH:   210510  216911       ADA2DGKC           KAVACIK         1            210111  214211       TEPEOREN           KOCAELI       1         111.08       1105.2460   995.0
+11         EIH:   210510  216911       ADA2DGKC           KAVACIK         1            210311  214211       ADAPAZARI          KOCAELI       1         111.01       1104.5495   995.0
+12         EIH:   210210  210410       PASAKOY            ADA1DGKC        1            210111  214211       TEPEOREN           KOCAELI       1         110.76       1102.0620   995.0
+13         EIH:   210321  214222       ADAPAZARI          KOCAELI         2            210321  212521       ADAPAZARI          KOSEKOY       2         110.74        201.5468   182.0
+14         EIH:   210210  210410       PASAKOY            ADA1DGKC        1            210311  214211       ADAPAZARI          KOCAELI       1         110.73       1101.7635   995.0
+15         EIH:   234421  412421       BOLU1              SARIYAR         1            231121  233921       OSMANCA            DUZCEOSB      1         110.68        146.0976   132.0
+16         EIH:   214210  214810       KOCAELI            MAKINAOSB       1            210621  212422       HYUNDAI            ENJKOSEKOY    1         110.23        200.6186   182.0
+17         EIH:   212521  215021       KOSEKOY            GOLCUK          1            213621  213721       KARAMURSEL         YALOVA        1         106.53        140.6196   132.0
+18         EIH:   210211  231111       PASAKOY            OSMANCA         1            210311  214211       ADAPAZARI          KOCAELI       1         106.30       1057.6850   995.0
+19         EIH:   210211  231111       PASAKOY            OSMANCA         1            210111  214211       TEPEOREN           KOCAELI       1         106.25       1057.1875   995.0
+20         EIH:   120710  210511       HABIBLER           ADA2DGKC        1            210111  214211       TEPEOREN           KOCAELI       1         104.64       1041.1680   995.0
+21         EIH:   120710  210511       HABIBLER           ADA2DGKC        1            210311  214211       ADAPAZARI          KOCAELI       1         104.61       1040.8695   995.0
+22         EIH:   210321  212521       ADAPAZARI          KOSEKOY         2            210321  214222       ADAPAZARI          KOCAELI       2         103.98        189.2436   182.0
+23         OTR:   214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1    1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         103.61        259.0250   250.0
+24         OTR:   214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3    2            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1         103.61        259.0250   250.0
+25         EIH:   210311  231110       ADAPAZARI          OSMANCA         1            231121  233221       OSMANCA            CUMAYERI      1         100.58        132.7656   132.0
+26         EIH:   210211  231111       PASAKOY            OSMANCA         1            231121  233221       OSMANCA            CUMAYERI      1          99.76        131.6832   132.0
+27         EIH:   231121  233921       OSMANCA            DUZCEOSB        1            234421  412421       BOLU1              SARIYAR       1          98.00        129.3600   132.0
+28         EIH:   210321  214821       ADAPAZARI          MAKINAOSB       1            210621  214221       HYUNDAI            KOCAELI       1          97.71        177.8322   182.0
+29         EIH:   210310  210411       ADAPAZARI          ADA1DGKC        1            231121  233221       OSMANCA            CUMAYERI      1          96.21        126.9972   132.0
+30         EIH:   231121  233921       OSMANCA            DUZCEOSB        1            231121  233221       OSMANCA            CUMAYERI      1          95.49        126.0468   132.0
+31         EIH:   214210  214810       KOCAELI            MAKINAOSB       1            210321  213021       ADAPAZARI          YARIMCA2      1          95.31        173.4642   182.0
+32         EIH:   214210  227211       KOCAELI            ULUDAG          1            210311  214211       ADAPAZARI          KOCAELI       1          95.24        947.6380   995.0
+33         EIH:   214210  227211       KOCAELI            ULUDAG          1            210111  214211       TEPEOREN           KOCAELI       1          95.11        946.3445   995.0
+34         EIH:   210321  213021       ADAPAZARI          YARIMCA2        1            210311  214211       ADAPAZARI          KOCAELI       1          94.84        943.6580   995.0
+35         EIH:   210321  213021       ADAPAZARI          YARIMCA2        1            210111  214211       TEPEOREN           KOCAELI       1          94.75        942.7625   995.0
+36         EIH:   210111  214211       TEPEOREN           KOCAELI         1            214210  214810       KOCAELI            MAKINAOSB     1          94.69       1728.0925  1825.0
+37         EIH:   210311  214211       ADAPAZARI          KOCAELI         1            214210  214810       KOCAELI            MAKINAOSB     1          94.66       1727.5450  1825.0
+38        BANK:   210311  210321        ADAPAZARI B        ADAPAZARI B    1            210311  214211       ADAPAZARI          KOCAELI       1          94.54        940.6730   995.0
+39        BANK:   210311  210321        ADAPAZARI B        ADAPAZARI B    1            210111  214211       TEPEOREN           KOCAELI       1          94.44        939.6780   995.0
+40         EIH:   210411  210511       ADA1DGKC           ADA2DGKC        1            210311  214211       ADAPAZARI          KOCAELI       1          94.40        939.2800   995.0
+41         EIH:   210511  232611       ADA2DGKC           ZETES2          1            231121  233221       OSMANCA            CUMAYERI      1          94.32        124.5024   132.0
+42         EIH:   210411  210511       ADA1DGKC           ADA2DGKC        1            210111  214211       TEPEOREN           KOCAELI       1          94.28        938.0860   995.0
+43         EIH:   212121  214221       YARIMCA1           KOCAELI         1            210311  214211       ADAPAZARI          KOCAELI       1          93.94        934.7030   995.0
+44         EIH:   212121  214221       YARIMCA1           KOCAELI         1            210111  214211       TEPEOREN           KOCAELI       1          93.85        933.8075   995.0
+45         EIH:   214210  214810       KOCAELI            MAKINAOSB       1            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1          93.74        234.3500   250.0
+46         EIH:   214210  214810       KOCAELI            MAKINAOSB       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          93.74        234.3500   250.0
+47         EIH:   210321  214821       ADAPAZARI          MAKINAOSB       1            210311  214211       ADAPAZARI          KOCAELI       1          93.58        931.1210   995.0
+48         EIH:   212621  213021       HEREKE             YARIMCA2        1            210311  214211       ADAPAZARI          KOCAELI       1          93.56        930.9220   995.0
+49         EIH:   210321  214821       ADAPAZARI          MAKINAOSB       1            210111  214211       TEPEOREN           KOCAELI       1          93.48        930.1260   995.0
+50         EIH:   210321  214821       ADAPAZARI          MAKINAOSB       1            210621  212422       HYUNDAI            ENJKOSEKOY    1          93.46        170.0972   182.0
+51         EIH:   212621  213021       HEREKE             YARIMCA2        1            210111  214211       TEPEOREN           KOCAELI       1          93.45        929.8275   995.0
+52         EIH:   210410  410410       ADA1DGKC           TEMELLI         1            210311  214211       ADAPAZARI          KOCAELI       1          93.44        929.7280   995.0
+53         EIH:   210410  410410       ADA1DGKC           TEMELLI         1            210111  214211       TEPEOREN           KOCAELI       1          93.32        928.5340   995.0
+54         EIH:   210510  231110       ADA2DGKC           OSMANCA         1            231121  233221       OSMANCA            CUMAYERI      1          93.26        123.1032   132.0
+55         EIH:   210122  212122       TEPEOREN           YARIMCA1        1            210311  214211       ADAPAZARI          KOCAELI       1          93.23        927.6385   995.0
+56         EIH:   231110  410311       OSMANCA            SINCAN          1            210311  214211       ADAPAZARI          KOCAELI       1          93.23        927.6385   995.0
+57         EIH:   212121  214221       YARIMCA1           KOCAELI         1            210621  214221       HYUNDAI            KOCAELI       1          93.23        169.6786   182.0
+58         EIH:   210122  212122       TEPEOREN           YARIMCA1        1            210111  214211       TEPEOREN           KOCAELI       1          93.15        926.8425   995.0
+59        BANK:   210310  210322        ADAPAZARI A        ADAPAZARI A    1            210311  214211       ADAPAZARI          KOCAELI       1          93.15        926.8425   995.0
+60         EIH:   231110  410311       OSMANCA            SINCAN          1            210111  214211       TEPEOREN           KOCAELI       1          93.11        926.4445   995.0
+61         OTR:   214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3    2            210311  214211       ADAPAZARI          KOCAELI       1          93.10        926.3450   995.0
+62         OTR:   214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1    1            210311  214211       ADAPAZARI          KOCAELI       1          93.10        926.3450   995.0
+63         OTR:   210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5    3            210311  214211       ADAPAZARI          KOCAELI       1          93.09        926.2455   995.0
+64         EIH:   210621  214221       HYUNDAI            KOCAELI         1            210311  214211       ADAPAZARI          KOCAELI       1          93.06        925.9470   995.0
+65        BANK:   210310  210322        ADAPAZARI A        ADAPAZARI A    1            210111  214211       TEPEOREN           KOCAELI       1          93.06        925.9470   995.0
+66   Generator:   233661    None       ZETES3                     None  None           210311  214211       ADAPAZARI          KOCAELI       1          93.04        925.7480   995.0
+67         EIH:   210621  212422       HYUNDAI            ENJKOSEKOY      1            210311  214211       ADAPAZARI          KOCAELI       1          93.02        925.5490   995.0
+68         OTR:   214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3    2            210111  214211       TEPEOREN           KOCAELI       1          93.01        925.4495   995.0
+69         OTR:   214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1    1            210111  214211       TEPEOREN           KOCAELI       1          93.01        925.4495   995.0
+70   Generator:   232661    None       ZETES2                     None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.99        925.2505   995.0
+71   Generator:   232662    None       ZETES2                     None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.99        925.2505   995.0
+72         OTR:   210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5    3            210111  214211       TEPEOREN           KOCAELI       1          92.98        925.1510   995.0
+73         EIH:   210621  214221       HYUNDAI            KOCAELI         1            210111  214211       TEPEOREN           KOCAELI       1          92.97        925.0515   995.0
+74         EIH:   210621  212422       HYUNDAI            ENJKOSEKOY      1            210111  214211       TEPEOREN           KOCAELI       1          92.93        924.6535   995.0
+75   Generator:   233661    None       ZETES3                     None  None           210111  214211       TEPEOREN           KOCAELI       1          92.92        924.5540   995.0
+76   Generator:   232661    None       ZETES2                     None  None           210111  214211       TEPEOREN           KOCAELI       1          92.86        923.9570   995.0
+77   Generator:   232662    None       ZETES2                     None  None           210111  214211       TEPEOREN           KOCAELI       1          92.86        923.9570   995.0
+78   Generator:   233662    None       ZETES3                     None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.83        923.6585   995.0
+79         EIH:   212322  212421       IZMIT              ENJKOSEKOY      1            210311  214211       ADAPAZARI          KOCAELI       1          92.81        923.4595   995.0
+80   Generator:   210562    None       ADADGKC                    None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.75        922.8625   995.0
+81   Generator:   210561    None       ADADGKC                    None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.74        922.7630   995.0
+82   Generator:   210464    None       GEBZEDG                    None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.73        922.6635   995.0
+83   Generator:   210463    None       GEBZEDG                    None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.73        922.6635   995.0
+84   Generator:   210465    None       GEBZEDG                    None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.73        922.6635   995.0
+85   Generator:   210462    None       GEBZEDG                    None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.73        922.6635   995.0
+86   Generator:   210466    None       GEBZEDG                    None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.72        922.5640   995.0
+87   Generator:   210461    None       GEBZEDG                    None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.72        922.5640   995.0
+88   Generator:   233662    None       ZETES3                     None  None           210111  214211       TEPEOREN           KOCAELI       1          92.71        922.4645   995.0
+89         EIH:   212322  212421       IZMIT              ENJKOSEKOY      1            210111  214211       TEPEOREN           KOCAELI       1          92.71        922.4645   995.0
+90         EIH:   210511  232611       ADA2DGKC           ZETES2          1            210311  214211       ADAPAZARI          KOCAELI       1          92.67        922.0665   995.0
+91   Generator:   210561    None       ADADGKC                    None  None           210111  214211       TEPEOREN           KOCAELI       1          92.63        921.6685   995.0
+92   Generator:   210562    None       ADADGKC                    None  None           210111  214211       TEPEOREN           KOCAELI       1          92.63        921.6685   995.0
+93         EIH:   210510  231110       ADA2DGKC           OSMANCA         1            210311  214211       ADAPAZARI          KOCAELI       1          92.62        921.5690   995.0
+94   Generator:   210461    None       GEBZEDG                    None  None           210111  214211       TEPEOREN           KOCAELI       1          92.61        921.4695   995.0
+95   Generator:   210462    None       GEBZEDG                    None  None           210111  214211       TEPEOREN           KOCAELI       1          92.61        921.4695   995.0
+96   Generator:   210463    None       GEBZEDG                    None  None           210111  214211       TEPEOREN           KOCAELI       1          92.61        921.4695   995.0
+97   Generator:   210464    None       GEBZEDG                    None  None           210111  214211       TEPEOREN           KOCAELI       1          92.61        921.4695   995.0
+98   Generator:   210465    None       GEBZEDG                    None  None           210111  214211       TEPEOREN           KOCAELI       1          92.61        921.4695   995.0
+99   Generator:   210466    None       GEBZEDG                    None  None           210111  214211       TEPEOREN           KOCAELI       1          92.61        921.4695   995.0
+100        EIH:   210511  232611       ADA2DGKC           ZETES2          1            210111  214211       TEPEOREN           KOCAELI       1          92.56        920.9720   995.0
+101        EIH:   210311  231110       ADAPAZARI          OSMANCA         1            212921  233221       HENDEK             CUMAYERI      1          92.56        122.1792   132.0
+102        EIH:   210510  231110       ADA2DGKC           OSMANCA         1            210111  214211       TEPEOREN           KOCAELI       1          92.51        920.4745   995.0
+103        EIH:   212521  215021       KOSEKOY            GOLCUK          1            210311  214211       ADAPAZARI          KOCAELI       1          92.51        920.4745   995.0
+104        EIH:   234421  412421       BOLU1              SARIYAR         1            210311  214211       ADAPAZARI          KOCAELI       1          92.51        920.4745   995.0
+105        EIH:   212321  214821       IZMIT              MAKINAOSB       1            210311  214211       ADAPAZARI          KOCAELI       1          92.48        920.1760   995.0
+106  Generator:   234361    None       ZETES1                     None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.47        920.0765   995.0
+107        EIH:   212521  215122       KOSEKOY            ARSLANBEY       1            210311  214211       ADAPAZARI          KOCAELI       1          92.46        919.9770   995.0
+108  Generator:   230662    None       YENICATES                  None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.45        919.8775   995.0
+109        EIH:   230010  231110       BOLUCEK            OSMANCA         1            210311  214211       ADAPAZARI          KOCAELI       1          92.45        919.8775   995.0
+110        EIH:   210321  213121       ADAPAZARI          SAKARYA         1            210311  214211       ADAPAZARI          KOCAELI       1          92.45        919.8775   995.0
+111        EIH:   210321  212521       ADAPAZARI          KOSEKOY         2            210311  214211       ADAPAZARI          KOCAELI       1          92.45        919.8775   995.0
+112        EIH:   210322  213821       ADAPAZARI          PAMUKOVA        1            210311  214211       ADAPAZARI          KOCAELI       1          92.44        919.7780   995.0
+113        EIH:   213521  215021       FORD               GOLCUK          1            210311  214211       ADAPAZARI          KOCAELI       1          92.43        919.6785   995.0
+114        EIH:   210321  214222       ADAPAZARI          KOCAELI         2            210311  214211       ADAPAZARI          KOCAELI       1          92.42        919.5790   995.0
+115        EIH:   232022  234422       BOLU2              BOLU1           1            210311  214211       ADAPAZARI          KOCAELI       1          92.41        919.4795   995.0
+116        EIH:   230621  231621       CATES              ZONGULDAK       1            210311  214211       ADAPAZARI          KOCAELI       1          92.41        919.4795   995.0
+117        EIH:   232610  233610       ZETES2             ZETES3          1            210311  214211       ADAPAZARI          KOCAELI       1          92.41        919.4795   995.0
+118        EIH:   231111  233611       OSMANCA            ZETES3          1            210311  214211       ADAPAZARI          KOCAELI       1          92.40        919.3800   995.0
+119        EIH:   234421  412421       BOLU1              SARIYAR         1            210111  214211       TEPEOREN           KOCAELI       1          92.40        919.3800   995.0
+120        EIH:   212521  215021       KOSEKOY            GOLCUK          1            210111  214211       TEPEOREN           KOCAELI       1          92.40        919.3800   995.0
+121        EIH:   212521  214222       KOSEKOY            KOCAELI         2            210311  214211       ADAPAZARI          KOCAELI       1          92.39        919.2805   995.0
+122        EIH:   210322  212921       ADAPAZARI          HENDEK          1            210311  214211       ADAPAZARI          KOCAELI       1          92.39        919.2805   995.0
+123        EIH:   230021  231321       BOLUCEK            ERDEMIR1        1            210311  214211       ADAPAZARI          KOCAELI       1          92.39        919.2805   995.0
+124        EIH:   212521  214222       KOSEKOY            KOCAELI         1            210311  214211       ADAPAZARI          KOCAELI       1          92.39        919.2805   995.0
+125        EIH:   230021  231421       BOLUCEK            ERDEMIR2        1            210311  214211       ADAPAZARI          KOCAELI       1          92.39        919.2805   995.0
+126        EIH:   212621  212722       HEREKE             NUHCIMENTO      1            210311  214211       ADAPAZARI          KOCAELI       1          92.39        919.2805   995.0
+127        EIH:   212621  212721       HEREKE             NUHCIMENTO      1            210311  214211       ADAPAZARI          KOCAELI       1          92.39        919.2805   995.0
+128        EIH:   217321  231521       ALAPLI             AKCAKOCA        1            210311  214211       ADAPAZARI          KOCAELI       1          92.38        919.1810   995.0
+129        EIH:   231121  231521       OSMANCA            AKCAKOCA        1            210311  214211       ADAPAZARI          KOCAELI       1          92.38        919.1810   995.0
+130        EIH:   230621  230721       CATES              CAYCUMA         2            210311  214211       ADAPAZARI          KOCAELI       1          92.38        919.1810   995.0
+131        EIH:   230721  616321       CAYCUMA            SAFRANBOLU      1            210311  214211       ADAPAZARI          KOCAELI       1          92.37        919.0815   995.0
+132        EIH:   217321  230021       ALAPLI             BOLUCEK         1            210311  214211       ADAPAZARI          KOCAELI       1          92.37        919.0815   995.0
+133        EIH:   230621  230721       CATES              CAYCUMA         1            210311  214211       ADAPAZARI          KOCAELI       1          92.37        919.0815   995.0
+134        EIH:   212321  214821       IZMIT              MAKINAOSB       1            210111  214211       TEPEOREN           KOCAELI       1          92.37        919.0815   995.0
+135        EIH:   230721  616121       CAYCUMA            KARABUK         1            210311  214211       ADAPAZARI          KOCAELI       1          92.37        919.0815   995.0
+136        EIH:   235121  412421       MAVBIYOKUTLE       SARIYAR         1            210311  214211       ADAPAZARI          KOCAELI       1          92.36        918.9820   995.0
+137        EIH:   213421  216421       MUDURNU            GOKSUHES        1            210311  214211       ADAPAZARI          KOCAELI       1          92.36        918.9820   995.0
+138        EIH:   218821  235121       ASAS               MAVBIYOKUTLE    1            210311  214211       ADAPAZARI          KOCAELI       1          92.36        918.9820   995.0
+139        EIH:   213321  216421       KUZULUK            GOKSUHES        1            210311  214211       ADAPAZARI          KOCAELI       1          92.36        918.9820   995.0
+140        EIH:   231821  616521       GERKONSAN          ISMETPASA       1            210311  214211       ADAPAZARI          KOCAELI       1          92.36        918.9820   995.0
+141        EIH:   213121  218921       SAKARYA            FERIZLIOSB      1            210311  214211       ADAPAZARI          KOCAELI       1          92.35        918.8825   995.0
+142        EIH:   214421  215121       AKSAYALOVA         ARSLANBEY       1            210311  214211       ADAPAZARI          KOCAELI       1          92.35        918.8825   995.0
+143        EIH:   212521  215122       KOSEKOY            ARSLANBEY       1            210111  214211       TEPEOREN           KOCAELI       1          92.35        918.8825   995.0
+144  Generator:   234361    None       ZETES1                     None  None           210111  214211       TEPEOREN           KOCAELI       1          92.35        918.8825   995.0
+145        EIH:   213221  231222       KAYNARCA           KARASU          1            210311  214211       ADAPAZARI          KOCAELI       1          92.34        918.7830   995.0
+146        EIH:   210321  213121       ADAPAZARI          SAKARYA         1            210111  214211       TEPEOREN           KOCAELI       1          92.34        918.7830   995.0
+147        EIH:   213421  412421       MUDURNU            SARIYAR         1            210311  214211       ADAPAZARI          KOCAELI       1          92.34        918.7830   995.0
+148  Generator:   230662    None       YENICATES                  None  None           210111  214211       TEPEOREN           KOCAELI       1          92.34        918.7830   995.0
+149        EIH:   230010  231110       BOLUCEK            OSMANCA         1            210111  214211       TEPEOREN           KOCAELI       1          92.34        918.7830   995.0
+150        EIH:   213221  218921       KAYNARCA           FERIZLIOSB      1            210311  214211       ADAPAZARI          KOCAELI       1          92.34        918.7830   995.0
+151        EIH:   210321  212521       ADAPAZARI          KOSEKOY         2            210111  214211       TEPEOREN           KOCAELI       1          92.34        918.7830   995.0
+152        EIH:   210322  213821       ADAPAZARI          PAMUKOVA        1            210111  214211       TEPEOREN           KOCAELI       1          92.33        918.6835   995.0
+153        EIH:   213621  213721       KARAMURSEL         YALOVA          1            210311  214211       ADAPAZARI          KOCAELI       1          92.32        918.5840   995.0
+154        EIH:   213521  215021       FORD               GOLCUK          1            210111  214211       TEPEOREN           KOCAELI       1          92.32        918.5840   995.0
+155        EIH:   210321  214222       ADAPAZARI          KOCAELI         2            210111  214211       TEPEOREN           KOCAELI       1          92.31        918.4845   995.0
+156        EIH:   232221  234422       KAYNASLI           BOLU1           1            210311  214211       ADAPAZARI          KOCAELI       1          92.31        918.4845   995.0
+157        EIH:   230010  232610       BOLUCEK            ZETES2          1            210311  214211       ADAPAZARI          KOCAELI       1          92.30        918.3850   995.0
+158        EIH:   232610  233610       ZETES2             ZETES3          1            210111  214211       TEPEOREN           KOCAELI       1          92.30        918.3850   995.0
+159        EIH:   231221  232422       KARASU             MELEN           1            210311  214211       ADAPAZARI          KOCAELI       1          92.30        918.3850   995.0
+160        EIH:   232022  234422       BOLU2              BOLU1           1            210111  214211       TEPEOREN           KOCAELI       1          92.30        918.3850   995.0
+161        EIH:   230621  231621       CATES              ZONGULDAK       1            210111  214211       TEPEOREN           KOCAELI       1          92.29        918.2855   995.0
+162        EIH:   231111  233611       OSMANCA            ZETES3          1            210111  214211       TEPEOREN           KOCAELI       1          92.29        918.2855   995.0
+163        EIH:   231121  232422       OSMANCA            MELEN           1            210311  214211       ADAPAZARI          KOCAELI       1          92.29        918.2855   995.0
+164        EIH:   212621  212721       HEREKE             NUHCIMENTO      1            210111  214211       TEPEOREN           KOCAELI       1          92.28        918.1860   995.0
+165        EIH:   212621  212722       HEREKE             NUHCIMENTO      1            210111  214211       TEPEOREN           KOCAELI       1          92.28        918.1860   995.0
+166        EIH:   232221  233921       KAYNASLI           DUZCEOSB        1            210311  214211       ADAPAZARI          KOCAELI       1          92.28        918.1860   995.0
+167        EIH:   212521  214222       KOSEKOY            KOCAELI         1            210111  214211       TEPEOREN           KOCAELI       1          92.28        918.1860   995.0
+168        EIH:   212521  214222       KOSEKOY            KOCAELI         2            210111  214211       TEPEOREN           KOCAELI       1          92.28        918.1860   995.0
+169        EIH:   210322  212921       ADAPAZARI          HENDEK          1            210111  214211       TEPEOREN           KOCAELI       1          92.28        918.1860   995.0
+170       BANK:   231111  231121          OSMANCA B          OSMANCA B    1            210311  214211       ADAPAZARI          KOCAELI       1          92.28        918.1860   995.0
+171        EIH:   231121  231521       OSMANCA            AKCAKOCA        1            210111  214211       TEPEOREN           KOCAELI       1          92.27        918.0865   995.0
+172  Generator:   226362    None       AKSAGOYNUK                 None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.27        918.0865   995.0
+173        EIH:   230621  230721       CATES              CAYCUMA         2            210111  214211       TEPEOREN           KOCAELI       1          92.27        918.0865   995.0
+174        EIH:   230021  231321       BOLUCEK            ERDEMIR1        1            210111  214211       TEPEOREN           KOCAELI       1          92.27        918.0865   995.0
+175        EIH:   230021  231421       BOLUCEK            ERDEMIR2        1            210111  214211       TEPEOREN           KOCAELI       1          92.27        918.0865   995.0
+176        EIH:   230721  616121       CAYCUMA            KARABUK         1            210111  214211       TEPEOREN           KOCAELI       1          92.26        917.9870   995.0
+177        EIH:   230621  230721       CATES              CAYCUMA         1            210111  214211       TEPEOREN           KOCAELI       1          92.26        917.9870   995.0
+178        EIH:   217321  231521       ALAPLI             AKCAKOCA        1            210111  214211       TEPEOREN           KOCAELI       1          92.26        917.9870   995.0
+179        EIH:   230721  616321       CAYCUMA            SAFRANBOLU      1            210111  214211       TEPEOREN           KOCAELI       1          92.26        917.9870   995.0
+180        EIH:   217321  230021       ALAPLI             BOLUCEK         1            210111  214211       TEPEOREN           KOCAELI       1          92.26        917.9870   995.0
+181        EIH:   213421  216421       MUDURNU            GOKSUHES        1            210111  214211       TEPEOREN           KOCAELI       1          92.25        917.8875   995.0
+182        EIH:   218821  235121       ASAS               MAVBIYOKUTLE    1            210111  214211       TEPEOREN           KOCAELI       1          92.24        917.7880   995.0
+183       BANK:   231110  231121          OSMANCA A          OSMANCA A    2            210311  214211       ADAPAZARI          KOCAELI       1          92.24        917.7880   995.0
+184        EIH:   213121  218921       SAKARYA            FERIZLIOSB      1            210111  214211       TEPEOREN           KOCAELI       1          92.24        917.7880   995.0
+185        EIH:   231821  616521       GERKONSAN          ISMETPASA       1            210111  214211       TEPEOREN           KOCAELI       1          92.24        917.7880   995.0
+186        EIH:   235121  412421       MAVBIYOKUTLE       SARIYAR         1            210111  214211       TEPEOREN           KOCAELI       1          92.24        917.7880   995.0
+187        EIH:   213321  216421       KUZULUK            GOKSUHES        1            210111  214211       TEPEOREN           KOCAELI       1          92.24        917.7880   995.0
+188        EIH:   214421  215121       AKSAYALOVA         ARSLANBEY       1            210111  214211       TEPEOREN           KOCAELI       1          92.24        917.7880   995.0
+189        EIH:   213221  231222       KAYNARCA           KARASU          1            210111  214211       TEPEOREN           KOCAELI       1          92.23        917.6885   995.0
+190        EIH:   213421  412421       MUDURNU            SARIYAR         1            210111  214211       TEPEOREN           KOCAELI       1          92.23        917.6885   995.0
+191        EIH:   213221  218921       KAYNARCA           FERIZLIOSB      1            210111  214211       TEPEOREN           KOCAELI       1          92.23        917.6885   995.0
+192       BANK:   230010  230021          BOLUCEK B          BOLUCEK B    2            210311  214211       ADAPAZARI          KOCAELI       1          92.22        917.5890   995.0
+193        EIH:   213621  213721       KARAMURSEL         YALOVA          1            210111  214211       TEPEOREN           KOCAELI       1          92.21        917.4895   995.0
+194        EIH:   231121  233921       OSMANCA            DUZCEOSB        1            210311  214211       ADAPAZARI          KOCAELI       1          92.20        917.3900   995.0
+195        EIH:   230010  232610       BOLUCEK            ZETES2          1            210111  214211       TEPEOREN           KOCAELI       1          92.20        917.3900   995.0
+196        EIH:   232221  234422       KAYNASLI           BOLU1           1            210111  214211       TEPEOREN           KOCAELI       1          92.20        917.3900   995.0
+197        EIH:   231221  232422       KARASU             MELEN           1            210111  214211       TEPEOREN           KOCAELI       1          92.19        917.2905   995.0
+198        EIH:   231121  232422       OSMANCA            MELEN           1            210111  214211       TEPEOREN           KOCAELI       1          92.18        917.1910   995.0
+199        EIH:   232221  233921       KAYNASLI           DUZCEOSB        1            210111  214211       TEPEOREN           KOCAELI       1          92.17        917.0915   995.0
+200       BANK:   231111  231121          OSMANCA B          OSMANCA B    1            210111  214211       TEPEOREN           KOCAELI       1          92.17        917.0915   995.0
+201  Generator:   226361    None       AKSAGOYNUK                 None  None           210311  214211       ADAPAZARI          KOCAELI       1          92.16        916.9920   995.0
+202  Generator:   226362    None       AKSAGOYNUK                 None  None           210111  214211       TEPEOREN           KOCAELI       1          92.15        916.8925   995.0
+203       BANK:   231110  231121          OSMANCA A          OSMANCA A    2            210111  214211       TEPEOREN           KOCAELI       1          92.13        916.6935   995.0
+204       BANK:   230010  230021          BOLUCEK B          BOLUCEK B    2            210111  214211       TEPEOREN           KOCAELI       1          92.11        916.4945   995.0
+205        EIH:   231121  233921       OSMANCA            DUZCEOSB        1            210111  214211       TEPEOREN           KOCAELI       1          92.09        916.2955   995.0
+206  Generator:   226361    None       AKSAGOYNUK                 None  None           210111  214211       TEPEOREN           KOCAELI       1          92.05        915.8975   995.0
+207        EIH:   212921  233221       HENDEK             CUMAYERI        1            210311  214211       ADAPAZARI          KOCAELI       1          92.02        915.5990   995.0
+208        EIH:   231121  233221       OSMANCA            CUMAYERI        1            210311  214211       ADAPAZARI          KOCAELI       1          91.98        915.2010   995.0
+209        EIH:   212621  216722       HEREKE             GEBZEKIMYA      1            210311  214211       ADAPAZARI          KOCAELI       1          91.97        915.1015   995.0
+210        EIH:   212921  233221       HENDEK             CUMAYERI        1            210111  214211       TEPEOREN           KOCAELI       1          91.91        914.5045   995.0
+211        EIH:   231121  233221       OSMANCA            CUMAYERI        1            210111  214211       TEPEOREN           KOCAELI       1          91.87        914.1065   995.0
+212        EIH:   212621  216722       HEREKE             GEBZEKIMYA      1            210111  214211       TEPEOREN           KOCAELI       1          91.84        913.8080   995.0
+213        EIH:   210211  231111       PASAKOY            OSMANCA         1            212921  233221       HENDEK             CUMAYERI      1          91.76        121.1232   132.0
+214        EIH:   210310  227210       ADAPAZARI          ULUDAG          1            210311  214211       ADAPAZARI          KOCAELI       1          91.25        907.9375   995.0
+215        EIH:   230010  231110       BOLUCEK            OSMANCA         1            217321  230021       ALAPLI             BOLUCEK       1          91.24        120.4368   132.0
+216        EIH:   210310  227210       ADAPAZARI          ULUDAG          1            210111  214211       TEPEOREN           KOCAELI       1          91.15        906.9425   995.0
+217       BANK:   210311  210321        ADAPAZARI B        ADAPAZARI B    1            210621  214221       HYUNDAI            KOCAELI       1          90.88        165.4016   182.0
+218        EIH:   226310  410110       AKSAGOYNUK         GOKCEKAYA       1            210311  214211       ADAPAZARI          KOCAELI       1          90.73        902.7635   995.0
+219        EIH:   232221  233921       KAYNASLI           DUZCEOSB        1            231121  233221       OSMANCA            CUMAYERI      1          90.68        119.6976   132.0
+220        EIH:   210310  410011       ADAPAZARI          CAYIRHAN        1            210311  214211       ADAPAZARI          KOCAELI       1          90.66        902.0670   995.0
+221        EIH:   210310  415310       ADAPAZARI          YUNUSEMRETES    1            210311  214211       ADAPAZARI          KOCAELI       1          90.64        901.8680   995.0
+222        EIH:   226310  410110       AKSAGOYNUK         GOKCEKAYA       1            210111  214211       TEPEOREN           KOCAELI       1          90.62        901.6690   995.0
+223        EIH:   210310  410011       ADAPAZARI          CAYIRHAN        1            210111  214211       TEPEOREN           KOCAELI       1          90.55        900.9725   995.0
+224        EIH:   210310  415310       ADAPAZARI          YUNUSEMRETES    1            210111  214211       TEPEOREN           KOCAELI       1          90.51        900.5745   995.0
+225        EIH:   210311  290510       ADAPAZARI          GOYNUKSANAL     1            210311  214211       ADAPAZARI          KOCAELI       1          90.07        896.1965   995.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

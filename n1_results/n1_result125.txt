@@ -1,0 +1,67 @@
+
+ Messages for api FDNS
+ 15 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212521 - 215021, KOSEKOY      - GOLCUK       (1 )
+Inkitaya giden bara numaralari:
+[213521, 213522, 213621, 215021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 7 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 213521 - 215021, FORD         - GOLCUK       (1 )
+Inkitaya giden bara numaralari:
+[213521, 213522, 213621]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 3 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 213522 - 213621, FORD         - KARAMURSEL   (1 )
+Inkitaya giden bara numaralari:
+[213621]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212521 - 215122, KOSEKOY      - ARSLANBEY    (1 )
+Inkitaya giden bara numaralari:
+[215121, 215122]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   214210  214810  KOCAELI       MAKINAOSB     1            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1         114.89         287.225  250.0
+1  BANK:   210311  210321   ADAPAZARI B   ADAPAZARI B  1            210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5  3         104.02         260.050  250.0
+2  BANK:   210311  210321   ADAPAZARI B   ADAPAZARI B  1            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1         100.98         252.450  250.0
+3   EIH:   210321  212521  ADAPAZARI     KOSEKOY       2            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1          97.00         242.500  250.0
+4   EIH:   210321  214222  ADAPAZARI     KOCAELI       2            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1          93.19         232.975  250.0
+5   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          92.17         230.425  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

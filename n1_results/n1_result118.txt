@@ -1,0 +1,85 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211321 - 211422, TUZLA        - KROMANCELIK  (1 )
+Inkitaya giden bara numaralari:
+[211421, 211422]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210722 - 216621, SELIMIYE     - KADIKOY      (1 )
+Inkitaya giden bara numaralari:
+[210721, 210722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+         Kýsýt                                                              Ýzlenen Techizat                                                                                       
+          Type From Bus  To Bus          From Name            To Name    ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0         EIH:   211222  211621       KARTAL             ICMELER         1            211822  216721       GEBZEOSB           GEBZEKIMYA    1         150.33        375.8250  250.0
+1        BANK:   210110  210121         TEPEOREN A         TEPEOREN A    2            210121  211921       TEPEOREN           KURTKOY       1         147.20        494.5920  336.0
+2         EIH:   214821  216721       MAKINAOSB          GEBZEKIMYA      1            211321  211621       TUZLA              ICMELER       1         140.72        351.8000  250.0
+3         EIH:   210121  211821       TEPEOREN           GEBZEOSB        2            210121  211821       TEPEOREN           GEBZEOSB      1         138.31        345.7750  250.0
+4         EIH:   210121  211821       TEPEOREN           GEBZEOSB        1            210121  211821       TEPEOREN           GEBZEOSB      2         138.16        345.4000  250.0
+5         EIH:   211321  211822       TUZLA              GEBZEOSB        1            211321  211621       TUZLA              ICMELER       1         135.17        337.9250  250.0
+6         EIH:   211822  216721       GEBZEOSB           GEBZEKIMYA      1            211321  211621       TUZLA              ICMELER       1         133.30        333.2500  250.0
+7         EIH:   211321  211621       TUZLA              ICMELER         1            211822  216721       GEBZEOSB           GEBZEKIMYA    1         129.61        324.0250  250.0
+8        BANK:   210110  210121         TEPEOREN A         TEPEOREN A    2            211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4  1         121.42        303.5500  250.0
+9         EIH:   210111  214310       TEPEOREN           DILISKELESIG    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         117.07        292.6750  250.0
+10        EIH:   211222  211621       KARTAL             ICMELER         1            214821  216721       MAKINAOSB          GEBZEKIMYA    1         116.55        391.6080  336.0
+11        EIH:   214821  216721       MAKINAOSB          GEBZEKIMYA      1            211222  211621       KARTAL             ICMELER       1         109.82        395.3520  360.0
+12        EIH:   210111  214310       TEPEOREN           DILISKELESIG    1            214321  214821       DILISKELESIG       MAKINAOSB     1         106.46        266.1500  250.0
+13        EIH:   211321  211822       TUZLA              GEBZEOSB        1            211222  211621       KARTAL             ICMELER       1         105.82        380.9520  360.0
+14        EIH:   211222  211621       KARTAL             ICMELER         1            211321  211822       TUZLA              GEBZEOSB      1         104.80        377.2800  360.0
+15        EIH:   211822  216721       GEBZEOSB           GEBZEKIMYA      1            211222  211621       KARTAL             ICMELER       1         104.65        376.7400  360.0
+16        OTR:   211210  211221     KARTAL C-OTR-6     KARTAL C-OTR-6    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1         104.21        260.5250  250.0
+17        EIH:   210111  214310       TEPEOREN           DILISKELESIG    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1         103.63        259.0750  250.0
+18        OTR:   211210  211221     KARTAL C-OTR-6     KARTAL C-OTR-6    1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2         103.61        259.0250  250.0
+19       BANK:   210110  210121         TEPEOREN A         TEPEOREN A    2            211221  211921       KARTAL             KURTKOY       1         103.52        347.8272  336.0
+20       BANK:   210110  210121         TEPEOREN A         TEPEOREN A    2            211221  211921       KARTAL             KURTKOY       2         103.52        347.8272  336.0
+21        EIH:   210922  216622       KBAKKALKOY         KADIKOY         1            210821  210922       GOZTEPE            KBAKKALKOY    1         103.12        257.8000  250.0
+22        EIH:   210111  214310       TEPEOREN           DILISKELESIG    1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2         103.03        257.5750  250.0
+23        EIH:   211321  211621       TUZLA              ICMELER         1            214821  216721       MAKINAOSB          GEBZEKIMYA    1         101.12        339.7632  336.0
+24        OTR:   211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          99.46        248.6500  250.0
+25        OTR:   211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4    1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          98.88        247.2000  250.0
+26        EIH:   211211  214711       KARTAL             YENIDGKC        1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          96.59        241.4750  250.0
+27        EIH:   211211  214711       KARTAL             YENIDGKC        1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          96.03        240.0750  250.0
+28        EIH:   211222  211621       KARTAL             ICMELER         1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          95.84        239.6000  250.0
+29        EIH:   210010  210911       UMRANIYE           KBAKKALKOY      1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          94.66        236.6500  250.0
+30        EIH:   210010  210911       UMRANIYE           KBAKKALKOY      1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          94.10        235.2500  250.0
+31        EIH:   211622  214322       ICMELER            DILISKELESIG    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          93.94        234.8500  250.0
+32        EIH:   211622  214322       ICMELER            DILISKELESIG    1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          93.39        233.4750  250.0
+33        EIH:   214310  290310       DILISKELESIG       DCELIKSANAL     1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          92.82        232.0500  250.0
+34       BANK:   210211  210222          PASAKOY B          PASAKOY B    1            211822  216721       GEBZEOSB           GEBZEKIMYA    1          92.80        232.0000  250.0
+35        EIH:   214310  290310       DILISKELESIG       DCELIKSANAL     1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          92.28        230.7000  250.0
+36       BANK:   210110  210121         TEPEOREN A         TEPEOREN A    2            211210  211221     KARTAL C-OTR-6     KARTAL C-OTR-6  1          91.97        413.8650  450.0
+37        EIH:   211221  211921       KARTAL             KURTKOY         1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          91.87        229.6750  250.0
+38        EIH:   211221  211921       KARTAL             KURTKOY         2            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          91.87        229.6750  250.0
+39        EIH:   210510  216911       ADA2DGKC           KAVACIK         1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          91.48        228.7000  250.0
+40        EIH:   211221  211921       KARTAL             KURTKOY         1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          91.33        228.3250  250.0
+41        EIH:   211221  211921       KARTAL             KURTKOY         2            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          91.33        228.3250  250.0
+42        EIH:   219110  290310       COLAKOGLU400       DCELIKSANAL     1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          91.23        228.0750  250.0
+43        EIH:   211521  219121       COLAKOGLU          COLAKOGLU400    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          91.23        228.0750  250.0
+44        EIH:   210111  217711       TEPEOREN           ATASEHIR        1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          90.97        227.4250  250.0
+45        EIH:   210510  216911       ADA2DGKC           KAVACIK         1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          90.94        227.3500  250.0
+46        EIH:   210010  210110       UMRANIYE           TEPEOREN        1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          90.89        227.2250  250.0
+47        EIH:   219110  290310       COLAKOGLU400       DCELIKSANAL     1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          90.70        226.7500  250.0
+48        EIH:   211521  219121       COLAKOGLU          COLAKOGLU400    1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          90.70        226.7500  250.0
+49        EIH:   210010  217710       UMRANIYE           ATASEHIR        1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          90.57        226.4250  250.0
+50  Generator:   211562    None       COLAKOGLUOP2               None  None           210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          90.53        226.3250  250.0
+51       BANK:   210211  210222          PASAKOY B          PASAKOY B    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          90.51        226.2750  250.0
+52        EIH:   210111  217711       TEPEOREN           ATASEHIR        1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          90.44        226.1000  250.0
+53        EIH:   211321  211621       TUZLA              ICMELER         1            211321  211822       TUZLA              GEBZEOSB      1          90.41        325.4760  360.0
+54        EIH:   210010  210110       UMRANIYE           TEPEOREN        1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          90.36        225.9000  250.0
+55        OTR:   214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          90.10        225.2500  250.0
+56        EIH:   210010  217710       UMRANIYE           ATASEHIR        1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          90.04        225.1000  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211321 - 211422, TUZLA        - KROMANCELIK  (1 )
+Inkitaya giden bara numaralari:
+[211421, 211422]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                             
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   211321  211822  TUZLA         GEBZEOSB      1            211321  211621  TUZLA         ICMELER       1         115.62         289.050  250.0
+1  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214321  214821  DILISKELESIG  MAKINAOSB     1          94.30         235.750  250.0
+2  EIH:   210121  211821  TEPEOREN      GEBZEOSB      1            210121  211821  TEPEOREN      GEBZEOSB      2          92.87         232.175  250.0
+3  EIH:   210121  211821  TEPEOREN      GEBZEOSB      2            210121  211821  TEPEOREN      GEBZEOSB      1          91.63         229.075  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

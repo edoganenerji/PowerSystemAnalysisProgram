@@ -1,0 +1,36 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211321 - 211422, TUZLA        - KROMANCELIK  (1 )
+Inkitaya giden bara numaralari:
+[211421, 211422]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                             
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   211321  211822  TUZLA         GEBZEOSB      1            211321  211621  TUZLA         ICMELER       1         113.13         282.825  250.0
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821  DILISKELESIG  MAKINAOSB     1          97.85         244.625  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Kýsýt                                                  Ýzlenen Techizat                        
+     Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0   BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210021  UMRANIYE      1.050342
+1   BANK:   210210  210221     PASAKOY A     PASAKOY A  1            214122  VANIKOY       1.050390
+2   BANK:   210210  210221     PASAKOY A     PASAKOY A  1            214121  VANIKOY       1.050390
+3   BANK:   210210  210221     PASAKOY A     PASAKOY A  1            212021  DUDULLU       1.050407
+4   BANK:   210210  210221     PASAKOY A     PASAKOY A  1            217621  DUDULLUMETRO  1.050457
+5   BANK:   210210  210221     PASAKOY A     PASAKOY A  1            217622  DUDULLUMETRO  1.050457
+6    EIH:   212021  217621  DUDULLU       DUDULLUMETRO  1            210021  UMRANIYE      1.050985
+7    EIH:   212021  217621  DUDULLU       DUDULLUMETRO  1            214121  VANIKOY       1.051033
+8    EIH:   212021  217621  DUDULLU       DUDULLUMETRO  1            214122  VANIKOY       1.051033
+9    EIH:   212021  217621  DUDULLU       DUDULLUMETRO  1            217621  DUDULLUMETRO  1.051243
+10   EIH:   212021  217621  DUDULLU       DUDULLUMETRO  1            217622  DUDULLUMETRO  1.051243
+11  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210221  PASAKOY       1.052070
+12  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            217521  CUMHURIYET    1.053574
+13  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            217522  CUMHURIYET    1.053574
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

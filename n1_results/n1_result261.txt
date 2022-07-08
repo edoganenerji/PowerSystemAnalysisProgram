@@ -1,0 +1,33 @@
+
+ 12.06.2022 14:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220612_1400_SN7_TR0.sav was saved on MON, JUN 13 2022  16:22
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+N-1 durumunda %90 üzerinde yüklenen bir teçhizat yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+Kýsa devre akýmý 28 kA'in üzerinde herhangi bir bara yoktur
+---------------------------------------------------------------

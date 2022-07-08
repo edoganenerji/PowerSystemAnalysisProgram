@@ -1,0 +1,17 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                  Ýzlenen Techizat                                                                                        
+     Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0    EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            210122  211822       TEPEOREN           GEBZEOSB      1         109.12        272.8000   250.0
+1    EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214322  214821       DILOVASIOSB        MAKINAOSB     1         105.17        262.9250   250.0
+2   BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211210  211221     KARTAL A-OTR-2     KARTAL A-OTR-2  1         102.16        255.4000   250.0
+3    EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          97.83        244.5750   250.0
+4    EIH:   211822  216722  GEBZEOSB      GEBZEKIMYA    1            210122  211822       TEPEOREN           GEBZEOSB      1          93.61        234.0250   250.0
+5    EIH:   214821  216722  MAKINAOSB     GEBZEKIMYA    1            210122  211822       TEPEOREN           GEBZEOSB      1          93.57        233.9250   250.0
+6   BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            210121  211921       TEPEOREN           KURTKOY       1          92.96        312.3456   336.0
+7    EIH:   214310  290310  DILOVASIOSB   DCELIKSANAL   1            210122  211822       TEPEOREN           GEBZEOSB      1          92.25        230.6250   250.0
+8    EIH:   219110  290310  COLAKOGLU400  DCELIKSANAL   1            210122  211822       TEPEOREN           GEBZEOSB      1          92.24        230.6000   250.0
+9    EIH:   211521  219121  COLAKOGLU     COLAKOGLU400  1            210122  211822       TEPEOREN           GEBZEOSB      1          92.22        230.5500   250.0
+10   EIH:   214210  214810  KOCAELI       MAKINAOSB     1            210111  214211       TEPEOREN           KOCAELI       1          92.16       1253.3760  1360.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

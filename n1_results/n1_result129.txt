@@ -1,0 +1,34 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212021 - 217621, DUDULLU      - DUDULLUMETRO (1 )
+Inkitaya giden bara numaralari:
+[217621, 217622]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                  Ýzlenen Techizat                                                                                       
+     Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0    EIH:   210910  215211  KBAKKALKOY    MALTEPEIST    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1         111.55        278.8750  250.0
+1    EIH:   210910  215211  KBAKKALKOY    MALTEPEIST    1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2         110.90        277.2500  250.0
+2    EIH:   210010  210911  UMRANIYE      KBAKKALKOY    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1         108.79        271.9750  250.0
+3    EIH:   210010  210911  UMRANIYE      KBAKKALKOY    1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2         108.15        270.3750  250.0
+4    EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         103.17        257.9250  250.0
+5    EIH:   211210  215210  KARTAL        MALTEPEIST    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1         102.08        255.2000  250.0
+6    EIH:   211210  215210  KARTAL        MALTEPEIST    1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2         101.49        253.7250  250.0
+7   BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            210010  210911       UMRANIYE           KBAKKALKOY    1         100.97        996.5739  987.0
+8    EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          99.14        247.8500  250.0
+9   BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            210121  211921       TEPEOREN           KURTKOY       1          97.07        326.1552  336.0
+10   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          95.12        237.8000  250.0
+11   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.79        236.9750  250.0
+12  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210111  210122   TEPEOREN B-OTR-3   TEPEOREN B-OTR-3  1          94.37        235.9250  250.0
+13   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214822  217221       MAKINAOSB          SIDDIK        1          93.79        234.4750  250.0
+14   EIH:   210010  210110  UMRANIYE      TEPEOREN      1            210111  217711       TEPEOREN           ATASEHIR      1          93.63        924.1281  987.0
+15  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210111  210122   TEPEOREN B-OTR-4   TEPEOREN B-OTR-4  2          92.32        230.8000  250.0
+16   EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            210122  211822       TEPEOREN           GEBZEOSB      1          90.43        226.0750  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

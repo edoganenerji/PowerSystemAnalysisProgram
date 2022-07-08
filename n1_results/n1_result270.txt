@@ -1,0 +1,23 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                             
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821  DILISKELESIG  MAKINAOSB     1          94.08         235.200  250.0
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            211321  211422  TUZLA         KROMANCELIK   1          93.03         232.575  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   214822  216722  MAKINAOSB     GEBZEKIMYA    1            216722  GEBZEKIMYA    0.942089
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      211521  COLAKOGLU          30535.11       29091.09
+1      211522  COLAKOGLU          30535.11       29091.09
+2      219121  COLAKOGLU400       30457.85       28924.00
+3      214321  DILISKELESIG       30045.02       27572.81
+4      214322  DILISKELESIG       30045.02       27572.81
+5      210122  TEPEOREN           28132.99       25552.99
+---------------------------------------------------------------

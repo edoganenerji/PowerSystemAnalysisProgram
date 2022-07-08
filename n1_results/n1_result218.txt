@@ -1,0 +1,28 @@
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210821 - 210922, GOZTEPE      - KBAKKALKOY   (1 )
+Inkitaya giden bara numaralari:
+[210821, 210822]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1         115.33         288.325  250.0
+1   EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214822  217221       MAKINAOSB          SIDDIK        1         108.52         271.300  250.0
+2   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          97.64         244.100  250.0
+3   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          96.36         240.900  250.0
+4   EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          95.16         237.900  250.0
+5  BANK:   210010  210021   UMRANIYE B-   UMRANIYE B-  2            210221  212021       PASAKOY            DUDULLU       1          90.10         324.360  360.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214910  DILERCELIK    0.947026
+1  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            219110  COLAKOGLU400  0.947037
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

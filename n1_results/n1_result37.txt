@@ -1,0 +1,1025 @@
+
+ Messages for api FDNS
+ 15 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 231121 - 232422, OSMANCA      - MELEN        (1 )
+Inkitaya giden bara numaralari:
+[213221, 216521, 231221, 231222, 232422]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 7 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210321 - 213121, ADAPAZARI    - SAKARYA      (1 )
+Inkitaya giden bara numaralari:
+[213121, 218921]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 12 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 231221 - 232422, KARASU       - MELEN        (1 )
+Inkitaya giden bara numaralari:
+[213221, 216521, 231221, 231222]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+          Kýsýt                                                                    Ýzlenen Techizat                                                                                          
+           Type From Bus  To Bus             From Name               To Name    ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)   RATEC
+0         BANK:   210311  210321           ADAPAZARI B           ADAPAZARI B    1            210311  210321   ADAPAZARI C-OTR-6   ADAPAZARI C-OTR-6  3         168.87        422.1750   250.0
+1          EIH:   210321  214222          ADAPAZARI             KOCAELI         2            210321  212521        ADAPAZARI           KOSEKOY       2         146.42        266.4844   182.0
+2          EIH:   212521  215021          KOSEKOY               GOLCUK          1            213621  213721        KARAMURSEL          YALOVA        1         143.59        189.5388   132.0
+3          EIH:   210321  212521          ADAPAZARI             KOSEKOY         2            210321  214222        ADAPAZARI           KOCAELI       2         137.99        251.1418   182.0
+4          EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            210122  211822        TEPEOREN            GEBZEOSB      1         136.78        248.9396   182.0
+5          EIH:   214210  214810          KOCAELI               MAKINAOSB       1            210621  214221        HYUNDAI             KOCAELI       1         135.21        246.0822   182.0
+6         BANK:   210310  210322           ADAPAZARI A           ADAPAZARI A    1            231121  233221        OSMANCA             CUMAYERI      1         134.91        178.0812   132.0
+7          EIH:   209921  211822          GEBGOSBSANAL          GEBZEOSB        1            210122  211822        TEPEOREN            GEBZEOSB      1         134.77        245.2814   182.0
+8          EIH:   209921  216722          GEBGOSBSANAL          GEBZEKIMYA      1            210122  211822        TEPEOREN            GEBZEOSB      1         134.74        245.2268   182.0
+9          EIH:   214210  214810          KOCAELI               MAKINAOSB       1            210621  212422        HYUNDAI             ENJKOSEKOY    1         132.46        241.0772   182.0
+10         EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            210621  214221        HYUNDAI             KOCAELI       1         129.07        234.9074   182.0
+11         EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            210621  212422        HYUNDAI             ENJKOSEKOY    1         126.31        229.8842   182.0
+12        BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            211022  211221        BBAKKALKOY          KARTAL        1         123.90        225.4980   182.0
+13         EIH:   211421  211522          KROMANCELIK           COLAKOGLU       1            210122  211822        TEPEOREN            GEBZEOSB      1         123.75        225.2250   182.0
+14         EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         123.35        224.4970   182.0
+15         EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         123.35        224.4970   182.0
+16         EIH:   211321  211822          TUZLA                 GEBZEOSB        1            211421  211522        KROMANCELIK         COLAKOGLU     1         122.69        223.2958   182.0
+17         EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            211022  211122        BBAKKALKOY          SOGANLIK      1         121.41        220.9662   182.0
+18         EIH:   210310  214210          ADAPAZARI             KOCAELI         1            210311  214211        ADAPAZARI           KOCAELI       1         120.87       1202.6565   995.0
+19         EIH:   210310  214210          ADAPAZARI             KOCAELI         1            210111  214211        TEPEOREN            KOCAELI       1         120.73       1201.2635   995.0
+20         EIH:   214210  214810          KOCAELI               MAKINAOSB       1            210311  214211        ADAPAZARI           KOCAELI       1         118.67       1180.7665   995.0
+21         EIH:   210311  231110          ADAPAZARI             OSMANCA         1            231121  233221        OSMANCA             CUMAYERI      1         118.62        156.5784   132.0
+22         EIH:   214210  214810          KOCAELI               MAKINAOSB       1            210111  214211        TEPEOREN            KOCAELI       1         118.47       1178.7765   995.0
+23         EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            214322  214822        DILOVASIOSB         MAKINAOSB     1         118.12        214.9784   182.0
+24        BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            210121  211921        TEPEOREN            KURTKOY       1         116.27        287.1869   247.0
+25         EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         115.81        210.7742   182.0
+26         EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         115.81        210.7742   182.0
+27         EIH:   211222  211621          KARTAL                ICMELER         1            210122  211822        TEPEOREN            GEBZEOSB      1         115.63        210.4466   182.0
+28         EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            214322  214822        DILOVASIOSB         MAKINAOSB     1         115.63        210.4466   182.0
+29         EIH:   214310  290310          DÝLOVASI              DCELIKSANAL     1            214322  214822        DILOVASIOSB         MAKINAOSB     1         115.62        210.4284   182.0
+30         EIH:   211522  219121          COLAKOGLU             COLAKOGLU400    1            214322  214822        DILOVASIOSB         MAKINAOSB     1         115.57        210.3374   182.0
+31         EIH:   210211  231111          PASAKOY               OSMANCA         1            231121  233221        OSMANCA             CUMAYERI      1         115.32        152.2224   132.0
+32        BANK:   210310  210322           ADAPAZARI A           ADAPAZARI A    1            212921  233221        HENDEK              CUMAYERI      1         113.49        149.8068   132.0
+33        BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         112.54        204.8228   182.0
+34        BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         112.54        204.8228   182.0
+35         OTR:   214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1    1            210122  211822        TEPEOREN            GEBZEOSB      1         111.94        203.7308   182.0
+36         EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            210122  211822        TEPEOREN            GEBZEOSB      1         111.54        203.0028   182.0
+37         EIH:   214310  290310          DÝLOVASI              DCELIKSANAL     1            210122  211822        TEPEOREN            GEBZEOSB      1         111.54        203.0028   182.0
+38         EIH:   211522  219121          COLAKOGLU             COLAKOGLU400    1            210122  211822        TEPEOREN            GEBZEOSB      1         111.52        202.9664   182.0
+39         EIH:   210310  210411          ADAPAZARI             ADA1DGKC        1            231121  233221        OSMANCA             CUMAYERI      1         111.17        146.7444   132.0
+40         EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            211421  211522        KROMANCELIK         COLAKOGLU     1         110.47        201.0554   182.0
+41         EIH:   214210  214810          KOCAELI               MAKINAOSB       1            212322  212421        IZMIT               ENJKOSEKOY    1         110.06        200.3092   182.0
+42         EIH:   210510  231110          ADA2DGKC              OSMANCA         1            231121  233221        OSMANCA             CUMAYERI      1         109.89        145.0548   132.0
+43         OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            210621  214221        HYUNDAI             KOCAELI       1         109.45        199.1990   182.0
+44         OTR:   210311  210321     ADAPAZARI C-OTR-6     ADAPAZARI C-OTR-6    3            210311  210321   ADAPAZARI B-OTR-4   ADAPAZARI B-OTR-4  2         108.73        271.8250   250.0
+45         EIH:   211421  211522          KROMANCELIK           COLAKOGLU       1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         108.58        197.6156   182.0
+46         EIH:   211421  211522          KROMANCELIK           COLAKOGLU       1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         108.58        197.6156   182.0
+47         EIH:   210511  232611          ADA2DGKC              ZETES2          1            231121  233221        OSMANCA             CUMAYERI      1         108.32        142.9824   132.0
+48         EIH:   210210  210410          PASAKOY               ADA1DGKC        1            210311  214211        ADAPAZARI           KOCAELI       1         107.18       1066.4410   995.0
+49         EIH:   210510  216911          ADA2DGKC              KAVACIK         1            210311  214211        ADAPAZARI           KOCAELI       1         107.14       1066.0430   995.0
+50         EIH:   214310  290310          DÝLOVASI              DCELIKSANAL     1            210621  214221        HYUNDAI             KOCAELI       1         107.11        194.9402   182.0
+51         EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            210621  214221        HYUNDAI             KOCAELI       1         107.11        194.9402   182.0
+52         EIH:   211522  219121          COLAKOGLU             COLAKOGLU400    1            210621  214221        HYUNDAI             KOCAELI       1         107.09        194.9038   182.0
+53         EIH:   210210  210410          PASAKOY               ADA1DGKC        1            210111  214211        TEPEOREN            KOCAELI       1         107.04       1065.0480   995.0
+54         OTR:   210311  210321     ADAPAZARI C-OTR-6     ADAPAZARI C-OTR-6    3            210311  210321   ADAPAZARI B-OTR-3   ADAPAZARI B-OTR-3  1         107.03        267.5750   250.0
+55         EIH:   210510  216911          ADA2DGKC              KAVACIK         1            210111  214211        TEPEOREN            KOCAELI       1         107.02       1064.8490   995.0
+56         OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            210621  212422        HYUNDAI             ENJKOSEKOY    1         106.70        194.1940   182.0
+57         EIH:   231121  233221          OSMANCA               CUMAYERI        1            210322  212921        ADAPAZARI           HENDEK        1         106.36        140.3952   132.0
+58         EIH:   212121  214221          YARIMCA1              KOCAELI         1            210621  214221        HYUNDAI             KOCAELI       1         105.99        192.9018   182.0
+59         EIH:   230010  231110          BOLUCEK               OSMANCA         1            217321  230021        ALAPLI              BOLUCEK       1         105.75        139.5900   132.0
+60         EIH:   213421  412421          MUDURNU               SARIYAR         1            231121  233221        OSMANCA             CUMAYERI      1         105.68        139.4976   132.0
+61         OTR:   214210  214221       KOCAELI A-OTR-1       KOCAELI A-OTR-1    1            214210  214221     KOCAELI B-OTR-3     KOCAELI B-OTR-3  2         105.32        263.3000   250.0
+62         OTR:   214210  214221       KOCAELI B-OTR-3       KOCAELI B-OTR-3    2            214210  214221     KOCAELI A-OTR-1     KOCAELI A-OTR-1  1         105.32        263.3000   250.0
+63        BANK:   210311  210321           ADAPAZARI B           ADAPAZARI B    1            210122  211822        TEPEOREN            GEBZEOSB      1         105.25        191.5550   182.0
+64         EIH:   210322  212921          ADAPAZARI             HENDEK          1            231121  233221        OSMANCA             CUMAYERI      1         105.19        138.8508   132.0
+65         EIH:   231121  233921          OSMANCA               DUZCEOSB        1            231121  233221        OSMANCA             CUMAYERI      1         105.07        138.6924   132.0
+66         EIH:   214310  290310          DÝLOVASI              DCELIKSANAL     1            210621  212422        HYUNDAI             ENJKOSEKOY    1         104.36        189.9352   182.0
+67         EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            210621  212422        HYUNDAI             ENJKOSEKOY    1         104.36        189.9352   182.0
+68         EIH:   211522  219121          COLAKOGLU             COLAKOGLU400    1            210621  212422        HYUNDAI             ENJKOSEKOY    1         104.35        189.9170   182.0
+69         OTR:   211211  211222        KARTAL B-OTR-4        KARTAL B-OTR-4    1            211022  211122        BBAKKALKOY          SOGANLIK      1         104.23        189.6986   182.0
+70         EIH:   210321  213021          ADAPAZARI             YARIMCA2        1            210122  211822        TEPEOREN            GEBZEOSB      1         104.21        189.6622   182.0
+71         EIH:   210121  211821          TEPEOREN              GEBZEOSB        2            210121  211821        TEPEOREN            GEBZEOSB      1         104.19        189.6258   182.0
+72         EIH:   211222  211621          KARTAL                ICMELER         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         104.19        189.6258   182.0
+73         EIH:   211222  211621          KARTAL                ICMELER         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         104.19        189.6258   182.0
+74         EIH:   218821  235121          ASAS                  MAVBIYOKUTLE    1            231121  233221        OSMANCA             CUMAYERI      1         104.15        137.4780   132.0
+75         EIH:   210121  211821          TEPEOREN              GEBZEOSB        1            210121  211821        TEPEOREN            GEBZEOSB      2         104.13        189.5166   182.0
+76         EIH:   235121  412421          MAVBIYOKUTLE          SARIYAR         1            231121  233221        OSMANCA             CUMAYERI      1         104.07        137.3724   132.0
+77         EIH:   213321  216421          KUZULUK               GOKSUHES        1            231121  233221        OSMANCA             CUMAYERI      1         104.02        137.3064   132.0
+78         OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            211022  211122        BBAKKALKOY          SOGANLIK      1         103.98        189.2436   182.0
+79         EIH:   213421  216421          MUDURNU               GOKSUHES        1            231121  233221        OSMANCA             CUMAYERI      1         103.86        137.0952   132.0
+80         EIH:   210211  231111          PASAKOY               OSMANCA         1            210311  214211        ADAPAZARI           KOCAELI       1         103.85       1033.3075   995.0
+81         EIH:   210211  231111          PASAKOY               OSMANCA         1            210111  214211        TEPEOREN            KOCAELI       1         103.64       1031.2180   995.0
+82         EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            212322  212421        IZMIT               ENJKOSEKOY    1         103.35        188.0970   182.0
+83         EIH:   210111  214211          TEPEOREN              KOCAELI         1            210621  214221        HYUNDAI             KOCAELI       1         103.32        188.0424   182.0
+84         EIH:   212121  214221          YARIMCA1              KOCAELI         1            210621  212422        HYUNDAI             ENJKOSEKOY    1         103.27        187.9514   182.0
+85         EIH:   210311  214211          ADAPAZARI             KOCAELI         1            210621  214221        HYUNDAI             KOCAELI       1         103.19        187.8058   182.0
+86         EIH:   209921  211822          GEBGOSBSANAL          GEBZEOSB        1            211421  211522        KROMANCELIK         COLAKOGLU     1         102.95        187.3690   182.0
+87         EIH:   209921  216722          GEBGOSBSANAL          GEBZEKIMYA      1            211421  211522        KROMANCELIK         COLAKOGLU     1         102.91        187.2962   182.0
+88         EIH:   211222  211621          KARTAL                ICMELER         1            211421  211522        KROMANCELIK         COLAKOGLU     1         102.13        185.8766   182.0
+89         EIH:   210122  212122          TEPEOREN              YARIMCA1        1            210621  214221        HYUNDAI             KOCAELI       1         102.09        185.8038   182.0
+90         EIH:   210310  415310          ADAPAZARI             YUNUSEMRETES    1            231121  233221        OSMANCA             CUMAYERI      1         101.88        134.4816   132.0
+91         EIH:   213921  218821          TOYOTASA              ASAS            1            231121  233221        OSMANCA             CUMAYERI      1         101.82        134.4024   132.0
+92         EIH:   214310  290310          DÝLOVASI              DCELIKSANAL     1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         101.64        184.9848   182.0
+93         EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         101.64        184.9848   182.0
+94         EIH:   214310  290310          DÝLOVASI              DCELIKSANAL     1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         101.64        184.9848   182.0
+95         EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         101.64        184.9848   182.0
+96         EIH:   211522  219121          COLAKOGLU             COLAKOGLU400    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         101.63        184.9666   182.0
+97         EIH:   211522  219121          COLAKOGLU             COLAKOGLU400    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         101.63        184.9666   182.0
+98         EIH:   211521  214321          COLAKOGLU             DILOVASIOSB     1            210621  214221        HYUNDAI             KOCAELI       1         101.56        184.8392   182.0
+99         EIH:   210322  213921          ADAPAZARI             TOYOTASA        1            231121  233221        OSMANCA             CUMAYERI      1         101.20        133.5840   132.0
+100        EIH:   211321  211622          TUZLA                 ICMELER         1            210122  211822        TEPEOREN            GEBZEOSB      1         101.18        184.1476   182.0
+101        EIH:   120710  210511          HABIBLER              ADA2DGKC        1            210311  214211        ADAPAZARI           KOCAELI       1         100.92       1004.1540   995.0
+102        EIH:   232221  233921          KAYNASLI              DUZCEOSB        1            231121  233221        OSMANCA             CUMAYERI      1         100.85        133.1220   132.0
+103        EIH:   210510  216911          ADA2DGKC              KAVACIK         1            210621  214221        HYUNDAI             KOCAELI       1         100.81        183.4742   182.0
+104        EIH:   120710  210511          HABIBLER              ADA2DGKC        1            210111  214211        TEPEOREN            KOCAELI       1         100.77       1002.6615   995.0
+105        EIH:   210111  214211          TEPEOREN              KOCAELI         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         100.69        183.2558   182.0
+106        EIH:   210111  214211          TEPEOREN              KOCAELI         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         100.69        183.2558   182.0
+107       BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            211421  211522        KROMANCELIK         COLAKOGLU     1         100.68        183.2376   182.0
+108        EIH:   210322  213322          ADAPAZARI             KUZULUK         1            231121  233221        OSMANCA             CUMAYERI      1         100.58        132.7656   132.0
+109        EIH:   210310  214210          ADAPAZARI             KOCAELI         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         100.57        183.0374   182.0
+110        EIH:   210310  214210          ADAPAZARI             KOCAELI         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         100.57        183.0374   182.0
+111        EIH:   210111  214211          TEPEOREN              KOCAELI         1            210621  212422        HYUNDAI             ENJKOSEKOY    1         100.56        183.0192   182.0
+112        EIH:   210311  214211          ADAPAZARI             KOCAELI         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         100.52        182.9464   182.0
+113        EIH:   210311  214211          ADAPAZARI             KOCAELI         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         100.52        182.9464   182.0
+114        EIH:   210210  210410          PASAKOY               ADA1DGKC        1            210621  214221        HYUNDAI             KOCAELI       1         100.51        182.9282   182.0
+115        EIH:   210310  410011          ADAPAZARI             CAYIRHAN        1            231121  233221        OSMANCA             CUMAYERI      1         100.50        132.6600   132.0
+116        EIH:   210311  214211          ADAPAZARI             KOCAELI         1            210621  212422        HYUNDAI             ENJKOSEKOY    1         100.44        182.8008   182.0
+117        EIH:   213621  213721          KARAMURSEL            YALOVA          1            210321  212521        ADAPAZARI           KOSEKOY       2         100.26        182.4732   182.0
+118        EIH:   210210  210410          PASAKOY               ADA1DGKC        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         100.09        182.1638   182.0
+119        EIH:   210210  210410          PASAKOY               ADA1DGKC        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         100.09        182.1638   182.0
+120        EIH:   210510  216911          ADA2DGKC              KAVACIK         1            231121  233221        OSMANCA             CUMAYERI      1         100.08        132.1056   132.0
+121       BANK:   210210  210221             PASAKOY A             PASAKOY A    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1         100.04        182.0728   182.0
+122       BANK:   210210  210221             PASAKOY A             PASAKOY A    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1         100.04        182.0728   182.0
+123        EIH:   232610  233610          ZETES2                ZETES3          1            231121  233221        OSMANCA             CUMAYERI      1          99.94        131.9208   132.0
+124        EIH:   210111  210211          TEPEOREN              PASAKOY         1            231121  233221        OSMANCA             CUMAYERI      1          99.90        131.8680   132.0
+125        EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1          99.79        249.4750   250.0
+126       BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    2            210910  210921  KBAKKALKOY B-OTR-4  KBAKKALKOY B-OTR-4  1          99.79        249.4750   250.0
+127  Generator:   211562    None          COLAKOGLUOP2                  None  None           210621  214221        HYUNDAI             KOCAELI       1          99.55        181.1810   182.0
+128       BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    2            210911  210921  KBAKKALKOY A-OTR-2  KBAKKALKOY A-OTR-2  1          99.54        248.8500   250.0
+129        EIH:   120710  210511          HABIBLER              ADA2DGKC        1            231121  233221        OSMANCA             CUMAYERI      1          99.50        131.3400   132.0
+130        EIH:   210510  216911          ADA2DGKC              KAVACIK         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          99.48        181.0536   182.0
+131        EIH:   210510  216911          ADA2DGKC              KAVACIK         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          99.48        181.0536   182.0
+132        EIH:   120911  210210          ZEKERIYAKOY           PASAKOY         1            231121  233221        OSMANCA             CUMAYERI      1          99.39        131.1948   132.0
+133        EIH:   210122  212122          TEPEOREN              YARIMCA1        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          99.36        180.8352   182.0
+134        EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            211222  211621        KARTAL              ICMELER       1          99.20        357.1200   360.0
+135        EIH:   210621  214221          HYUNDAI               KOCAELI         1            210122  211822        TEPEOREN            GEBZEOSB      1          99.05        180.2710   182.0
+136        EIH:   211321  211822          TUZLA                 GEBZEOSB        1            210621  214221        HYUNDAI             KOCAELI       1          98.93        180.0526   182.0
+137        EIH:   210211  231111          PASAKOY               OSMANCA         1            210621  214221        HYUNDAI             KOCAELI       1          98.88        179.9616   182.0
+138        EIH:   211521  214321          COLAKOGLU             DILOVASIOSB     1            210621  212422        HYUNDAI             ENJKOSEKOY    1          98.82        179.8524   182.0
+139        EIH:   212521  215021          KOSEKOY               GOLCUK          1            231121  233221        OSMANCA             CUMAYERI      1          98.81        130.4292   132.0
+140        EIH:   210621  212422          HYUNDAI               ENJKOSEKOY      1            210122  211822        TEPEOREN            GEBZEOSB      1          98.75        179.7250   182.0
+141        EIH:   210321  212521          ADAPAZARI             KOSEKOY         2            231121  233221        OSMANCA             CUMAYERI      1          98.59        130.1388   132.0
+142       BANK:   210210  210221             PASAKOY A             PASAKOY A    1            231121  233221        OSMANCA             CUMAYERI      1          98.59        130.1388   132.0
+143        EIH:   230010  231110          BOLUCEK               OSMANCA         1            231121  233221        OSMANCA             CUMAYERI      1          98.59        130.1388   132.0
+144       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            231121  233221        OSMANCA             CUMAYERI      1          98.44        129.9408   132.0
+145        EIH:   212521  215122          KOSEKOY               ARSLANBEY       1            231121  233221        OSMANCA             CUMAYERI      1          98.42        129.9144   132.0
+146        EIH:   210410  410410          ADA1DGKC              TEMELLI         1            231121  233221        OSMANCA             CUMAYERI      1          98.41        129.9012   132.0
+147        EIH:   210221  212021          PASAKOY               DUDULLU         1            231121  233221        OSMANCA             CUMAYERI      1          98.40        129.8880   132.0
+148        EIH:   210321  214222          ADAPAZARI             KOCAELI         2            231121  233221        OSMANCA             CUMAYERI      1          98.40        129.8880   132.0
+149  Generator:   226362    None          AKSAGOYNUK                    None  None           231121  233221        OSMANCA             CUMAYERI      1          98.38        129.8616   132.0
+150        EIH:   232022  234422          BOLU2                 BOLU1           1            231121  233221        OSMANCA             CUMAYERI      1          98.36        129.8352   132.0
+151        EIH:   213521  215021          FORD                  GOLCUK          1            231121  233221        OSMANCA             CUMAYERI      1          98.35        129.8220   132.0
+152       BANK:   210311  210321           ADAPAZARI B           ADAPAZARI B    1            231121  233221        OSMANCA             CUMAYERI      1          98.35        129.8220   132.0
+153        EIH:   210310  227210          ADAPAZARI             ULUDAG          1            231121  233221        OSMANCA             CUMAYERI      1          98.35        129.8220   132.0
+154        EIH:   210210  210410          PASAKOY               ADA1DGKC        1            231121  233221        OSMANCA             CUMAYERI      1          98.34        129.8088   132.0
+155        EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            231121  233221        OSMANCA             CUMAYERI      1          98.32        129.7824   132.0
+156        EIH:   232021  232121          BOLU2                 BOLUCIM         1            231121  233221        OSMANCA             CUMAYERI      1          98.27        129.7164   132.0
+157        EIH:   230621  234322          CATES                 ZETES1          1            231121  233221        OSMANCA             CUMAYERI      1          98.23        129.6636   132.0
+158  Generator:   226361    None          AKSAGOYNUK                    None  None           231121  233221        OSMANCA             CUMAYERI      1          98.21        129.6372   132.0
+159        OTR:   214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1    1            231121  233221        OSMANCA             CUMAYERI      1          98.21        129.6372   132.0
+160        EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            231121  233221        OSMANCA             CUMAYERI      1          98.21        129.6372   132.0
+161        EIH:   211222  211621          KARTAL                ICMELER         1            231121  233221        OSMANCA             CUMAYERI      1          98.20        129.6240   132.0
+162        EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            231121  233221        OSMANCA             CUMAYERI      1          98.19        129.6108   132.0
+163        EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            231121  233221        OSMANCA             CUMAYERI      1          98.18        129.5976   132.0
+164        EIH:   212621  216721          HEREKE                GEBZEKIMYA      1            231121  233221        OSMANCA             CUMAYERI      1          98.18        129.5976   132.0
+165        EIH:   210311  290510          ADAPAZARI             GOYNUKSANAL     1            231121  233221        OSMANCA             CUMAYERI      1          98.17        129.5844   132.0
+166        EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            231121  233221        OSMANCA             CUMAYERI      1          98.16        129.5712   132.0
+167        EIH:   211522  219121          COLAKOGLU             COLAKOGLU400    1            231121  233221        OSMANCA             CUMAYERI      1          98.16        129.5712   132.0
+168        EIH:   214310  290310          DÝLOVASI              DCELIKSANAL     1            231121  233221        OSMANCA             CUMAYERI      1          98.16        129.5712   132.0
+169        EIH:   226311  290510          AKSAGOYNUK            GOYNUKSANAL     1            231121  233221        OSMANCA             CUMAYERI      1          98.13        129.5316   132.0
+170        OTR:   210311  210321     ADAPAZARI C-OTR-6     ADAPAZARI C-OTR-6    3            231121  233221        OSMANCA             CUMAYERI      1          98.13        129.5316   132.0
+171       BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            231121  233221        OSMANCA             CUMAYERI      1          98.12        129.5184   132.0
+172        EIH:   210010  216910          UMRANIYE              KAVACIK         1            231121  233221        OSMANCA             CUMAYERI      1          98.12        129.5184   132.0
+173        EIH:   211421  211522          KROMANCELIK           COLAKOGLU       1            231121  233221        OSMANCA             CUMAYERI      1          98.12        129.5184   132.0
+174  Generator:   214762    None          YENIELEKTRIK                  None  None           231121  233221        OSMANCA             CUMAYERI      1          98.11        129.5052   132.0
+175  Generator:   214763    None          YENIELEKTRIK                  None  None           231121  233221        OSMANCA             CUMAYERI      1          98.11        129.5052   132.0
+176  Generator:   214761    None          YENIELEKTRIK                  None  None           231121  233221        OSMANCA             CUMAYERI      1          98.11        129.5052   132.0
+177        EIH:   230721  616321          CAYCUMA               SAFRANBOLU      1            231121  233221        OSMANCA             CUMAYERI      1          98.10        129.4920   132.0
+178        EIH:   211121  211222          SOGANLIK              KARTAL          1            231121  233221        OSMANCA             CUMAYERI      1          98.10        129.4920   132.0
+179        EIH:   211521  214321          COLAKOGLU             DILOVASIOSB     1            231121  233221        OSMANCA             CUMAYERI      1          98.10        129.4920   132.0
+180        EIH:   230621  230721          CATES                 CAYCUMA         1            231121  233221        OSMANCA             CUMAYERI      1          98.10        129.4920   132.0
+181        EIH:   230621  230721          CATES                 CAYCUMA         2            231121  233221        OSMANCA             CUMAYERI      1          98.09        129.4788   132.0
+182        EIH:   211321  211622          TUZLA                 ICMELER         1            231121  233221        OSMANCA             CUMAYERI      1          98.09        129.4788   132.0
+183        EIH:   230721  616121          CAYCUMA               KARABUK         1            231121  233221        OSMANCA             CUMAYERI      1          98.09        129.4788   132.0
+184        EIH:   211022  211221          BBAKKALKOY            KARTAL          1            231121  233221        OSMANCA             CUMAYERI      1          98.09        129.4788   132.0
+185        EIH:   120310  216911          ALIBEYKOY             KAVACIK         1            231121  233221        OSMANCA             CUMAYERI      1          98.09        129.4788   132.0
+186        EIH:   231821  232121          GERKONSAN             BOLUCIM         1            231121  233221        OSMANCA             CUMAYERI      1          98.08        129.4656   132.0
+187        EIH:   210222  211022          PASAKOY               BBAKKALKOY      2            231121  233221        OSMANCA             CUMAYERI      1          98.08        129.4656   132.0
+188        EIH:   210222  211022          PASAKOY               BBAKKALKOY      1            231121  233221        OSMANCA             CUMAYERI      1          98.08        129.4656   132.0
+189        OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            231121  233221        OSMANCA             CUMAYERI      1          98.08        129.4656   132.0
+190        OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            231121  233221        OSMANCA             CUMAYERI      1          98.08        129.4656   132.0
+191        EIH:   214510  216910          BEYKOZ                KAVACIK         1            231121  233221        OSMANCA             CUMAYERI      1          98.07        129.4524   132.0
+192        EIH:   120311  214510          ALIBEYKOY             BEYKOZ          1            231121  233221        OSMANCA             CUMAYERI      1          98.07        129.4524   132.0
+193        EIH:   212021  217621          DUDULLU               DUDULLUMETRO    1            231121  233221        OSMANCA             CUMAYERI      1          98.07        129.4524   132.0
+194        EIH:   212521  214222          KOSEKOY               KOCAELI         1            231121  233221        OSMANCA             CUMAYERI      1          98.07        129.4524   132.0
+195        OTR:   214310  214321      DÝLOVASI A-OTR-1      DÝLOVASI A-OTR-1    1            231121  233221        OSMANCA             CUMAYERI      1          98.07        129.4524   132.0
+196        OTR:   214310  214321      DÝLOVASI B-OTR-3      DÝLOVASI B-OTR-3    2            231121  233221        OSMANCA             CUMAYERI      1          98.07        129.4524   132.0
+197        EIH:   212521  214222          KOSEKOY               KOCAELI         2            231121  233221        OSMANCA             CUMAYERI      1          98.06        129.4392   132.0
+198       BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    2            231121  233221        OSMANCA             CUMAYERI      1          98.06        129.4392   132.0
+199        OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            231121  233221        OSMANCA             CUMAYERI      1          98.06        129.4392   132.0
+200        EIH:   211321  211421          TUZLA                 KROMANCELIK     1            231121  233221        OSMANCA             CUMAYERI      1          98.06        129.4392   132.0
+201  Generator:   211562    None          COLAKOGLUOP2                  None  None           231121  233221        OSMANCA             CUMAYERI      1          98.06        129.4392   132.0
+202        EIH:   230021  231621          BOLUCEK               ZONGULDAK       1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+203        EIH:   210121  211821          TEPEOREN              GEBZEOSB        1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+204        EIH:   210821  210921          GOZTEPE               KBAKKALKOY      1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+205        EIH:   210121  211821          TEPEOREN              GEBZEOSB        2            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+206        EIH:   212621  212721          HEREKE                NUHCIMENTO      1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+207        EIH:   210022  210721          UMRANIYE              SELIMIYE        1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+208        EIH:   230021  231321          BOLUCEK               ERDEMIR1        1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+209        EIH:   210021  217621          UMRANIYE              DUDULLUMETRO    1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+210        EIH:   231323  231421          ERDEMIR1              ERDEMIR2        1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+211        EIH:   210022  210921          UMRANIYE              KBAKKALKOY      1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+212        EIH:   230021  231421          BOLUCEK               ERDEMIR2        1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+213        OTR:   210910  210921    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4    1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+214        EIH:   210722  216621          SELIMIYE              KADIKOY         1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+215        EIH:   211221  211921          KARTAL                KURTKOY         2            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+216        EIH:   211221  211921          KARTAL                KURTKOY         1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+217        EIH:   210922  216622          KBAKKALKOY            KADIKOY         1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+218        OTR:   210911  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2    1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+219        EIH:   212621  212722          HEREKE                NUHCIMENTO      1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+220        EIH:   210122  212221          TEPEOREN              SILE            1            231121  233221        OSMANCA             CUMAYERI      1          98.05        129.4260   132.0
+221        EIH:   210510  216911          ADA2DGKC              KAVACIK         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          98.04        178.4328   182.0
+222        OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            231121  233221        OSMANCA             CUMAYERI      1          98.04        129.4128   132.0
+223        OTR:   211211  211222        KARTAL B-OTR-4        KARTAL B-OTR-4    1            231121  233221        OSMANCA             CUMAYERI      1          98.04        129.4128   132.0
+224        EIH:   214821  216721          MAKINAOSB             GEBZEKIMYA      1            231121  233221        OSMANCA             CUMAYERI      1          98.04        129.4128   132.0
+225        EIH:   214821  216722          MAKINAOSB             GEBZEKIMYA      1            231121  233221        OSMANCA             CUMAYERI      1          98.04        129.4128   132.0
+226        EIH:   211622  214321          ICMELER               DILOVASIOSB     1            231121  233221        OSMANCA             CUMAYERI      1          98.04        129.4128   132.0
+227        EIH:   211522  214322          COLAKOGLU             DILOVASIOSB     1            231121  233221        OSMANCA             CUMAYERI      1          98.04        129.4128   132.0
+228        EIH:   210121  211921          TEPEOREN              KURTKOY         1            231121  233221        OSMANCA             CUMAYERI      1          98.04        129.4128   132.0
+229        EIH:   210122  212021          TEPEOREN              DUDULLU         2            231121  233221        OSMANCA             CUMAYERI      1          98.03        129.3996   132.0
+230        EIH:   230022  233021          BOLUCEK               KOZLU           1            231121  233221        OSMANCA             CUMAYERI      1          98.03        129.3996   132.0
+231        EIH:   210910  215211          KBAKKALKOY            MALTEPEIST      1            231121  233221        OSMANCA             CUMAYERI      1          98.03        129.3996   132.0
+232        EIH:   210122  212021          TEPEOREN              DUDULLU         1            231121  233221        OSMANCA             CUMAYERI      1          98.03        129.3996   132.0
+233        EIH:   226310  410110          AKSAGOYNUK            GOKCEKAYA       1            231121  233221        OSMANCA             CUMAYERI      1          98.03        129.3996   132.0
+234        EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            210621  214221        HYUNDAI             KOCAELI       1          98.02        178.3964   182.0
+235        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            231121  233221        OSMANCA             CUMAYERI      1          98.02        129.3864   132.0
+236        EIH:   230021  230621          BOLUCEK               CATES           1            231121  233221        OSMANCA             CUMAYERI      1          98.01        129.3732   132.0
+237       BANK:   210010  210021           UMRANIYE B-           UMRANIYE B-    4            231121  233221        OSMANCA             CUMAYERI      1          98.00        129.3600   132.0
+238        EIH:   214822  217221          MAKINAOSB             SIDDIK          1            231121  233221        OSMANCA             CUMAYERI      1          98.00        129.3600   132.0
+239        EIH:   214322  214822          DILOVASIOSB           MAKINAOSB       1            231121  233221        OSMANCA             CUMAYERI      1          98.00        129.3600   132.0
+240        EIH:   233021  234321          KOZLU                 ZETES1          1            231121  233221        OSMANCA             CUMAYERI      1          97.99        129.3468   132.0
+241        EIH:   210010  210110          UMRANIYE              TEPEOREN        1            231121  233221        OSMANCA             CUMAYERI      1          97.98        129.3336   132.0
+242        EIH:   210010  217710          UMRANIYE              ATASEHIR        1            231121  233221        OSMANCA             CUMAYERI      1          97.98        129.3336   132.0
+243        EIH:   210111  217711          TEPEOREN              ATASEHIR        1            231121  233221        OSMANCA             CUMAYERI      1          97.98        129.3336   132.0
+244        EIH:   211210  215210          KARTAL                MALTEPEIST      1            231121  233221        OSMANCA             CUMAYERI      1          97.98        129.3336   132.0
+245       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            231121  233221        OSMANCA             CUMAYERI      1          97.96        129.3072   132.0
+246        EIH:   211321  211822          TUZLA                 GEBZEOSB        1            231121  233221        OSMANCA             CUMAYERI      1          97.96        129.3072   132.0
+247        EIH:   212321  214822          IZMIT                 MAKINAOSB       1            231121  233221        OSMANCA             CUMAYERI      1          97.95        129.2940   132.0
+248        EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            231121  233221        OSMANCA             CUMAYERI      1          97.92        129.2544   132.0
+249        EIH:   210122  212122          TEPEOREN              YARIMCA1        1            231121  233221        OSMANCA             CUMAYERI      1          97.91        129.2412   132.0
+250        EIH:   230621  231621          CATES                 ZONGULDAK       1            231121  233221        OSMANCA             CUMAYERI      1          97.91        129.2412   132.0
+251        EIH:   210110  214710          TEPEOREN              YENIDGKC        1            231121  233221        OSMANCA             CUMAYERI      1          97.90        129.2280   132.0
+252        EIH:   212621  213021          HEREKE                YARIMCA2        1            231121  233221        OSMANCA             CUMAYERI      1          97.90        129.2280   132.0
+253        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            210122  211822        TEPEOREN            GEBZEOSB      1          97.87        178.1234   182.0
+254        OTR:   214210  214221       KOCAELI B-OTR-3       KOCAELI B-OTR-3    2            231121  233221        OSMANCA             CUMAYERI      1          97.87        129.1884   132.0
+255        OTR:   214210  214221       KOCAELI A-OTR-1       KOCAELI A-OTR-1    1            231121  233221        OSMANCA             CUMAYERI      1          97.87        129.1884   132.0
+256        EIH:   212121  214221          YARIMCA1              KOCAELI         1            231121  233221        OSMANCA             CUMAYERI      1          97.86        129.1752   132.0
+257        EIH:   212322  212421          IZMIT                 ENJKOSEKOY      1            231121  233221        OSMANCA             CUMAYERI      1          97.84        129.1488   132.0
+258        EIH:   213621  213721          KARAMURSEL            YALOVA          1            231121  233221        OSMANCA             CUMAYERI      1          97.82        129.1224   132.0
+259        EIH:   210211  231111          PASAKOY               OSMANCA         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          97.78        177.9596   182.0
+260        EIH:   210211  231111          PASAKOY               OSMANCA         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          97.78        177.9596   182.0
+261        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            231121  233221        OSMANCA             CUMAYERI      1          97.78        129.0696   132.0
+262        EIH:   210621  212422          HYUNDAI               ENJKOSEKOY      1            231121  233221        OSMANCA             CUMAYERI      1          97.77        129.0564   132.0
+263        EIH:   210621  214221          HYUNDAI               KOCAELI         1            231121  233221        OSMANCA             CUMAYERI      1          97.76        129.0432   132.0
+264        EIH:   210210  210410          PASAKOY               ADA1DGKC        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          97.75        177.9050   182.0
+265       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            211221  211921        KARTAL              KURTKOY       2          97.75        241.4425   247.0
+266       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            211221  211921        KARTAL              KURTKOY       1          97.75        241.4425   247.0
+267        EIH:   209921  216722          GEBGOSBSANAL          GEBZEKIMYA      1            231121  233221        OSMANCA             CUMAYERI      1          97.74        129.0168   132.0
+268        EIH:   209921  211822          GEBGOSBSANAL          GEBZEOSB        1            231121  233221        OSMANCA             CUMAYERI      1          97.74        129.0168   132.0
+269        EIH:   120710  210511          HABIBLER              ADA2DGKC        1            210621  214221        HYUNDAI             KOCAELI       1          97.69        177.7958   182.0
+270        EIH:   211211  214711          KARTAL                YENIDGKC        1            231121  233221        OSMANCA             CUMAYERI      1          97.68        128.9376   132.0
+271        EIH:   210321  213021          ADAPAZARI             YARIMCA2        1            231121  233221        OSMANCA             CUMAYERI      1          97.66        128.9112   132.0
+272  Generator:   210466    None          GEBZEDG                       None  None           231121  233221        OSMANCA             CUMAYERI      1          97.65        128.8980   132.0
+273  Generator:   210463    None          GEBZEDG                       None  None           231121  233221        OSMANCA             CUMAYERI      1          97.64        128.8848   132.0
+274  Generator:   210461    None          GEBZEDG                       None  None           231121  233221        OSMANCA             CUMAYERI      1          97.63        128.8716   132.0
+275  Generator:   210465    None          GEBZEDG                       None  None           231121  233221        OSMANCA             CUMAYERI      1          97.63        128.8716   132.0
+276  Generator:   210464    None          GEBZEDG                       None  None           231121  233221        OSMANCA             CUMAYERI      1          97.63        128.8716   132.0
+277  Generator:   210462    None          GEBZEDG                       None  None           231121  233221        OSMANCA             CUMAYERI      1          97.63        128.8716   132.0
+278  Generator:   210561    None          ADADGKC                       None  None           231121  233221        OSMANCA             CUMAYERI      1          97.62        128.8584   132.0
+279  Generator:   210562    None          ADADGKC                       None  None           231121  233221        OSMANCA             CUMAYERI      1          97.62        128.8584   132.0
+280  Generator:   210563    None          ADADGKC                       None  None           231121  233221        OSMANCA             CUMAYERI      1          97.62        128.8584   132.0
+281        EIH:   210111  210211          TEPEOREN              PASAKOY         1            211022  211122        BBAKKALKOY          SOGANLIK      1          97.61        177.6502   182.0
+282        EIH:   232221  234422          KAYNASLI              BOLU1           1            231121  233221        OSMANCA             CUMAYERI      1          97.59        128.8188   132.0
+283        EIH:   210110  214811          TEPEOREN              MAKINAOSB       1            231121  233221        OSMANCA             CUMAYERI      1          97.58        128.8056   132.0
+284        EIH:   211222  211621          KARTAL                ICMELER         1            210621  214221        HYUNDAI             KOCAELI       1          97.58        177.5956   182.0
+285        EIH:   210310  214210          ADAPAZARI             KOCAELI         1            210321  212521        ADAPAZARI           KOSEKOY       2          97.57        177.5774   182.0
+286        EIH:   214210  227211          KOCAELI               ULUDAG          1            231121  233221        OSMANCA             CUMAYERI      1          97.52        128.7264   132.0
+287       BANK:   230010  230022             BOLUCEK A             BOLUCEK A    1            231121  233221        OSMANCA             CUMAYERI      1          97.45        128.6340   132.0
+288        EIH:   210311  231110          ADAPAZARI             OSMANCA         1            212921  233221        HENDEK              CUMAYERI      1          97.30        128.4360   132.0
+289       BANK:   230010  230021             BOLUCEK B             BOLUCEK B    2            231121  233221        OSMANCA             CUMAYERI      1          97.25        128.3700   132.0
+290        OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            210621  214221        HYUNDAI             KOCAELI       1          97.22        176.9404   182.0
+291        OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            210621  214221        HYUNDAI             KOCAELI       1          97.19        176.8858   182.0
+292        EIH:   231821  616521          GERKONSAN             ISMETPASA       1            231121  233221        OSMANCA             CUMAYERI      1          97.08        128.1456   132.0
+293        EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            210122  211822        TEPEOREN            GEBZEOSB      1          96.96        176.4672   182.0
+294        EIH:   212621  216721          HEREKE                GEBZEKIMYA      1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          96.81        176.1942   182.0
+295        EIH:   212621  216721          HEREKE                GEBZEKIMYA      1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          96.81        176.1942   182.0
+296  Generator:   211562    None          COLAKOGLUOP2                  None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          96.80        176.1760   182.0
+297       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            210122  211822        TEPEOREN            GEBZEOSB      1          96.79        176.1578   182.0
+298        EIH:   210110  214811          TEPEOREN              MAKINAOSB       1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          96.64        175.8848   182.0
+299        EIH:   210110  214811          TEPEOREN              MAKINAOSB       1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          96.64        175.8848   182.0
+300        EIH:   210322  216021          ADAPAZARI             GEYVERES        1            231121  233221        OSMANCA             CUMAYERI      1          96.60        127.5120   132.0
+301        EIH:   211321  211622          TUZLA                 ICMELER         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          96.50        175.6300   182.0
+302        EIH:   211321  211622          TUZLA                 ICMELER         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          96.50        175.6300   182.0
+303        EIH:   216021  222221          GEYVERES              PASALAR         1            231121  233221        OSMANCA             CUMAYERI      1          96.49        127.3668   132.0
+304        EIH:   211321  211822          TUZLA                 GEBZEOSB        1            211022  211122        BBAKKALKOY          SOGANLIK      1          96.37        175.3934   182.0
+305        EIH:   211211  214711          KARTAL                YENIDGKC        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          96.35        175.3570   182.0
+306        EIH:   210221  212021          PASAKOY               DUDULLU         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          96.35        175.3570   182.0
+307        EIH:   210221  212021          PASAKOY               DUDULLU         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          96.35        175.3570   182.0
+308        EIH:   211211  214711          KARTAL                YENIDGKC        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          96.35        175.3570   182.0
+309        EIH:   211321  211822          TUZLA                 GEBZEOSB        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          96.19        175.0658   182.0
+310        EIH:   212322  212421          IZMIT                 ENJKOSEKOY      1            210122  211822        TEPEOREN            GEBZEOSB      1          96.15        174.9930   182.0
+311        EIH:   210211  231111          PASAKOY               OSMANCA         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          96.12        174.9384   182.0
+312        OTR:   214310  214321      DÝLOVASI A-OTR-1      DÝLOVASI A-OTR-1    1            210621  214221        HYUNDAI             KOCAELI       1          96.08        174.8656   182.0
+313        OTR:   214310  214321      DÝLOVASI B-OTR-3      DÝLOVASI B-OTR-3    2            210621  214221        HYUNDAI             KOCAELI       1          96.08        174.8656   182.0
+314        EIH:   120710  210511          HABIBLER              ADA2DGKC        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          96.04        174.7928   182.0
+315        EIH:   120710  210511          HABIBLER              ADA2DGKC        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          96.04        174.7928   182.0
+316        OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            210122  211822        TEPEOREN            GEBZEOSB      1          95.98        174.6836   182.0
+317        OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            210122  211822        TEPEOREN            GEBZEOSB      1          95.94        174.6108   182.0
+318        EIH:   210111  210211          TEPEOREN              PASAKOY         1            210311  214211        ADAPAZARI           KOCAELI       1          95.93        954.5035   995.0
+319        EIH:   213822  222221          PAMUKOVA              PASALAR         1            231121  233221        OSMANCA             CUMAYERI      1          95.80        126.4560   132.0
+320        EIH:   210111  210211          TEPEOREN              PASAKOY         1            210111  214211        TEPEOREN            KOCAELI       1          95.74        952.6130   995.0
+321        EIH:   231111  233611          OSMANCA               ZETES3          1            231121  233221        OSMANCA             CUMAYERI      1          95.62        126.2184   132.0
+322        EIH:   210111  210211          TEPEOREN              PASAKOY         1            210621  214221        HYUNDAI             KOCAELI       1          95.55        173.9010   182.0
+323        EIH:   210322  213821          ADAPAZARI             PAMUKOVA        1            231121  233221        OSMANCA             CUMAYERI      1          95.54        126.1128   132.0
+324        EIH:   210211  231111          PASAKOY               OSMANCA         1            210311  231110        ADAPAZARI           OSMANCA       1          95.37        958.4685  1005.0
+325        EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          95.28        173.4096   182.0
+326        EIH:   214322  214822          DILOVASIOSB           MAKINAOSB       1            210122  211822        TEPEOREN            GEBZEOSB      1          95.14        173.1548   182.0
+327        EIH:   231121  231521          OSMANCA               AKCAKOCA        1            231121  233221        OSMANCA             CUMAYERI      1          95.14        125.5848   132.0
+328        EIH:   211022  211221          BBAKKALKOY            KARTAL          1            211022  211122        BBAKKALKOY          SOGANLIK      1          95.10        173.0820   182.0
+329        EIH:   212521  214222          KOSEKOY               KOCAELI         1            210321  212521        ADAPAZARI           KOSEKOY       2          95.10        173.0820   182.0
+330        EIH:   210411  210511          ADA1DGKC              ADA2DGKC        1            231121  233221        OSMANCA             CUMAYERI      1          95.09        125.5188   132.0
+331  Generator:   214763    None          YENIELEKTRIK                  None  None           210621  214221        HYUNDAI             KOCAELI       1          95.08        173.0456   182.0
+332  Generator:   214762    None          YENIELEKTRIK                  None  None           210621  214221        HYUNDAI             KOCAELI       1          95.07        173.0274   182.0
+333  Generator:   214761    None          YENIELEKTRIK                  None  None           210621  214221        HYUNDAI             KOCAELI       1          95.04        172.9728   182.0
+334        EIH:   120710  210511          HABIBLER              ADA2DGKC        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          94.94        172.7908   182.0
+335  Generator:   230662    None          YENICATES                     None  None           231121  233221        OSMANCA             CUMAYERI      1          94.86        125.2152   132.0
+336        EIH:   211222  211621          KARTAL                ICMELER         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          94.83        172.5906   182.0
+337        EIH:   212121  214221          YARIMCA1              KOCAELI         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          94.80        172.5360   182.0
+338        EIH:   212121  214221          YARIMCA1              KOCAELI         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          94.80        172.5360   182.0
+339  Generator:   234361    None          ZETES1                        None  None           231121  233221        OSMANCA             CUMAYERI      1          94.77        125.0964   132.0
+340        EIH:   209921  211822          GEBGOSBSANAL          GEBZEOSB        1            210621  214221        HYUNDAI             KOCAELI       1          94.67        172.2994   182.0
+341        EIH:   209921  216722          GEBGOSBSANAL          GEBZEKIMYA      1            210621  214221        HYUNDAI             KOCAELI       1          94.66        172.2812   182.0
+342        OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            210621  212422        HYUNDAI             ENJKOSEKOY    1          94.47        171.9354   182.0
+343        OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          94.45        171.8990   182.0
+344        EIH:   210310  214210          ADAPAZARI             KOCAELI         1            231121  233221        OSMANCA             CUMAYERI      1          94.45        124.6740   132.0
+345       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            210621  214221        HYUNDAI             KOCAELI       1          94.43        171.8626   182.0
+346        EIH:   210311  214211          ADAPAZARI             KOCAELI         1            231121  233221        OSMANCA             CUMAYERI      1          94.41        124.6212   132.0
+347        EIH:   210111  214211          TEPEOREN              KOCAELI         1            231121  233221        OSMANCA             CUMAYERI      1          94.40        124.6080   132.0
+348        EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            210122  211822        TEPEOREN            GEBZEOSB      1          94.37        171.7534   182.0
+349       BANK:   210311  210321           ADAPAZARI B           ADAPAZARI B    1            210621  214221        HYUNDAI             KOCAELI       1          94.32        171.6624   182.0
+350        EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            210621  214221        HYUNDAI             KOCAELI       1          94.20        171.4440   182.0
+351        EIH:   210321  213021          ADAPAZARI             YARIMCA2        1            210621  214221        HYUNDAI             KOCAELI       1          94.20        171.4440   182.0
+352        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            214210  214221     KOCAELI B-OTR-3     KOCAELI B-OTR-3  2          94.18        235.4500   250.0
+353        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            214210  214221     KOCAELI A-OTR-1     KOCAELI A-OTR-1  1          94.18        235.4500   250.0
+354        EIH:   212621  213021          HEREKE                YARIMCA2        1            210122  211822        TEPEOREN            GEBZEOSB      1          94.05        171.1710   182.0
+355        EIH:   217321  231521          ALAPLI                AKCAKOCA        1            231121  233221        OSMANCA             CUMAYERI      1          94.03        124.1196   132.0
+356       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            210122  211822        TEPEOREN            GEBZEOSB      1          94.02        171.1164   182.0
+357        OTR:   210311  210321     ADAPAZARI C-OTR-6     ADAPAZARI C-OTR-6    3            210122  211822        TEPEOREN            GEBZEOSB      1          94.02        171.1164   182.0
+358        EIH:   210211  231111          PASAKOY               OSMANCA         1            212921  233221        HENDEK              CUMAYERI      1          94.01        124.0932   132.0
+359  Generator:   211562    None          COLAKOGLUOP2                  None  None           209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          93.92        170.9344   182.0
+360  Generator:   211562    None          COLAKOGLUOP2                  None  None           209921  211822        GEBGOSBSANAL        GEBZEOSB      1          93.92        170.9344   182.0
+361        EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            210621  214221        HYUNDAI             KOCAELI       1          93.91        170.9162   182.0
+362        EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          93.84        170.7888   182.0
+363        EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          93.84        170.7888   182.0
+364        EIH:   210321  213021          ADAPAZARI             YARIMCA2        1            210321  212521        ADAPAZARI           KOSEKOY       2          93.83        170.7706   182.0
+365        OTR:   211211  211222        KARTAL B-OTR-4        KARTAL B-OTR-4    1            210122  211822        TEPEOREN            GEBZEOSB      1          93.82        170.7524   182.0
+366       BANK:   210010  210021           UMRANIYE B-           UMRANIYE B-    4            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          93.81        170.7342   182.0
+367       BANK:   210010  210021           UMRANIYE B-           UMRANIYE B-    4            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          93.81        170.7342   182.0
+368        OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            210122  211822        TEPEOREN            GEBZEOSB      1          93.77        170.6614   182.0
+369        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            210621  214221        HYUNDAI             KOCAELI       1          93.69        170.5158   182.0
+370        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            210122  211822        TEPEOREN            GEBZEOSB      1          93.68        170.4976   182.0
+371  Generator:   211562    None          COLAKOGLUOP2                  None  None           210122  211822        TEPEOREN            GEBZEOSB      1          93.68        170.4976   182.0
+372        OTR:   211211  211222        KARTAL B-OTR-4        KARTAL B-OTR-4    1            210621  214221        HYUNDAI             KOCAELI       1          93.65        170.4430   182.0
+373        EIH:   210310  227210          ADAPAZARI             ULUDAG          1            210321  212521        ADAPAZARI           KOSEKOY       2          93.65        170.4430   182.0
+374        OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            210621  214221        HYUNDAI             KOCAELI       1          93.64        170.4248   182.0
+375        EIH:   230010  231110          BOLUCEK               OSMANCA         1            217321  231521        ALAPLI              AKCAKOCA      1          93.62        123.5784   132.0
+376        EIH:   210410  410410          ADA1DGKC              TEMELLI         1            210621  214221        HYUNDAI             KOCAELI       1          93.61        170.3702   182.0
+377        EIH:   210310  210411          ADAPAZARI             ADA1DGKC        1            210122  211822        TEPEOREN            GEBZEOSB      1          93.60        170.3520   182.0
+378        OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          93.57        170.2974   182.0
+379        OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          93.57        170.2974   182.0
+380        EIH:   210411  210511          ADA1DGKC              ADA2DGKC        1            210621  214221        HYUNDAI             KOCAELI       1          93.54        170.2428   182.0
+381        EIH:   212521  214222          KOSEKOY               KOCAELI         2            210321  212521        ADAPAZARI           KOSEKOY       2          93.54        170.2428   182.0
+382        EIH:   231110  410311          OSMANCA               SINCAN          1            210621  214221        HYUNDAI             KOCAELI       1          93.50        170.1700   182.0
+383        EIH:   210110  214811          TEPEOREN              MAKINAOSB       1            210621  214221        HYUNDAI             KOCAELI       1          93.48        170.1336   182.0
+384       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          93.48        170.1336   182.0
+385       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          93.48        170.1336   182.0
+386        EIH:   120911  210210          ZEKERIYAKOY           PASAKOY         1            211022  211122        BBAKKALKOY          SOGANLIK      1          93.44        170.0608   182.0
+387        EIH:   211321  211622          TUZLA                 ICMELER         1            211421  211522        KROMANCELIK         COLAKOGLU     1          93.40        169.9880   182.0
+388       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            210621  214221        HYUNDAI             KOCAELI       1          93.40        169.9880   182.0
+389  Generator:   233662    None          ZETES3                        None  None           210621  214221        HYUNDAI             KOCAELI       1          93.40        169.9880   182.0
+390        EIH:   211121  211222          SOGANLIK              KARTAL          1            210621  214221        HYUNDAI             KOCAELI       1          93.39        169.9698   182.0
+391  Generator:   233661    None          ZETES3                        None  None           210621  214221        HYUNDAI             KOCAELI       1          93.39        169.9698   182.0
+392        EIH:   214322  214822          DILOVASIOSB           MAKINAOSB       1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          93.38        169.9516   182.0
+393        EIH:   214322  214822          DILOVASIOSB           MAKINAOSB       1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          93.38        169.9516   182.0
+394        EIH:   231111  612310          OSMANCA               KURSUNLU        1            210621  214221        HYUNDAI             KOCAELI       1          93.36        169.9152   182.0
+395        EIH:   210010  216910          UMRANIYE              KAVACIK         1            210621  214221        HYUNDAI             KOCAELI       1          93.36        169.9152   182.0
+396  Generator:   232662    None          ZETES2                        None  None           210621  214221        HYUNDAI             KOCAELI       1          93.36        169.9152   182.0
+397        OTR:   214310  214321      DÝLOVASI B-OTR-3      DÝLOVASI B-OTR-3    2            210621  212422        HYUNDAI             ENJKOSEKOY    1          93.34        169.8788   182.0
+398        OTR:   214310  214321      DÝLOVASI A-OTR-1      DÝLOVASI A-OTR-1    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          93.34        169.8788   182.0
+399        OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          93.33        169.8606   182.0
+400        OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          93.33        169.8606   182.0
+401        EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            210621  214221        HYUNDAI             KOCAELI       1          93.32        169.8424   182.0
+402        OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          93.31        169.8242   182.0
+403        OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          93.31        169.8242   182.0
+404        EIH:   211321  211421          TUZLA                 KROMANCELIK     1            210621  214221        HYUNDAI             KOCAELI       1          93.30        169.8060   182.0
+405        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            231121  233221        OSMANCA             CUMAYERI      1          93.28        123.1296   132.0
+406        EIH:   210122  212122          TEPEOREN              YARIMCA1        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          93.27        169.7514   182.0
+407        EIH:   210122  212122          TEPEOREN              YARIMCA1        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          93.27        169.7514   182.0
+408        OTR:   210311  210321     ADAPAZARI C-OTR-6     ADAPAZARI C-OTR-6    3            210621  214221        HYUNDAI             KOCAELI       1          93.25        169.7150   182.0
+409        EIH:   212621  213021          HEREKE                YARIMCA2        1            210621  214221        HYUNDAI             KOCAELI       1          93.24        169.6968   182.0
+410  Generator:   214763    None          YENIELEKTRIK                  None  None           210311  214211        ADAPAZARI           KOCAELI       1          93.22        927.5390   995.0
+411        OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            210122  211822        TEPEOREN            GEBZEOSB      1          93.20        169.6240   182.0
+412  Generator:   214762    None          YENIELEKTRIK                  None  None           210311  214211        ADAPAZARI           KOCAELI       1          93.18        927.1410   995.0
+413        EIH:   211211  214711          KARTAL                YENIDGKC        1            210621  214221        HYUNDAI             KOCAELI       1          93.14        169.5148   182.0
+414  Generator:   214761    None          YENIELEKTRIK                  None  None           210311  214211        ADAPAZARI           KOCAELI       1          93.12        926.5440   995.0
+415  Generator:   214763    None          YENIELEKTRIK                  None  None           210111  214211        TEPEOREN            KOCAELI       1          93.09        926.2455   995.0
+416        EIH:   210110  214710          TEPEOREN              YENIDGKC        1            210621  214221        HYUNDAI             KOCAELI       1          93.08        169.4056   182.0
+417        EIH:   211321  211622          TUZLA                 ICMELER         1            210621  214221        HYUNDAI             KOCAELI       1          93.08        169.4056   182.0
+418        OTR:   210910  210921    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4    1            210010  210022   UMRANIYE A-OTR-10   UMRANIYE A-OTR-10  1          93.08        139.6200   150.0
+419        OTR:   210910  210921    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4    1            210010  210022   UMRANIYE A-OTR-11   UMRANIYE A-OTR-11  2          93.08        139.6200   150.0
+420  Generator:   214762    None          YENIELEKTRIK                  None  None           210111  214211        TEPEOREN            KOCAELI       1          93.06        925.9470   995.0
+421        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            210621  214221        HYUNDAI             KOCAELI       1          93.05        169.3510   182.0
+422  Generator:   210462    None          GEBZEDG                       None  None           210621  214221        HYUNDAI             KOCAELI       1          93.04        169.3328   182.0
+423  Generator:   210465    None          GEBZEDG                       None  None           210621  214221        HYUNDAI             KOCAELI       1          93.04        169.3328   182.0
+424  Generator:   210463    None          GEBZEDG                       None  None           210621  214221        HYUNDAI             KOCAELI       1          93.04        169.3328   182.0
+425  Generator:   210464    None          GEBZEDG                       None  None           210621  214221        HYUNDAI             KOCAELI       1          93.04        169.3328   182.0
+426  Generator:   210461    None          GEBZEDG                       None  None           210621  214221        HYUNDAI             KOCAELI       1          93.04        169.3328   182.0
+427  Generator:   210562    None          ADADGKC                       None  None           210621  214221        HYUNDAI             KOCAELI       1          93.03        169.3146   182.0
+428  Generator:   210466    None          GEBZEDG                       None  None           210621  214221        HYUNDAI             KOCAELI       1          93.03        169.3146   182.0
+429        OTR:   214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1    1            211421  211522        KROMANCELIK         COLAKOGLU     1          93.03        169.3146   182.0
+430  Generator:   210561    None          ADADGKC                       None  None           210621  214221        HYUNDAI             KOCAELI       1          93.03        169.3146   182.0
+431  Generator:   210563    None          ADADGKC                       None  None           210621  214221        HYUNDAI             KOCAELI       1          93.03        169.3146   182.0
+432        OTR:   214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1    1            210621  214221        HYUNDAI             KOCAELI       1          93.03        169.3146   182.0
+433        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            210321  212521        ADAPAZARI           KOSEKOY       2          93.01        169.2782   182.0
+434  Generator:   214761    None          YENIELEKTRIK                  None  None           210111  214211        TEPEOREN            KOCAELI       1          93.00        925.3500   995.0
+435        OTR:   210911  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2    1            210010  210022   UMRANIYE A-OTR-11   UMRANIYE A-OTR-11  2          92.98        139.4700   150.0
+436        EIH:   210510  231110          ADA2DGKC              OSMANCA         1            210621  214221        HYUNDAI             KOCAELI       1          92.98        169.2236   182.0
+437        OTR:   210911  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2    1            210010  210022   UMRANIYE A-OTR-10   UMRANIYE A-OTR-10  1          92.98        139.4700   150.0
+438        EIH:   210110  214811          TEPEOREN              MAKINAOSB       1            210311  214211        ADAPAZARI           KOCAELI       1          92.96        924.9520   995.0
+439        EIH:   210511  232611          ADA2DGKC              ZETES2          1            210621  214221        HYUNDAI             KOCAELI       1          92.96        169.1872   182.0
+440        EIH:   211521  214321          COLAKOGLU             DILOVASIOSB     1            214822  217221        MAKINAOSB           SIDDIK        1          92.96        169.1872   182.0
+441        EIH:   210222  211022          PASAKOY               BBAKKALKOY      2            210621  214221        HYUNDAI             KOCAELI       1          92.95        169.1690   182.0
+442        EIH:   210222  211022          PASAKOY               BBAKKALKOY      1            210621  214221        HYUNDAI             KOCAELI       1          92.95        169.1690   182.0
+443        EIH:   217321  230021          ALAPLI                BOLUCEK         1            231121  233221        OSMANCA             CUMAYERI      1          92.94        122.6808   132.0
+444        OTR:   214210  214221       KOCAELI B-OTR-3       KOCAELI B-OTR-3    2            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          92.93        169.1326   182.0
+445        OTR:   214210  214221       KOCAELI A-OTR-1       KOCAELI A-OTR-1    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          92.93        169.1326   182.0
+446        OTR:   214210  214221       KOCAELI A-OTR-1       KOCAELI A-OTR-1    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          92.93        169.1326   182.0
+447        OTR:   214210  214221       KOCAELI B-OTR-3       KOCAELI B-OTR-3    2            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          92.93        169.1326   182.0
+448  Generator:   230662    None          YENICATES                     None  None           210621  214221        HYUNDAI             KOCAELI       1          92.90        169.0780   182.0
+449       BANK:   210310  210322           ADAPAZARI A           ADAPAZARI A    1            210621  214221        HYUNDAI             KOCAELI       1          92.90        169.0780   182.0
+450        EIH:   210122  212021          TEPEOREN              DUDULLU         1            210621  214221        HYUNDAI             KOCAELI       1          92.90        169.0780   182.0
+451        EIH:   210122  212021          TEPEOREN              DUDULLU         2            210621  214221        HYUNDAI             KOCAELI       1          92.90        169.0780   182.0
+452  Generator:   234361    None          ZETES1                        None  None           210621  214221        HYUNDAI             KOCAELI       1          92.90        169.0780   182.0
+453       BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    2            210621  214221        HYUNDAI             KOCAELI       1          92.90        169.0780   182.0
+454        EIH:   212021  217621          DUDULLU               DUDULLUMETRO    1            210621  214221        HYUNDAI             KOCAELI       1          92.88        169.0416   182.0
+455        EIH:   234421  412421          BOLU1                 SARIYAR         1            210621  214221        HYUNDAI             KOCAELI       1          92.87        169.0234   182.0
+456        EIH:   213621  213721          KARAMURSEL            YALOVA          1            210621  214221        HYUNDAI             KOCAELI       1          92.87        169.0234   182.0
+457        EIH:   214821  216722          MAKINAOSB             GEBZEKIMYA      1            210621  214221        HYUNDAI             KOCAELI       1          92.87        169.0234   182.0
+458        EIH:   214821  216721          MAKINAOSB             GEBZEKIMYA      1            210621  214221        HYUNDAI             KOCAELI       1          92.87        169.0234   182.0
+459        EIH:   232610  233610          ZETES2                ZETES3          1            210621  214221        HYUNDAI             KOCAELI       1          92.85        168.9870   182.0
+460        EIH:   210121  211921          TEPEOREN              KURTKOY         1            210621  214221        HYUNDAI             KOCAELI       1          92.85        168.9870   182.0
+461        EIH:   230010  231110          BOLUCEK               OSMANCA         1            210621  214221        HYUNDAI             KOCAELI       1          92.84        168.9688   182.0
+462        EIH:   231111  233611          OSMANCA               ZETES3          1            210621  214221        HYUNDAI             KOCAELI       1          92.83        168.9506   182.0
+463        EIH:   209921  211822          GEBGOSBSANAL          GEBZEOSB        1            210321  212521        ADAPAZARI           KOSEKOY       2          92.82        168.9324   182.0
+464        EIH:   209921  216722          GEBGOSBSANAL          GEBZEKIMYA      1            210321  212521        ADAPAZARI           KOSEKOY       2          92.82        168.9324   182.0
+465        EIH:   210922  216622          KBAKKALKOY            KADIKOY         1            210621  214221        HYUNDAI             KOCAELI       1          92.81        168.9142   182.0
+466        EIH:   210821  210921          GOZTEPE               KBAKKALKOY      1            210621  214221        HYUNDAI             KOCAELI       1          92.81        168.9142   182.0
+467        EIH:   210022  210921          UMRANIYE              KBAKKALKOY      1            210621  214221        HYUNDAI             KOCAELI       1          92.81        168.9142   182.0
+468        OTR:   210910  210921    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4    1            210621  214221        HYUNDAI             KOCAELI       1          92.81        168.9142   182.0
+469        OTR:   210911  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2    1            210621  214221        HYUNDAI             KOCAELI       1          92.81        168.9142   182.0
+470        EIH:   210022  210721          UMRANIYE              SELIMIYE        1            210621  214221        HYUNDAI             KOCAELI       1          92.81        168.9142   182.0
+471        EIH:   210121  211821          TEPEOREN              GEBZEOSB        2            210621  214221        HYUNDAI             KOCAELI       1          92.80        168.8960   182.0
+472        EIH:   210322  212921          ADAPAZARI             HENDEK          1            210621  214221        HYUNDAI             KOCAELI       1          92.80        168.8960   182.0
+473        EIH:   210121  211821          TEPEOREN              GEBZEOSB        1            210621  214221        HYUNDAI             KOCAELI       1          92.80        168.8960   182.0
+474        EIH:   210111  210211          TEPEOREN              PASAKOY         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          92.80        168.8960   182.0
+475        EIH:   230021  231621          BOLUCEK               ZONGULDAK       1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+476        EIH:   230022  233021          BOLUCEK               KOZLU           1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+477        EIH:   230021  230621          BOLUCEK               CATES           1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+478        EIH:   212621  212722          HEREKE                NUHCIMENTO      1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+479        EIH:   233021  234321          KOZLU                 ZETES1          1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+480        EIH:   230021  231421          BOLUCEK               ERDEMIR2        1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+481        EIH:   212621  212721          HEREKE                NUHCIMENTO      1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+482        EIH:   210722  216621          SELIMIYE              KADIKOY         1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+483        EIH:   231323  231421          ERDEMIR1              ERDEMIR2        1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+484        EIH:   230010  232610          BOLUCEK               ZETES2          1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+485        EIH:   230021  231321          BOLUCEK               ERDEMIR1        1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+486        EIH:   210122  212221          TEPEOREN              SILE            1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+487        EIH:   232221  234422          KAYNASLI              BOLU1           1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+488        EIH:   210110  214811          TEPEOREN              MAKINAOSB       1            210111  214211        TEPEOREN            KOCAELI       1          92.79        923.2605   995.0
+489        EIH:   232021  232121          BOLU2                 BOLUCIM         1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+490        EIH:   232022  234422          BOLU2                 BOLU1           1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+491        EIH:   230621  231621          CATES                 ZONGULDAK       1            210621  214221        HYUNDAI             KOCAELI       1          92.79        168.8778   182.0
+492        EIH:   231821  232121          GERKONSAN             BOLUCIM         1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+493        EIH:   230621  230721          CATES                 CAYCUMA         1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+494        EIH:   210322  213821          ADAPAZARI             PAMUKOVA        1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+495        EIH:   230621  230721          CATES                 CAYCUMA         2            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+496        EIH:   213822  222221          PAMUKOVA              PASALAR         1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+497        EIH:   230721  616121          CAYCUMA               KARABUK         1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+498        EIH:   212521  214222          KOSEKOY               KOCAELI         1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+499        EIH:   217321  231521          ALAPLI                AKCAKOCA        1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+500        EIH:   212521  214222          KOSEKOY               KOCAELI         2            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+501        EIH:   230721  616321          CAYCUMA               SAFRANBOLU      1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+502       BANK:   230010  230022             BOLUCEK A             BOLUCEK A    1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+503        EIH:   211221  211921          KARTAL                KURTKOY         1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+504        EIH:   231121  231521          OSMANCA               AKCAKOCA        1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+505        EIH:   211221  211921          KARTAL                KURTKOY         2            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+506        EIH:   210322  216021          ADAPAZARI             GEYVERES        1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+507        EIH:   216021  222221          GEYVERES              PASALAR         1            210621  214221        HYUNDAI             KOCAELI       1          92.78        168.8596   182.0
+508        EIH:   217321  230021          ALAPLI                BOLUCEK         1            210621  214221        HYUNDAI             KOCAELI       1          92.77        168.8414   182.0
+509        EIH:   210322  213921          ADAPAZARI             TOYOTASA        1            210621  214221        HYUNDAI             KOCAELI       1          92.77        168.8414   182.0
+510        EIH:   231821  616521          GERKONSAN             ISMETPASA       1            210621  214221        HYUNDAI             KOCAELI       1          92.77        168.8414   182.0
+511        EIH:   213921  218821          TOYOTASA              ASAS            1            210621  214221        HYUNDAI             KOCAELI       1          92.77        168.8414   182.0
+512       BANK:   230010  230021             BOLUCEK B             BOLUCEK B    2            210621  214221        HYUNDAI             KOCAELI       1          92.77        168.8414   182.0
+513        EIH:   210322  213322          ADAPAZARI             KUZULUK         1            210621  214221        HYUNDAI             KOCAELI       1          92.77        168.8414   182.0
+514        EIH:   230621  234322          CATES                 ZETES1          1            210621  214221        HYUNDAI             KOCAELI       1          92.77        168.8414   182.0
+515        EIH:   213321  216421          KUZULUK               GOKSUHES        1            210621  214221        HYUNDAI             KOCAELI       1          92.76        168.8232   182.0
+516        EIH:   218821  235121          ASAS                  MAVBIYOKUTLE    1            210621  214221        HYUNDAI             KOCAELI       1          92.76        168.8232   182.0
+517        EIH:   232221  233921          KAYNASLI              DUZCEOSB        1            210621  214221        HYUNDAI             KOCAELI       1          92.76        168.8232   182.0
+518        EIH:   235121  412421          MAVBIYOKUTLE          SARIYAR         1            210621  214221        HYUNDAI             KOCAELI       1          92.76        168.8232   182.0
+519        EIH:   213421  216421          MUDURNU               GOKSUHES        1            210621  214221        HYUNDAI             KOCAELI       1          92.76        168.8232   182.0
+520  Generator:   226361    None          AKSAGOYNUK                    None  None           210621  214221        HYUNDAI             KOCAELI       1          92.76        168.8232   182.0
+521        EIH:   213421  412421          MUDURNU               SARIYAR         1            210621  214221        HYUNDAI             KOCAELI       1          92.75        168.8050   182.0
+522        EIH:   211421  211522          KROMANCELIK           COLAKOGLU       1            211022  211122        BBAKKALKOY          SOGANLIK      1          92.74        168.7868   182.0
+523       BANK:   231111  231121             OSMANCA B             OSMANCA B    1            210621  214221        HYUNDAI             KOCAELI       1          92.74        168.7868   182.0
+524       BANK:   231110  231121             OSMANCA A             OSMANCA A    2            210621  214221        HYUNDAI             KOCAELI       1          92.73        168.7686   182.0
+525        EIH:   231121  233921          OSMANCA               DUZCEOSB        1            210621  214221        HYUNDAI             KOCAELI       1          92.73        168.7686   182.0
+526  Generator:   226362    None          AKSAGOYNUK                    None  None           210621  214221        HYUNDAI             KOCAELI       1          92.72        168.7504   182.0
+527        EIH:   210321  214222          ADAPAZARI             KOCAELI         2            210621  214221        HYUNDAI             KOCAELI       1          92.71        168.7322   182.0
+528        EIH:   213521  215021          FORD                  GOLCUK          1            210621  214221        HYUNDAI             KOCAELI       1          92.71        168.7322   182.0
+529        EIH:   212521  215122          KOSEKOY               ARSLANBEY       1            210621  214221        HYUNDAI             KOCAELI       1          92.70        168.7140   182.0
+530        EIH:   210910  215211          KBAKKALKOY            MALTEPEIST      1            210621  214221        HYUNDAI             KOCAELI       1          92.69        168.6958   182.0
+531        EIH:   211022  211221          BBAKKALKOY            KARTAL          1            210621  214221        HYUNDAI             KOCAELI       1          92.68        168.6776   182.0
+532        EIH:   210321  212521          ADAPAZARI             KOSEKOY         2            210621  214221        HYUNDAI             KOCAELI       1          92.67        168.6594   182.0
+533        EIH:   210021  217621          UMRANIYE              DUDULLUMETRO    1            210621  214221        HYUNDAI             KOCAELI       1          92.66        168.6412   182.0
+534        EIH:   120710  210511          HABIBLER              ADA2DGKC        1            210321  212521        ADAPAZARI           KOSEKOY       2          92.62        168.5684   182.0
+535        EIH:   212921  233221          HENDEK                CUMAYERI        1            210621  214221        HYUNDAI             KOCAELI       1          92.61        168.5502   182.0
+536        EIH:   212521  215021          KOSEKOY               GOLCUK          1            210621  214221        HYUNDAI             KOCAELI       1          92.61        168.5502   182.0
+537       BANK:   210310  210322           ADAPAZARI A           ADAPAZARI A    1            210321  212521        ADAPAZARI           KOSEKOY       2          92.56        168.4592   182.0
+538        EIH:   231121  233221          OSMANCA               CUMAYERI        1            210621  214221        HYUNDAI             KOCAELI       1          92.56        168.4592   182.0
+539        EIH:   226310  410110          AKSAGOYNUK            GOKCEKAYA       1            210621  214221        HYUNDAI             KOCAELI       1          92.56        168.4592   182.0
+540        EIH:   211211  214711          KARTAL                YENIDGKC        1            211022  211122        BBAKKALKOY          SOGANLIK      1          92.55        168.4410   182.0
+541        EIH:   211121  211222          SOGANLIK              KARTAL          1            210122  211822        TEPEOREN            GEBZEOSB      1          92.52        168.3864   182.0
+542        EIH:   210310  227210          ADAPAZARI             ULUDAG          1            210621  214221        HYUNDAI             KOCAELI       1          92.49        168.3318   182.0
+543        EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          92.47        168.2954   182.0
+544        EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          92.47        168.2954   182.0
+545        EIH:   120311  214510          ALIBEYKOY             BEYKOZ          1            210621  214221        HYUNDAI             KOCAELI       1          92.45        168.2590   182.0
+546        EIH:   210311  290510          ADAPAZARI             GOYNUKSANAL     1            210621  214221        HYUNDAI             KOCAELI       1          92.44        168.2408   182.0
+547        EIH:   226311  290510          AKSAGOYNUK            GOYNUKSANAL     1            210621  214221        HYUNDAI             KOCAELI       1          92.43        168.2226   182.0
+548       BANK:   210311  210321           ADAPAZARI B           ADAPAZARI B    1            210311  214211        ADAPAZARI           KOCAELI       1          92.42        919.5790   995.0
+549        EIH:   210621  214221          HYUNDAI               KOCAELI         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          92.40        168.1680   182.0
+550        EIH:   210621  214221          HYUNDAI               KOCAELI         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          92.40        168.1680   182.0
+551        OTR:   211211  211222        KARTAL B-OTR-4        KARTAL B-OTR-4    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          92.40        168.1680   182.0
+552        OTR:   211211  211222        KARTAL B-OTR-4        KARTAL B-OTR-4    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          92.40        168.1680   182.0
+553        EIH:   212621  216721          HEREKE                GEBZEKIMYA      1            210621  214221        HYUNDAI             KOCAELI       1          92.38        168.1316   182.0
+554        EIH:   211210  215210          KARTAL                MALTEPEIST      1            210621  214221        HYUNDAI             KOCAELI       1          92.37        168.1134   182.0
+555        OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          92.37        168.1134   182.0
+556        OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          92.37        168.1134   182.0
+557        EIH:   214510  216910          BEYKOZ                KAVACIK         1            210621  214221        HYUNDAI             KOCAELI       1          92.36        168.0952   182.0
+558  Generator:   214763    None          YENIELEKTRIK                  None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          92.33        168.0406   182.0
+559       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          92.32        168.0224   182.0
+560       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          92.32        168.0224   182.0
+561  Generator:   211562    None          COLAKOGLUOP2                  None  None           210311  214211        ADAPAZARI           KOCAELI       1          92.31        918.4845   995.0
+562  Generator:   214762    None          YENIELEKTRIK                  None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          92.31        168.0042   182.0
+563        EIH:   210621  212422          HYUNDAI               ENJKOSEKOY      1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          92.31        168.0042   182.0
+564        EIH:   210621  212422          HYUNDAI               ENJKOSEKOY      1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          92.31        168.0042   182.0
+565        EIH:   120911  210210          ZEKERIYAKOY           PASAKOY         1            210321  212521        ADAPAZARI           KOSEKOY       2          92.28        167.9496   182.0
+566  Generator:   214761    None          YENIELEKTRIK                  None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          92.28        167.9496   182.0
+567        EIH:   212521  215021          KOSEKOY               GOLCUK          1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          92.24        167.8768   182.0
+568        EIH:   212521  215021          KOSEKOY               GOLCUK          1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          92.24        167.8768   182.0
+569        EIH:   210222  211022          PASAKOY               BBAKKALKOY      1            210222  211022        PASAKOY             BBAKKALKOY    2          92.22        227.7834   247.0
+570        EIH:   210222  211022          PASAKOY               BBAKKALKOY      2            210222  211022        PASAKOY             BBAKKALKOY    1          92.22        227.7834   247.0
+571       BANK:   210311  210321           ADAPAZARI B           ADAPAZARI B    1            210111  214211        TEPEOREN            KOCAELI       1          92.22        917.5890   995.0
+572       BANK:   210010  210021           UMRANIYE B-           UMRANIYE B-    4            210621  214221        HYUNDAI             KOCAELI       1          92.20        167.8040   182.0
+573        EIH:   211522  214322          COLAKOGLU             DILOVASIOSB     1            210122  211822        TEPEOREN            GEBZEOSB      1          92.19        167.7858   182.0
+574        EIH:   210010  210110          UMRANIYE              TEPEOREN        1            210621  214221        HYUNDAI             KOCAELI       1          92.17        167.7494   182.0
+575  Generator:   211562    None          COLAKOGLUOP2                  None  None           210111  214211        TEPEOREN            KOCAELI       1          92.16        916.9920   995.0
+576        EIH:   210010  217710          UMRANIYE              ATASEHIR        1            210621  214221        HYUNDAI             KOCAELI       1          92.16        167.7312   182.0
+577        EIH:   210111  214211          TEPEOREN              KOCAELI         1            210321  212521        ADAPAZARI           KOSEKOY       2          92.15        167.7130   182.0
+578        EIH:   210510  216911          ADA2DGKC              KAVACIK         1            210321  212521        ADAPAZARI           KOSEKOY       2          92.15        167.7130   182.0
+579        EIH:   212321  214822          IZMIT                 MAKINAOSB       1            210122  211822        TEPEOREN            GEBZEOSB      1          92.15        167.7130   182.0
+580        EIH:   210221  212021          PASAKOY               DUDULLU         1            210621  214221        HYUNDAI             KOCAELI       1          92.15        167.7130   182.0
+581        EIH:   210111  217711          TEPEOREN              ATASEHIR        1            210621  214221        HYUNDAI             KOCAELI       1          92.15        167.7130   182.0
+582        EIH:   210311  214211          ADAPAZARI             KOCAELI         1            210321  212521        ADAPAZARI           KOSEKOY       2          92.15        167.7130   182.0
+583        OTR:   214310  214321      DÝLOVASI A-OTR-1      DÝLOVASI A-OTR-1    1            210122  211822        TEPEOREN            GEBZEOSB      1          92.13        167.6766   182.0
+584        OTR:   214310  214321      DÝLOVASI B-OTR-3      DÝLOVASI B-OTR-3    2            210122  211822        TEPEOREN            GEBZEOSB      1          92.13        167.6766   182.0
+585        EIH:   120310  216911          ALIBEYKOY             KAVACIK         1            210621  214221        HYUNDAI             KOCAELI       1          92.13        167.6766   182.0
+586        EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            211022  211122        BBAKKALKOY          SOGANLIK      1          92.12        167.6584   182.0
+587        EIH:   212621  213021          HEREKE                YARIMCA2        1            210321  212521        ADAPAZARI           KOSEKOY       2          92.10        167.6220   182.0
+588        EIH:   210310  415310          ADAPAZARI             YUNUSEMRETES    1            210621  214221        HYUNDAI             KOCAELI       1          92.08        167.5856   182.0
+589        EIH:   210310  410011          ADAPAZARI             CAYIRHAN        1            210621  214221        HYUNDAI             KOCAELI       1          92.03        167.4946   182.0
+590        EIH:   230010  232610          BOLUCEK               ZETES2          1            231121  233221        OSMANCA             CUMAYERI      1          92.03        121.4796   132.0
+591        EIH:   210110  214710          TEPEOREN              YENIDGKC        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          91.99        167.4218   182.0
+592        EIH:   210110  214710          TEPEOREN              YENIDGKC        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          91.99        167.4218   182.0
+593        EIH:   209921  216722          GEBGOSBSANAL          GEBZEKIMYA      1            210621  212422        HYUNDAI             ENJKOSEKOY    1          91.92        167.2944   182.0
+594        EIH:   209921  211822          GEBGOSBSANAL          GEBZEOSB        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          91.92        167.2944   182.0
+595       BANK:   210210  210221             PASAKOY A             PASAKOY A    1            210621  214221        HYUNDAI             KOCAELI       1          91.82        167.1124   182.0
+596        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          91.77        167.0214   182.0
+597        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          91.77        167.0214   182.0
+598        EIH:   210210  210410          PASAKOY               ADA1DGKC        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.74        166.9668   182.0
+599        EIH:   210322  213821          ADAPAZARI             PAMUKOVA        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.71        166.9122   182.0
+600        EIH:   214821  216722          MAKINAOSB             GEBZEKIMYA      1            210122  211822        TEPEOREN            GEBZEOSB      1          91.70        166.8940   182.0
+601        EIH:   214821  216721          MAKINAOSB             GEBZEKIMYA      1            210122  211822        TEPEOREN            GEBZEOSB      1          91.70        166.8940   182.0
+602       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            210621  212422        HYUNDAI             ENJKOSEKOY    1          91.69        166.8758   182.0
+603        EIH:   211522  214322          COLAKOGLU             DILOVASIOSB     1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          91.68        166.8576   182.0
+604        EIH:   211522  214322          COLAKOGLU             DILOVASIOSB     1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          91.68        166.8576   182.0
+605        EIH:   211321  211822          TUZLA                 GEBZEOSB        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.67        166.8394   182.0
+606        EIH:   213822  222221          PAMUKOVA              PASALAR         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.67        166.8394   182.0
+607        EIH:   120310  216911          ALIBEYKOY             KAVACIK         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.66        166.8212   182.0
+608        EIH:   211622  214321          ICMELER               DILOVASIOSB     1            210621  214221        HYUNDAI             KOCAELI       1          91.61        166.7302   182.0
+609       BANK:   210311  210321           ADAPAZARI B           ADAPAZARI B    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          91.58        166.6756   182.0
+610        EIH:   210321  213021          ADAPAZARI             YARIMCA2        1            210311  214211        ADAPAZARI           KOCAELI       1          91.58        911.2210   995.0
+611        EIH:   231121  233221          OSMANCA               CUMAYERI        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.57        166.6574   182.0
+612        EIH:   120911  210210          ZEKERIYAKOY           PASAKOY         1            210621  214221        HYUNDAI             KOCAELI       1          91.57        166.6574   182.0
+613        EIH:   212322  212421          IZMIT                 ENJKOSEKOY      1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          91.56        166.6392   182.0
+614        EIH:   212322  212421          IZMIT                 ENJKOSEKOY      1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          91.56        166.6392   182.0
+615        EIH:   120911  210210          ZEKERIYAKOY           PASAKOY         1            210122  211822        TEPEOREN            GEBZEOSB      1          91.53        166.5846   182.0
+616        EIH:   216021  222221          GEYVERES              PASALAR         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.50        166.5300   182.0
+617        EIH:   212921  233221          HENDEK                CUMAYERI        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.47        166.4754   182.0
+618        EIH:   210411  210511          ADA1DGKC              ADA2DGKC        1            210311  214211        ADAPAZARI           KOCAELI       1          91.47        910.1265   995.0
+619        EIH:   210322  216021          ADAPAZARI             GEYVERES        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.47        166.4754   182.0
+620        EIH:   210321  213021          ADAPAZARI             YARIMCA2        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          91.46        166.4572   182.0
+621        EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          91.46        166.4572   182.0
+622        EIH:   214510  216910          BEYKOZ                KAVACIK         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.45        166.4390   182.0
+623        EIH:   211121  211222          SOGANLIK              KARTAL          1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          91.45        166.4390   182.0
+624        EIH:   211121  211222          SOGANLIK              KARTAL          1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          91.45        166.4390   182.0
+625        EIH:   210321  212521          ADAPAZARI             KOSEKOY         2            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          91.43        166.4026   182.0
+626        EIH:   210321  212521          ADAPAZARI             KOSEKOY         2            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          91.43        166.4026   182.0
+627        EIH:   120311  214510          ALIBEYKOY             BEYKOZ          1            210321  212521        ADAPAZARI           KOSEKOY       2          91.39        166.3298   182.0
+628        EIH:   211622  214321          ICMELER               DILOVASIOSB     1            210122  211822        TEPEOREN            GEBZEOSB      1          91.38        166.3116   182.0
+629        EIH:   210321  213021          ADAPAZARI             YARIMCA2        1            210111  214211        TEPEOREN            KOCAELI       1          91.38        909.2310   995.0
+630        EIH:   210621  214221          HYUNDAI               KOCAELI         1            210311  214211        ADAPAZARI           KOCAELI       1          91.35        908.9325   995.0
+631        OTR:   214310  214321      DÝLOVASI B-OTR-3      DÝLOVASI B-OTR-3    2            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          91.34        166.2388   182.0
+632        OTR:   214310  214321      DÝLOVASI A-OTR-1      DÝLOVASI A-OTR-1    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          91.34        166.2388   182.0
+633        OTR:   214310  214321      DÝLOVASI A-OTR-1      DÝLOVASI A-OTR-1    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          91.34        166.2388   182.0
+634        OTR:   214310  214321      DÝLOVASI B-OTR-3      DÝLOVASI B-OTR-3    2            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          91.34        166.2388   182.0
+635        EIH:   210411  210511          ADA1DGKC              ADA2DGKC        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.33        166.2206   182.0
+636        EIH:   210621  212422          HYUNDAI               ENJKOSEKOY      1            210311  214211        ADAPAZARI           KOCAELI       1          91.30        908.4350   995.0
+637        EIH:   210111  210211          TEPEOREN              PASAKOY         1            210122  211822        TEPEOREN            GEBZEOSB      1          91.29        166.1478   182.0
+638        EIH:   210211  231111          PASAKOY               OSMANCA         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.28        166.1296   182.0
+639        EIH:   212621  216721          HEREKE                GEBZEKIMYA      1            210321  213021        ADAPAZARI           YARIMCA2      1          91.27        166.1114   182.0
+640        EIH:   213421  412421          MUDURNU               SARIYAR         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.26        166.0932   182.0
+641        EIH:   210111  217711          TEPEOREN              ATASEHIR        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.26        166.0932   182.0
+642        EIH:   210010  210110          UMRANIYE              TEPEOREN        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.26        166.0932   182.0
+643        EIH:   210411  210511          ADA1DGKC              ADA2DGKC        1            210111  214211        TEPEOREN            KOCAELI       1          91.25        907.9375   995.0
+644        EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            211022  211122        BBAKKALKOY          SOGANLIK      1          91.25        166.0750   182.0
+645        EIH:   210010  217710          UMRANIYE              ATASEHIR        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.25        166.0750   182.0
+646        EIH:   218821  235121          ASAS                  MAVBIYOKUTLE    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.23        166.0386   182.0
+647        EIH:   210122  212021          TEPEOREN              DUDULLU         1            210122  211822        TEPEOREN            GEBZEOSB      1          91.23        166.0386   182.0
+648        EIH:   211211  214711          KARTAL                YENIDGKC        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.23        166.0386   182.0
+649        EIH:   210122  212021          TEPEOREN              DUDULLU         2            210122  211822        TEPEOREN            GEBZEOSB      1          91.23        166.0386   182.0
+650        EIH:   213421  216421          MUDURNU               GOKSUHES        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.22        166.0204   182.0
+651        EIH:   213321  216421          KUZULUK               GOKSUHES        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.22        166.0204   182.0
+652        EIH:   235121  412421          MAVBIYOKUTLE          SARIYAR         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.22        166.0204   182.0
+653       BANK:   231110  231121             OSMANCA A             OSMANCA A    2            210321  212521        ADAPAZARI           KOSEKOY       2          91.20        165.9840   182.0
+654        EIH:   211210  215210          KARTAL                MALTEPEIST      1            210321  212521        ADAPAZARI           KOSEKOY       2          91.19        165.9658   182.0
+655        EIH:   213921  218821          TOYOTASA              ASAS            1            210321  212521        ADAPAZARI           KOSEKOY       2          91.18        165.9476   182.0
+656       BANK:   231111  231121             OSMANCA B             OSMANCA B    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.17        165.9294   182.0
+657        EIH:   210621  214221          HYUNDAI               KOCAELI         1            210111  214211        TEPEOREN            KOCAELI       1          91.17        907.1415   995.0
+658        EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            210621  212422        HYUNDAI             ENJKOSEKOY    1          91.17        165.9294   182.0
+659        EIH:   230010  232610          BOLUCEK               ZETES2          1            210321  212521        ADAPAZARI           KOSEKOY       2          91.16        165.9112   182.0
+660        EIH:   210322  213921          ADAPAZARI             TOYOTASA        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.16        165.9112   182.0
+661        EIH:   210322  213322          ADAPAZARI             KUZULUK         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.15        165.8930   182.0
+662        EIH:   210010  216910          UMRANIYE              KAVACIK         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.14        165.8748   182.0
+663        EIH:   210910  215211          KBAKKALKOY            MALTEPEIST      1            210321  212521        ADAPAZARI           KOSEKOY       2          91.14        165.8748   182.0
+664        EIH:   231121  233921          OSMANCA               DUZCEOSB        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.13        165.8566   182.0
+665        EIH:   210621  212422          HYUNDAI               ENJKOSEKOY      1            210111  214211        TEPEOREN            KOCAELI       1          91.12        906.6440   995.0
+666        EIH:   217321  230021          ALAPLI                BOLUCEK         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.12        165.8384   182.0
+667        EIH:   231111  233611          OSMANCA               ZETES3          1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+668        EIH:   212021  217621          DUDULLU               DUDULLUMETRO    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+669        EIH:   231821  616521          GERKONSAN             ISMETPASA       1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+670        EIH:   210122  212021          TEPEOREN              DUDULLU         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+671        EIH:   217321  231521          ALAPLI                AKCAKOCA        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+672        EIH:   231121  231521          OSMANCA               AKCAKOCA        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+673        EIH:   211321  211421          TUZLA                 KROMANCELIK     1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+674        EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+675       BANK:   230010  230021             BOLUCEK B             BOLUCEK B    2            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+676        EIH:   232221  233921          KAYNASLI              DUZCEOSB        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+677        EIH:   210122  212021          TEPEOREN              DUDULLU         2            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+678        EIH:   210110  214811          TEPEOREN              MAKINAOSB       1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+679       BANK:   230010  230022             BOLUCEK A             BOLUCEK A    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+680        EIH:   230621  234322          CATES                 ZETES1          1            210321  212521        ADAPAZARI           KOSEKOY       2          91.11        165.8202   182.0
+681        EIH:   230021  231321          BOLUCEK               ERDEMIR1        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+682        EIH:   210121  211821          TEPEOREN              GEBZEOSB        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+683        EIH:   210022  210921          UMRANIYE              KBAKKALKOY      1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+684        EIH:   230721  616321          CAYCUMA               SAFRANBOLU      1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+685        EIH:   230721  616121          CAYCUMA               KARABUK         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+686        EIH:   212621  212721          HEREKE                NUHCIMENTO      1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+687        EIH:   230021  231421          BOLUCEK               ERDEMIR2        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+688        EIH:   210121  211921          TEPEOREN              KURTKOY         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+689        EIH:   210110  214710          TEPEOREN              YENIDGKC        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+690        EIH:   210121  211821          TEPEOREN              GEBZEOSB        2            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+691        EIH:   211221  211921          KARTAL                KURTKOY         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+692        EIH:   211221  211921          KARTAL                KURTKOY         2            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+693        EIH:   210821  210921          GOZTEPE               KBAKKALKOY      1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+694        EIH:   230621  230721          CATES                 CAYCUMA         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+695        OTR:   210911  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+696        EIH:   210922  216622          KBAKKALKOY            KADIKOY         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+697        EIH:   231821  232121          GERKONSAN             BOLUCIM         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+698        EIH:   231323  231421          ERDEMIR1              ERDEMIR2        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+699        OTR:   210910  210921    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+700        EIH:   214821  216721          MAKINAOSB             GEBZEKIMYA      1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+701        EIH:   214821  216722          MAKINAOSB             GEBZEKIMYA      1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+702        EIH:   230621  230721          CATES                 CAYCUMA         2            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+703        EIH:   212621  212722          HEREKE                NUHCIMENTO      1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+704        EIH:   211022  211221          BBAKKALKOY            KARTAL          1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+705        EIH:   210722  216621          SELIMIYE              KADIKOY         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.10        165.8020   182.0
+706        EIH:   233021  234321          KOZLU                 ZETES1          1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+707        EIH:   210122  212221          TEPEOREN              SILE            1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+708        EIH:   230021  230621          BOLUCEK               CATES           1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+709        EIH:   210222  211022          PASAKOY               BBAKKALKOY      1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+710        EIH:   232022  234422          BOLU2                 BOLU1           1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+711        EIH:   230022  233021          BOLUCEK               KOZLU           1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+712        EIH:   210222  211022          PASAKOY               BBAKKALKOY      2            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+713        EIH:   211521  214321          COLAKOGLU             DILOVASIOSB     1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+714       BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    2            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+715        EIH:   232021  232121          BOLU2                 BOLUCIM         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+716        EIH:   230621  231621          CATES                 ZONGULDAK       1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+717        EIH:   232221  234422          KAYNASLI              BOLU1           1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+718        EIH:   210022  210721          UMRANIYE              SELIMIYE        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+719        EIH:   214822  217221          MAKINAOSB             SIDDIK          1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+720        EIH:   230021  231621          BOLUCEK               ZONGULDAK       1            210321  212521        ADAPAZARI           KOSEKOY       2          91.09        165.7838   182.0
+721        EIH:   211622  214321          ICMELER               DILOVASIOSB     1            210321  212521        ADAPAZARI           KOSEKOY       2          91.08        165.7656   182.0
+722        OTR:   214310  214321      DÝLOVASI B-OTR-3      DÝLOVASI B-OTR-3    2            210321  212521        ADAPAZARI           KOSEKOY       2          91.07        165.7474   182.0
+723       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            210321  212521        ADAPAZARI           KOSEKOY       2          91.07        165.7474   182.0
+724        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.07        165.7474   182.0
+725        OTR:   214310  214321      DÝLOVASI A-OTR-1      DÝLOVASI A-OTR-1    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.07        165.7474   182.0
+726        EIH:   210021  217621          UMRANIYE              DUDULLUMETRO    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.07        165.7474   182.0
+727        EIH:   230010  231110          BOLUCEK               OSMANCA         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.07        165.7474   182.0
+728        OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.06        165.7292   182.0
+729        EIH:   211121  211222          SOGANLIK              KARTAL          1            210321  212521        ADAPAZARI           KOSEKOY       2          91.06        165.7292   182.0
+730        EIH:   212321  214822          IZMIT                 MAKINAOSB       1            210321  212521        ADAPAZARI           KOSEKOY       2          91.05        165.7110   182.0
+731        EIH:   211522  214322          COLAKOGLU             DILOVASIOSB     1            210321  212521        ADAPAZARI           KOSEKOY       2          91.05        165.7110   182.0
+732        EIH:   210322  212921          ADAPAZARI             HENDEK          1            210321  212521        ADAPAZARI           KOSEKOY       2          91.05        165.7110   182.0
+733        OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.04        165.6928   182.0
+734        OTR:   211211  211222        KARTAL B-OTR-4        KARTAL B-OTR-4    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.04        165.6928   182.0
+735        OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            210321  212521        ADAPAZARI           KOSEKOY       2          91.03        165.6746   182.0
+736        EIH:   214210  227211          KOCAELI               ULUDAG          1            210621  214221        HYUNDAI             KOCAELI       1          91.03        165.6746   182.0
+737        EIH:   212521  215122          KOSEKOY               ARSLANBEY       1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          91.03        165.6746   182.0
+738        EIH:   212521  215122          KOSEKOY               ARSLANBEY       1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          91.03        165.6746   182.0
+739        OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            210321  212521        ADAPAZARI           KOSEKOY       2          91.03        165.6746   182.0
+740        EIH:   232610  233610          ZETES2                ZETES3          1            210321  212521        ADAPAZARI           KOSEKOY       2          91.03        165.6746   182.0
+741        EIH:   214322  214822          DILOVASIOSB           MAKINAOSB       1            210321  212521        ADAPAZARI           KOSEKOY       2          91.02        165.6564   182.0
+742        EIH:   210310  227210          ADAPAZARI             ULUDAG          1            210311  214211        ADAPAZARI           KOCAELI       1          91.01        905.5495   995.0
+743        EIH:   234421  412421          BOLU1                 SARIYAR         1            210321  212521        ADAPAZARI           KOSEKOY       2          91.01        165.6382   182.0
+744        EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            210321  212521        ADAPAZARI           KOSEKOY       2          91.01        165.6382   182.0
+745       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            210321  212521        ADAPAZARI           KOSEKOY       2          91.00        165.6200   182.0
+746       BANK:   210010  210021           UMRANIYE B-           UMRANIYE B-    4            210321  212521        ADAPAZARI           KOSEKOY       2          90.99        165.6018   182.0
+747        EIH:   210122  212122          TEPEOREN              YARIMCA1        1            210321  212521        ADAPAZARI           KOSEKOY       2          90.99        165.6018   182.0
+748        OTR:   214210  214221       KOCAELI A-OTR-1       KOCAELI A-OTR-1    1            210321  212521        ADAPAZARI           KOSEKOY       2          90.98        165.5836   182.0
+749        OTR:   214210  214221       KOCAELI B-OTR-3       KOCAELI B-OTR-3    2            210321  212521        ADAPAZARI           KOSEKOY       2          90.98        165.5836   182.0
+750  Generator:   226361    None          AKSAGOYNUK                    None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.98        165.5836   182.0
+751        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            210311  214211        ADAPAZARI           KOCAELI       1          90.98        905.2510   995.0
+752        EIH:   212322  212421          IZMIT                 ENJKOSEKOY      1            210321  212521        ADAPAZARI           KOSEKOY       2          90.98        165.5836   182.0
+753        EIH:   210221  212021          PASAKOY               DUDULLU         1            210321  212521        ADAPAZARI           KOSEKOY       2          90.97        165.5654   182.0
+754        EIH:   210311  231110          ADAPAZARI             OSMANCA         1            210621  214221        HYUNDAI             KOCAELI       1          90.96        165.5472   182.0
+755        EIH:   211321  211622          TUZLA                 ICMELER         1            210321  212521        ADAPAZARI           KOSEKOY       2          90.96        165.5472   182.0
+756        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.95        165.5290   182.0
+757        EIH:   212121  214221          YARIMCA1              KOCAELI         1            210321  212521        ADAPAZARI           KOSEKOY       2          90.95        165.5290   182.0
+758        EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            210321  212521        ADAPAZARI           KOSEKOY       2          90.95        165.5290   182.0
+759        EIH:   210621  212422          HYUNDAI               ENJKOSEKOY      1            210321  212521        ADAPAZARI           KOSEKOY       2          90.94        165.5108   182.0
+760        EIH:   210621  214221          HYUNDAI               KOCAELI         1            210321  212521        ADAPAZARI           KOSEKOY       2          90.93        165.4926   182.0
+761        EIH:   209921  211822          GEBGOSBSANAL          GEBZEOSB        1            210311  214211        ADAPAZARI           KOCAELI       1          90.92        904.6540   995.0
+762        EIH:   209921  216722          GEBGOSBSANAL          GEBZEKIMYA      1            210311  214211        ADAPAZARI           KOCAELI       1          90.92        904.6540   995.0
+763        OTR:   211211  211222        KARTAL B-OTR-4        KARTAL B-OTR-4    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.91        165.4562   182.0
+764  Generator:   214762    None          YENIELEKTRIK                  None  None           209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.91        165.4562   182.0
+765  Generator:   214762    None          YENIELEKTRIK                  None  None           209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.91        165.4562   182.0
+766  Generator:   214763    None          YENIELEKTRIK                  None  None           209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.91        165.4562   182.0
+767  Generator:   214763    None          YENIELEKTRIK                  None  None           209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.91        165.4562   182.0
+768        OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.90        165.4380   182.0
+769        EIH:   210111  210211          TEPEOREN              PASAKOY         1            210321  212521        ADAPAZARI           KOSEKOY       2          90.90        165.4380   182.0
+770       BANK:   210210  210221             PASAKOY A             PASAKOY A    1            210321  212521        ADAPAZARI           KOSEKOY       2          90.89        165.4198   182.0
+771  Generator:   214761    None          YENIELEKTRIK                  None  None           209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.89        165.4198   182.0
+772        EIH:   210410  410410          ADA1DGKC              TEMELLI         1            210311  214211        ADAPAZARI           KOCAELI       1          90.89        904.3555   995.0
+773  Generator:   214761    None          YENIELEKTRIK                  None  None           209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.89        165.4198   182.0
+774        EIH:   211622  214321          ICMELER               DILOVASIOSB     1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.89        165.4198   182.0
+775        EIH:   211622  214321          ICMELER               DILOVASIOSB     1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.89        165.4198   182.0
+776        EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            210321  212521        ADAPAZARI           KOSEKOY       2          90.88        165.4016   182.0
+777        EIH:   211522  219121          COLAKOGLU             COLAKOGLU400    1            210321  212521        ADAPAZARI           KOSEKOY       2          90.88        165.4016   182.0
+778        EIH:   214310  290310          DÝLOVASI              DCELIKSANAL     1            210321  212521        ADAPAZARI           KOSEKOY       2          90.88        165.4016   182.0
+779        EIH:   210511  232611          ADA2DGKC              ZETES2          1            210321  212521        ADAPAZARI           KOSEKOY       2          90.88        165.4016   182.0
+780        EIH:   213521  215021          FORD                  GOLCUK          1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.87        165.3834   182.0
+781        EIH:   213521  215021          FORD                  GOLCUK          1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.87        165.3834   182.0
+782        EIH:   210510  231110          ADA2DGKC              OSMANCA         1            210321  212521        ADAPAZARI           KOSEKOY       2          90.87        165.3834   182.0
+783        EIH:   212322  212421          IZMIT                 ENJKOSEKOY      1            210311  214211        ADAPAZARI           KOCAELI       1          90.87        904.1565   995.0
+784        EIH:   210410  410410          ADA1DGKC              TEMELLI         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.86        165.3652   182.0
+785  Generator:   226362    None          AKSAGOYNUK                    None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.86        165.3652   182.0
+786        EIH:   231110  410311          OSMANCA               SINCAN          1            210311  214211        ADAPAZARI           KOCAELI       1          90.85        903.9575   995.0
+787        EIH:   210321  214222          ADAPAZARI             KOCAELI         2            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.82        165.2924   182.0
+788        EIH:   210321  214222          ADAPAZARI             KOCAELI         2            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.82        165.2924   182.0
+789        EIH:   210110  214710          TEPEOREN              YENIDGKC        1            210311  214211        ADAPAZARI           KOCAELI       1          90.81        903.5595   995.0
+790        EIH:   210411  210511          ADA1DGKC              ADA2DGKC        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.80        165.2560   182.0
+791        EIH:   211222  211621          KARTAL                ICMELER         1            210321  212521        ADAPAZARI           KOSEKOY       2          90.79        165.2378   182.0
+792        EIH:   210310  227210          ADAPAZARI             ULUDAG          1            210111  214211        TEPEOREN            KOCAELI       1          90.78        903.2610   995.0
+793        EIH:   210021  217621          UMRANIYE              DUDULLUMETRO    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.77        165.2014   182.0
+794        EIH:   210021  217621          UMRANIYE              DUDULLUMETRO    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.77        165.2014   182.0
+795        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            210111  214211        TEPEOREN            KOCAELI       1          90.77        903.1615   995.0
+796        EIH:   231110  410311          OSMANCA               SINCAN          1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.76        165.1832   182.0
+797        EIH:   210310  214210          ADAPAZARI             KOCAELI         1            210311  210321   ADAPAZARI B-OTR-4   ADAPAZARI B-OTR-4  2          90.75        226.8750   250.0
+798        EIH:   211421  211522          KROMANCELIK           COLAKOGLU       1            210321  212521        ADAPAZARI           KOSEKOY       2          90.74        165.1468   182.0
+799        EIH:   210110  214811          TEPEOREN              MAKINAOSB       1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.74        165.1468   182.0
+800        EIH:   209921  211822          GEBGOSBSANAL          GEBZEOSB        1            210111  214211        TEPEOREN            KOCAELI       1          90.72        902.6640   995.0
+801        EIH:   209921  216722          GEBGOSBSANAL          GEBZEKIMYA      1            210111  214211        TEPEOREN            KOCAELI       1          90.72        902.6640   995.0
+802       BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            210321  212521        ADAPAZARI           KOSEKOY       2          90.70        165.0740   182.0
+803        EIH:   212322  212421          IZMIT                 ENJKOSEKOY      1            210111  214211        TEPEOREN            KOCAELI       1          90.67        902.1665   995.0
+804       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.66        165.0012   182.0
+805  Generator:   233662    None          ZETES3                        None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.66        165.0012   182.0
+806  Generator:   233661    None          ZETES3                        None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.65        164.9830   182.0
+807        EIH:   211121  211222          SOGANLIK              KARTAL          1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.65        164.9830   182.0
+808        EIH:   210410  410410          ADA1DGKC              TEMELLI         1            210111  214211        TEPEOREN            KOCAELI       1          90.64        901.8680   995.0
+809        EIH:   234421  412421          BOLU1                 SARIYAR         1            231121  233221        OSMANCA             CUMAYERI      1          90.64        119.6448   132.0
+810  Generator:   230662    None          YENICATES                     None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.63        164.9466   182.0
+811        EIH:   210110  214710          TEPEOREN              YENIDGKC        1            210111  214211        TEPEOREN            KOCAELI       1          90.63        901.7685   995.0
+812        EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            210321  212521        ADAPAZARI           KOSEKOY       2          90.63        164.9466   182.0
+813  Generator:   232662    None          ZETES2                        None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.62        164.9284   182.0
+814        EIH:   231111  612310          OSMANCA               KURSUNLU        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.62        164.9284   182.0
+815        OTR:   214210  214221       KOCAELI B-OTR-3       KOCAELI B-OTR-3    2            210311  214211        ADAPAZARI           KOCAELI       1          90.61        901.5695   995.0
+816        EIH:   231110  410311          OSMANCA               SINCAN          1            210111  214211        TEPEOREN            KOCAELI       1          90.61        901.5695   995.0
+817  Generator:   234361    None          ZETES1                        None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.61        164.9102   182.0
+818        EIH:   210010  216910          UMRANIYE              KAVACIK         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.61        164.9102   182.0
+819        OTR:   214210  214221       KOCAELI A-OTR-1       KOCAELI A-OTR-1    1            210311  214211        ADAPAZARI           KOCAELI       1          90.61        901.5695   995.0
+820        EIH:   231111  612310          OSMANCA               KURSUNLU        1            210311  214211        ADAPAZARI           KOCAELI       1          90.59        901.3705   995.0
+821        EIH:   231121  233921          OSMANCA               DUZCEOSB        1            234421  412421        BOLU1               SARIYAR       1          90.58        119.5656   132.0
+822        EIH:   210411  210511          ADA1DGKC              ADA2DGKC        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.58        164.8556   182.0
+823        EIH:   210411  210511          ADA1DGKC              ADA2DGKC        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.58        164.8556   182.0
+824        EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.57        164.8374   182.0
+825        EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            210311  214211        ADAPAZARI           KOCAELI       1          90.56        901.0720   995.0
+826        EIH:   211321  211421          TUZLA                 KROMANCELIK     1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.56        164.8192   182.0
+827        OTR:   210311  210321     ADAPAZARI C-OTR-6     ADAPAZARI C-OTR-6    3            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.51        164.7282   182.0
+828        EIH:   212621  213021          HEREKE                YARIMCA2        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.50        164.7100   182.0
+829  Generator:   211562    None          COLAKOGLUOP2                  None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.50        164.7100   182.0
+830        EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.49        164.6918   182.0
+831        EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.49        164.6918   182.0
+832        OTR:   210311  210321     ADAPAZARI C-OTR-6     ADAPAZARI C-OTR-6    3            210311  214211        ADAPAZARI           KOCAELI       1          90.49        900.3755   995.0
+833        EIH:   212121  214221          YARIMCA1              KOCAELI         1            210311  214211        ADAPAZARI           KOCAELI       1          90.48        900.2760   995.0
+834        EIH:   210410  410410          ADA1DGKC              TEMELLI         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.47        164.6554   182.0
+835        EIH:   210410  410410          ADA1DGKC              TEMELLI         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.47        164.6554   182.0
+836        EIH:   210010  216910          UMRANIYE              KAVACIK         1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.46        164.6372   182.0
+837        EIH:   210010  216910          UMRANIYE              KAVACIK         1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.46        164.6372   182.0
+838        EIH:   212321  214822          IZMIT                 MAKINAOSB       1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.45        164.6190   182.0
+839        EIH:   212321  214822          IZMIT                 MAKINAOSB       1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.45        164.6190   182.0
+840        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.44        164.6008   182.0
+841        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.44        164.6008   182.0
+842        EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            210321  212521        ADAPAZARI           KOSEKOY       2          90.43        164.5826   182.0
+843        OTR:   214210  214221       KOCAELI B-OTR-3       KOCAELI B-OTR-3    2            210111  214211        TEPEOREN            KOCAELI       1          90.41        899.5795   995.0
+844        OTR:   214210  214221       KOCAELI A-OTR-1       KOCAELI A-OTR-1    1            210111  214211        TEPEOREN            KOCAELI       1          90.41        899.5795   995.0
+845        EIH:   231110  410311          OSMANCA               SINCAN          1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.40        164.5280   182.0
+846        EIH:   211211  214711          KARTAL                YENIDGKC        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.40        164.5280   182.0
+847        EIH:   210311  231110          ADAPAZARI             OSMANCA         1            210122  211822        TEPEOREN            GEBZEOSB      1          90.40        164.5280   182.0
+848        EIH:   231110  410311          OSMANCA               SINCAN          1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.40        164.5280   182.0
+849        EIH:   214210  227211          KOCAELI               ULUDAG          1            210311  214211        ADAPAZARI           KOCAELI       1          90.39        899.3805   995.0
+850        EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            210111  214211        TEPEOREN            KOCAELI       1          90.39        899.3805   995.0
+851        EIH:   231111  612310          OSMANCA               KURSUNLU        1            210111  214211        TEPEOREN            KOCAELI       1          90.35        898.9825   995.0
+852  Generator:   214761    None          YENIELEKTRIK                  None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.35        164.4370   182.0
+853  Generator:   214762    None          YENIELEKTRIK                  None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.34        164.4188   182.0
+854        EIH:   211321  211622          TUZLA                 ICMELER         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.34        164.4188   182.0
+855        EIH:   212621  216721          HEREKE                GEBZEKIMYA      1            210321  212521        ADAPAZARI           KOSEKOY       2          90.34        164.4188   182.0
+856        EIH:   210110  214710          TEPEOREN              YENIDGKC        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.34        164.4188   182.0
+857  Generator:   214763    None          YENIELEKTRIK                  None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.33        164.4006   182.0
+858  Generator:   210561    None          ADADGKC                       None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.32        164.3824   182.0
+859        EIH:   212621  213021          HEREKE                YARIMCA2        1            210311  214211        ADAPAZARI           KOCAELI       1          90.31        898.5845   995.0
+860        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.31        164.3642   182.0
+861  Generator:   210466    None          GEBZEDG                       None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.31        164.3642   182.0
+862  Generator:   210562    None          ADADGKC                       None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.31        164.3642   182.0
+863  Generator:   210563    None          ADADGKC                       None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.31        164.3642   182.0
+864  Generator:   210462    None          GEBZEDG                       None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.30        164.3460   182.0
+865  Generator:   210461    None          GEBZEDG                       None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.30        164.3460   182.0
+866  Generator:   210464    None          GEBZEDG                       None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.30        164.3460   182.0
+867  Generator:   210465    None          GEBZEDG                       None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.30        164.3460   182.0
+868  Generator:   210562    None          ADADGKC                       None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.29        164.3278   182.0
+869  Generator:   210463    None          GEBZEDG                       None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.29        164.3278   182.0
+870        OTR:   214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.29        164.3278   182.0
+871  Generator:   210466    None          GEBZEDG                       None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.29        164.3278   182.0
+872        EIH:   212121  214221          YARIMCA1              KOCAELI         1            210111  214211        TEPEOREN            KOCAELI       1          90.29        898.3855   995.0
+873  Generator:   210563    None          ADADGKC                       None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.29        164.3278   182.0
+874  Generator:   210561    None          ADADGKC                       None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.29        164.3278   182.0
+875  Generator:   210463    None          GEBZEDG                       None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.28        164.3096   182.0
+876  Generator:   210464    None          GEBZEDG                       None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.27        164.2914   182.0
+877  Generator:   210461    None          GEBZEDG                       None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.27        164.2914   182.0
+878        OTR:   210311  210321     ADAPAZARI C-OTR-6     ADAPAZARI C-OTR-6    3            210111  214211        TEPEOREN            KOCAELI       1          90.27        898.1865   995.0
+879  Generator:   210462    None          GEBZEDG                       None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.27        164.2914   182.0
+880  Generator:   210465    None          GEBZEDG                       None  None           210321  212521        ADAPAZARI           KOSEKOY       2          90.27        164.2914   182.0
+881        EIH:   231111  612310          OSMANCA               KURSUNLU        1            210321  212521        ADAPAZARI           KOSEKOY       2          90.26        164.2732   182.0
+882       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            210311  214211        ADAPAZARI           KOCAELI       1          90.25        897.9875   995.0
+883        EIH:   210122  212122          TEPEOREN              YARIMCA1        1            210311  214211        ADAPAZARI           KOCAELI       1          90.25        897.9875   995.0
+884        EIH:   231111  612310          OSMANCA               KURSUNLU        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.24        164.2368   182.0
+885        EIH:   231111  612310          OSMANCA               KURSUNLU        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.24        164.2368   182.0
+886       BANK:   210210  210221             PASAKOY A             PASAKOY A    1            210311  214211        ADAPAZARI           KOCAELI       1          90.24        897.8880   995.0
+887        EIH:   210510  231110          ADA2DGKC              OSMANCA         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.23        164.2186   182.0
+888        EIH:   210311  231110          ADAPAZARI             OSMANCA         1            210321  212521        ADAPAZARI           KOSEKOY       2          90.22        164.2004   182.0
+889        EIH:   210511  232611          ADA2DGKC              ZETES2          1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.22        164.2004   182.0
+890        EIH:   210222  211022          PASAKOY               BBAKKALKOY      2            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.21        164.1822   182.0
+891        EIH:   210222  211022          PASAKOY               BBAKKALKOY      1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.21        164.1822   182.0
+892        EIH:   211211  214711          KARTAL                YENIDGKC        1            210122  211822        TEPEOREN            GEBZEOSB      1          90.20        164.1640   182.0
+893        EIH:   231110  410311          OSMANCA               SINCAN          1            210321  212521        ADAPAZARI           KOSEKOY       2          90.19        164.1458   182.0
+894  Generator:   230662    None          YENICATES                     None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.16        164.0912   182.0
+895  Generator:   234361    None          ZETES1                        None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.16        164.0912   182.0
+896        EIH:   210122  212021          TEPEOREN              DUDULLU         2            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.16        164.0912   182.0
+897        EIH:   210122  212021          TEPEOREN              DUDULLU         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.16        164.0912   182.0
+898       BANK:   210310  210322           ADAPAZARI A           ADAPAZARI A    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.16        164.0912   182.0
+899        EIH:   212321  214822          IZMIT                 MAKINAOSB       1            210311  214211        ADAPAZARI           KOCAELI       1          90.16        897.0920   995.0
+900        EIH:   214210  227211          KOCAELI               ULUDAG          1            210111  214211        TEPEOREN            KOCAELI       1          90.16        897.0920   995.0
+901       BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    2            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.16        164.0912   182.0
+902        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            210122  211822        TEPEOREN            GEBZEOSB      1          90.15        164.0730   182.0
+903        EIH:   214210  227211          KOCAELI               ULUDAG          1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.14        164.0548   182.0
+904       BANK:   210310  210322           ADAPAZARI A           ADAPAZARI A    1            210311  214211        ADAPAZARI           KOCAELI       1          90.14        896.8930   995.0
+905        EIH:   214210  227211          KOCAELI               ULUDAG          1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.14        164.0548   182.0
+906        EIH:   213621  213721          KARAMURSEL            YALOVA          1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.13        164.0366   182.0
+907        EIH:   214821  216721          MAKINAOSB             GEBZEKIMYA      1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.13        164.0366   182.0
+908        EIH:   214821  216722          MAKINAOSB             GEBZEKIMYA      1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.13        164.0366   182.0
+909        EIH:   234421  412421          BOLU1                 SARIYAR         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.13        164.0366   182.0
+910        EIH:   212021  217621          DUDULLU               DUDULLUMETRO    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.13        164.0366   182.0
+911        EIH:   211321  211822          TUZLA                 GEBZEOSB        1            210311  214211        ADAPAZARI           KOCAELI       1          90.12        896.6940   995.0
+912        EIH:   210121  211921          TEPEOREN              KURTKOY         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.11        164.0002   182.0
+913        EIH:   232610  233610          ZETES2                ZETES3          1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.10        163.9820   182.0
+914  Generator:   233661    None          ZETES3                        None  None           209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.10        163.9820   182.0
+915  Generator:   233661    None          ZETES3                        None  None           209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.10        163.9820   182.0
+916  Generator:   233662    None          ZETES3                        None  None           209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.10        163.9820   182.0
+917  Generator:   233662    None          ZETES3                        None  None           209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.10        163.9820   182.0
+918        EIH:   230010  231110          BOLUCEK               OSMANCA         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.10        163.9820   182.0
+919        EIH:   212621  213021          HEREKE                YARIMCA2        1            210111  214211        TEPEOREN            KOCAELI       1          90.09        896.3955   995.0
+920        EIH:   231111  233611          OSMANCA               ZETES3          1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.09        163.9638   182.0
+921  Generator:   232662    None          ZETES2                        None  None           209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.08        163.9456   182.0
+922  Generator:   232662    None          ZETES2                        None  None           209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.08        163.9456   182.0
+923        EIH:   210821  210921          GOZTEPE               KBAKKALKOY      1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.07        163.9274   182.0
+924        EIH:   210022  210921          UMRANIYE              KBAKKALKOY      1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.07        163.9274   182.0
+925        EIH:   210922  216622          KBAKKALKOY            KADIKOY         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.07        163.9274   182.0
+926        EIH:   210022  210721          UMRANIYE              SELIMIYE        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.07        163.9274   182.0
+927        OTR:   210910  210921    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.07        163.9274   182.0
+928        OTR:   210911  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.07        163.9274   182.0
+929        EIH:   210121  211821          TEPEOREN              GEBZEOSB        2            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.06        163.9092   182.0
+930       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            210111  214211        TEPEOREN            KOCAELI       1          90.06        896.0970   995.0
+931        EIH:   210121  211821          TEPEOREN              GEBZEOSB        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.06        163.9092   182.0
+932        EIH:   210322  212921          ADAPAZARI             HENDEK          1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.06        163.9092   182.0
+933        EIH:   230021  231421          BOLUCEK               ERDEMIR2        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+934        EIH:   230021  230621          BOLUCEK               CATES           1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+935        EIH:   230021  231321          BOLUCEK               ERDEMIR1        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+936        EIH:   230021  231621          BOLUCEK               ZONGULDAK       1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+937        EIH:   212621  212722          HEREKE                NUHCIMENTO      1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+938        EIH:   232022  234422          BOLU2                 BOLU1           1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+939        EIH:   230621  231621          CATES                 ZONGULDAK       1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+940        EIH:   233021  234321          KOZLU                 ZETES1          1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+941        EIH:   232021  232121          BOLU2                 BOLUCIM         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+942        EIH:   230022  233021          BOLUCEK               KOZLU           1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+943        EIH:   232221  234422          KAYNASLI              BOLU1           1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+944       BANK:   210210  210221             PASAKOY A             PASAKOY A    1            210111  214211        TEPEOREN            KOCAELI       1          90.05        895.9975   995.0
+945        EIH:   231323  231421          ERDEMIR1              ERDEMIR2        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+946        EIH:   210722  216621          SELIMIYE              KADIKOY         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+947        EIH:   210122  212221          TEPEOREN              SILE            1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+948        EIH:   212621  212721          HEREKE                NUHCIMENTO      1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.05        163.8910   182.0
+949        EIH:   216021  222221          GEYVERES              PASALAR         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+950        EIH:   217321  231521          ALAPLI                AKCAKOCA        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+951        EIH:   210322  216021          ADAPAZARI             GEYVERES        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+952        EIH:   230721  616121          CAYCUMA               KARABUK         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+953        EIH:   230721  616321          CAYCUMA               SAFRANBOLU      1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+954       BANK:   230010  230022             BOLUCEK A             BOLUCEK A    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+955        EIH:   230621  230721          CATES                 CAYCUMA         2            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+956        EIH:   211221  211921          KARTAL                KURTKOY         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+957        EIH:   211221  211921          KARTAL                KURTKOY         2            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+958        EIH:   230010  232610          BOLUCEK               ZETES2          1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+959        EIH:   212521  214222          KOSEKOY               KOCAELI         2            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+960        EIH:   230621  230721          CATES                 CAYCUMA         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+961        EIH:   231121  231521          OSMANCA               AKCAKOCA        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+962        EIH:   231821  232121          GERKONSAN             BOLUCIM         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+963        EIH:   210122  212122          TEPEOREN              YARIMCA1        1            210111  214211        TEPEOREN            KOCAELI       1          90.04        895.8980   995.0
+964        EIH:   210322  213821          ADAPAZARI             PAMUKOVA        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+965        EIH:   213822  222221          PAMUKOVA              PASALAR         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+966        EIH:   212521  214222          KOSEKOY               KOCAELI         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.04        163.8728   182.0
+967        EIH:   213921  218821          TOYOTASA              ASAS            1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.03        163.8546   182.0
+968        EIH:   210111  217711          TEPEOREN              ATASEHIR        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.03        163.8546   182.0
+969        EIH:   210111  217711          TEPEOREN              ATASEHIR        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.03        163.8546   182.0
+970       BANK:   230010  230021             BOLUCEK B             BOLUCEK B    2            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.03        163.8546   182.0
+971        EIH:   210010  210110          UMRANIYE              TEPEOREN        1            209921  216722        GEBGOSBSANAL        GEBZEKIMYA    1          90.03        163.8546   182.0
+972        EIH:   210010  210110          UMRANIYE              TEPEOREN        1            209921  211822        GEBGOSBSANAL        GEBZEOSB      1          90.03        163.8546   182.0
+973        EIH:   217321  230021          ALAPLI                BOLUCEK         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.03        163.8546   182.0
+974        EIH:   210322  213921          ADAPAZARI             TOYOTASA        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.03        163.8546   182.0
+975        EIH:   230621  234322          CATES                 ZETES1          1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.03        163.8546   182.0
+976        EIH:   210322  213322          ADAPAZARI             KUZULUK         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.03        163.8546   182.0
+977        EIH:   231821  616521          GERKONSAN             ISMETPASA       1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.03        163.8546   182.0
+978        EIH:   218821  235121          ASAS                  MAVBIYOKUTLE    1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.02        163.8364   182.0
+979  Generator:   226361    None          AKSAGOYNUK                    None  None           210621  212422        HYUNDAI             ENJKOSEKOY    1          90.02        163.8364   182.0
+980        EIH:   213421  216421          MUDURNU               GOKSUHES        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.02        163.8364   182.0
+981        EIH:   232221  233921          KAYNASLI              DUZCEOSB        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.02        163.8364   182.0
+982        EIH:   213321  216421          KUZULUK               GOKSUHES        1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.02        163.8364   182.0
+983        EIH:   235121  412421          MAVBIYOKUTLE          SARIYAR         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.01        163.8182   182.0
+984        EIH:   213421  412421          MUDURNU               SARIYAR         1            210621  212422        HYUNDAI             ENJKOSEKOY    1          90.01        163.8182   182.0
+985        EIH:   210221  212021          PASAKOY               DUDULLU         1            210311  214211        ADAPAZARI           KOCAELI       1          90.01        895.5995   995.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

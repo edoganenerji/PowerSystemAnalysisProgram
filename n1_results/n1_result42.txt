@@ -1,0 +1,12 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+        Kýsýt                                                                Ýzlenen Techizat                                                                                         
+         Type From Bus  To Bus           From Name             To Name    ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0       BANK:   222810  222822        ESKISEHIR3 A        ESKISEHIR3 A    2            222811  222821  ESKISEHIR3 B-OTR-3  ESKISEHIR3 B-OTR-3  2         140.90         352.250  250.0
+1        OTR:   222811  222821  ESKISEHIR3 B-OTR-3  ESKISEHIR3 B-OTR-3    2            222810  222822  ESKISEHIR3 A-OTR-2  ESKISEHIR3 A-OTR-2  1         107.34         161.010  150.0
+2       BANK:   220210  220221           GURAGAC A           GURAGAC A    1            220510  220521     SEYITOMER OTR-1     SEYITOMER OTR-1  1         100.02         150.030  150.0
+3        OTR:   222811  222821  ESKISEHIR3 B-OTR-3  ESKISEHIR3 B-OTR-3    2            222810  222822  ESKISEHIR3 A-OTR-1  ESKISEHIR3 A-OTR-1  2          99.98         249.950  250.0
+4        EIH:   220511  222811        SEYITOMER           ESKISEHIR3      1            220510  220521     SEYITOMER OTR-1     SEYITOMER OTR-1  1          95.00         142.500  150.0
+5  Generator:   220563    None        SEYITOMERTES                None  None           220510  220521     SEYITOMER OTR-1     SEYITOMER OTR-1  1          91.21         136.815  150.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

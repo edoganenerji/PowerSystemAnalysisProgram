@@ -1,0 +1,71 @@
+1...............................................................................................................................................................
+ .                                         PTI INTERACTIVE POWER SYSTEM SIMULATOR--PSS(R)E     MON, MAR 14 2022   9:13                                  PAGE 1 .
+ .                                                                                                                                                             .
+ .                                                07.03.2022 14:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.                                                 .
+ .                                                                                                                                                             .
+ .                                                                                                                                                             .
+ .                                   *** DCCC OVERLOAD REPORT: MONITORED ELEMENTS LOADED ABOVE  90.0 OF RATING SET  1 ***                                    .
+ ...............................................................................................................................................................
+
+ DISTRIBUTION FACTOR FILE:     kba.dfx
+
+                                                              <------------- O V E R L O A D E D   L I N E S -------------->  <--- MW FLOW --->
+ <----------- C O N T I N G E N C Y   E V E N T S -----------><--------- F R O M ---------> <----------- T O ----------->CKT  PRE-CNT  POST-CNT  RATING  PERCENT
+ OPEN LINE FROM BUS 210110 [TEPEOREN    400.00] TO BUS 210121 [TEPEOREN    154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 13 210110-210121(
+                                                              210110     TEPEOREN    400.00 210121     TEPEOREN    154.00 2     183.4    259.0    249.7    103.7
+ OPEN LINE FROM BUS 210110 [TEPEOREN    400.00] TO BUS 210121 [TEPEOREN    154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 14 210110-210121(
+                                                              210110     TEPEOREN    400.00 210121     TEPEOREN    154.00 1     184.5    259.9    249.7    104.1
+ OPEN LINE FROM BUS 210110 [TEPEOREN    400.00] TO BUS 214211 [KOCAELI     400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 15 210110-214211(
+                                                              214210     KOCAELI     400.00 214221     KOCAELI     154.00 1     204.6    226.3    250.0     90.5
+ OPEN LINE FROM BUS 210111 [TEPEOREN    400.00] TO BUS 214310 [DILISKELESIG400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 21 210111-214310(
+                                                              210122     TEPEOREN    154.00 211822     GEBZEOSB    154.00 1     129.7    228.9    249.8     91.6
+                                                              214210     KOCAELI     400.00 214221     KOCAELI     154.00 1     204.6    238.1    250.0     95.2
+                                                              214810     MAKINAOSB   400.00 214821     MAKINAOSB   154.00 1     156.9    254.6    243.5    104.5
+                                                              214811     MAKINAOSB   400.00 214822     MAKINAOSB   154.00 1     160.9    244.9    244.9    100.0
+ OPEN LINE FROM BUS 214210 [KOCAELI     400.00] TO BUS 214810 [MAKINAOSB   400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 134 214210-214810
+                                                              214210     KOCAELI     400.00 214221     KOCAELI     154.00 1     204.6    249.1    250.0     99.7
+ OPEN LINE FROM BUS 214811 [MAKINAOSB   400.00] TO BUS 214822 [MAKINAOSB   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 144 214811-214822
+                                                              214210     KOCAELI     400.00 214221     KOCAELI     154.00 1     204.6    225.5    250.0     90.2
+ OPEN LINE FROM BUS 220111 [BURSASANAYI 400.00] TO BUS 220122 [BURSASANAYI 154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 188 220111-220122
+                                                              220111     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 2     174.5    235.0    249.0     94.4
+ OPEN LINE FROM BUS 220111 [BURSASANAYI 400.00] TO BUS 220122 [BURSASANAYI 154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 189 220111-220122
+                                                              220111     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 1     170.2    231.3    249.0     92.9
+ OPEN LINE FROM BUS 220511 [SEYITOMER   400.00] TO BUS 222811 [ESKISEHIR3  400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 209 220511-222811
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1      87.4    143.6    148.1     96.9
+ OPEN LINE FROM BUS 210110 [TEPEOREN    400.00] TO BUS 210121 [TEPEOREN    154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 3(210110-210121(1
+ OPEN LINE FROM BUS 210110 [TEPEOREN    400.00] TO BUS 210121 [TEPEOREN    154.00] CKT 2
+                                                              210121     TEPEOREN    154.00 211921     KURTKOY     154.00 1      61.0   -306.8    334.6     91.7
+                                                              211211     KARTAL      400.00 211221     KARTAL      154.00 1     125.4    240.8    249.7     96.4
+ OPEN LINE FROM BUS 210111 [TEPEOREN    400.00] TO BUS 210122 [TEPEOREN    154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 4(210111-210122(1
+ OPEN LINE FROM BUS 210111 [TEPEOREN    400.00] TO BUS 210122 [TEPEOREN    154.00] CKT 2
+                                                              214210     KOCAELI     400.00 214221     KOCAELI     154.00 1     204.6    235.9    250.0     94.4
+ OPEN LINE FROM BUS 211221 [KARTAL      154.00] TO BUS 211921 [KURTKOY     154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 15(211221-211921(
+ OPEN LINE FROM BUS 211221 [KARTAL      154.00] TO BUS 211921 [KURTKOY     154.00] CKT 2
+                                                              210110     TEPEOREN    400.00 210121     TEPEOREN    154.00 1     184.5    247.4    249.7     99.1
+                                                              210110     TEPEOREN    400.00 210121     TEPEOREN    154.00 2     183.4    246.0    249.7     98.5
+ OPEN LINE FROM BUS 222811 [ESKISEHIR3  400.00] TO BUS 222821 [ESKISEHIR3  154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 27(222811-222821(
+ OPEN LINE FROM BUS 222811 [ESKISEHIR3  400.00] TO BUS 222821 [ESKISEHIR3  154.00] CKT 2
+                                                              222810     ESKISEHIR3  400.00 222822     ESKISEHIR3  154.00 1      76.5    138.7    150.0     92.5
+DC DCCC
++-------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+
+|  Row  |  Contingency Label                   |  Monitored Line                                                   |  Rating MVA    |  Pre-Contingency Flow MW    |  Post-Contingency Flow MW    |  Percent |
++-------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+
+|    1  |  SINGLE OPN LIN 13 210110-210121(    |  210110     TEPEOREN    400.00 210121     TEPEOREN    154.00 2    |      249.7448  |                   183.3825  |                    259.0262  |     103.7164  |
+|    2  |  SINGLE OPN LIN 14 210110-210121(    |  210110     TEPEOREN    400.00 210121     TEPEOREN    154.00 1    |      249.7389  |                   184.4513  |                    259.9147  |     104.0746  |
+|    3  |  SINGLE OPN LIN 15 210110-214211(    |  214210     KOCAELI     400.00 214221     KOCAELI     154.00 1    |      249.9768  |                   204.6432  |                    226.2989  |      90.5280  |
+|    4  |  SINGLE OPN LIN 21 210111-214310(    |  210122     TEPEOREN    154.00 211822     GEBZEOSB    154.00 1    |      249.7836  |                   129.6641  |                    228.8526  |      91.6204  |
+|    5  |  SINGLE OPN LIN 21 210111-214310(    |  214210     KOCAELI     400.00 214221     KOCAELI     154.00 1    |      249.9768  |                   204.6432  |                    238.0777  |      95.2399  |
+|    6  |  SINGLE OPN LIN 21 210111-214310(    |  214810     MAKINAOSB   400.00 214821     MAKINAOSB   154.00 1    |      243.4757  |                   156.9036  |                    254.5518  |     104.5492  |
+|    7  |  SINGLE OPN LIN 21 210111-214310(    |  214811     MAKINAOSB   400.00 214822     MAKINAOSB   154.00 1    |      244.9484  |                   160.8725  |                    244.9103  |      99.9844  |
+|    8  |  SINGLE OPN LIN 134 214210-214810    |  214210     KOCAELI     400.00 214221     KOCAELI     154.00 1    |      249.9768  |                   204.6432  |                    249.1374  |      99.6642  |
+|    9  |  SINGLE OPN LIN 144 214811-214822    |  214210     KOCAELI     400.00 214221     KOCAELI     154.00 1    |      249.9768  |                   204.6432  |                    225.5352  |      90.2225  |
+|   10  |  SINGLE OPN LIN 188 220111-220122    |  220111     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 2    |      248.9884  |                   174.5072  |                    235.0394  |      94.3978  |
+|   11  |  SINGLE OPN LIN 189 220111-220122    |  220111     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 1    |      249.0315  |                   170.2009  |                    231.2691  |      92.8674  |
+|   12  |  SINGLE OPN LIN 209 220511-222811    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      148.1491  |                    87.3970  |                    143.5887  |      96.9218  |
+|   13  |  DOUBLE OPN LIN 3(210110-210121(1    |  210121     TEPEOREN    154.00 211921     KURTKOY     154.00 1    |      334.5658  |                    60.9927  |                   -306.8409  |      91.7132  |
+|   14  |  DOUBLE OPN LIN 3(210110-210121(1    |  211211     KARTAL      400.00 211221     KARTAL      154.00 1    |      249.7028  |                   125.4343  |                    240.8192  |      96.4424  |
+|   15  |  DOUBLE OPN LIN 4(210111-210122(1    |  214210     KOCAELI     400.00 214221     KOCAELI     154.00 1    |      249.9768  |                   204.6432  |                    235.8895  |      94.3646  |
+|   16  |  DOUBLE OPN LIN 15(211221-211921(    |  210110     TEPEOREN    400.00 210121     TEPEOREN    154.00 1    |      249.7389  |                   184.4513  |                    247.4283  |      99.0748  |
+|   17  |  DOUBLE OPN LIN 15(211221-211921(    |  210110     TEPEOREN    400.00 210121     TEPEOREN    154.00 2    |      249.7448  |                   183.3825  |                    245.9945  |      98.4984  |
+|   18  |  DOUBLE OPN LIN 27(222811-222821(    |  222810     ESKISEHIR3  400.00 222822     ESKISEHIR3  154.00 1    |      149.9996  |                    76.4878  |                    138.7078  |      92.4721  |
++-------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+

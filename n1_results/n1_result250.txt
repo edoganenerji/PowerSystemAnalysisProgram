@@ -1,0 +1,140 @@
+
+ 10.06.2022 11:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220610_1100_SN5_TR0 (1).sav was saved on MON, JUN 13 2022  10:00
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 18 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210321 - 213121, ADAPAZARI    - SAKARYA      (1 )
+Inkitaya giden bara numaralari:
+[213121, 213122, 213221, 216521, 218921, 231221, 231222]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 25 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 232021 - 234422, BOLU2        - BOLU1        (1 )
+Inkitaya giden bara numaralari:
+[231821, 232021, 232022, 232121, 232821, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 12 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 213122 - 218921, SAKARYA      - FERIZLIOSB   (1 )
+Inkitaya giden bara numaralari:
+[213221, 216521, 218921, 231221, 231222]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 14 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 232022 - 232121, BOLU2        - BOLUCIM      (1 )
+Inkitaya giden bara numaralari:
+[231821, 232121, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 3 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 231121 - 232422, OSMANCA      - MELEN        (1 )
+Inkitaya giden bara numaralari:
+[232422]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 10 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 231821 - 232121, GERKONSAN    - BOLUCIM      (1 )
+Inkitaya giden bara numaralari:
+[231821, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 2 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 232022 - 232821, BOLU2        - KOPRUBASI    (1 )
+Inkitaya giden bara numaralari:
+[232821]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 9 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 213221 - 218921, KAYNARCA     - FERIZLIOSB   (1 )
+Inkitaya giden bara numaralari:
+[213221, 216521, 231221, 231222]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   214210  214222     KOCAELI B     KOCAELI B  1            210311  210321  ADAPAZARI B-OTR-4  ADAPAZARI B-OTR-4  2         111.53         278.825  250.0
+1  BANK:   214210  214222     KOCAELI B     KOCAELI B  1            210311  210321  ADAPAZARI B-OTR-3  ADAPAZARI B-OTR-3  1         109.79         274.475  250.0
+2  BANK:   210311  210321   ADAPAZARI B   ADAPAZARI B  1            214210  214222    KOCAELI B-OTR-3    KOCAELI B-OTR-3  1         101.54         253.850  250.0
+3  BANK:   210311  210321   ADAPAZARI B   ADAPAZARI B  1            214210  214222    KOCAELI B-OTR-4    KOCAELI B-OTR-4  2          94.47         236.175  250.0
+4   EIH:   210310  214210  ADAPAZARI     KOCAELI       1            210311  210321  ADAPAZARI B-OTR-4  ADAPAZARI B-OTR-4  2          94.13         235.325  250.0
+5   EIH:   210310  214210  ADAPAZARI     KOCAELI       1            210311  210321  ADAPAZARI B-OTR-3  ADAPAZARI B-OTR-3  1          92.66         231.650  250.0
+6   EIH:   214210  214810  KOCAELI       MAKINAOSB     1            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1          90.75         226.875  250.0
+7   EIH:   210311  214211  ADAPAZARI     KOCAELI       1            210311  210321  ADAPAZARI B-OTR-4  ADAPAZARI B-OTR-4  2          90.39         225.975  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   Kýsýt                                                  Ýzlenen Techizat                        
+    Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0   EIH:   212521  215021  KOSEKOY       GOLCUK        1            215021  GOLCUK        0.902260
+1   EIH:   212521  215021  KOSEKOY       GOLCUK        1            213521  FORD          0.902373
+2   EIH:   212521  215021  KOSEKOY       GOLCUK        1            213522  FORD          0.902373
+3   EIH:   212521  215021  KOSEKOY       GOLCUK        1            213621  KARAMURSEL    0.913637
+4   EIH:   231121  233921  OSMANCA       DUZCEOSB      1            233921  DUZCEOSB      0.914245
+5   EIH:   231121  233921  OSMANCA       DUZCEOSB      1            232222  KAYNASLI      0.915407
+6   EIH:   231121  233921  OSMANCA       DUZCEOSB      1            232221  KAYNASLI      0.915407
+7   EIH:   231121  233921  OSMANCA       DUZCEOSB      1            231821  GERKONSAN     0.918279
+8   EIH:   231121  233921  OSMANCA       DUZCEOSB      1            234422  BOLU1         0.923153
+9   EIH:   231121  233921  OSMANCA       DUZCEOSB      1            234421  BOLU1         0.923153
+10  EIH:   231121  233921  OSMANCA       DUZCEOSB      1            232121  BOLUCIM       0.924508
+11  EIH:   231121  233921  OSMANCA       DUZCEOSB      1            232021  BOLU2         0.926690
+12  EIH:   231121  233921  OSMANCA       DUZCEOSB      1            232022  BOLU2         0.926690
+13  EIH:   231121  233921  OSMANCA       DUZCEOSB      1            232821  KOPRUBASI     0.940009
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

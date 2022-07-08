@@ -1,0 +1,190 @@
+
+ Messages for api FDNS
+ 7 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210121 - 211921, TEPEOREN     - KURTKOY      (1 )
+Inkitaya giden bara numaralari:
+[210121, 211821]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210210 - 210221, PASAKOY A-OTR-1 - PASAKOY A-OTR-1 (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210111 - 214310, TEPEOREN     - DILISKELESIG (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210010 - 210911, UMRANIYE     - KBAKKALKOY   (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 211622 - 214322, ICMELER      - DILISKELESIG (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210211 - 210222, PASAKOY B-OTR-4 - PASAKOY B-OTR-4 (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 8 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210111 - 217711, TEPEOREN     - ATASEHIR     (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 9 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 214822 - 216722, MAKINAOSB    - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722, 216722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210010 - 217710, UMRANIYE     - ATASEHIR     (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 211211 - 214711, KARTAL       - YENIDGKC     (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210010 - 210110, UMRANIYE     - TEPEOREN     (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210910 - 215211, KBAKKALKOY   - MALTEPEIST   (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210110 - 214811, TEPEOREN     - MAKINAOSB    (1 )
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 211562, generator ismi COLAKOGLUOP2
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+         Kýsýt                                                                    Ýzlenen Techizat                                                                                         
+          Type From Bus  To Bus             From Name               To Name    ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0         OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            211622  214322        ICMELER             DILISKELESIG  1         332.97        832.4250  250.0
+1         OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1         193.38        483.4500  250.0
+2         OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1         192.58        481.4500  250.0
+3         OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            211221  211622        KARTAL              ICMELER       1         178.03        640.9080  360.0
+4         EIH:   211221  211921          KARTAL                KURTKOY         1            211221  211921        KARTAL              KURTKOY       2         123.56        415.1616  336.0
+5         EIH:   211221  211921          KARTAL                KURTKOY         2            211221  211921        KARTAL              KURTKOY       1         123.56        415.1616  336.0
+6         OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            214822  217221        MAKINAOSB           SIDDIK        1         119.47        298.6750  250.0
+7         OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            210121  211921        TEPEOREN            KURTKOY       1         115.40        387.7440  336.0
+8         OTR:   214311  214322    DILISKELESIG OTR-2    DILISKELESIG OTR-2    1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1         113.80        284.5000  250.0
+9         OTR:   214310  214322    DILISKELESIG OTR-1    DILISKELESIG OTR-1    1            214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1         113.57        283.9250  250.0
+10        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            210111  214310        TEPEOREN            DILISKELESIG  1         107.76       1063.5912  987.0
+11        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1         106.57        266.4250  250.0
+12        OTR:   214310  214322    DILISKELESIG OTR-1    DILISKELESIG OTR-1    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1         105.79        476.0550  450.0
+13        OTR:   214311  214322    DILISKELESIG OTR-2    DILISKELESIG OTR-2    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1         105.71        475.6950  450.0
+14        EIH:   214822  217221          MAKINAOSB             SIDDIK          1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1         100.37        451.6650  450.0
+15        OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          98.95        445.2750  450.0
+16        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            211221  211921        KARTAL              KURTKOY       2          95.37        320.4432  336.0
+17        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            211221  211921        KARTAL              KURTKOY       1          95.37        320.4432  336.0
+18        EIH:   212321  214822          IZMIT                 MAKINAOSB       1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          95.36        429.1200  450.0
+19        EIH:   210111  210211          TEPEOREN              PASAKOY         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          95.31        428.8950  450.0
+20        EIH:   210111  214211          TEPEOREN              KOCAELI         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.82        426.6900  450.0
+21        EIH:   210210  210410          PASAKOY               ADA1DGKC        1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.80        426.6000  450.0
+22        EIH:   211222  211621          KARTAL                ICMELER         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.80        426.6000  450.0
+23        EIH:   211221  211921          KARTAL                KURTKOY         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.68        426.0600  450.0
+24        EIH:   211221  211921          KARTAL                KURTKOY         2            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.68        426.0600  450.0
+25        OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.61        425.7450  450.0
+26  Generator:   214763    None          YENIELEKTRIK                  None  None           211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.59        425.6550  450.0
+27  Generator:   214761    None          YENIELEKTRIK                  None  None           211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.58        425.6100  450.0
+28       BANK:   210010  210021           UMRANIYE B-           UMRANIYE B-    2            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.53        425.3850  450.0
+29        EIH:   211321  211621          TUZLA                 ICMELER         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.53        425.3850  450.0
+30        EIH:   210211  231111          PASAKOY               OSMANCA         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.45        425.0250  450.0
+31        OTR:   214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.39        424.7550  450.0
+32        EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.34        424.5300  450.0
+33        EIH:   211321  211422          TUZLA                 KROMANCELIK     1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.33        424.4850  450.0
+34        EIH:   214321  214821          DILISKELESIG          MAKINAOSB       1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.30        424.3500  450.0
+35        EIH:   211521  214321          COLAKOGLU             DILISKELESIG    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.29        424.3050  450.0
+36        EIH:   210021  217621          UMRANIYE              DUDULLUMETRO    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.26        424.1700  450.0
+37        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.23        424.0350  450.0
+38        EIH:   210121  211821          TEPEOREN              GEBZEOSB        2            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.22        423.9900  450.0
+39        EIH:   210121  211821          TEPEOREN              GEBZEOSB        1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.21        423.9450  450.0
+40        EIH:   211321  211822          TUZLA                 GEBZEOSB        1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.19        423.8550  450.0
+41       BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.18        423.8100  450.0
+42        OTR:   210911  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.17        423.7650  450.0
+43        OTR:   210910  210922    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.17        423.7650  450.0
+44        EIH:   210922  216622          KBAKKALKOY            KADIKOY         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.12        423.5400  450.0
+45        EIH:   210821  210922          GOZTEPE               KBAKKALKOY      1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.11        423.4950  450.0
+46        EIH:   210022  210721          UMRANIYE              SELIMIYE        1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.10        423.4500  450.0
+47        EIH:   210022  210922          UMRANIYE              KBAKKALKOY      1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.10        423.4500  450.0
+48        EIH:   211121  211222          SOGANLIK              KARTAL          1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.08        423.3600  450.0
+49        EIH:   210221  212021          PASAKOY               DUDULLU         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.06        423.2700  450.0
+50        EIH:   210222  211022          PASAKOY               BBAKKALKOY      2            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.06        423.2700  450.0
+51        EIH:   210222  211022          PASAKOY               BBAKKALKOY      1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.06        423.2700  450.0
+52        EIH:   210122  212122          TEPEOREN              YARIMCA1        1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.05        423.2250  450.0
+53        EIH:   211022  211222          BBAKKALKOY            KARTAL          1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.05        423.2250  450.0
+54        EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          94.05        423.2250  450.0
+55       BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    2            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.99        422.9550  450.0
+56        EIH:   211822  216721          GEBZEOSB              GEBZEKIMYA      1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.97        422.8650  450.0
+57        EIH:   214821  216721          MAKINAOSB             GEBZEKIMYA      1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.96        422.8200  450.0
+58        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.86        422.3700  450.0
+59        OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.77        421.9650  450.0
+60        OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.77        421.9650  450.0
+61        EIH:   120911  210210          ZEKERIYAKOY           PASAKOY         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.77        421.9650  450.0
+62        EIH:   211421  211521          KROMANCELIK           COLAKOGLU       1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.68        421.5600  450.0
+63        EIH:   210010  216910          UMRANIYE              KAVACIK         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.58        421.1100  450.0
+64        EIH:   211522  217221          COLAKOGLU             SIDDIK          1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.49        420.7050  450.0
+65        EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.31        419.8950  450.0
+66        EIH:   210510  216911          ADA2DGKC              KAVACIK         1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          93.13        419.0850  450.0
+67        EIH:   211521  219121          COLAKOGLU             COLAKOGLU400    1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          92.94        418.2300  450.0
+68        EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          92.94        418.2300  450.0
+69        EIH:   214310  290310          DILISKELESIG          DCELIKSANAL     1            211210  211221      KARTAL C-OTR-6      KARTAL C-OTR-6  1          92.84        417.7800  450.0
+70        EIH:   214822  217221          MAKINAOSB             SIDDIK          1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1          92.83        232.0750  250.0
+71        EIH:   214822  217221          MAKINAOSB             SIDDIK          1            214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1          92.45        231.1250  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

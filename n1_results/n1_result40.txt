@@ -1,0 +1,20 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                  Ýzlenen Techizat                                                                                         
+     Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0    EIH:   210111  214310  TEPEOREN      DÝLOVASI      1            210122  211822        TEPEOREN            GEBZEOSB      1         116.16         290.400  250.0
+1   BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211210  211221      KARTAL A-OTR-2      KARTAL A-OTR-2  2         100.57         251.425  250.0
+2    EIH:   211321  211822  TUZLA         GEBZEOSB      1            211421  211522        KROMANCELIK         COLAKOGLU     1          99.10         247.750  250.0
+3    EIH:   209921  211822  GEBGOSBSANAL  GEBZEOSB      1            210122  211822        TEPEOREN            GEBZEOSB      1          98.24         245.600  250.0
+4    EIH:   209921  216722  GEBGOSBSANAL  GEBZEKIMYA    1            210122  211822        TEPEOREN            GEBZEOSB      1          98.22         245.550  250.0
+5    EIH:   214821  216722  MAKINAOSB     GEBZEKIMYA    1            210122  211822        TEPEOREN            GEBZEOSB      1          98.22         245.550  250.0
+6    EIH:   214310  290310  DÝLOVASI      DCELIKSANAL   1            210122  211822        TEPEOREN            GEBZEOSB      1          97.50         243.750  250.0
+7    EIH:   219110  290310  COLAKOGLU400  DCELIKSANAL   1            210122  211822        TEPEOREN            GEBZEOSB      1          97.50         243.750  250.0
+8    EIH:   211522  219121  COLAKOGLU     COLAKOGLU400  1            210122  211822        TEPEOREN            GEBZEOSB      1          97.47         243.675  250.0
+9   BANK:   210010  210022   UMRANIYE A-   UMRANIYE A-  2            210910  210921  KBAKKALKOY B-OTR-4  KBAKKALKOY B-OTR-4  1          93.50         233.750  250.0
+10  BANK:   210010  210022   UMRANIYE A-   UMRANIYE A-  2            210911  210921  KBAKKALKOY A-OTR-2  KBAKKALKOY A-OTR-2  1          93.26         233.150  250.0
+11   EIH:   211421  211522  KROMANCELIK   COLAKOGLU     1            210122  211822        TEPEOREN            GEBZEOSB      1          91.63         229.075  250.0
+12   EIH:   210111  214310  TEPEOREN      DÝLOVASI      1            211221  211621        KARTAL              ICMELER       1          91.62         329.832  360.0
+13   EIH:   210111  214310  TEPEOREN      DÝLOVASI      1            214810  214821   MAKINAOSB A-OTR-1   MAKINAOSB A-OTR-1  1          91.31         228.275  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

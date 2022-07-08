@@ -1,0 +1,38 @@
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211522 - 214322, COLAKOGLU    - DILISKELESIG (1 )
+Inkitaya giden bara numaralari:
+[211522, 217221]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 2 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211522 - 217221, COLAKOGLU    - SIDDIK       (1 )
+Inkitaya giden bara numaralari:
+[217221]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+        Kýsýt                                                                Ýzlenen Techizat                                                                                         
+         Type From Bus  To Bus           From Name             To Name    ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0        EIH:   210111  214310        TEPEOREN            DILISKELESIG    1            211622  214322        ICMELER             DILISKELESIG  1         106.22        265.5500  250.0
+1        EIH:   210111  214310        TEPEOREN            DILISKELESIG    1            214321  214821        DILISKELESIG        MAKINAOSB     1         103.39        258.4750  250.0
+2        OTR:   214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2    1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1         102.81        257.0250  250.0
+3        OTR:   214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1    1            214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1         102.64        256.6000  250.0
+4  Generator:   211562    None        COLAKOGLUOP2                None  None           211522  214322        COLAKOGLU           DILISKELESIG  1         102.21        343.4256  336.0
+5        EIH:   210111  214310        TEPEOREN            DILISKELESIG    1            211221  211622        KARTAL              ICMELER       1          99.88        359.5680  360.0
+6        EIH:   211221  211622        KARTAL              ICMELER         1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1          95.64        239.1000  250.0
+7        EIH:   210111  214310        TEPEOREN            DILISKELESIG    1            214810  214821   MAKINAOSB A-OTR-1   MAKINAOSB A-OTR-1  1          95.43        238.5750  250.0
+8        EIH:   211221  211622        KARTAL              ICMELER         1            214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1          95.25        238.1250  250.0
+9        EIH:   210111  214310        TEPEOREN            DILISKELESIG    1            211321  211422        TUZLA               KROMANCELIK   1          94.89        237.2250  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

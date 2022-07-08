@@ -1,0 +1,476 @@
+1...............................................................................................................................................................
+ .                                         PTI INTERACTIVE POWER SYSTEM SIMULATOR--PSS(R)E     THU, JUN 09 2022  15:00                                  PAGE 1 .
+ .                                                                                                                                                             .
+ .                                                08.06.2022 11:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.                                                 .
+ .                                                                                                                                                             .
+ .                                                                                                                                                             .
+ .                                   *** DCCC OVERLOAD REPORT: MONITORED ELEMENTS LOADED ABOVE  90.0 OF RATING SET  1 ***                                    .
+ ...............................................................................................................................................................
+
+ DISTRIBUTION FACTOR FILE:     kba.dfx
+
+                                                              <------------- O V E R L O A D E D   L I N E S -------------->  <--- MW FLOW --->
+ <----------- C O N T I N G E N C Y   E V E N T S -----------><--------- F R O M ---------> <----------- T O ----------->CKT  PRE-CNT  POST-CNT  RATING  PERCENT
+ OPEN LINE FROM BUS 210111 [TEPEOREN    400.00] TO BUS 210121 [TEPEOREN    154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 13 210111-210121(
+                                                              210111     TEPEOREN    400.00 210121     TEPEOREN    154.00 2     163.2    230.5    250.0     92.2
+ OPEN LINE FROM BUS 210111 [TEPEOREN    400.00] TO BUS 210121 [TEPEOREN    154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 14 210111-210121(
+                                                              210111     TEPEOREN    400.00 210121     TEPEOREN    154.00 1     164.1    231.3    250.0     92.5
+ OPEN LINE FROM BUS 210111 [TEPEOREN    400.00] TO BUS 214310 [DILISKELESIG400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 20 210111-214310(
+                                                              210122     TEPEOREN    154.00 211822     GEBZEOSB    154.00 1     123.0    230.5    250.0     92.2
+                                                              214810     MAKINAOSB   400.00 214821     MAKINAOSB   154.00 1     128.9    230.3    245.8     93.7
+                                                              214822     MAKINAOSB   154.00 217221     SIDDIK      154.00 1     106.0    229.0    250.0     91.6
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 210321 [ADAPAZARI   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 49 210311-210321(
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 2     188.6    249.1    249.0    100.1
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 210321 [ADAPAZARI   154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 50 210311-210321(
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 1     185.6    246.5    249.0     99.0
+ OPEN LINE FROM BUS 211522 [COLAKOGLU   154.00] TO BUS 214322 [DILISKELESIG154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 96 211522-214322(
+                                                              214822     MAKINAOSB   154.00 217221     SIDDIK      154.00 1     106.0    261.9    250.0    104.7
+ OPEN LINE FROM BUS 212521 [KOSEKOY     154.00] TO BUS 215021 [GOLCUK      154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 109 212521-215021
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.4    142.5     95.7
+ OPEN LINE FROM BUS 212521 [KOSEKOY     154.00] TO BUS 215122 [ARSLANBEY   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 110 212521-215122
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.4    142.5     95.7
+ OPEN LINE FROM BUS 214310 [DILISKELESIG400.00] TO BUS 214322 [DILISKELESIG154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 136 214310-214322
+                                                              214311     DILISKELESIG400.00 214322     DILISKELESIG154.00 1     157.6    230.3    249.9     92.2
+ OPEN LINE FROM BUS 214311 [DILISKELESIG400.00] TO BUS 214322 [DILISKELESIG154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 137 214311-214322
+                                                              214310     DILISKELESIG400.00 214322     DILISKELESIG154.00 1     158.3    230.8    249.9     92.4
+ OPEN LINE FROM BUS 215721 [HABASBILECIK154.00] TO BUS 220321 [TUNCBILEK-A 154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 151 215721-220321
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.5    142.5     93.0
+ OPEN LINE FROM BUS 215821 [ASILDEMIRCLK154.00] TO BUS 220621 [KARSAK      154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 153 215821-220621
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.0    142.5     95.4
+ OPEN LINE FROM BUS 216121 [DINCERCIM   154.00] TO BUS 222221 [PASALAR     154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 156 216121-222221
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    130.9    142.5     91.8
+ OPEN LINE FROM BUS 216121 [DINCERCIM   154.00] TO BUS 225521 [MERYEMRES   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 157 216121-225521
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    129.8    142.5     91.1
+ OPEN LINE FROM BUS 220010 [BURSADG     400.00] TO BUS 220021 [BURSADG     154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 172 220010-220021
+                                                              220010     BURSADG     400.00 220021     BURSADG     154.00 2     192.7    306.1    249.3    122.8
+                                                              220011     BURSADG     400.00 220024     BURSADG     154.00 1     201.7    225.8    249.2     90.6
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    137.4    142.5     96.4
+ OPEN LINE FROM BUS 220010 [BURSADG     400.00] TO BUS 220021 [BURSADG     154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 173 220010-220021
+                                                              220010     BURSADG     400.00 220021     BURSADG     154.00 1     192.7    306.1    249.3    122.8
+                                                              220011     BURSADG     400.00 220024     BURSADG     154.00 1     201.7    225.8    249.2     90.6
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    137.4    142.5     96.4
+ OPEN LINE FROM BUS 220011 [BURSADG     400.00] TO BUS 220024 [BURSADG     154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 175 220011-220024
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    139.0    142.5     97.5
+ OPEN LINE FROM BUS 220011 [BURSADG     400.00] TO BUS 220110 [BURSASANAYI 400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 176 220011-220110
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.4    142.5     95.7
+ OPEN LINE FROM BUS 220022 [BURSADG     154.00] TO BUS 220721 [GEMLIK      154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 179 220022-220721
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.0    142.5     95.4
+ OPEN LINE FROM BUS 220022 [BURSADG     154.00] TO BUS 220821 [ORHANGAZI   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 180 220022-220821
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.9    142.5     96.0
+ OPEN LINE FROM BUS 220024 [BURSADG     154.00] TO BUS 220621 [KARSAK      154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 184 220024-220621
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.1    142.5     95.5
+ OPEN LINE FROM BUS 220110 [BURSASANAYI 400.00] TO BUS 220122 [BURSASANAYI 154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 186 220110-220122
+                                                              220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 2     177.6    233.5    246.5     94.7
+ OPEN LINE FROM BUS 220110 [BURSASANAYI 400.00] TO BUS 220122 [BURSASANAYI 154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 187 220110-220122
+                                                              220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 1     173.2    229.5    246.7     93.1
+ OPEN LINE FROM BUS 220111 [BURSASANAYI 400.00] TO BUS 220210 [GURAGAC     400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 191 220111-220210
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    155.0    142.5    108.8
+ OPEN LINE FROM BUS 220210 [GURAGAC     400.00] TO BUS 220510 [SEYITOMER   400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 198 220210-220510
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    158.2    142.5    111.0
+ OPEN LINE FROM BUS 220221 [GURAGAC     154.00] TO BUS 220421 [TUNCBILEK-B 154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 199 220221-220421
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    131.8    142.5     92.5
+ OPEN LINE FROM BUS 220221 [GURAGAC     154.00] TO BUS 223321 [KUTAHYA     154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 200 220221-223321
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.5    142.5     93.7
+ OPEN LINE FROM BUS 220221 [GURAGAC     154.00] TO BUS 224921 [POLATTES    154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 202 220221-224921
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    150.4    142.5    105.6
+ OPEN LINE FROM BUS 220321 [TUNCBILEK-A 154.00] TO BUS 222822 [ESKISEHIR3  154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 205 220321-222822
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    138.3    142.5     97.0
+ OPEN LINE FROM BUS 220511 [SEYITOMER   400.00] TO BUS 222811 [ESKISEHIR3  400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 208 220511-222811
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    180.8    142.5    126.9
+ OPEN LINE FROM BUS 220821 [ORHANGAZI   154.00] TO BUS 222221 [PASALAR     154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 212 220821-222221
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.0    142.5     92.6
+ OPEN LINE FROM BUS 222221 [PASALAR     154.00] TO BUS 222321 [BILORSA     154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 232 222221-222321
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    130.1    142.5     91.3
+ OPEN LINE FROM BUS 222421 [SOGUT       154.00] TO BUS 225521 [MERYEMRES   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 234 222421-225521
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    129.8    142.5     91.1
+ OPEN LINE FROM BUS 222521 [BOZUYUK     154.00] TO BUS 224521 [VITRAKARO   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 235 222521-224521
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.8    142.5     96.0
+ OPEN LINE FROM BUS 222521 [BOZUYUK     154.00] TO BUS 225621 [KARTALRES   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 237 222521-225621
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    141.5    142.5     99.3
+ OPEN LINE FROM BUS 222621 [ESKISEHIR1  154.00] TO BUS 222822 [ESKISEHIR3  154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 239 222621-222822
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    131.9    142.5     92.6
+ OPEN LINE FROM BUS 222721 [ESKISEHIR2  154.00] TO BUS 222821 [ESKISEHIR3  154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 240 222721-222821
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    137.9    142.5     96.8
+ OPEN LINE FROM BUS 222721 [ESKISEHIR2  154.00] TO BUS 227921 [ESKISEHIROSB154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 242 222721-227921
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    139.7    142.5     98.0
+ OPEN LINE FROM BUS 222810 [ESKISEHIR3  400.00] TO BUS 222822 [ESKISEHIR3  154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 243 222810-222822
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    142.4    142.5     99.9
+ OPEN LINE FROM BUS 222810 [ESKISEHIR3  400.00] TO BUS 222822 [ESKISEHIR3  154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 244 222810-222822
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    147.9    142.5    103.8
+ OPEN LINE FROM BUS 222811 [ESKISEHIR3  400.00] TO BUS 222821 [ESKISEHIR3  154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 245 222811-222821
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    146.8    142.5    103.0
+ OPEN LINE FROM BUS 222811 [ESKISEHIR3  400.00] TO BUS 222821 [ESKISEHIR3  154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 246 222811-222821
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    147.9    142.5    103.8
+ OPEN LINE FROM BUS 222821 [ESKISEHIR3  154.00] TO BUS 224121 [ESKISEHIRCIM154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 247 222821-224121
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    157.8    142.5    110.7
+ OPEN LINE FROM BUS 222821 [ESKISEHIR3  154.00] TO BUS 227921 [ESKISEHIROSB154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 248 222821-227921
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    138.9    142.5     97.4
+ OPEN LINE FROM BUS 222822 [ESKISEHIR3  154.00] TO BUS 225621 [KARTALRES   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 249 222822-225621
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    141.6    142.5     99.4
+ OPEN LINE FROM BUS 222822 [ESKISEHIR3  154.00] TO BUS 227922 [ESKISEHIROSB154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 250 222822-227922
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    138.9    142.5     97.4
+ OPEN LINE FROM BUS 222921 [CIFTELER    154.00] TO BUS 223621 [KIRKA       154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 251 222921-223621
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    129.0    142.5     90.5
+ OPEN LINE FROM BUS 223121 [SIMAV       154.00] TO BUS 223221 [GEDIZ       154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 252 223121-223221
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.7    142.5     93.8
+ OPEN LINE FROM BUS 223221 [GEDIZ       154.00] TO BUS 223821 [EMET        154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 253 223221-223821
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    140.4    142.5     98.5
+ OPEN LINE FROM BUS 223321 [KUTAHYA     154.00] TO BUS 223521 [AZOT        154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 254 223321-223521
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    130.5    142.5     91.6
+ OPEN LINE FROM BUS 223321 [KUTAHYA     154.00] TO BUS 223523 [AZOT        154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 256 223321-223523
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.8    142.5     93.2
+ OPEN LINE FROM BUS 223321 [KUTAHYA     154.00] TO BUS 224422 [ETIGUMUS    154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 257 223321-224422
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    131.4    142.5     92.2
+ OPEN LINE FROM BUS 223421 [ALTINTAS    154.00] TO BUS 225821 [KUTAHYAOSB  154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 258 223421-225821
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.1    142.5     95.5
+ OPEN LINE FROM BUS 223821 [EMET        154.00] TO BUS 224922 [POLATTES    154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 260 223821-224922
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    141.5    142.5     99.3
+ OPEN LINE FROM BUS 224121 [ESKISEHIRCIM154.00] TO BUS 225121 [BOZUYUKOSB  154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 262 224121-225121
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    155.9    142.5    109.4
+ OPEN LINE FROM BUS 224521 [VITRAKARO   154.00] TO BUS 225122 [BOZUYUKOSB  154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 263 224521-225122
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    140.0    142.5     98.2
+ OPEN LINE FROM BUS 227211 [ULUDAG      400.00] TO BUS 227221 [ULUDAG      154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 268 227211-227221
+                                                              227211     ULUDAG      400.00 227221     ULUDAG      154.00 2     171.1    235.3    250.0     94.1
+ OPEN LINE FROM BUS 227211 [ULUDAG      400.00] TO BUS 227221 [ULUDAG      154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 269 227211-227221
+                                                              227211     ULUDAG      400.00 227221     ULUDAG      154.00 1     170.1    234.5    250.0     93.8
+ OPEN LINE FROM BUS 231121 [OSMANCA     154.00] TO BUS 233921 [DUZCEOSB    154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 300 231121-233921
+                                                              234421     BOLU1       154.00 412421     SARIYAR     154.00 1     -94.8   -172.0    178.7     96.3
+ OPEN LINE FROM BUS 210121 [TEPEOREN    154.00] TO BUS 211821 [GEBZEOSB    154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 5(210121-211821(1
+ OPEN LINE FROM BUS 210121 [TEPEOREN    154.00] TO BUS 211821 [GEBZEOSB    154.00] CKT 2
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.7    142.5     93.8
+ OPEN LINE FROM BUS 210310 [ADAPAZARI   400.00] TO BUS 210322 [ADAPAZARI   154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 10(210310-210322(
+ OPEN LINE FROM BUS 210310 [ADAPAZARI   400.00] TO BUS 210322 [ADAPAZARI   154.00] CKT 2
+                                                              212921     HENDEK      154.00 233221     CUMAYERI    154.00 1     -84.9   -177.2    180.0     98.4
+                                                              231121     OSMANCA     154.00 233221     CUMAYERI    154.00 1     100.1    192.3    180.0    106.8
+ OPEN LINE FROM BUS 214210 [KOCAELI     400.00] TO BUS 214222 [KOCAELI     154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 18(214210-214222(
+ OPEN LINE FROM BUS 214210 [KOCAELI     400.00] TO BUS 214222 [KOCAELI     154.00] CKT 2
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 1     185.6    249.9    249.0    100.4
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 2     188.6    253.9    249.0    102.0
+ OPEN LINE FROM BUS 220010 [BURSADG     400.00] TO BUS 220021 [BURSADG     154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 20(220010-220021(
+ OPEN LINE FROM BUS 220010 [BURSADG     400.00] TO BUS 220021 [BURSADG     154.00] CKT 2
+                                                              220011     BURSADG     400.00 220024     BURSADG     154.00 1     201.7    318.7    249.2    127.9
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    147.0    142.5    103.1
+ OPEN LINE FROM BUS 220110 [BURSASANAYI 400.00] TO BUS 220122 [BURSASANAYI 154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 21(220110-220122(
+ OPEN LINE FROM BUS 220110 [BURSASANAYI 400.00] TO BUS 220122 [BURSASANAYI 154.00] CKT 2
+                                                              220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 1     154.8    227.4    249.6     91.1
+                                                              220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 2     158.7    233.2    249.5     93.4
+                                                              220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 3     154.2    226.5    249.6     90.8
+ OPEN LINE FROM BUS 220111 [BURSASANAYI 400.00] TO BUS 220121 [BURSASANAYI 154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 22(220111-220121(
+ OPEN LINE FROM BUS 220111 [BURSASANAYI 400.00] TO BUS 220121 [BURSASANAYI 154.00] CKT 2
+                                                              220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 1     173.2    228.1    246.7     92.5
+                                                              220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 2     177.6    233.8    246.5     94.9
+                                                              220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 3     154.2    252.6    249.6    101.2
+ OPEN LINE FROM BUS 220111 [BURSASANAYI 400.00] TO BUS 220121 [BURSASANAYI 154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 23(220111-220121(
+ OPEN LINE FROM BUS 220111 [BURSASANAYI 400.00] TO BUS 220121 [BURSASANAYI 154.00] CKT 3
+                                                              220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 1     173.2    226.8    246.7     91.9
+                                                              220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 2     177.6    232.5    246.5     94.3
+                                                              220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 2     158.7    257.6    249.5    103.2
+ OPEN LINE FROM BUS 220111 [BURSASANAYI 400.00] TO BUS 220121 [BURSASANAYI 154.00] CKT 2 -------------------------- CONTINGENCY DOUBLE OPN LIN 24(220111-220121(
+ OPEN LINE FROM BUS 220111 [BURSASANAYI 400.00] TO BUS 220121 [BURSASANAYI 154.00] CKT 3
+                                                              220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 1     173.2    227.9    246.7     92.4
+                                                              220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 2     177.6    233.7    246.5     94.8
+                                                              220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 1     154.8    253.3    249.6    101.5
+ OPEN LINE FROM BUS 222810 [ESKISEHIR3  400.00] TO BUS 222822 [ESKISEHIR3  154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 25(222810-222822(
+ OPEN LINE FROM BUS 222810 [ESKISEHIR3  400.00] TO BUS 222822 [ESKISEHIR3  154.00] CKT 2
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    161.9    142.5    113.6
+                                                              222811     ESKISEHIR3  400.00 222821     ESKISEHIR3  154.00 2     143.3    240.0    249.7     96.1
+ OPEN LINE FROM BUS 222811 [ESKISEHIR3  400.00] TO BUS 222821 [ESKISEHIR3  154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 26(222811-222821(
+ OPEN LINE FROM BUS 222811 [ESKISEHIR3  400.00] TO BUS 222821 [ESKISEHIR3  154.00] CKT 2
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    171.1    142.5    120.0
+                                                              222810     ESKISEHIR3  400.00 222822     ESKISEHIR3  154.00 1      92.1    175.5    149.8    117.2
+                                                              222810     ESKISEHIR3  400.00 222822     ESKISEHIR3  154.00 2     143.0    272.5    249.7    109.1
+ OPEN LINE FROM BUS 227211 [ULUDAG      400.00] TO BUS 227221 [ULUDAG      154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 27(227211-227221(
+ OPEN LINE FROM BUS 227211 [ULUDAG      400.00] TO BUS 227221 [ULUDAG      154.00] CKT 2
+                                                              220011     BURSADG     400.00 220024     BURSADG     154.00 1     201.7    272.1    249.2    109.2
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.3    142.5     95.7
+ OPEN LINE FROM BUS 210310 [ADAPAZARI   400.00] TO BUS 415310 [YUNUSEMRETES400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 329 210310-415310
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    137.5    142.5     96.5
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 410011 [CAYIRHAN    400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 332 210311-410011
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.5    142.5     95.8
+ OPEN LINE FROM BUS 210410 [ADA1DGKC    400.00] TO BUS 210461 [GEBZEDG     15.750] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 335 210410-210461
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.8    142.5     96.0
+ OPEN LINE FROM BUS 210410 [ADA1DGKC    400.00] TO BUS 210462 [GEBZEDG     15.750] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 336 210410-210462
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.8    142.5     96.0
+ OPEN LINE FROM BUS 210410 [ADA1DGKC    400.00] TO BUS 210463 [GEBZEDG     19.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 337 210410-210463
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.8    142.5     96.0
+ OPEN LINE FROM BUS 210410 [ADA1DGKC    400.00] TO BUS 410410 [TEMELLI     400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 338 210410-410410
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    137.3    142.5     96.4
+ OPEN LINE FROM BUS 210510 [ADA2DGKC    400.00] TO BUS 210561 [ADADGKC     15.750] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 339 210510-210561
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.8    142.5     96.0
+ OPEN LINE FROM BUS 210510 [ADA2DGKC    400.00] TO BUS 210562 [ADADGKC     15.750] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 340 210510-210562
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.8    142.5     96.0
+ OPEN LINE FROM BUS 210510 [ADA2DGKC    400.00] TO BUS 210563 [ADADGKC     19.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 341 210510-210563
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.7    142.5     96.0
+ OPEN LINE FROM BUS 211522 [COLAKOGLU   154.00] TO BUS 211545 [COLAKOGLU   34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 370 211522-211545
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.3    142.5     93.5
+ OPEN LINE FROM BUS 213821 [PAMUKOVA    154.00] TO BUS 213841 [PAMUKOVA    34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 421 213821-213841
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    130.3    142.5     91.5
+ OPEN LINE FROM BUS 213822 [PAMUKOVA    154.00] TO BUS 213842 [PAMUKOVA    34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 422 213822-213842
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.0    142.5     95.4
+ OPEN LINE FROM BUS 214710 [YENIDGKC    400.00] TO BUS 214761 [YENIELEKTRIK18.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 446 214710-214761
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.8    142.5     96.0
+ OPEN LINE FROM BUS 214711 [YENIDGKC    400.00] TO BUS 214762 [YENIELEKTRIK18.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 447 214711-214762
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.8    142.5     96.0
+ OPEN LINE FROM BUS 214711 [YENIDGKC    400.00] TO BUS 214763 [YENIELEKTRIK18.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 448 214711-214763
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.8    142.5     96.0
+ OPEN LINE FROM BUS 215721 [HABASBILECIK154.00] TO BUS 215741 [HABASBILECIK34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 463 215721-215741
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.6    142.5     93.0
+ OPEN LINE FROM BUS 215821 [ASILDEMIRCLK154.00] TO BUS 215842 [ASILDEMIRCLK33.600] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 466 215821-215842
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.6    142.5     93.7
+ OPEN LINE FROM BUS 216121 [DINCERCIM   154.00] TO BUS 216141 [DINCERCIM   6.3000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 468 216121-216141
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.5    142.5     93.0
+ OPEN LINE FROM BUS 220210 [GURAGAC     400.00] TO BUS 329711 [KOLINTES    400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 506 220210-329711
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.5    142.5     93.0
+ OPEN LINE FROM BUS 220221 [GURAGAC     154.00] TO BUS 220242 [GURAGAC     34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 508 220221-220242
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.7    142.5     93.1
+ OPEN LINE FROM BUS 220221 [GURAGAC     154.00] TO BUS 290821 [KUMBETSANAL 154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 509 220221-290821
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.9    142.5     93.3
+ OPEN LINE FROM BUS 220221 [GURAGAC     154.00] TO BUS 311921 [DURSUNBEY   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 510 220221-311921
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    128.8    142.5     90.4
+ OPEN LINE FROM BUS 220321 [TUNCBILEK-A 154.00] TO BUS 220352 [TUNCBILEK-A 6.3000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 512 220321-220352
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.5    142.5     93.6
+ OPEN LINE FROM BUS 220421 [TUNCBILEK-B 154.00] TO BUS 220451 [TUNCBILEK-B 6.0000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 514 220421-220451
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    131.1    142.5     92.0
+ OPEN LINE FROM BUS 220421 [TUNCBILEK-B 154.00] TO BUS 220461 [TUTES-B     10.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 515 220421-220461
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    160.0    142.5    112.3
+ OPEN LINE FROM BUS 220510 [SEYITOMER   400.00] TO BUS 220562 [SEYITOMERTES15.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 516 220510-220562
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.4    142.5     92.9
+ OPEN LINE FROM BUS 220511 [SEYITOMER   400.00] TO BUS 220564 [SEYITOMERTES15.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 519 220511-220564
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    131.8    142.5     92.5
+ OPEN LINE FROM BUS 220521 [SEYITOMER   154.00] TO BUS 220541 [SEYITOMER   34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 521 220521-220541
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.0    142.5     92.6
+ OPEN LINE FROM BUS 220521 [SEYITOMER   154.00] TO BUS 220542 [SEYITOMER   6.3000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 522 220521-220542
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.0    142.5     92.6
+ OPEN LINE FROM BUS 220521 [SEYITOMER   154.00] TO BUS 220563 [SEYITOMERTES15.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 523 220521-220563
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    184.4    142.5    129.4
+ OPEN LINE FROM BUS 220821 [ORHANGAZI   154.00] TO BUS 220841 [ORHANGAZI   34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 530 220821-220841
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.5    142.5     93.6
+ OPEN LINE FROM BUS 222321 [BILORSA     154.00] TO BUS 222341 [BILORSA     34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 562 222321-222341
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    129.8    142.5     91.1
+ OPEN LINE FROM BUS 222321 [BILORSA     154.00] TO BUS 222342 [BILORSA     34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 563 222321-222342
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    129.4    142.5     90.8
+ OPEN LINE FROM BUS 222421 [SOGUT       154.00] TO BUS 222441 [SOGUT       34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 564 222421-222441
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.2    142.5     93.5
+ OPEN LINE FROM BUS 222421 [SOGUT       154.00] TO BUS 222442 [SOGUT       34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 565 222421-222442
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    131.9    142.5     92.6
+ OPEN LINE FROM BUS 222521 [BOZUYUK     154.00] TO BUS 222542 [BOZUYUK     34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 567 222521-222542
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.8    142.5     93.2
+ OPEN LINE FROM BUS 222621 [ESKISEHIR1  154.00] TO BUS 222641 [ESKISEHIR1  34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 568 222621-222641
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.7    142.5     93.8
+ OPEN LINE FROM BUS 222621 [ESKISEHIR1  154.00] TO BUS 222642 [ESKISEHIR1  34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 569 222621-222642
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.2    142.5     93.5
+ OPEN LINE FROM BUS 222721 [ESKISEHIR2  154.00] TO BUS 222742 [ESKISEHIR2  34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 571 222721-222742
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    128.7    142.5     90.3
+ OPEN LINE FROM BUS 222721 [ESKISEHIR2  154.00] TO BUS 290821 [KUMBETSANAL 154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 573 222721-290821
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.9    142.5     94.0
+ OPEN LINE FROM BUS 222810 [ESKISEHIR3  400.00] TO BUS 410110 [GOKCEKAYA   400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 575 222810-410110
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    145.7    142.5    102.2
+ OPEN LINE FROM BUS 222821 [ESKISEHIR3  154.00] TO BUS 222842 [ESKISEHIR3  34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 576 222821-222842
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.0    142.5     93.3
+ OPEN LINE FROM BUS 222822 [ESKISEHIR3  154.00] TO BUS 222841 [ESKISEHIR3  34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 577 222822-222841
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    131.7    142.5     92.4
+ OPEN LINE FROM BUS 222921 [CIFTELER    154.00] TO BUS 222942 [CIFTELER    34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 578 222921-222942
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.5    142.5     93.0
+ OPEN LINE FROM BUS 222922 [CIFTELER    154.00] TO BUS 222941 [CIFTELER    34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 579 222922-222941
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.8    142.5     93.9
+ OPEN LINE FROM BUS 223221 [GEDIZ       154.00] TO BUS 520421 [USAK        154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 583 223221-520421
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    140.8    142.5     98.8
+ OPEN LINE FROM BUS 223321 [KUTAHYA     154.00] TO BUS 291321 [KUTAHYASANAL154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 585 223321-291321
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.1    142.5     92.7
+ OPEN LINE FROM BUS 223421 [ALTINTAS    154.00] TO BUS 223441 [ALTINTAS    34.500] CKT 2 -------------------------- CONTINGENCY SINGLE OPN TIE 586 223421-223441
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.1    142.5     95.5
+ OPEN LINE FROM BUS 223521 [AZOT        154.00] TO BUS 223541 [AZOT        34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 587 223521-223541
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    130.5    142.5     91.6
+ OPEN LINE FROM BUS 223523 [AZOT        154.00] TO BUS 223551 [AZOT        6.3000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 589 223523-223551
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.8    142.5     93.2
+ OPEN LINE FROM BUS 223621 [KIRKA       154.00] TO BUS 223642 [KIRKA       34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 590 223621-223642
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    131.3    142.5     92.1
+ OPEN LINE FROM BUS 224422 [ETIGUMUS    154.00] TO BUS 224441 [ETIGUMUS    34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 599 224422-224441
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    129.3    142.5     90.7
+ OPEN LINE FROM BUS 224521 [VITRAKARO   154.00] TO BUS 224541 [VITRAKARO   31.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 600 224521-224541
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.2    142.5     93.5
+ OPEN LINE FROM BUS 224521 [VITRAKARO   154.00] TO BUS 224542 [VITRAKARO   31.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 601 224521-224542
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.3    142.5     93.5
+ OPEN LINE FROM BUS 224921 [POLATTES    154.00] TO BUS 224961 [POLATTES    10.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 602 224921-224961
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    142.3    142.5     99.9
+ OPEN LINE FROM BUS 225821 [KUTAHYAOSB  154.00] TO BUS 225841 [KUTAHYAOSB  33.600] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 612 225821-225841
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    132.1    142.5     92.7
+ OPEN LINE FROM BUS 226310 [AKSAGOYNUK  400.00] TO BUS 226362 [AKSAGOYNUK  15.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 621 226310-226362
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.5    142.5     95.8
+ OPEN LINE FROM BUS 226311 [AKSAGOYNUK  400.00] TO BUS 226361 [AKSAGOYNUK  15.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 623 226311-226361
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.5    142.5     95.8
+ OPEN LINE FROM BUS 227521 [KUMAS       154.00] TO BUS 227541 [KUMAS       33.600] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 632 227521-227541
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    131.4    142.5     92.2
+ OPEN LINE FROM BUS 227522 [KUMAS       154.00] TO BUS 227542 [KUMAS       33.600] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 633 227522-227542
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    133.0    142.5     93.3
+ OPEN LINE FROM BUS 227921 [ESKISEHIROSB154.00] TO BUS 227942 [ESKISEHIROSB33.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 635 227921-227942
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    128.7    142.5     90.3
+ OPEN LINE FROM BUS 231110 [OSMANCA     400.00] TO BUS 410311 [SINCAN      400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 658 231110-410311
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.2    142.5     95.6
+ OPEN LINE FROM BUS 231111 [OSMANCA     400.00] TO BUS 612311 [KURSUNLU    400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 659 231111-612311
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    136.1    142.5     95.5
+ OPEN LINE FROM BUS 232611 [ZETES2      400.00] TO BUS 232662 [ZETES2      20.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 685 232611-232662
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1     135.0    138.9    142.5     97.5
+ OPEN LINE FROM BUS 234421 [BOLU1       154.00] TO BUS 412421 [SARIYAR     154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 699 234421-412421
+                                                              231121     OSMANCA     154.00 233921     DUZCEOSB    154.00 1      77.2    172.0    179.2     96.0
+DC DCCC
++--------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+
+|  Row   |  Contingency Label                   |  Monitored Line                                                   |  Rating MVA    |  Pre-Contingency Flow MW    |  Post-Contingency Flow MW    |  Percent |
++--------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+
+|     1  |  SINGLE OPN LIN 13 210111-210121(    |  210111     TEPEOREN    400.00 210121     TEPEOREN    154.00 2    |      249.9809  |                   163.1848  |                    230.5332  |      92.2204  |
+|     2  |  SINGLE OPN LIN 14 210111-210121(    |  210111     TEPEOREN    400.00 210121     TEPEOREN    154.00 1    |      249.9799  |                   164.1359  |                    231.3236  |      92.5369  |
+|     3  |  SINGLE OPN LIN 20 210111-214310(    |  210122     TEPEOREN    154.00 211822     GEBZEOSB    154.00 1    |      249.9774  |                   123.0173  |                    230.4715  |      92.1970  |
+|     4  |  SINGLE OPN LIN 20 210111-214310(    |  214810     MAKINAOSB   400.00 214821     MAKINAOSB   154.00 1    |      245.7590  |                   128.8911  |                    230.2610  |      93.6938  |
+|     5  |  SINGLE OPN LIN 20 210111-214310(    |  214822     MAKINAOSB   154.00 217221     SIDDIK      154.00 1    |      249.9901  |                   106.0197  |                    228.9971  |      91.6025  |
+|     6  |  SINGLE OPN LIN 49 210311-210321(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 2    |      248.9707  |                   188.5703  |                    249.1181  |     100.0592  |
+|     7  |  SINGLE OPN LIN 50 210311-210321(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 1    |      249.0075  |                   185.6255  |                    246.4833  |      98.9863  |
+|     8  |  SINGLE OPN LIN 96 211522-214322(    |  214822     MAKINAOSB   154.00 217221     SIDDIK      154.00 1    |      249.9901  |                   106.0197  |                    261.8628  |     104.7492  |
+|     9  |  SINGLE OPN LIN 109 212521-215021    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.4236  |      95.7326  |
+|    10  |  SINGLE OPN LIN 110 212521-215122    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.3955  |      95.7129  |
+|    11  |  SINGLE OPN LIN 136 214310-214322    |  214311     DILISKELESIG400.00 214322     DILISKELESIG154.00 1    |      249.9382  |                   157.6407  |                    230.3229  |      92.1519  |
+|    12  |  SINGLE OPN LIN 137 214311-214322    |  214310     DILISKELESIG400.00 214322     DILISKELESIG154.00 1    |      249.9375  |                   158.2943  |                    230.8385  |      92.3585  |
+|    13  |  SINGLE OPN LIN 151 215721-220321    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.5399  |      93.0073  |
+|    14  |  SINGLE OPN LIN 153 215821-220621    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    135.9938  |      95.4310  |
+|    15  |  SINGLE OPN LIN 156 216121-222221    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    130.8691  |      91.8349  |
+|    16  |  SINGLE OPN LIN 157 216121-225521    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    129.8277  |      91.1041  |
+|    17  |  SINGLE OPN LIN 172 220010-220021    |  220010     BURSADG     400.00 220021     BURSADG     154.00 2    |      249.2767  |                   192.7025  |                    306.1042  |     122.7970  |
+|    18  |  SINGLE OPN LIN 172 220010-220021    |  220011     BURSADG     400.00 220024     BURSADG     154.00 1    |      249.1646  |                   201.6743  |                    225.7502  |      90.6028  |
+|    19  |  SINGLE OPN LIN 172 220010-220021    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    137.4240  |      96.4346  |
+|    20  |  SINGLE OPN LIN 173 220010-220021    |  220010     BURSADG     400.00 220021     BURSADG     154.00 1    |      249.2767  |                   192.7025  |                    306.1042  |     122.7970  |
+|    21  |  SINGLE OPN LIN 173 220010-220021    |  220011     BURSADG     400.00 220024     BURSADG     154.00 1    |      249.1646  |                   201.6743  |                    225.7502  |      90.6028  |
+|    22  |  SINGLE OPN LIN 173 220010-220021    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    137.4240  |      96.4346  |
+|    23  |  SINGLE OPN LIN 175 220011-220024    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    138.9784  |      97.5254  |
+|    24  |  SINGLE OPN LIN 176 220011-220110    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.3589  |      95.6872  |
+|    25  |  SINGLE OPN LIN 179 220022-220721    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    135.9687  |      95.4134  |
+|    26  |  SINGLE OPN LIN 180 220022-220821    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.8662  |      96.0432  |
+|    27  |  SINGLE OPN LIN 184 220024-220621    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.1153  |      95.5163  |
+|    28  |  SINGLE OPN LIN 186 220110-220122    |  220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 2    |      246.5137  |                   177.5977  |                    233.4693  |      94.7084  |
+|    29  |  SINGLE OPN LIN 187 220110-220122    |  220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 1    |      246.6728  |                   173.2152  |                    229.5350  |      93.0524  |
+|    30  |  SINGLE OPN LIN 191 220111-220210    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    155.0286  |     108.7883  |
+|    31  |  SINGLE OPN LIN 198 220210-220510    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    158.1597  |     110.9855  |
+|    32  |  SINGLE OPN LIN 199 220221-220421    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.7993  |      92.4876  |
+|    33  |  SINGLE OPN LIN 200 220221-223321    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.4565  |      93.6505  |
+|    34  |  SINGLE OPN LIN 202 220221-224921    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    150.4319  |     105.5627  |
+|    35  |  SINGLE OPN LIN 205 220321-222822    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    138.2968  |      97.0471  |
+|    36  |  SINGLE OPN LIN 208 220511-222811    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    180.7786  |     126.8578  |
+|    37  |  SINGLE OPN LIN 212 220821-222221    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.9826  |      92.6162  |
+|    38  |  SINGLE OPN LIN 232 222221-222321    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    130.1148  |      91.3056  |
+|    39  |  SINGLE OPN LIN 234 222421-225521    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    129.7624  |      91.0582  |
+|    40  |  SINGLE OPN LIN 235 222521-224521    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.7591  |      95.9680  |
+|    41  |  SINGLE OPN LIN 237 222521-225621    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    141.5494  |      99.3295  |
+|    42  |  SINGLE OPN LIN 239 222621-222822    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.9284  |      92.5782  |
+|    43  |  SINGLE OPN LIN 240 222721-222821    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    137.9074  |      96.7738  |
+|    44  |  SINGLE OPN LIN 242 222721-227921    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    139.6938  |      98.0274  |
+|    45  |  SINGLE OPN LIN 243 222810-222822    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    142.4282  |      99.9463  |
+|    46  |  SINGLE OPN LIN 244 222810-222822    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    147.8941  |     103.7818  |
+|    47  |  SINGLE OPN LIN 245 222811-222821    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    146.8408  |     103.0427  |
+|    48  |  SINGLE OPN LIN 246 222811-222821    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    147.9378  |     103.8125  |
+|    49  |  SINGLE OPN LIN 247 222821-224121    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    157.7703  |     110.7122  |
+|    50  |  SINGLE OPN LIN 248 222821-227921    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    138.8546  |      97.4385  |
+|    51  |  SINGLE OPN LIN 249 222822-225621    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    141.6329  |      99.3881  |
+|    52  |  SINGLE OPN LIN 250 222822-227922    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    138.8546  |      97.4385  |
+|    53  |  SINGLE OPN LIN 251 222921-223621    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    129.0038  |      90.5259  |
+|    54  |  SINGLE OPN LIN 252 223121-223221    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.7369  |      93.8472  |
+|    55  |  SINGLE OPN LIN 253 223221-223821    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    140.3886  |      98.5150  |
+|    56  |  SINGLE OPN LIN 254 223321-223521    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    130.4669  |      91.5526  |
+|    57  |  SINGLE OPN LIN 256 223321-223523    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.8121  |      93.1983  |
+|    58  |  SINGLE OPN LIN 257 223321-224422    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.4491  |      92.2419  |
+|    59  |  SINGLE OPN LIN 258 223421-225821    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.1272  |      95.5246  |
+|    60  |  SINGLE OPN LIN 260 223821-224922    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    141.4615  |      99.2679  |
+|    61  |  SINGLE OPN LIN 262 224121-225121    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    155.8816  |     109.3869  |
+|    62  |  SINGLE OPN LIN 263 224521-225122    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    139.9667  |      98.2189  |
+|    63  |  SINGLE OPN LIN 268 227211-227221    |  227211     ULUDAG      400.00 227221     ULUDAG      154.00 2    |      249.9690  |                   171.0520  |                    235.3443  |      94.1494  |
+|    64  |  SINGLE OPN LIN 269 227211-227221    |  227211     ULUDAG      400.00 227221     ULUDAG      154.00 1    |      249.9692  |                   170.0631  |                    234.4962  |      93.8100  |
+|    65  |  SINGLE OPN LIN 300 231121-233921    |  234421     BOLU1       154.00 412421     SARIYAR     154.00 1    |      178.6557  |                   -94.8440  |                   -172.0152  |      96.2831  |
+|    66  |  DOUBLE OPN LIN 5(210121-211821(1    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.6804  |      93.8076  |
+|    67  |  DOUBLE OPN LIN 10(210310-210322(    |  212921     HENDEK      154.00 233221     CUMAYERI    154.00 1    |      179.9817  |                   -84.9030  |                   -177.1726  |      98.4392  |
+|    68  |  DOUBLE OPN LIN 10(210310-210322(    |  231121     OSMANCA     154.00 233221     CUMAYERI    154.00 1    |      179.9998  |                   100.0541  |                    192.3238  |     106.8467  |
+|    69  |  DOUBLE OPN LIN 18(214210-214222(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 1    |      249.0075  |                   185.6255  |                    249.9375  |     100.3735  |
+|    70  |  DOUBLE OPN LIN 18(214210-214222(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 2    |      248.9707  |                   188.5703  |                    253.9025  |     101.9809  |
+|    71  |  DOUBLE OPN LIN 20(220010-220021(    |  220011     BURSADG     400.00 220024     BURSADG     154.00 1    |      249.1646  |                   201.6743  |                    318.6840  |     127.9010  |
+|    72  |  DOUBLE OPN LIN 20(220010-220021(    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    146.9527  |     103.1212  |
+|    73  |  DOUBLE OPN LIN 21(220110-220122(    |  220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 1    |      249.5731  |                   154.8204  |                    227.4149  |      91.1216  |
+|    74  |  DOUBLE OPN LIN 21(220110-220122(    |  220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 2    |      249.5494  |                   158.7304  |                    233.1583  |      93.4317  |
+|    75  |  DOUBLE OPN LIN 21(220110-220122(    |  220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 3    |      249.5573  |                   154.1919  |                    226.4918  |      90.7574  |
+|    76  |  DOUBLE OPN LIN 22(220111-220121(    |  220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 1    |      246.6728  |                   173.2152  |                    228.0719  |      92.4593  |
+|    77  |  DOUBLE OPN LIN 22(220111-220121(    |  220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 2    |      246.5137  |                   177.5977  |                    233.8424  |      94.8598  |
+|    78  |  DOUBLE OPN LIN 22(220111-220121(    |  220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 3    |      249.5573  |                   154.1919  |                    252.5546  |     101.2011  |
+|    79  |  DOUBLE OPN LIN 23(220111-220121(    |  220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 1    |      246.6728  |                   173.2152  |                    226.7833  |      91.9369  |
+|    80  |  DOUBLE OPN LIN 23(220111-220121(    |  220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 2    |      246.5137  |                   177.5977  |                    232.5211  |      94.3238  |
+|    81  |  DOUBLE OPN LIN 23(220111-220121(    |  220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 2    |      249.5494  |                   158.7304  |                    257.6096  |     103.2299  |
+|    82  |  DOUBLE OPN LIN 24(220111-220121(    |  220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 1    |      246.6728  |                   173.2152  |                    227.8921  |      92.3864  |
+|    83  |  DOUBLE OPN LIN 24(220111-220121(    |  220110     BURSASANAYI 400.00 220122     BURSASANAYI 154.00 2    |      246.5137  |                   177.5977  |                    233.6580  |      94.7850  |
+|    84  |  DOUBLE OPN LIN 24(220111-220121(    |  220111     BURSASANAYI 400.00 220121     BURSASANAYI 154.00 1    |      249.5731  |                   154.8204  |                    253.2601  |     101.4773  |
+|    85  |  DOUBLE OPN LIN 25(222810-222822(    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    161.8537  |     113.5777  |
+|    86  |  DOUBLE OPN LIN 25(222810-222822(    |  222811     ESKISEHIR3  400.00 222821     ESKISEHIR3  154.00 2    |      249.6921  |                   143.3266  |                    240.0282  |      96.1297  |
+|    87  |  DOUBLE OPN LIN 26(222811-222821(    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    171.0698  |     120.0449  |
+|    88  |  DOUBLE OPN LIN 26(222811-222821(    |  222810     ESKISEHIR3  400.00 222822     ESKISEHIR3  154.00 1    |      149.8143  |                    92.1024  |                    175.5347  |     117.1682  |
+|    89  |  DOUBLE OPN LIN 26(222811-222821(    |  222810     ESKISEHIR3  400.00 222822     ESKISEHIR3  154.00 2    |      249.6934  |                   142.9624  |                    272.4668  |     109.1205  |
+|    90  |  DOUBLE OPN LIN 27(227211-227221(    |  220011     BURSADG     400.00 220024     BURSADG     154.00 1    |      249.1646  |                   201.6743  |                    272.1346  |     109.2188  |
+|    91  |  DOUBLE OPN LIN 27(227211-227221(    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.3158  |      95.6569  |
+|    92  |  SINGLE OPN TIE 329 210310-415310    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    137.5414  |      96.5170  |
+|    93  |  SINGLE OPN TIE 332 210311-410011    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.4673  |      95.7633  |
+|    94  |  SINGLE OPN TIE 335 210410-210461    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.8418  |      96.0261  |
+|    95  |  SINGLE OPN TIE 336 210410-210462    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.8491  |      96.0312  |
+|    96  |  SINGLE OPN TIE 337 210410-210463    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.8418  |      96.0261  |
+|    97  |  SINGLE OPN TIE 338 210410-410410    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    137.3343  |      96.3717  |
+|    98  |  SINGLE OPN TIE 339 210510-210561    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.7894  |      95.9893  |
+|    99  |  SINGLE OPN TIE 340 210510-210562    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.7967  |      95.9944  |
+|   100  |  SINGLE OPN TIE 341 210510-210563    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.7382  |      95.9534  |
+|   101  |  SINGLE OPN TIE 370 211522-211545    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.2839  |      93.5294  |
+|   102  |  SINGLE OPN TIE 421 213821-213841    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    130.3346  |      91.4597  |
+|   103  |  SINGLE OPN TIE 422 213822-213842    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.0036  |      95.4379  |
+|   104  |  SINGLE OPN TIE 446 214710-214761    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.7890  |      95.9890  |
+|   105  |  SINGLE OPN TIE 447 214711-214762    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.7890  |      95.9890  |
+|   106  |  SINGLE OPN TIE 448 214711-214763    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.8181  |      96.0094  |
+|   107  |  SINGLE OPN TIE 463 215721-215741    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.5573  |      93.0195  |
+|   108  |  SINGLE OPN TIE 466 215821-215842    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.5855  |      93.7411  |
+|   109  |  SINGLE OPN TIE 468 216121-216141    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.5349  |      93.0038  |
+|   110  |  SINGLE OPN TIE 506 220210-329711    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.4864  |      92.9697  |
+|   111  |  SINGLE OPN TIE 508 220221-220242    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.6759  |      93.1028  |
+|   112  |  SINGLE OPN TIE 509 220221-290821    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.9382  |      93.2868  |
+|   113  |  SINGLE OPN TIE 510 220221-311921    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    128.7773  |      90.3670  |
+|   114  |  SINGLE OPN TIE 512 220321-220352    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.4501  |      93.6460  |
+|   115  |  SINGLE OPN TIE 514 220421-220451    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.0870  |      91.9877  |
+|   116  |  SINGLE OPN TIE 515 220421-220461    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    159.9715  |     112.2569  |
+|   117  |  SINGLE OPN TIE 516 220510-220562    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.4438  |      92.9399  |
+|   118  |  SINGLE OPN TIE 519 220511-220564    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.8160  |      92.4993  |
+|   119  |  SINGLE OPN TIE 521 220521-220541    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.9712  |      92.6082  |
+|   120  |  SINGLE OPN TIE 522 220521-220542    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.9712  |      92.6082  |
+|   121  |  SINGLE OPN TIE 523 220521-220563    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    184.3967  |     129.3968  |
+|   122  |  SINGLE OPN TIE 530 220821-220841    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.4516  |      93.6471  |
+|   123  |  SINGLE OPN TIE 562 222321-222341    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    129.7538  |      91.0522  |
+|   124  |  SINGLE OPN TIE 563 222321-222342    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    129.4182  |      90.8167  |
+|   125  |  SINGLE OPN TIE 564 222421-222441    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.2359  |      93.4957  |
+|   126  |  SINGLE OPN TIE 565 222421-222442    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.9211  |      92.5730  |
+|   127  |  SINGLE OPN TIE 567 222521-222542    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.7886  |      93.1818  |
+|   128  |  SINGLE OPN TIE 568 222621-222641    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.6679  |      93.7989  |
+|   129  |  SINGLE OPN TIE 569 222621-222642    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.2238  |      93.4872  |
+|   130  |  SINGLE OPN TIE 571 222721-222742    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    128.7333  |      90.3361  |
+|   131  |  SINGLE OPN TIE 573 222721-290821    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.8840  |      93.9505  |
+|   132  |  SINGLE OPN TIE 575 222810-410110    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    145.6865  |     102.2327  |
+|   133  |  SINGLE OPN TIE 576 222821-222842    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.9688  |      93.3083  |
+|   134  |  SINGLE OPN TIE 577 222822-222841    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.7347  |      92.4423  |
+|   135  |  SINGLE OPN TIE 578 222921-222942    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.5211  |      92.9941  |
+|   136  |  SINGLE OPN TIE 579 222922-222941    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.8044  |      93.8946  |
+|   137  |  SINGLE OPN TIE 583 223221-520421    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    140.7780  |      98.7883  |
+|   138  |  SINGLE OPN TIE 585 223321-291321    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.0766  |      92.6822  |
+|   139  |  SINGLE OPN TIE 586 223421-223441    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.1396  |      95.5334  |
+|   140  |  SINGLE OPN TIE 587 223521-223541    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    130.4843  |      91.5648  |
+|   141  |  SINGLE OPN TIE 589 223523-223551    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.8220  |      93.2053  |
+|   142  |  SINGLE OPN TIE 590 223621-223642    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.2733  |      92.1185  |
+|   143  |  SINGLE OPN TIE 599 224422-224441    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    129.3030  |      90.7359  |
+|   144  |  SINGLE OPN TIE 600 224521-224541    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.1992  |      93.4700  |
+|   145  |  SINGLE OPN TIE 601 224521-224542    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    133.2702  |      93.5198  |
+|   146  |  SINGLE OPN TIE 602 224921-224961    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    142.3385  |      99.8833  |
+|   147  |  SINGLE OPN TIE 612 225821-225841    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.0606  |      92.6710  |
+|   148  |  SINGLE OPN TIE 621 226310-226362    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.5452  |      95.8180  |
+|   149  |  SINGLE OPN TIE 623 226311-226361    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.5324  |      95.8090  |
+|   150  |  SINGLE OPN TIE 632 227521-227541    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    131.4216  |      92.2226  |
+|   151  |  SINGLE OPN TIE 633 227522-227542    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    132.9732  |      93.3113  |
+|   152  |  SINGLE OPN TIE 635 227921-227942    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    128.6825  |      90.3005  |
+|   153  |  SINGLE OPN TIE 658 231110-410311    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.2340  |      95.5996  |
+|   154  |  SINGLE OPN TIE 659 231111-612311    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    136.0814  |      95.4925  |
+|   155  |  SINGLE OPN TIE 685 232611-232662    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      142.5048  |                   134.9554  |                    138.9258  |      97.4885  |
+|   156  |  SINGLE OPN TIE 699 234421-412421    |  231121     OSMANCA     154.00 233921     DUZCEOSB    154.00 1    |      179.1584  |                    77.1713  |                    172.0153  |      96.0129  |
++--------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+

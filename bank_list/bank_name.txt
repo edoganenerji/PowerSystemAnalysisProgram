@@ -1,0 +1,19 @@
+Umraniye Bank-A
+Umraniye Bank-B
+Tepeoren Bank-A
+Tepeoren Bank-B
+Pasakoy Bank-A
+Pasakoy Bank-B
+Bursa DG BankA
+BSanayi BankA
+BSanayi BankB
+Adapazari BankA
+Adapazari BankB
+Kocaeli BankB
+Osmanca BankA
+Osmanca BankB
+Bolucek BankA
+Bolucek BankB
+Eskisehir BankA
+Eskisehir BankB
+Guragac Bank

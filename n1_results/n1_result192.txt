@@ -1,0 +1,25 @@
+
+ Messages for api FDNS
+ 13 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722, 213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                                       
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         103.65         259.125  250.0
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            211321  211422       TUZLA              KROMANCELIK   1         101.71         254.275  250.0
+2  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          99.27         248.175  250.0
+3  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          95.40         238.500  250.0
+4  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.44         233.600  250.0
+5  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            211522  214322       COLAKOGLU          DILISKELESIG  1          91.78         307.463  335.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

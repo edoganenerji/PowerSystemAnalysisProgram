@@ -1,0 +1,44 @@
+
+ 14.01.2020 11:00 SAATINE AIT SNAPSHOT FULL DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Desktop\DOSYALAR\BanaOzel\CIGRE\TEPES\20200114_1100_SN2_TR0_TepesV3.sav was saved on TUE, JAN 25 2022  15:56
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210022 - 214121, UMRANIYE     - VANIKOY      (1 )
+Inkitaya giden bara numaralari:
+[214121, 214122]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                  Ýzlenen Techizat                                                                                     
+     Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus         From Name           To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0    EIH:   211222  211621  KARTAL        211621        1            210110  210121  TEPEOREN A-OTR-2  TEPEOREN A-OTR-2  1          94.28         235.700  250.0
+1    EIH:   211222  211621  KARTAL        211621        1            210110  210121  TEPEOREN A-OTR-1  TEPEOREN A-OTR-1  2          93.73         234.325  250.0
+2   BANK:   210111  210122    TEPEOREN B    TEPEOREN B  1            210221  212021      PASAKOY           DUDULLU       1          93.39         336.204  360.0
+3    EIH:   211522  214321  211522        214321        1            210110  210121  TEPEOREN A-OTR-2  TEPEOREN A-OTR-2  1          92.58         231.450  250.0
+4    EIH:   211522  214321  211522        214321        1            210110  210121  TEPEOREN A-OTR-1  TEPEOREN A-OTR-1  2          92.04         230.100  250.0
+5    EIH:   211421  211521  211421        211521        1            210110  210121  TEPEOREN A-OTR-2  TEPEOREN A-OTR-2  1          91.11         227.775  250.0
+6   BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            210211  210222   PASAKOY B-OTR-3   PASAKOY B-OTR-3  1          91.06         227.650  250.0
+7    EIH:   210111  290310  210111        290310        1            210110  210121  TEPEOREN A-OTR-2  TEPEOREN A-OTR-2  1          90.91         227.275  250.0
+8   BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211421  211521      211421            211521        1          90.59         226.475  250.0
+9    EIH:   211421  211521  211421        211521        1            210110  210121  TEPEOREN A-OTR-1  TEPEOREN A-OTR-1  2          90.58         226.450  250.0
+10   EIH:   210111  290310  210111        290310        1            210110  210121  TEPEOREN A-OTR-1  TEPEOREN A-OTR-1  2          90.38         225.950  250.0
+11  BANK:   210210  210221     PASAKOY A     PASAKOY A  2            210211  210221   PASAKOY B-OTR-4   PASAKOY B-OTR-4  1          90.29         135.435  150.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

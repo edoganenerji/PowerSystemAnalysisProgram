@@ -1,0 +1,28 @@
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 210466, generator ismi GEBZEDG     
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                        Ýzlenen Techizat                                                                                   
+    Type From Bus  To Bus        From Name          To Name  ID         From Bus  To Bus        From Name          To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   220010  220021        BURSADG A        BURSADG A  1            220921  221921     OTOSANSIT        KESTEL        1          97.46        327.4656  336.0
+1   EIH:   220921  221921     OTOSANSIT        KESTEL        1            220010  220021  BURSADG A-OTR-2  BURSADG A-OTR-2  2          96.54        241.3500  250.0
+2   EIH:   220921  221921     OTOSANSIT        KESTEL        1            220010  220021  BURSADG A-OTR-1  BURSADG A-OTR-1  1          96.54        241.3500  250.0
+3  BANK:   210311  210321      ADAPAZARI B      ADAPAZARI B  1            214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1          93.07        232.6750  250.0
+4  BANK:   210311  210321      ADAPAZARI B      ADAPAZARI B  1            214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2          93.07        232.6750  250.0
+5   OTR:   214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1            214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2          91.76        229.4000  250.0
+6   OTR:   214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2            214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1          91.76        229.4000  250.0
+7   EIH:   212521  215021     KOSEKOY          GOLCUK        1            220010  220021  BURSADG A-OTR-2  BURSADG A-OTR-2  2          90.04        225.1000  250.0
+8   EIH:   212521  215021     KOSEKOY          GOLCUK        1            220010  220021  BURSADG A-OTR-1  BURSADG A-OTR-1  1          90.04        225.1000  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

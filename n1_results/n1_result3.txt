@@ -1,0 +1,130 @@
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210210 - 210410, PASAKOY      - ADA1DGKC     (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210010 - 216910, UMRANIYE     - KAVACIK      (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 8 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210221 - 217522, PASAKOY      - CUMHURIYET   (1 )
+Inkitaya giden bara numaralari:
+[217521, 217522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+         Kýsýt                                                                Ýzlenen Techizat                                                                                       
+          Type From Bus  To Bus           From Name             To Name    ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEC
+0        BANK:   210110  210121          TEPEOREN A          TEPEOREN A    2            210121  211921       TEPEOREN           KURTKOY       1         145.05        358.2735  247.0
+1         EIH:   210121  211821        TEPEOREN            GEBZEOSB        2            210121  211821       TEPEOREN           GEBZEOSB      1         130.67        237.8194  182.0
+2         EIH:   210121  211821        TEPEOREN            GEBZEOSB        1            210121  211821       TEPEOREN           GEBZEOSB      2         130.59        237.6738  182.0
+3        BANK:   210111  210122          TEPEOREN B          TEPEOREN B    1            211421  211521       KROMANCELIK        COLAKOGLU     1         127.91        232.7962  182.0
+4         EIH:   210122  211822        TEPEOREN            GEBZEOSB        1            211421  211521       KROMANCELIK        COLAKOGLU     1         126.35        229.9570  182.0
+5        BANK:   210110  210121          TEPEOREN A          TEPEOREN A    2            211021  211122       BBAKKALKOY         SOGANLIK      1         124.84        227.2088  182.0
+6         EIH:   211421  211521        KROMANCELIK         COLAKOGLU       1            210122  211822       TEPEOREN           GEBZEOSB      1         123.54        224.8428  182.0
+7        BANK:   210211  210222           PASAKOY B           PASAKOY B    1            211421  211521       KROMANCELIK        COLAKOGLU     1         122.17        222.3494  182.0
+8         EIH:   211321  211822        TUZLA               GEBZEOSB        1            211421  211521       KROMANCELIK        COLAKOGLU     1         117.52        213.8864  182.0
+9        BANK:   210211  210222           PASAKOY B           PASAKOY B    1            210122  211822       TEPEOREN           GEBZEOSB      1         114.76        208.8632  182.0
+10       BANK:   210211  210222           PASAKOY B           PASAKOY B    1            211022  211221       BBAKKALKOY         KARTAL        1         114.27        207.9714  182.0
+11       BANK:   210010  210021         UMRANIYE B-         UMRANIYE B-    2            211421  211521       KROMANCELIK        COLAKOGLU     1         109.44        199.1808  182.0
+12        EIH:   210111  214310        TEPEOREN            DILOVASIOSB     1            210122  211822       TEPEOREN           GEBZEOSB      1         108.71        197.8522  182.0
+13       BANK:   210110  210121          TEPEOREN A          TEPEOREN A    2            211222  211921       KARTAL             KURTKOY       2         107.19        264.7593  247.0
+14       BANK:   210110  210121          TEPEOREN A          TEPEOREN A    2            211222  211921       KARTAL             KURTKOY       1         107.19        264.7593  247.0
+15       BANK:   210010  210021         UMRANIYE B-         UMRANIYE B-    2            210122  212021       TEPEOREN           DUDULLU       2         106.84        194.4488  182.0
+16       BANK:   210010  210021         UMRANIYE B-         UMRANIYE B-    2            210122  212021       TEPEOREN           DUDULLU       1         106.84        194.4488  182.0
+17        EIH:   211321  211621        TUZLA               ICMELER         1            211421  211521       KROMANCELIK        COLAKOGLU     1         106.31        193.4842  182.0
+18        EIH:   210021  217621        UMRANIYE            DUDULLUMETRO    1            211421  211521       KROMANCELIK        COLAKOGLU     1         103.91        189.1162  182.0
+19        EIH:   211211  214711        KARTAL              YENIDGKC        1            211421  211521       KROMANCELIK        COLAKOGLU     1         103.45        188.2790  182.0
+20        OTR:   211211  211221      KARTAL B-OTR-4      KARTAL B-OTR-4    1            211421  211521       KROMANCELIK        COLAKOGLU     1         103.34        188.0788  182.0
+21        OTR:   211210  211221      KARTAL A-OTR-2      KARTAL A-OTR-2    1            211421  211521       KROMANCELIK        COLAKOGLU     1         103.23        187.8786  182.0
+22        EIH:   211022  211221        BBAKKALKOY          KARTAL          1            211421  211521       KROMANCELIK        COLAKOGLU     1         103.12        187.6784  182.0
+23        EIH:   212021  217621        DUDULLU             DUDULLUMETRO    1            211421  211521       KROMANCELIK        COLAKOGLU     1         100.71        183.2922  182.0
+24        EIH:   214310  290310        DILOVASIOSB         DCELIKSANAL     1            210122  211822       TEPEOREN           GEBZEOSB      1         100.57        183.0374  182.0
+25        EIH:   210122  212122        TEPEOREN            YARIMCA1        1            211421  211521       KROMANCELIK        COLAKOGLU     1          99.71        181.4722  182.0
+26        EIH:   210010  210911        UMRANIYE            KBAKKALKOY      1            211421  211521       KROMANCELIK        COLAKOGLU     1          99.50        181.0900  182.0
+27        EIH:   211221  211621        KARTAL              ICMELER         1            211421  211521       KROMANCELIK        COLAKOGLU     1          99.05        180.2710  182.0
+28        EIH:   210510  216911        ADA2DGKC            KAVACIK         1            211421  211521       KROMANCELIK        COLAKOGLU     1          98.76        179.7432  182.0
+29        EIH:   211221  211622        KARTAL              ICMELER         1            211421  211521       KROMANCELIK        COLAKOGLU     1          98.66        179.5612  182.0
+30        EIH:   214210  214810        KOCAELI             MAKINAOSB       1            210111  214211       TEPEOREN           KOCAELI       1          98.45        979.5775  995.0
+31        EIH:   211622  211822        ICMELER             GEBZEOSB        1            211421  211521       KROMANCELIK        COLAKOGLU     1          97.87        178.1234  182.0
+32       BANK:   210110  210121          TEPEOREN A          TEPEOREN A    2            211421  211521       KROMANCELIK        COLAKOGLU     1          97.27        177.0314  182.0
+33        EIH:   210211  231111        PASAKOY             OSMANCA         1            211421  211521       KROMANCELIK        COLAKOGLU     1          96.85        176.2670  182.0
+34        EIH:   214711  214810        YENIDGKC            MAKINAOSB       1            211421  211521       KROMANCELIK        COLAKOGLU     1          96.64        175.8848  182.0
+35        EIH:   210110  214811        TEPEOREN            MAKINAOSB       1            211421  211521       KROMANCELIK        COLAKOGLU     1          96.64        175.8848  182.0
+36       BANK:   210110  210121          TEPEOREN A          TEPEOREN A    2            211121  211222       SOGANLIK           KARTAL        1          96.36        175.3752  182.0
+37       BANK:   210010  210021         UMRANIYE B-         UMRANIYE B-    2            210111  210122   TEPEOREN B-OTR-3   TEPEOREN B-OTR-3  1          96.32        240.8000  250.0
+38        EIH:   210910  215211        KBAKKALKOY          MALTEPEIST      1            211421  211521       KROMANCELIK        COLAKOGLU     1          96.01        174.7382  182.0
+39        EIH:   210111  217711        TEPEOREN            ATASEHIR        1            211421  211521       KROMANCELIK        COLAKOGLU     1          95.99        174.7018  182.0
+40        EIH:   210010  210110        UMRANIYE            TEPEOREN        1            211421  211521       KROMANCELIK        COLAKOGLU     1          95.93        174.5926  182.0
+41        EIH:   212621  216722        HEREKE              GEBZEKIMYA      1            211421  211521       KROMANCELIK        COLAKOGLU     1          95.72        174.2104  182.0
+42        EIH:   214822  216722        MAKINAOSB           GEBZEKIMYA      1            211421  211521       KROMANCELIK        COLAKOGLU     1          95.71        174.1922  182.0
+43        EIH:   211522  217221        COLAKOGLU           SIDDIK          1            211421  211521       KROMANCELIK        COLAKOGLU     1          95.68        174.1376  182.0
+44        EIH:   210010  217710        UMRANIYE            ATASEHIR        1            211421  211521       KROMANCELIK        COLAKOGLU     1          95.67        174.1194  182.0
+45        EIH:   210111  214211        TEPEOREN            KOCAELI         1            211421  211521       KROMANCELIK        COLAKOGLU     1          95.45        173.7190  182.0
+46        EIH:   210111  210211        TEPEOREN            PASAKOY         1            211022  211221       BBAKKALKOY         KARTAL        1          95.00        172.9000  182.0
+47        EIH:   210222  211022        PASAKOY             BBAKKALKOY      1            211421  211521       KROMANCELIK        COLAKOGLU     1          94.88        172.6816  182.0
+48        EIH:   210222  211022        PASAKOY             BBAKKALKOY      2            211421  211521       KROMANCELIK        COLAKOGLU     1          94.88        172.6816  182.0
+49        EIH:   210110  214710        TEPEOREN            YENIDGKC        1            211421  211521       KROMANCELIK        COLAKOGLU     1          94.44        171.8808  182.0
+50       BANK:   210111  210122          TEPEOREN B          TEPEOREN B    1            210010  210021  UMRANIYE B-OTR-12  UMRANIYE B-OTR-12  1          94.40        141.6000  150.0
+51       BANK:   210010  210021         UMRANIYE B-         UMRANIYE B-    2            210111  210122   TEPEOREN B-OTR-4   TEPEOREN B-OTR-4  2          94.25        235.6250  250.0
+52  Generator:   214763    None        YENIELEKTRIK                None  None           211421  211521       KROMANCELIK        COLAKOGLU     1          94.11        171.2802  182.0
+53        EIH:   210121  211921        TEPEOREN            KURTKOY         1            211421  211521       KROMANCELIK        COLAKOGLU     1          94.06        171.1892  182.0
+54  Generator:   214761    None        YENIELEKTRIK                None  None           211421  211521       KROMANCELIK        COLAKOGLU     1          94.02        171.1164  182.0
+55       BANK:   210010  210022         UMRANIYE A-         UMRANIYE A-    2            211421  211521       KROMANCELIK        COLAKOGLU     1          93.91        170.9162  182.0
+56        EIH:   210122  212221        TEPEOREN            SILE            1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.84        170.7888  182.0
+57        EIH:   210922  216622        KBAKKALKOY          KADIKOY         1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.81        170.7342  182.0
+58        EIH:   210022  210922        UMRANIYE            KBAKKALKOY      1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.80        170.7160  182.0
+59        EIH:   210022  210721        UMRANIYE            SELIMIYE        1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.80        170.7160  182.0
+60        EIH:   210821  210922        GOZTEPE             KBAKKALKOY      1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.79        170.6978  182.0
+61        EIH:   210121  211821        TEPEOREN            GEBZEOSB        2            211421  211521       KROMANCELIK        COLAKOGLU     1          93.78        170.6796  182.0
+62        EIH:   210121  211821        TEPEOREN            GEBZEOSB        1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.77        170.6614  182.0
+63        EIH:   211121  211222        SOGANLIK            KARTAL          1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.77        170.6614  182.0
+64        EIH:   210921  211021        KBAKKALKOY          BBAKKALKOY      1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.76        170.6432  182.0
+65        EIH:   210921  211021        KBAKKALKOY          BBAKKALKOY      2            211421  211521       KROMANCELIK        COLAKOGLU     1          93.76        170.6432  182.0
+66        EIH:   120911  210210        ZEKERIYAKOY         PASAKOY         1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.74        170.6068  182.0
+67        EIH:   120310  216911        ALIBEYKOY           KAVACIK         1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.74        170.6068  182.0
+68        EIH:   214510  216910        BEYKOZ              KAVACIK         1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.73        170.5886  182.0
+69        EIH:   211021  211122        BBAKKALKOY          SOGANLIK        1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.72        170.5704  182.0
+70        OTR:   210910  210922  KBAKKALKOY B-OTR-4  KBAKKALKOY B-OTR-4    1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.71        170.5522  182.0
+71        OTR:   210911  210921  KBAKKALKOY A-OTR-2  KBAKKALKOY A-OTR-2    1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.71        170.5522  182.0
+72        EIH:   211222  211921        KARTAL              KURTKOY         2            211421  211521       KROMANCELIK        COLAKOGLU     1          93.69        170.5158  182.0
+73        EIH:   211222  211921        KARTAL              KURTKOY         1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.69        170.5158  182.0
+74        EIH:   211521  214321        COLAKOGLU           DILOVASIOSB     1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.58        170.3156  182.0
+75        EIH:   211521  214322        COLAKOGLU           DILOVASIOSB     1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.58        170.3156  182.0
+76        EIH:   214322  216721        DILOVASIOSB         GEBZEKIMYA      1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.44        170.0608  182.0
+77       BANK:   210110  210121          TEPEOREN A          TEPEOREN A    2            211210  211222     KARTAL C-OTR-6     KARTAL C-OTR-6  1          93.05        418.7250  450.0
+78        EIH:   211521  216721        COLAKOGLU           GEBZEKIMYA      1            211421  211521       KROMANCELIK        COLAKOGLU     1          92.93        169.1326  182.0
+79        EIH:   210111  214310        TEPEOREN            DILOVASIOSB     1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          92.85        232.1250  250.0
+80        OTR:   211210  211222      KARTAL C-OTR-6      KARTAL C-OTR-6    1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          92.80        232.0000  250.0
+81        OTR:   211210  211222      KARTAL C-OTR-6      KARTAL C-OTR-6    1            211421  211521       KROMANCELIK        COLAKOGLU     1          92.60        168.5320  182.0
+82        EIH:   210111  214310        TEPEOREN            DILOVASIOSB     1            214810  214822  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          92.47        231.1750  250.0
+83        EIH:   214321  214822        DILOVASIOSB         MAKINAOSB       1            211421  211521       KROMANCELIK        COLAKOGLU     1          92.37        168.1134  182.0
+84        EIH:   214210  214810        KOCAELI             MAKINAOSB       1            211421  211521       KROMANCELIK        COLAKOGLU     1          92.31        168.0042  182.0
+85        OTR:   211210  211222      KARTAL C-OTR-6      KARTAL C-OTR-6    1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          92.26        230.6500  250.0
+86        EIH:   210122  212021        TEPEOREN            DUDULLU         1            211421  211521       KROMANCELIK        COLAKOGLU     1          92.22        167.8404  182.0
+87        EIH:   210122  212021        TEPEOREN            DUDULLU         2            211421  211521       KROMANCELIK        COLAKOGLU     1          92.22        167.8404  182.0
+88        EIH:   212321  214821        IZMIT               MAKINAOSB       1            211421  211521       KROMANCELIK        COLAKOGLU     1          92.13        167.6766  182.0
+89        EIH:   211521  214822        COLAKOGLU           MAKINAOSB       1            211421  211521       KROMANCELIK        COLAKOGLU     1          91.89        167.2398  182.0
+90        EIH:   219110  290310        COLAKOGLU400        DCELIKSANAL     1            210122  211822       TEPEOREN           GEBZEOSB      1          91.14        165.8748  182.0
+91        EIH:   211522  219121        COLAKOGLU           COLAKOGLU400    1            210122  211822       TEPEOREN           GEBZEOSB      1          91.13        165.8566  182.0
+92        OTR:   211211  211221      KARTAL B-OTR-4      KARTAL B-OTR-4    1            210122  211822       TEPEOREN           GEBZEOSB      1          90.94        165.5108  182.0
+93        EIH:   210321  214821        ADAPAZARI           MAKINAOSB       1            211421  211521       KROMANCELIK        COLAKOGLU     1          90.82        165.2924  182.0
+94        OTR:   211210  211221      KARTAL A-OTR-2      KARTAL A-OTR-2    1            210122  211822       TEPEOREN           GEBZEOSB      1          90.80        165.2560  182.0
+95        EIH:   210010  210911        UMRANIYE            KBAKKALKOY      1            210122  211822       TEPEOREN           GEBZEOSB      1          90.34        164.4188  182.0
+96        EIH:   214822  216721        MAKINAOSB           GEBZEKIMYA      1            211421  211521       KROMANCELIK        COLAKOGLU     1          90.32        164.3824  182.0
+97        EIH:   211022  211221        BBAKKALKOY          KARTAL          1            210122  211822       TEPEOREN           GEBZEOSB      1          90.31        164.3642  182.0
+98       BANK:   210111  210122          TEPEOREN B          TEPEOREN B    1            210010  210021  UMRANIYE B-OTR-13  UMRANIYE B-OTR-13  2          90.20        225.5000  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

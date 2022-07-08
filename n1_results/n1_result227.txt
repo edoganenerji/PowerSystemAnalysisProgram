@@ -1,0 +1,36 @@
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210821 - 210922, GOZTEPE      - KBAKKALKOY   (1 )
+Inkitaya giden bara numaralari:
+[210821, 210822]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                             
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821  DILISKELESIG  MAKINAOSB     1          99.50          248.75  250.0
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822  TEPEOREN      GEBZEOSB      1          93.62          234.05  250.0
+2  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            211321  211422  TUZLA         KROMANCELIK   1          90.96          227.40  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      211521  COLAKOGLU          31619.53       29951.89
+1      211522  COLAKOGLU          31619.53       29951.89
+2      219121  COLAKOGLU400       31525.00       29749.33
+3      214322  DILISKELESIG       29377.02       26257.45
+4      210122  TEPEOREN           28425.74       25687.45
+5      210921  KBAKKALKOY         28251.79       27822.96
+6      210922  KBAKKALKOY         28251.79       27822.96
+7      211021  BBAKKALKOY         28168.26       25155.73
+8      211022  BBAKKALKOY         28168.26       25155.73
+---------------------------------------------------------------

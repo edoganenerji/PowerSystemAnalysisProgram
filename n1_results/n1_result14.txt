@@ -1,0 +1,20 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                  Ýzlenen Techizat                                                                                       
+     Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0    EIH:   211421  211521  KROMANCELIK   COLAKOGLU     1            210122  211822       TEPEOREN           GEBZEOSB      1         115.38         288.450  250.0
+1    EIH:   210121  211821  TEPEOREN      GEBZEOSB      1            210121  211821       TEPEOREN           GEBZEOSB      2         108.65         271.625  250.0
+2    EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            210122  211822       TEPEOREN           GEBZEOSB      1         108.51         271.275  250.0
+3    EIH:   210121  211821  TEPEOREN      GEBZEOSB      2            210121  211821       TEPEOREN           GEBZEOSB      1         107.60         269.000  250.0
+4    EIH:   210122  211822  TEPEOREN      GEBZEOSB      1            211421  211521       KROMANCELIK        COLAKOGLU     1         106.44         266.100  250.0
+5    EIH:   214310  290310  DILOVASIOSB   DCELIKSANAL   1            210122  211822       TEPEOREN           GEBZEOSB      1         100.44         251.100  250.0
+6    EIH:   211221  211621  KARTAL        ICMELER       1            210122  211822       TEPEOREN           GEBZEOSB      1          99.12         247.800  250.0
+7    EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          96.78         241.950  250.0
+8    EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214810  214822  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          96.38         240.950  250.0
+9    EIH:   211321  211822  TUZLA         GEBZEOSB      1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.39         233.475  250.0
+10   EIH:   219110  290310  COLAKOGLU400  DCELIKSANAL   1            210122  211822       TEPEOREN           GEBZEOSB      1          93.35         233.375  250.0
+11   EIH:   211522  219121  COLAKOGLU     COLAKOGLU400  1            210122  211822       TEPEOREN           GEBZEOSB      1          93.34         233.350  250.0
+12   EIH:   211321  211621  TUZLA         ICMELER       1            210122  211822       TEPEOREN           GEBZEOSB      1          91.15         227.875  250.0
+13  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211022  211222       BBAKKALKOY         KARTAL        1          90.04         225.100  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

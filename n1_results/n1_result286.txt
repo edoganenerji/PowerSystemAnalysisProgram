@@ -1,0 +1,66 @@
+
+ 20.06.2022 14:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220620_1400_SN1_TR0.sav was saved on TUE, JUN 21 2022  14:36
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 221321 - 228722, BESEVLER     - ORHANELI     (1 )
+Inkitaya giden bara numaralari:
+[221321, 221322]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 220024 - 220621, BURSADG      - KARSAK       (1 )
+Inkitaya giden bara numaralari:
+[215821, 220621]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 3 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 215821 - 220621, ASILDEMIRCLK - KARSAK       (1 )
+Inkitaya giden bara numaralari:
+[215821]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+N-1 durumunda %90 üzerinde yüklenen bir teçhizat yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   227121  228721  DEVECIKONAGI  ORHANELI      1            221321  BESEVLER      0.947827
+1  EIH:   227121  228721  DEVECIKONAGI  ORHANELI      1            221322  BESEVLER      0.947827
+2  EIH:   227121  311121  DEVECIKONAGI  GOBEL         1            221321  BESEVLER      0.949584
+3  EIH:   227121  311121  DEVECIKONAGI  GOBEL         1            221322  BESEVLER      0.949584
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

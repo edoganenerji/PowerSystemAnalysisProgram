@@ -1,0 +1,136 @@
+
+ 27.02.2022 14:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 213721 - 220721, YALOVA       - GEMLIK       (1 )
+Inkitaya giden bara numaralari:
+[220721]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 8 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 220010 - 220021, BURSADG A-OTR-1 - BURSADG A-OTR-1 (1 )
+Inkitaya giden bara numaralari:
+[220021, 220022, 221822]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 222621 - 222822, ESKISEHIR1   - ESKISEHIR3   (1 )
+Inkitaya giden bara numaralari:
+[222621]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211521 - 219121, COLAKOGLU    - COLAKOGLU400 (1 )
+Inkitaya giden bara numaralari:
+[214910, 219110, 219121, 290310]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                            Ýzlenen Techizat                                                                                       
+     Type From Bus  To Bus          From Name            To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0    EIH:   211321  211422       TUZLA              KROMANCELIK   1            214321  214821       DILISKELESIG       MAKINAOSB     1         105.87        264.6750  250.0
+1    EIH:   211321  211822       TUZLA              GEBZEOSB      1            214321  214821       DILISKELESIG       MAKINAOSB     1         105.81        264.5250  250.0
+2    OTR:   214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1            210122  211822       TEPEOREN           GEBZEOSB      1         105.39        263.4750  250.0
+3    EIH:   210122  211822       TEPEOREN           GEBZEOSB      1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         105.01        262.5250  250.0
+4    EIH:   213721  214421       YALOVA             AKSAYALOVA    1            213621  213721       KARAMURSEL         YALOVA        1         103.98        187.1640  180.0
+5    EIH:   211521  214321       COLAKOGLU          DILISKELESIG  1            211321  211422       TUZLA              KROMANCELIK   1         100.95        252.3750  250.0
+6    EIH:   214321  214821       DILISKELESIG       MAKINAOSB     1            211321  211422       TUZLA              KROMANCELIK   1         100.94        252.3500  250.0
+7    EIH:   214822  217221       MAKINAOSB          SIDDIK        1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          99.89        249.7250  250.0
+8    EIH:   220121  221821       BURSASANAYI        DEMIRTAS      1            220121  291821       BURSASANAYI        BSANAYISANAL  1          98.58        330.2430  335.0
+9    EIH:   220121  221821       BURSASANAYI        DEMIRTAS      1            228621  291821       OSMANGAZI          BSANAYISANAL  1          98.55        330.1425  335.0
+10   EIH:   214822  217221       MAKINAOSB          SIDDIK        1            214321  214821       DILISKELESIG       MAKINAOSB     1          98.43        246.0750  250.0
+11  BANK:   210111  210122         TEPEOREN B         TEPEOREN B  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.09        235.2250  250.0
+12   EIH:   211622  214322       ICMELER            DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          93.07        232.6750  250.0
+13   EIH:   211622  214322       ICMELER            DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1          92.75        231.8750  250.0
+14   EIH:   220121  291821       BURSASANAYI        BSANAYISANAL  1            221221  221821       BOSEN              DEMIRTAS      1          92.66        231.6500  250.0
+15   EIH:   228621  291821       OSMANGAZI          BSANAYISANAL  1            221221  221821       BOSEN              DEMIRTAS      1          92.65        231.6250  250.0
+16   EIH:   211522  217221       COLAKOGLU          SIDDIK        1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          92.43        231.0750  250.0
+17   EIH:   214822  217221       MAKINAOSB          SIDDIK        1            210122  211822       TEPEOREN           GEBZEOSB      1          91.69        229.2250  250.0
+18   EIH:   220921  221921       OTOSANSIT          KESTEL        1            220011  220024    BURSADG B-OTR-3    BURSADG B-OTR-3  1          91.18        227.9500  250.0
+19   EIH:   211222  211621       KARTAL             ICMELER       1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          91.02        227.5500  250.0
+20   EIH:   220511  222811       SEYITOMER          ESKISEHIR3    1            220510  220521    SEYITOMER OTR-1    SEYITOMER OTR-1  1          90.36        135.5400  150.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+    Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0       211221  KARTAL             30391.48       30359.40
+1       211622  ICMELER            29271.29       29283.46
+2       211621  ICMELER            29271.29       29283.46
+3       210122  TEPEOREN           28680.18       25701.28
+4       220121  BURSASANAYI        27580.83       23269.65
+5       212021  DUDULLU            26715.06       26414.15
+6       211222  KARTAL             26666.35       26558.76
+7       211921  KURTKOY            26536.83       23837.13
+8       210223  PASAKOY            25946.96       25752.60
+9       210221  PASAKOY            25946.96       25752.60
+10      217622  DUDULLUMETRO       25727.44       25691.65
+11      217621  DUDULLUMETRO       25727.44       25691.65
+12      210121  TEPEOREN           24144.59       22937.76
+13      227222  ULUDAG             23935.03       19851.29
+14      227221  ULUDAG             23935.03       19851.29
+15      220221  GURAGAC            23864.86       21083.04
+16      210021  UMRANIYE           23566.55       23876.96
+17      211022  BBAKKALKOY         23169.79       20191.38
+18      210222  PASAKOY            23037.63       21203.25
+19      222821  ESKISEHIR3         22653.79       17335.03
+20      222822  ESKISEHIR3         22653.79       17335.03
+21      224921  POLATTES           22520.33       19581.63
+22      224922  POLATTES           22520.33       19581.63
+23      211822  GEBZEOSB           21580.54       16636.29
+24      211121  SOGANLIK           21169.82       17545.75
+25      211122  SOGANLIK           21169.82       17545.75
+26      211522  COLAKOGLU          21103.45       19258.87
+27      211521  COLAKOGLU          21103.45       19258.87
+28      220421  TUNCBILEK-B        21017.15       17151.52
+29      219121  COLAKOGLU400       21014.53       19075.25
+30      220321  TUNCBILEK-A        20978.38       17106.87
+31      220322  TUNCBILEK-A        20978.38       17106.87
+32      210922  KBAKKALKOY         20884.74       21245.47
+33      210921  KBAKKALKOY         20884.74       21245.47
+34      211321  TUZLA              20538.77       16151.22
+35      221322  BESEVLER           20402.57       15234.87
+36      221321  BESEVLER           20402.57       15234.87
+37      210022  UMRANIYE           20017.03       20515.17
+38      220024  BURSADG            19508.98       21153.34
+39      220023  BURSADG            19508.98       21153.34
+---------------------------------------------------------------

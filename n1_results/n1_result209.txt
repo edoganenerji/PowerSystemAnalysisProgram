@@ -1,0 +1,130 @@
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 220122 - 221221, BURSASANAYI  - BOSEN        (1 )
+Inkitaya giden bara numaralari:
+[221221, 221821]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 2 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 221221 - 221821, BOSEN        - DEMIRTAS     (1 )
+Inkitaya giden bara numaralari:
+[221821]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+         Kýsýt                                                          Ýzlenen Techizat                                                                                           
+          Type From Bus  To Bus        From Name          To Name    ID         From Bus  To Bus            From Name              To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0        BANK:   220110  220122    BURSASANAYI B    BURSASANAYI B    1            228621  291821         OSMANGAZI            BSANAYISANAL  1         135.37        453.4895  335.0
+1        BANK:   220110  220122    BURSASANAYI B    BURSASANAYI B    1            220121  291821         BURSASANAYI          BSANAYISANAL  1         135.35        453.4225  335.0
+2         EIH:   220110  310010     BURSASANAYI      KOYLUKOY        1            228621  291821         OSMANGAZI            BSANAYISANAL  1         127.83        428.2305  335.0
+3         EIH:   220110  310010     BURSASANAYI      KOYLUKOY        1            220121  291821         BURSASANAYI          BSANAYISANAL  1         127.83        428.2305  335.0
+4         EIH:   220010  314911     BURSADG          BANDIRMA1DG     1            228621  291821         OSMANGAZI            BSANAYISANAL  1         114.16        382.4360  335.0
+5         EIH:   220010  314911     BURSADG          BANDIRMA1DG     1            220121  291821         BURSASANAYI          BSANAYISANAL  1         114.15        382.4025  335.0
+6         EIH:   215521  222121     ULURES           INEGOL          1            228621  291821         OSMANGAZI            BSANAYISANAL  1         103.33        346.1555  335.0
+7         EIH:   215521  222121     ULURES           INEGOL          1            220121  291821         BURSASANAYI          BSANAYISANAL  1         103.33        346.1555  335.0
+8         EIH:   222121  228721     INEGOL           ORHANELI        1            220121  291821         BURSASANAYI          BSANAYISANAL  1         103.03        345.1505  335.0
+9         EIH:   222121  228721     INEGOL           ORHANELI        1            228621  291821         OSMANGAZI            BSANAYISANAL  1         103.03        345.1505  335.0
+10        EIH:   220121  221322     BURSASANAYI      BESEVLER        1            228621  291821         OSMANGAZI            BSANAYISANAL  1         102.85        344.5475  335.0
+11        EIH:   220121  221322     BURSASANAYI      BESEVLER        1            220121  291821         BURSASANAYI          BSANAYISANAL  1         102.85        344.5475  335.0
+12        EIH:   215521  228722     ULURES           ORHANELI        1            220121  291821         BURSASANAYI          BSANAYISANAL  1         102.75        344.2125  335.0
+13        EIH:   215521  228722     ULURES           ORHANELI        1            228621  291821         OSMANGAZI            BSANAYISANAL  1         102.75        344.2125  335.0
+14  Generator:   220065    None     BURSADG                  None  None           228621  291821         OSMANGAZI            BSANAYISANAL  1         100.00        335.0000  335.0
+15  Generator:   220065    None     BURSADG                  None  None           220121  291821         BURSASANAYI          BSANAYISANAL  1          99.99        334.9665  335.0
+16       BANK:   220112  220121    BURSASANAYI A    BURSASANAYI A    1            220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5  1          99.99        249.9750  250.0
+17        OTR:   227211  227221   ULUDAG B-OTR-4   ULUDAG B-OTR-4    2            228621  291821         OSMANGAZI            BSANAYISANAL  1          96.41        322.9735  335.0
+18        OTR:   227211  227221   ULUDAG B-OTR-4   ULUDAG B-OTR-4    2            220121  291821         BURSASANAYI          BSANAYISANAL  1          96.40        322.9400  335.0
+19        OTR:   227211  227221   ULUDAG A-OTR-1   ULUDAG A-OTR-1    1            228621  291821         OSMANGAZI            BSANAYISANAL  1          96.39        322.9065  335.0
+20        OTR:   227211  227221   ULUDAG A-OTR-1   ULUDAG A-OTR-1    1            220121  291821         BURSASANAYI          BSANAYISANAL  1          96.39        322.9065  335.0
+21  Generator:   220066    None     BURSADG                  None  None           228621  291821         OSMANGAZI            BSANAYISANAL  1          96.38        322.8730  335.0
+22  Generator:   220066    None     BURSADG                  None  None           220121  291821         BURSASANAYI          BSANAYISANAL  1          96.38        322.8730  335.0
+23        EIH:   221921  292021     KESTEL           KESTELSANAL     1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.77        317.4795  335.0
+24        EIH:   221921  292021     KESTEL           KESTELSANAL     1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.76        317.4460  335.0
+25        EIH:   215821  220821     ASILDEMIRCLK     ORHANGAZI       1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.64        317.0440  335.0
+26        EIH:   215821  220821     ASILDEMIRCLK     ORHANGAZI       1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.64        317.0440  335.0
+27        EIH:   213721  214421     YALOVA           AKSAYALOVA      1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.59        316.8765  335.0
+28        EIH:   213721  214421     YALOVA           AKSAYALOVA      1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.58        316.8430  335.0
+29        EIH:   220022  221822     BURSADG          DEMIRTAS        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.43        316.3405  335.0
+30        EIH:   220021  221822     BURSADG          DEMIRTAS        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.43        316.3405  335.0
+31        EIH:   220022  221822     BURSADG          DEMIRTAS        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.42        316.3070  335.0
+32        EIH:   220023  228221     BURSADG          RBKARESI        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.42        316.3070  335.0
+33        EIH:   220023  220922     BURSADG          OTOSANSIT       1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.42        316.3070  335.0
+34        EIH:   220921  228221     OTOSANSIT        RBKARESI        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.42        316.3070  335.0
+35        EIH:   220021  221822     BURSADG          DEMIRTAS        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.42        316.3070  335.0
+36        EIH:   220023  220922     BURSADG          OTOSANSIT       1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.41        316.2735  335.0
+37        EIH:   216221  226821     GOKTEPERES       YARESRES        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.41        316.2735  335.0
+38        EIH:   221421  228722     ORHANELITES      ORHANELI        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.41        316.2735  335.0
+39        EIH:   220023  228221     BURSADG          RBKARESI        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.41        316.2735  335.0
+40        EIH:   221421  228721     ORHANELITES      ORHANELI        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.41        316.2735  335.0
+41        EIH:   216221  226821     GOKTEPERES       YARESRES        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.41        316.2735  335.0
+42        EIH:   220921  228221     OTOSANSIT        RBKARESI        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.41        316.2735  335.0
+43        EIH:   221421  228721     ORHANELITES      ORHANELI        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.40        316.2400  335.0
+44        EIH:   221421  228722     ORHANELITES      ORHANELI        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.40        316.2400  335.0
+45        EIH:   214421  220821     AKSAYALOVA       ORHANGAZI       1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.16        315.4360  335.0
+46        EIH:   214421  220821     AKSAYALOVA       ORHANGAZI       1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.16        315.4360  335.0
+47        EIH:   213621  213721     KARAMURSEL       YALOVA          1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.13        315.3355  335.0
+48        EIH:   213621  213721     KARAMURSEL       YALOVA          1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.12        315.3020  335.0
+49        EIH:   221921  225422     KESTEL           TURANKOY        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.10        315.2350  335.0
+50        EIH:   221921  225422     KESTEL           TURANKOY        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          94.09        315.2015  335.0
+51        EIH:   227221  292021     ULUDAG           KESTELSANAL     1            228621  291821         OSMANGAZI            BSANAYISANAL  1          94.00        314.9000  335.0
+52        EIH:   227221  292021     ULUDAG           KESTELSANAL     1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.99        314.8665  335.0
+53        EIH:   219321  221622     HASANAGA         GORUKLE         1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.98        314.8330  335.0
+54        EIH:   219321  221622     HASANAGA         GORUKLE         1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.97        314.7995  335.0
+55        EIH:   219321  224221     HASANAGA         ULUABATHES      1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.80        314.2300  335.0
+56        EIH:   225421  227221     TURANKOY         ULUDAG          1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.80        314.2300  335.0
+57        EIH:   221721  224222     AKCALAR          ULUABATHES      1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.80        314.2300  335.0
+58        EIH:   225421  227221     TURANKOY         ULUDAG          1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.79        314.1965  335.0
+59        EIH:   219321  224221     HASANAGA         ULUABATHES      1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.79        314.1965  335.0
+60        EIH:   221721  224222     AKCALAR          ULUABATHES      1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.79        314.1965  335.0
+61        EIH:   213721  220721     YALOVA           GEMLIK          1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.73        313.9955  335.0
+62        EIH:   213721  220721     YALOVA           GEMLIK          1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.73        313.9955  335.0
+63        EIH:   220010  227210     BURSADG          ULUDAG          1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.54        313.3590  335.0
+64        EIH:   220010  227210     BURSADG          ULUDAG          1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.53        313.3255  335.0
+65        EIH:   220010  227211     BURSADG          ULUDAG          1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.52        313.2920  335.0
+66        EIH:   221121  228622     YILDIRIM         OSMANGAZI       1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.52        313.2920  335.0
+67        EIH:   220010  227211     BURSADG          ULUDAG          1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.51        313.2585  335.0
+68        EIH:   221121  228622     YILDIRIM         OSMANGAZI       1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.51        313.2585  335.0
+69        EIH:   221121  228621     YILDIRIM         OSMANGAZI       1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.46        313.0910  335.0
+70        EIH:   221121  228621     YILDIRIM         OSMANGAZI       1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.46        313.0910  335.0
+71        OTR:   220010  220024  BURSADG B-OTR-3  BURSADG B-OTR-3    1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.36        312.7560  335.0
+72        OTR:   220010  220024  BURSADG B-OTR-3  BURSADG B-OTR-3    1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.36        312.7560  335.0
+73        EIH:   221521  225221     MKEMALPASA       POYRAZRES_SU    1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.03        311.6505  335.0
+74        EIH:   221521  225221     MKEMALPASA       POYRAZRES_SU    1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.02        311.6170  335.0
+75        EIH:   220022  220721     BURSADG          GEMLIK          1            228621  291821         OSMANGAZI            BSANAYISANAL  1          92.89        311.1815  335.0
+76        EIH:   220022  220721     BURSADG          GEMLIK          1            220121  291821         BURSASANAYI          BSANAYISANAL  1          92.88        311.1480  335.0
+77       BANK:   220110  220122    BURSASANAYI B    BURSASANAYI B    1            220122  228622         BURSASANAYI          OSMANGAZI     1          92.38        332.5680  360.0
+78        EIH:   225221  228722     POYRAZRES_SU     ORHANELI        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          92.12        308.6020  335.0
+79        EIH:   225221  228722     POYRAZRES_SU     ORHANELI        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          92.12        308.6020  335.0
+80       BANK:   220010  220021        BURSADG A        BURSADG A    1            220121  291821         BURSASANAYI          BSANAYISANAL  1          91.95        308.0325  335.0
+81       BANK:   220010  220021        BURSADG A        BURSADG A    1            228621  291821         OSMANGAZI            BSANAYISANAL  1          91.95        308.0325  335.0
+82        EIH:   220121  228721     BURSASANAYI      ORHANELI        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          91.81        307.5635  335.0
+83        EIH:   220121  228721     BURSASANAYI      ORHANELI        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          91.80        307.5300  335.0
+84        EIH:   221521  311121     MKEMALPASA       GOBEL           1            228621  291821         OSMANGAZI            BSANAYISANAL  1          91.58        306.7930  335.0
+85        EIH:   221521  311121     MKEMALPASA       GOBEL           1            220121  291821         BURSASANAYI          BSANAYISANAL  1          91.58        306.7930  335.0
+86        EIH:   210310  227210     ADAPAZARI        ULUDAG          1            228621  291821         OSMANGAZI            BSANAYISANAL  1          91.53        306.6255  335.0
+87        EIH:   210310  227210     ADAPAZARI        ULUDAG          1            220121  291821         BURSASANAYI          BSANAYISANAL  1          91.52        306.5920  335.0
+88        EIH:   224022  311121     KARACABEY        GOBEL           1            220121  291821         BURSASANAYI          BSANAYISANAL  1          91.51        306.5585  335.0
+89        EIH:   224022  311121     KARACABEY        GOBEL           1            228621  291821         OSMANGAZI            BSANAYISANAL  1          91.51        306.5585  335.0
+90        EIH:   227121  311121     DEVECIKONAGI     GOBEL           1            228621  291821         OSMANGAZI            BSANAYISANAL  1          91.15        305.3525  335.0
+91        EIH:   227121  228721     DEVECIKONAGI     ORHANELI        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          91.15        305.3525  335.0
+92        EIH:   227121  228721     DEVECIKONAGI     ORHANELI        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          91.15        305.3525  335.0
+93        EIH:   227121  311121     DEVECIKONAGI     GOBEL           1            220121  291821         BURSASANAYI          BSANAYISANAL  1          91.14        305.3190  335.0
+94        EIH:   221621  221721     GORUKLE          AKCALAR         1            228621  291821         OSMANGAZI            BSANAYISANAL  1          91.12        305.2520  335.0
+95        EIH:   221621  221721     GORUKLE          AKCALAR         1            220121  291821         BURSASANAYI          BSANAYISANAL  1          91.11        305.2185  335.0
+96  Generator:   227661    None     HARMANLIKRES             None  None           228621  291821         OSMANGAZI            BSANAYISANAL  1          90.77        304.0795  335.0
+97  Generator:   227661    None     HARMANLIKRES             None  None           220121  291821         BURSASANAYI          BSANAYISANAL  1          90.76        304.0460  335.0
+98        EIH:   221321  228722     BESEVLER         ORHANELI        1            220121  291821         BURSASANAYI          BSANAYISANAL  1          90.45        303.0075  335.0
+99        EIH:   221321  228722     BESEVLER         ORHANELI        1            228621  291821         OSMANGAZI            BSANAYISANAL  1          90.45        303.0075  335.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

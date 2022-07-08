@@ -1,0 +1,23 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211210 - 215210, KARTAL       - MALTEPEIST   (1 )
+Inkitaya giden bara numaralari:
+[215210, 215211]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   211211  214711  KARTAL        YENIDGKC      1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          99.55         248.875  250.0
+1   EIH:   211211  214711  KARTAL        YENIDGKC      1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          98.97         247.425  250.0
+2   EIH:   210010  210911  UMRANIYE      KBAKKALKOY    1            210010  210022  UMRANIYE A-OTR-10  UMRANIYE A-OTR-10  1          98.51         147.765  150.0
+3   EIH:   210010  210911  UMRANIYE      KBAKKALKOY    1            210010  210022  UMRANIYE A-OTR-11  UMRANIYE A-OTR-11  2          98.51         147.765  150.0
+4   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          94.90         237.250  250.0
+5  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4  1          93.57         233.925  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

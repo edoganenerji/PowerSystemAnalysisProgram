@@ -1,0 +1,113 @@
+
+ 07.03.2022 14:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 12 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722, 213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 223421 - 590121, ALTINTAS     - AFYON1SANAL  (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 222521 - 225321, BOZUYUK      - BOZUYUKRES   (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210210 - 210410, PASAKOY      - ADA1DGKC     (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 220010 - 227211, BURSADG      - ULUDAG       (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 220011 - 227210, BURSADG      - ULUDAG       (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 223421 - 225821, ALTINTAS     - KUTAHYAOSB   (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 222621 - 222822, ESKISEHIR1   - ESKISEHIR3   (1 )
+Inkitaya giden bara numaralari:
+[222621]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 225821 - 291321, KUTAHYAOSB   - KUTAHYASANAL (1 )
+----------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         103.79         259.475  250.0
+1  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4  1          99.53         248.825  250.0
+2   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          99.28         248.200  250.0
+3   EIH:   220511  222811  SEYITOMER     ESKISEHIR3    1            220510  220521    SEYITOMER OTR-1    SEYITOMER OTR-1  1          94.09         141.135  150.0
+4  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            210121  211921       TEPEOREN           KURTKOY       1          93.52         313.292  335.0
+5   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          90.93         227.325  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      220121  BURSASANAYI        30769.71       25905.54
+1      210122  TEPEOREN           30763.18       27331.29
+2      212021  DUDULLU            28239.41       27767.62
+---------------------------------------------------------------

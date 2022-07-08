@@ -1,0 +1,45 @@
+
+ Messages for api FDNS
+ 8 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 214210 - 214810, KOCAELI      - MAKINAOSB    (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210210 - 210410, PASAKOY      - ADA1DGKC     (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 9 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 214822 - 216722, MAKINAOSB    - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722, 216722]
+--------------------------------------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 214761, generator ismi YENIELEKTRIK
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                              Ýzlenen Techizat                                                                                 
+    Type From Bus  To Bus   From Name     To Name  ID         From Bus  To Bus       From Name         To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   210110  210121  TEPEOREN A  TEPEOREN A  2            211210  211221  KARTAL C-OTR-6  KARTAL C-OTR-6  1          91.57         412.065  450.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

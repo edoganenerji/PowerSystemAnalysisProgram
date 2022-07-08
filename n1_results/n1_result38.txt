@@ -1,0 +1,11 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                    Ýzlenen Techizat                                                                                           
+    Type From Bus  To Bus      From Name        To Name  ID         From Bus  To Bus            From Name              To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   220111  220121  BURSASANAYI A  BURSASANAYI A  2            220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5  1          96.70         241.750  250.0
+1  BANK:   220111  220121  BURSASANAYI A  BURSASANAYI A  2            220110  220122  BURSASANAYI B-OTR-4  BURSASANAYI B-OTR-4  2          94.57         236.425  250.0
+2  BANK:   220010  220021      BURSADG A      BURSADG A  1            220011  220024      BURSADG B-OTR-3      BURSADG B-OTR-3  1          93.93         234.825  250.0
+3  BANK:   220111  220121  BURSASANAYI A  BURSASANAYI A  2            220110  220122  BURSASANAYI B-OTR-3  BURSASANAYI B-OTR-3  1          92.24         230.600  250.0
+4  BANK:   220110  220122  BURSASANAYI B  BURSASANAYI B  1            220111  220121  BURSASANAYI A-OTR-1  BURSASANAYI A-OTR-1  2          90.66         226.650  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

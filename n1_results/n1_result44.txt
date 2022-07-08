@@ -1,0 +1,15 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                            Ýzlenen Techizat                                                                                        
+    Type From Bus  To Bus          From Name            To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0   EIH:   210111  214310       TEPEOREN           DILOVASIOSB   1            210122  211822       TEPEOREN           GEBZEOSB      1         104.64        261.6000   250.0
+1  BANK:   210110  210121         TEPEOREN A         TEPEOREN A  2            211210  211221     KARTAL A-OTR-2     KARTAL A-OTR-2  1         100.35        250.8750   250.0
+2   EIH:   211321  211822       TUZLA              GEBZEOSB      1            211421  211521       KROMANCELIK        COLAKOGLU     1          94.92        237.3000   250.0
+3   OTR:   214310  214321  DILOVASIOSB OTR-2  DILOVASIOSB OTR-2  2            214310  214321  DILOVASIOSB OTR-1  DILOVASIOSB OTR-1  1          94.62        236.5500   250.0
+4   OTR:   214310  214321  DILOVASIOSB OTR-1  DILOVASIOSB OTR-1  1            214310  214321  DILOVASIOSB OTR-2  DILOVASIOSB OTR-2  2          94.40        236.0000   250.0
+5   EIH:   210111  214310       TEPEOREN           DILOVASIOSB   1            214322  214821       DILOVASIOSB        MAKINAOSB     1          92.52        231.3000   250.0
+6  BANK:   210110  210121         TEPEOREN A         TEPEOREN A  2            210121  211921       TEPEOREN           KURTKOY       1          92.28        310.0608   336.0
+7   EIH:   214210  214810       KOCAELI            MAKINAOSB     1            210111  214211       TEPEOREN           KOCAELI       1          92.23       1254.3280  1360.0
+8   EIH:   210111  214310       TEPEOREN           DILOVASIOSB   1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          91.40        228.5000   250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

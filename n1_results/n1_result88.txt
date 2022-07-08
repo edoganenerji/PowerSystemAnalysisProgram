@@ -1,0 +1,20 @@
+
+ Messages for api FDNS
+ 2 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211522 - 217221, COLAKOGLU    - SIDDIK       (1 )
+Inkitaya giden bara numaralari:
+[217221]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                                       
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1         105.43         263.575  250.0
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          96.74         241.850  250.0
+2  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            211321  211422       TUZLA              KROMANCELIK   1          96.69         241.725  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

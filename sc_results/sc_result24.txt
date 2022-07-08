@@ -1,0 +1,40 @@
+Backend Qt5Agg is interactive backend. Turning interactive mode on.
+
+ 12.06.2022 14:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220612_1400_SN7_TR0 (1).sav was saved on THU, JUN 16 2022   8:47
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+    Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0       210221  PASAKOY            36544.34       37501.58
+1       210222  PASAKOY            36544.34       37501.58
+2       210223  PASAKOY            36544.34       37501.58
+3       212021  DUDULLU            33212.15       35509.05
+4       217621  DUDULLUMETRO       32078.27       34650.49
+5       217622  DUDULLUMETRO       32078.27       34650.49
+6       210021  UMRANIYE           31560.30       34224.68
+7       210921  KBAKKALKOY         30748.99       33151.02
+8       210922  KBAKKALKOY         30748.99       33151.02
+9       211022  BBAKKALKOY         28670.84       24473.68
+10      210122  TEPEOREN           28234.19       25597.54
+11      216621  KADIKOY            26230.09       28652.89
+12      216622  KADIKOY            26230.09       28652.89
+---------------------------------------------------------------

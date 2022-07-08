@@ -1,0 +1,33 @@
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210821 - 210922, GOZTEPE      - KBAKKALKOY   (1 )
+Inkitaya giden bara numaralari:
+[210821, 210822]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                              Ýzlenen Techizat                                                                                         
+    Type From Bus  To Bus           From Name             To Name  ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   211522  214322        COLAKOGLU           DILISKELESIG  1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1         118.63         296.575  250.0
+1   EIH:   211522  214322        COLAKOGLU           DILISKELESIG  1            214822  217221        MAKINAOSB           SIDDIK        1         108.03         270.075  250.0
+2   EIH:   210111  214310        TEPEOREN            DILISKELESIG  1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1         104.28         260.700  250.0
+3   EIH:   210010  210911        UMRANIYE            KBAKKALKOY    1            210010  210022   UMRANIYE A-OTR-11   UMRANIYE A-OTR-11  2         101.78         152.670  150.0
+4   EIH:   210010  210911        UMRANIYE            KBAKKALKOY    1            210010  210022   UMRANIYE A-OTR-10   UMRANIYE A-OTR-10  1         101.78         152.670  150.0
+5   EIH:   210111  214310        TEPEOREN            DILISKELESIG  1            214810  214821   MAKINAOSB A-OTR-1   MAKINAOSB A-OTR-1  1         100.86         252.150  250.0
+6   EIH:   214310  290310        DILISKELESIG        DCELIKSANAL   1            214810  214821   MAKINAOSB A-OTR-1   MAKINAOSB A-OTR-1  1          94.86         237.150  250.0
+7   EIH:   210111  214310        TEPEOREN            DILISKELESIG  1            214321  214821        DILISKELESIG        MAKINAOSB     1          94.55         236.375  250.0
+8   EIH:   210010  210911        UMRANIYE            KBAKKALKOY    1            210110  210121    TEPEOREN A-OTR-2    TEPEOREN A-OTR-2  1          93.91         234.775  250.0
+9   EIH:   210010  210911        UMRANIYE            KBAKKALKOY    1            210110  210121    TEPEOREN A-OTR-1    TEPEOREN A-OTR-1  2          93.36         233.400  250.0
+10  EIH:   210910  215211        KBAKKALKOY          MALTEPEIST    1            210110  210121    TEPEOREN A-OTR-2    TEPEOREN A-OTR-2  1          91.02         227.550  250.0
+11  OTR:   214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1          90.79         226.975  250.0
+12  OTR:   214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1            214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1          90.59         226.475  250.0
+13  EIH:   210910  215211        KBAKKALKOY          MALTEPEIST    1            210110  210121    TEPEOREN A-OTR-1    TEPEOREN A-OTR-1  2          90.49         226.225  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

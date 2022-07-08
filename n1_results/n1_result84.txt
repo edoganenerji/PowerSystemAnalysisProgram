@@ -1,0 +1,410 @@
+
+ 03.02.2022 10:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220203_1000_SN4_TR0.sav was saved on THU, FEB 03 2022  11:30
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+----------------------------------------------------------------------------------------------------------
+TEMEL DURUM GÜÇ AKIÞI
+----------------------------------------------------------------------------------------------------------
+     From Bus  To Bus             From Name               To Name  ID  Power Flow(%)  Power Flow(MVA)   RATEA
+0      220010  220021       BURSADG A-OTR-1       BURSADG A-OTR-1  1           74.12         185.3000   250.0
+1      220010  220021       BURSADG A-OTR-2       BURSADG A-OTR-2  2           74.12         185.3000   250.0
+2      210311  210321     ADAPAZARI B-OTR-4     ADAPAZARI B-OTR-4  2           72.29         180.7250   250.0
+3      210311  210321     ADAPAZARI B-OTR-3     ADAPAZARI B-OTR-3  1           71.16         177.9000   250.0
+4      214210  214221       KOCAELI A-OTR-1       KOCAELI A-OTR-1  1           70.07         175.1750   250.0
+5      214210  214221       KOCAELI B-OTR-3       KOCAELI B-OTR-3  2           70.07         175.1750   250.0
+6      220011  220024       BURSADG B-OTR-3       BURSADG B-OTR-3  1           69.03         172.5750   250.0
+7      210110  210121      TEPEOREN A-OTR-2      TEPEOREN A-OTR-2  1           66.27         165.6750   250.0
+8      210110  210121      TEPEOREN A-OTR-1      TEPEOREN A-OTR-1  2           65.88         164.7000   250.0
+9      220111  220122   BURSASANAYI B-OTR-4   BURSASANAYI B-OTR-4  2           64.28         160.7000   250.0
+10     220111  220122   BURSASANAYI B-OTR-3   BURSASANAYI B-OTR-3  1           62.70         156.7500   250.0
+11     210621  212422          HYUNDAI               ENJKOSEKOY    1           61.15         152.8750   250.0
+12     214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3  1           59.54         148.8500   250.0
+13     231121  233221          OSMANCA               CUMAYERI      1           59.52         107.1360   180.0
+14     210210  210221       PASAKOY A-OTR-1       PASAKOY A-OTR-1  1           58.87         147.1750   250.0
+15     210210  210221       PASAKOY A-OTR-2       PASAKOY A-OTR-2  2           58.62         146.5500   250.0
+16     214310  214322    DILISKELESIG OTR-1    DILISKELESIG OTR-1  1           57.01         142.5250   250.0
+17     210111  214310          TEPEOREN              DILISKELESIG  1           56.88         561.4056   987.0
+18     214311  214322    DILISKELESIG OTR-2    DILISKELESIG OTR-2  1           56.77         141.9250   250.0
+19     220121  221322          BURSASANAYI           BESEVLER      1           56.38         140.9500   250.0
+20     210311  214211          ADAPAZARI             KOCAELI       1           56.12         763.2320  1360.0
+21     210111  214211          TEPEOREN              KOCAELI       1           55.99         761.4640  1360.0
+22     214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1  1           55.62         139.0500   250.0
+23     211822  216721          GEBZEOSB              GEBZEKIMYA    1           54.04         135.1000   250.0
+24     210221  212021          PASAKOY               DUDULLU       1           52.67         189.6120   360.0
+25     212921  233221          HENDEK                CUMAYERI      1           51.89          93.4020   180.0
+26     210111  210122      TEPEOREN B-OTR-3      TEPEOREN B-OTR-3  1           51.59         128.9750   250.0
+27     217321  230021          ALAPLI                BOLUCEK       1           50.52          90.9360   180.0
+28     210111  210122      TEPEOREN B-OTR-4      TEPEOREN B-OTR-4  2           50.46         126.1500   250.0
+29     220010  314911          BURSADG               BANDIRMA1DG   1           50.30        1041.2100  2070.0
+30     210321  212521          ADAPAZARI             KOSEKOY       2           49.43         123.5750   250.0
+31     210010  210022     UMRANIYE A-OTR-11     UMRANIYE A-OTR-11  2           48.81          73.2150   150.0
+32     210010  210022     UMRANIYE A-OTR-10     UMRANIYE A-OTR-10  1           48.81          73.2150   150.0
+33     211211  211221        KARTAL B-OTR-4        KARTAL B-OTR-4  1           48.75         121.8750   250.0
+34     227211  227221        ULUDAG B-OTR-4        ULUDAG B-OTR-4  2           48.19         120.4750   250.0
+35     227211  227221        ULUDAG A-OTR-1        ULUDAG A-OTR-1  1           47.92         119.8000   250.0
+36     210621  214221          HYUNDAI               KOCAELI       1           47.66         160.1376   336.0
+37     220022  220721          BURSADG               GEMLIK        1           47.25         158.7600   336.0
+38     210122  211822          TEPEOREN              GEBZEOSB      1           46.64         116.6000   250.0
+39     227121  228721          DEVECIKONAGI          ORHANELI      1           45.48         113.7000   250.0
+40     210910  210922    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4  1           45.37         113.4250   250.0
+41     210911  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2  1           45.26         113.1500   250.0
+42     221521  311121          MKEMALPASA            GOBEL         1           44.91         112.2750   250.0
+43     214821  216721          MAKINAOSB             GEBZEKIMYA    1           44.81         150.5616   336.0
+44     220111  220121   BURSASANAYI A-OTR-1   BURSASANAYI A-OTR-1  2           44.80         112.0000   250.0
+45     210311  231110          ADAPAZARI             OSMANCA       1           44.04         598.9440  1360.0
+46     220111  220121   BURSASANAYI C-OTR-5   BURSASANAYI C-OTR-5  1           43.70         109.2500   250.0
+47     212322  212421          IZMIT                 ENJKOSEKOY    1           43.69         109.2250   250.0
+48     220111  220121   BURSASANAYI A-OTR-2   BURSASANAYI A-OTR-2  3           43.52         108.8000   250.0
+49     210310  214210          ADAPAZARI             KOCAELI       1           42.96        1065.4080  2480.0
+50     220121  291821          BURSASANAYI           BSANAYISANAL  1           42.96         144.3456   336.0
+51     228621  291821          OSMANGAZI             BSANAYISANAL  1           42.94         144.2784   336.0
+52     214210  214810          KOCAELI               MAKINAOSB     1           42.80        1061.4400  2480.0
+53     224022  311121          KARACABEY             GOBEL         1           42.10          75.7800   180.0
+54     227121  311121          DEVECIKONAGI          GOBEL         1           41.65         104.1250   250.0
+55     210022  210721          UMRANIYE              SELIMIYE      1           41.58         103.9500   250.0
+56     211421  211521          KROMANCELIK           COLAKOGLU     1           41.43         103.5750   250.0
+57     217321  231521          ALAPLI                AKCAKOCA      1           41.28          74.3040   180.0
+58     211321  211621          TUZLA                 ICMELER       1           40.23         100.5750   250.0
+59     120710  210511          HABIBLER              ADA2DGKC      1           40.01         661.3653  1653.0
+60     220122  221221          BURSASANAYI           BOSEN         1           39.99         134.3664   336.0
+61     220110  310010          BURSASANAYI           KOYLUKOY      1           39.75         540.6000  1360.0
+62     211222  211621          KARTAL                ICMELER       1           39.32         141.5520   360.0
+63     212621  216722          HEREKE                GEBZEKIMYA    1           39.31          98.2750   250.0
+64     210111  217711          TEPEOREN              ATASEHIR      1           39.25         387.3975   987.0
+65     212521  214222          KOSEKOY               KOCAELI       1           39.05          97.6250   250.0
+66     221621  221721          GORUKLE               AKCALAR       1           38.98         130.9728   336.0
+67     220022  221822          BURSADG               DEMIRTAS      1           38.59          96.4750   250.0
+68     216321  220821          CAKILRES              ORHANGAZI     1           37.75         126.8400   336.0
+69     210121  211821          TEPEOREN              GEBZEOSB      2           37.60          94.0000   250.0
+70     231121  233921          OSMANCA               DUZCEOSB      1           37.28          67.1040   180.0
+71     211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6  1           36.96         166.3200   450.0
+72     231111  233611          OSMANCA               ZETES3        1           36.74         760.5180  2070.0
+73     210211  210222       PASAKOY B-OTR-3       PASAKOY B-OTR-3  2           36.58          91.4500   250.0
+74     210321  214222          ADAPAZARI             KOCAELI       2           36.48          91.2000   250.0
+75     213721  220721          YALOVA                GEMLIK        1           36.47          65.6460   180.0
+76     214822  217221          MAKINAOSB             SIDDIK        1           36.40          91.0000   250.0
+77     226311  290510          AKSAGOYNUK            GOYNUKSANAL   1           35.88         487.9680  1360.0
+78     230010  231110          BOLUCEK               OSMANCA       1           35.61         737.1270  2070.0
+79     210311  290510          ADAPAZARI             GOYNUKSANAL   1           34.99         475.8640  1360.0
+80     210121  211821          TEPEOREN              GEBZEOSB      1           34.89          87.2250   250.0
+81     210211  231111          PASAKOY               OSMANCA       1           34.77         719.7390  2070.0
+82     210010  210021     UMRANIYE B-OTR-12     UMRANIYE B-OTR-12  1           34.56          51.8400   150.0
+83     211022  211122          BBAKKALKOY            SOGANLIK      1           34.15          85.3750   250.0
+84     221721  229421          AKCALAR               GUNEY-1RES    1           33.97         114.1392   336.0
+85     210010  217710          UMRANIYE              ATASEHIR      1           33.89         334.4943   987.0
+86     231121  231521          OSMANCA               AKCAKOCA      1           33.88          60.9840   180.0
+87     210510  216911          ADA2DGKC              KAVACIK       1           33.53         831.5440  2480.0
+88     210211  210222       PASAKOY B-OTR-4       PASAKOY B-OTR-4  1           33.43          83.5750   250.0
+89     211221  211622          KARTAL                ICMELER       1           33.18         119.4480   360.0
+90     230010  232610          BOLUCEK               ZETES2        1           33.10         820.8800  2480.0
+91     220121  221821          BURSASANAYI           DEMIRTAS      1           32.85         110.3760   336.0
+92     210010  210021     UMRANIYE B-OTR-13     UMRANIYE B-OTR-13  2           32.74          81.8500   250.0
+93     120911  210210          ZEKERIYAKOY           PASAKOY       1           32.40         535.5720  1653.0
+94     210311  410011          ADAPAZARI             CAYIRHAN      1           32.08         436.2880  1360.0
+95     210210  210410          PASAKOY               ADA1DGKC      1           31.89         790.8720  2480.0
+96     210511  232611          ADA2DGKC              ZETES2        1           31.88         659.9160  2070.0
+97     231821  616521          GERKONSAN             ISMETPASA     1           31.43          56.5740   180.0
+98     231111  231121       OSMANCA B-OTR-3       OSMANCA B-OTR-3  1           31.15          46.7250   150.0
+99     210323  214821          ADAPAZARI             MAKINAOSB     1           31.15          77.8750   250.0
+100    211321  211822          TUZLA                 GEBZEOSB      1           31.12         112.0320   360.0
+101    220121  221621          BURSASANAYI           GORUKLE       1           30.75         103.3200   336.0
+102    210821  210922          GOZTEPE               KBAKKALKOY    1           30.71          76.7750   250.0
+103    212121  214221          YARIMCA1              KOCAELI       1           30.57          76.4250   250.0
+104    219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2  2           30.49          76.2250   250.0
+105    219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1  1           30.37          75.9250   250.0
+106    212521  214222          KOSEKOY               KOCAELI       2           30.02          75.0500   250.0
+107    220021  221822          BURSADG               DEMIRTAS      1           29.80          83.4400   280.0
+108    231111  231121       OSMANCA B-OTR-4       OSMANCA B-OTR-4  2           29.39          44.0850   150.0
+109    221521  225221          MKEMALPASA            POYRAZRES_SU  1           29.26          73.1500   250.0
+110    225221  228722          POYRAZRES_SU          ORHANELI      1           29.20          73.0000   250.0
+111    231110  231121       OSMANCA A-OTR-1       OSMANCA A-OTR-1  2           29.19          43.7850   150.0
+112    214822  216722          MAKINAOSB             GEBZEKIMYA    1           29.18          98.0448   336.0
+113    210010  210911          UMRANIYE              KBAKKALKOY    1           28.88         285.0456   987.0
+114    214310  290310          DILISKELESIG          DCELIKSANAL   1           28.45         280.8015   987.0
+115    214210  227211          KOCAELI               ULUDAG        1           28.23         383.9280  1360.0
+116    212521  215021          KOSEKOY               GOLCUK        1           28.15          94.5840   336.0
+117    210010  210110          UMRANIYE              TEPEOREN      1           27.43         373.0480  1360.0
+118    211022  211222          BBAKKALKOY            KARTAL        1           27.26          68.1500   250.0
+119    211522  214322          COLAKOGLU             DILISKELESIG  1           27.21          91.4256   336.0
+120    231110  231121       OSMANCA A-OTR-2       OSMANCA A-OTR-2  1           27.12          67.8000   250.0
+121    213621  213721          KARAMURSEL            YALOVA        1           26.96          48.5280   180.0
+122    211211  214711          KARTAL                YENIDGKC      1           26.79         554.5530  2070.0
+123    220111  220210          BURSASANAYI           GURAGAC       1           26.30         357.6800  1360.0
+124    213121  218921          SAKARYA               FERIZLIOSB    1           26.21          47.1780   180.0
+125    210222  211022          PASAKOY               BBAKKALKOY    2           26.20          88.0320   336.0
+126    210222  211022          PASAKOY               BBAKKALKOY    1           26.20          88.0320   336.0
+127    214421  220821          AKSAYALOVA            ORHANGAZI     1           26.09          87.6624   336.0
+128    220010  227211          BURSADG               ULUDAG        1           25.95         352.9200  1360.0
+129    210321  213021          ADAPAZARI             YARIMCA2      1           25.69          64.2250   250.0
+130    220011  227210          BURSADG               ULUDAG        1           25.68         349.2480  1360.0
+131    212621  212721          HEREKE                NUHCIMENTO    1           25.33          63.3250   250.0
+132    213721  214421          YALOVA                AKSAYALOVA    1           25.25          84.8400   336.0
+133    230621  231621          CATES                 ZONGULDAK     1           25.20          84.6720   336.0
+134    230621  234322          CATES                 ZETES1        1           24.83          83.4288   336.0
+135    221921  225422          KESTEL                TURANKOY      1           24.02          80.7072   336.0
+136    231121  232422          OSMANCA               MELEN         1           23.83          59.5750   250.0
+137    214321  214821          DILISKELESIG          MAKINAOSB     1           23.77          59.4250   250.0
+138    231221  232422          KARASU                MELEN         1           23.62          59.0500   250.0
+139    221721  224321          AKCALAR               BANDIRMARES   1           23.46          78.8256   336.0
+140    211521  219121          COLAKOGLU             COLAKOGLU400  1           23.34         156.8448   672.0
+141    234421  412421          BOLU1                 SARIYAR       1           23.04          41.4720   180.0
+142    215521  222121          ULURES                INEGOL        1           23.01          57.5250   250.0
+143    210110  214811          TEPEOREN              MAKINAOSB     1           22.89         567.6720  2480.0
+144    220122  228622          BURSASANAYI           OSMANGAZI     1           22.84          82.2240   360.0
+145    230021  231321          BOLUCEK               ERDEMIR1      1           22.40          56.0000   250.0
+146    120310  216911          ALIBEYKOY             KAVACIK       1           22.22         459.9540  2070.0
+147    230010  230021       BOLUCEK B-OTR-4       BOLUCEK B-OTR-4  1           22.21          33.3150   150.0
+148    226310  410110          AKSAGOYNUK            GOKCEKAYA     1           22.01         299.3360  1360.0
+149    222121  228721          INEGOL                ORHANELI      1           21.97          54.9250   250.0
+150    210121  211921          TEPEOREN              KURTKOY       1           21.76          73.1136   336.0
+151    215521  228722          ULURES                ORHANELI      1           21.52          53.8000   250.0
+152    227221  292021          ULUDAG                KESTELSANAL   1           21.44          72.0384   336.0
+153    221121  228621          YILDIRIM              OSMANGAZI     1           21.27          71.4672   336.0
+154    230621  230721          CATES                 CAYCUMA       1           21.20          71.2320   336.0
+155    210122  212122          TEPEOREN              YARIMCA1      1           21.13          52.8250   250.0
+156    210310  210322     ADAPAZARI A-OTR-1     ADAPAZARI A-OTR-1  1           21.06          52.6500   250.0
+157    210310  210322     ADAPAZARI A-OTR-2     ADAPAZARI A-OTR-2  2           21.03          31.5450   150.0
+158    210322  213322          ADAPAZARI             KUZULUK       1           21.00          52.5000   250.0
+159    219321  224221          HASANAGA              ULUABATHES    1           20.89          70.1904   336.0
+160    221221  221821          BOSEN                 DEMIRTAS      1           20.75          51.8750   250.0
+161    210510  231110          ADA2DGKC              OSMANCA       1           20.70         513.3600  2480.0
+162    222121  227221          INEGOL                ULUDAG        1           20.54          69.0144   336.0
+163    210111  210211          TEPEOREN              PASAKOY       1           20.15         417.1050  2070.0
+164    211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2  1           20.08          50.2000   250.0
+165    216321  226021          CAKILRES              YALOVARES     1           20.06          67.4016   336.0
+166    232610  233610          ZETES2                ZETES3        1           20.02         414.4140  2070.0
+167    211321  211422          TUZLA                 KROMANCELIK   1           19.98          49.9500   250.0
+168    210310  210411          ADAPAZARI             ADA1DGKC      1           19.71         488.8080  2480.0
+169    213221  218921          KAYNARCA              FERIZLIOSB    1           19.37          65.0832   336.0
+170    230621  230721          CATES                 CAYCUMA       2           19.23          64.6128   336.0
+171    211521  214321          COLAKOGLU             DILISKELESIG  1           17.71          59.5056   336.0
+172    232221  233921          KAYNASLI              DUZCEOSB      1           17.70          31.8600   180.0
+173    224021  227621          KARACABEY             HARMANLIKRES  1           17.52          58.8672   336.0
+174    227621  229421          HARMANLIKRES          GUNEY-1RES    1           17.46          58.6656   336.0
+175    214510  216910          BEYKOZ                KAVACIK       1           17.19         355.8330  2070.0
+176    233021  234321          KOZLU                 ZETES1        1           16.95          56.9520   336.0
+177    210110  214710          TEPEOREN              YENIDGKC      1           16.89         349.6230  2070.0
+178    230021  231421          BOLUCEK               ERDEMIR2      1           16.67          41.6750   250.0
+179    221321  228722          BESEVLER              ORHANELI      1           16.34          40.8500   250.0
+180    230721  616121          CAYCUMA               KARABUK       1           16.19          54.3984   336.0
+181    230021  230621          BOLUCEK               CATES         1           16.18          54.3648   336.0
+182    220011  220110          BURSADG               BURSASANAYI   1           16.13         219.3680  1360.0
+183    211210  215210          KARTAL                MALTEPEIST    1           15.81         156.0447   987.0
+184    213321  233521          KUZULUK               ZONGULDAKRES  1           15.73          52.8528   336.0
+185    220921  221921          OTOSANSIT             KESTEL        1           15.61          52.4496   336.0
+186    220023  228221          BURSADG               RBKARESI      1           15.43          51.8448   336.0
+187    230721  616321          CAYCUMA               SAFRANBOLU    1           15.41          51.7776   336.0
+188    220023  220922          BURSADG               OTOSANSIT     1           15.07          50.6352   336.0
+189    210410  410410          ADA1DGKC              TEMELLI       1           14.92         370.0160  2480.0
+190    231111  612311          OSMANCA               KURSUNLU      1           14.92         308.8440  2070.0
+191    235121  412421          MAVBIYOKUTLE          SARIYAR       1           14.90          37.2500   250.0
+192    210310  415310          ADAPAZARI             YUNUSEMRETES  1           14.89         369.2720  2480.0
+193    120311  214510          ALIBEYKOY             BEYKOZ        1           14.85         307.3950  2070.0
+194    210922  216622          KBAKKALKOY            KADIKOY       1           14.76          53.1360   360.0
+195    211221  211921          KARTAL                KURTKOY       1           14.75          49.5600   336.0
+196    211221  211921          KARTAL                KURTKOY       2           14.75          49.5600   336.0
+197    218821  235121          ASAS                  MAVBIYOKUTLE  1           14.71          36.7750   250.0
+198    212321  214822          IZMIT                 MAKINAOSB     1           14.58          48.9888   336.0
+199    230022  233021          BOLUCEK               KOZLU         1           14.35          48.2160   336.0
+200    210022  210922          UMRANIYE              KBAKKALKOY    1           14.27          51.3720   360.0
+201    213421  412421          MUDURNU               SARIYAR       1           14.02          35.0500   250.0
+202    212521  215122          KOSEKOY               ARSLANBEY     1           13.94          46.8384   336.0
+203    230010  230022       BOLUCEK A-OTR-2       BOLUCEK A-OTR-2  2           13.82          20.7300   150.0
+204    221921  292021          KESTEL                KESTELSANAL   1           13.79          46.3344   336.0
+205    221721  224222          AKCALAR               ULUABATHES    1           13.32          44.7552   336.0
+206    215621  233521          ADAPAZARIRES          ZONGULDAKRES  1           13.29          44.6544   336.0
+207    230021  231621          BOLUCEK               ZONGULDAK     1           13.10          44.0160   336.0
+208    214711  214810          YENIDGKC              MAKINAOSB     1           12.99         322.1520  2480.0
+209    219321  221622          HASANAGA              GORUKLE       1           12.60          42.3360   336.0
+210    225421  227221          TURANKOY              ULUDAG        1           12.40          41.6640   336.0
+211    211522  217221          COLAKOGLU             SIDDIK        1           12.39          30.9750   250.0
+212    230010  230022       BOLUCEK A-OTR-1       BOLUCEK A-OTR-1  1           12.35          18.5250   150.0
+213    210322  213821          ADAPAZARI             PAMUKOVA      1           12.22          30.5500   250.0
+214    216321  226621          CAKILRES              KUREKDAGIRES  1           12.14          40.7904   336.0
+215    213321  216421          KUZULUK               GOKSUHES      1           12.00          30.0000   250.0
+216    219110  290310          COLAKOGLU400          DCELIKSANAL   1           11.78         160.2080  1360.0
+217    231110  410311          OSMANCA               SINCAN        1           11.76         243.4320  2070.0
+218    220024  220621          BURSADG               KARSAK        1           11.75          39.4800   336.0
+219    210122  212221          TEPEOREN              SILE          1           11.63          29.0750   250.0
+220    220921  228221          OTOSANSIT             RBKARESI      1           11.49          38.6064   336.0
+221    213521  215021          FORD                  GOLCUK        1           11.37          38.2032   336.0
+222    210021  217621          UMRANIYE              DUDULLUMETRO  1           11.24          40.4640   360.0
+223    231323  231421          ERDEMIR1              ERDEMIR2      1           11.22          28.0500   250.0
+224    213421  216421          MUDURNU               GOKSUHES      1           10.73          26.8250   250.0
+225    216221  226021          GOKTEPERES            YALOVARES     1           10.68          35.8848   336.0
+226    213221  231222          KAYNARCA              KARASU        1           10.64          35.7504   336.0
+227    230010  230021       BOLUCEK B-OTR-3       BOLUCEK B-OTR-3  2           10.22          25.5500   250.0
+228    210322  212921          ADAPAZARI             HENDEK        1           10.07          18.1260   180.0
+229    215821  220821          ASILDEMIRCLK          ORHANGAZI     1           10.01          33.6336   336.0
+230    212122  214622          YARIMCA1              TUPRAS        1            9.85          24.6250   250.0
+231    220821  222221          ORHANGAZI             PASALAR       1            9.80          17.6400   180.0
+232    210021  214121          UMRANIYE              VANIKOY       1            9.66          24.1500   250.0
+233    230021  230121          BOLUCEK               KARAEREGLI    1            9.62          17.3160   180.0
+234    226621  226821          KUREKDAGIRES          YARESRES      1            9.58          32.1888   336.0
+235    220024  220821          BURSADG               ORHANGAZI     1            9.55          23.8750   250.0
+236    212521  212821          KOSEKOY               ENTEKKOSEKOY  1            9.49          23.7250   250.0
+237    210122  214022          TEPEOREN              ISAKOY        1            9.44          23.6000   250.0
+238    220022  220821          BURSADG               ORHANGAZI     1            9.42          31.6512   336.0
+239    215821  220621          ASILDEMIRCLK          KARSAK        1            9.41          31.6176   336.0
+240    232321  233121          BARTIN                HEMA          1            9.28          16.7040   180.0
+241    214910  290310          DILERCELIK            DCELIKSANAL   1            8.95         121.7200  1360.0
+242    211121  211222          SOGANLIK              KARTAL        1            8.69          21.7250   250.0
+243    221121  227222          YILDIRIM              ULUDAG        1            8.66          29.0976   336.0
+244    213221  216521          KAYNARCA              KANDIRARES    1            8.55          28.7280   336.0
+245    228021  292021          EDEBEY                KESTELSANAL   1            8.45          28.3920   336.0
+246    232021  232821          BOLU2                 KOPRUBASI     1            8.39          28.1904   336.0
+247    233121  610521          HEMA                  CIDE          1            8.38          15.0840   180.0
+248    210122  212021          TEPEOREN              DUDULLU       1            8.26          20.6500   250.0
+249    210122  212021          TEPEOREN              DUDULLU       2            8.26          20.6500   250.0
+250    210310  227210          ADAPAZARI             ULUDAG        1            8.20         111.5200  1360.0
+251    210921  211021          KBAKKALKOY            BBAKKALKOY    1            8.16          20.4000   250.0
+252    210921  211021          KBAKKALKOY            BBAKKALKOY    2            8.16          20.4000   250.0
+253    232021  232121          BOLU2                 BOLUCIM       1            8.04          14.4720   180.0
+254    220121  228721          BURSASANAYI           ORHANELI      1            7.93          19.8250   250.0
+255    214421  215121          AKSAYALOVA            ARSLANBEY     1            7.88          26.4768   336.0
+256    212021  217621          DUDULLU               DUDULLUMETRO  1            7.57          27.2520   360.0
+257    210722  216621          SELIMIYE              KADIKOY       1            7.53          18.8250   250.0
+258    211622  214322          ICMELER               DILISKELESIG  1            7.52          18.8000   250.0
+259    221121  228622          YILDIRIM              OSMANGAZI     1            7.51          25.2336   336.0
+260    231821  232121          GERKONSAN             BOLUCIM       1            7.48          13.4640   180.0
+261    222022  227222          YENISEHIR             ULUDAG        1            7.17          24.0912   336.0
+262    222022  227221          YENISEHIR             ULUDAG        1            7.17          24.0912   336.0
+263    210910  215211          KBAKKALKOY            MALTEPEIST    1            7.00          69.0900   987.0
+264    213921  218821          TOYOTASA              ASAS          1            6.85          17.1250   250.0
+265    232221  234422          KAYNASLI              BOLU1         1            6.69          12.0420   180.0
+266    216021  222221          GEYVERES              PASALAR       1            6.65          16.6250   250.0
+267    230621  232321          CATES                 BARTIN        1            5.92          19.8912   336.0
+268    231121  233821          OSMANCA               AKSUHES       1            5.92          14.8000   250.0
+269    230621  232321          CATES                 BARTIN        2            5.84          19.6224   336.0
+270    232022  234422          BOLU2                 BOLU1         1            5.79          10.4220   180.0
+271    210822  216621          GOZTEPE               KADIKOY       1            5.43          13.5750   250.0
+272    210321  213121          ADAPAZARI             SAKARYA       1            4.99          16.7664   336.0
+273    210010  216910          UMRANIYE              KAVACIK       1            4.90         101.4300  2070.0
+274    230721  230821          CAYCUMA               OYKA          1            4.71           8.4780   180.0
+275    222121  228021          INEGOL                EDEBEY        1            4.66          15.6576   336.0
+276    210221  217522          PASAKOY               CUMHURIYET    1            4.29           7.5075   175.0
+277    210221  217521          PASAKOY               CUMHURIYET    1            4.29           7.5075   175.0
+278    212221  214022          SILE                  ISAKOY        1            3.81           9.5250   250.0
+279    219321  227321          HASANAGA              TASPINARRES   1            3.27          10.9872   336.0
+280    212121  214621          YARIMCA1              TUPRAS        1            3.07           7.6750   250.0
+281    210411  210511          ADA1DGKC              ADA2DGKC      1            2.81          58.1670  2070.0
+282    213522  213621          FORD                  KARAMURSEL    1            2.76           9.2736   336.0
+283    210322  213921          ADAPAZARI             TOYOTASA      1            2.19           5.4750   250.0
+284    210322  216021          ADAPAZARI             GEYVERES      1            1.44           3.6000   250.0
+285    215721  222021          HABASBILECIK          YENISEHIR     1            1.43           2.5740   180.0
+286    213822  222221          PAMUKOVA              PASALAR       1            1.40           3.5000   250.0
+287    233610  234210          ZETES3                BARTINOSB     1            1.16          28.7680  2480.0
+288    233611  234211          ZETES3                BARTINOSB     1            0.94          23.3120  2480.0
+289    226110  290510          GOYNUK                GOYNUKSANAL   1            0.87          11.8320  1360.0
+290    229021  231121          YIGILCACIMEN          OSMANCA       1            0.29           0.9744   336.0
+291    221421  228722          ORHANELITES           ORHANELI      1            0.00           0.0000   336.0
+292    221421  228721          ORHANELITES           ORHANELI      1            0.00           0.0000   336.0
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 220010 - 220021, BURSADG A-OTR-1 - BURSADG A-OTR-1 (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210311 - 231110, ADAPAZARI    - OSMANCA      (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 9 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212622, 212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 226311 - 290510, AKSAGOYNUK   - GOYNUKSANAL  (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 10 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 214822 - 216722, MAKINAOSB    - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212622, 212721, 212722, 216722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210321 - 213021, ADAPAZARI    - YARIMCA2     (1 )
+Inkitaya giden bara numaralari:
+[213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 210561, generator ismi ADADGKC     
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                        Ýzlenen Techizat                                                                                       
+     Type From Bus  To Bus        From Name          To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   BANK:   210311  210321      ADAPAZARI B      ADAPAZARI B  1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.36         253.400  250.0
+1   BANK:   210311  210321      ADAPAZARI B      ADAPAZARI B  1            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1         101.36         253.400  250.0
+2    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1          99.10         247.750  250.0
+3    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          99.10         247.750  250.0
+4    EIH:   210621  214221     HYUNDAI          KOCAELI       1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          98.30         245.750  250.0
+5    EIH:   210621  212422     HYUNDAI          ENJKOSEKOY    1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          96.42         241.050  250.0
+6    EIH:   230010  231110     BOLUCEK          OSMANCA       1            217321  230021       ALAPLI             BOLUCEK       1          96.32         173.376  180.0
+7    EIH:   210310  214210     ADAPAZARI        KOCAELI       1            210311  210321  ADAPAZARI B-OTR-4  ADAPAZARI B-OTR-4  2          96.01         240.025  250.0
+8    EIH:   210111  214310     TEPEOREN         DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          95.98         239.950  250.0
+9   BANK:   210110  210121       TEPEOREN A       TEPEOREN A  2            211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4  1          94.82         237.050  250.0
+10   OTR:   214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          94.68         236.700  250.0
+11   OTR:   214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1          94.68         236.700  250.0
+12   EIH:   210310  214210     ADAPAZARI        KOCAELI       1            210311  210321  ADAPAZARI B-OTR-3  ADAPAZARI B-OTR-3  1          94.51         236.275  250.0
+13   EIH:   210111  214310     TEPEOREN         DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1          92.14         230.350  250.0
+14   EIH:   214310  290310     DILISKELESIG     DCELIKSANAL   1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          92.08         230.200  250.0
+15   EIH:   210111  214310     TEPEOREN         DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          90.58         226.450  250.0
+16   EIH:   210111  214310     TEPEOREN         DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          90.21         225.525  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

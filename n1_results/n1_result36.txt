@@ -1,0 +1,49 @@
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210111 - 214211, TEPEOREN     - KOCAELI      (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 7 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 8 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 214822 - 216722, MAKINAOSB    - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722, 216722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210211 - 231111, PASAKOY      - OSMANCA      (1 )
+----------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                             
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   211421  211521  KROMANCELIK   COLAKOGLU     1            210122  211822  TEPEOREN      GEBZEOSB      1         107.06         267.650  250.0
+1   EIH:   211221  211622  KARTAL        ICMELER       1            210122  211822  TEPEOREN      GEBZEOSB      1         100.77         251.925  250.0
+2   EIH:   210122  211822  TEPEOREN      GEBZEOSB      1            211421  211521  KROMANCELIK   COLAKOGLU     1          99.76         249.400  250.0
+3  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211221  211622  KARTAL        ICMELER       1          98.95         356.220  360.0
+4   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            210122  211822  TEPEOREN      GEBZEOSB      1          95.00         237.500  250.0
+5   EIH:   211321  211621  TUZLA         ICMELER       1            210122  211822  TEPEOREN      GEBZEOSB      1          93.31         233.275  250.0
+6   EIH:   210122  211822  TEPEOREN      GEBZEOSB      1            211221  211622  KARTAL        ICMELER       1          91.10         327.960  360.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

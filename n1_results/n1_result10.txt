@@ -1,0 +1,54 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211321 - 211422, TUZLA        - KROMANCELIK  (1 )
+Inkitaya giden bara numaralari:
+[211421, 211422]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 20 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 232022 - 234422, BOLU2        - BOLU1        (1 )
+Inkitaya giden bara numaralari:
+[231821, 232021, 232022, 232121, 232821, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 13 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 232021 - 232121, BOLU2        - BOLUCIM      (1 )
+Inkitaya giden bara numaralari:
+[231821, 232121, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 9 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 231821 - 232121, GERKONSAN    - BOLUCIM      (1 )
+Inkitaya giden bara numaralari:
+[231821, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                                       
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   211321  211822  TUZLA         GEBZEOSB      1            211321  211621       TUZLA              ICMELER       1         127.06         317.650  250.0
+1  EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          93.90         234.750  250.0
+2  EIH:   231121  233921  OSMANCA       DUZCEOSB      1            234421  412421       BOLU1              SARIYAR       1          93.53         168.354  180.0
+3  EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214810  214822  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          93.51         233.775  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

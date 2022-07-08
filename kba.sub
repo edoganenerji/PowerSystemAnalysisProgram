@@ -1,0 +1,16 @@
+/PSS(R)E 35
+COM
+COM SUBSYSTEM description file entry created by PSS(R)E Config File Builder
+COM
+SUBSYSTEM 'KBA'
+   JOIN 'GROUP_1'
+      AREA 2
+      OWNER 702
+      OWNER 704
+      OWNER 705
+      OWNER 706
+      ZONE 1
+      ZONE 2
+   END
+END
+END

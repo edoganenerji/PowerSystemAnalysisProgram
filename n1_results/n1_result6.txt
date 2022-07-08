@@ -1,0 +1,19 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                        Ýzlenen Techizat                                                                                    
+     Type From Bus  To Bus        From Name          To Name  ID         From Bus  To Bus        From Name          To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0    OTR:   214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2            214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1         117.05        292.6250   250.0
+1    OTR:   214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1            214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2         117.05        292.6250   250.0
+2    EIH:   211421  211521     KROMANCELIK      COLAKOGLU     1            210122  211822     TEPEOREN         GEBZEOSB      1         105.58        263.9500   250.0
+3   BANK:   210110  210121       TEPEOREN A       TEPEOREN A  2            210121  211921     TEPEOREN         KURTKOY       1         102.44        344.1984   336.0
+4    EIH:   210310  227210     ADAPAZARI        ULUDAG        1            214210  227211     KOCAELI          ULUDAG        1         101.23       1376.7280  1360.0
+5    EIH:   210122  211822     TEPEOREN         GEBZEOSB      1            211421  211521     KROMANCELIK      COLAKOGLU     1          99.47        248.6750   250.0
+6    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            210111  214211     TEPEOREN         KOCAELI       1          97.04       1319.7440  1360.0
+7   BANK:   210211  210222        PASAKOY B        PASAKOY B  1            210122  211822     TEPEOREN         GEBZEOSB      1          96.70        241.7500   250.0
+8    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1          92.02        230.0500   250.0
+9    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2          92.02        230.0500   250.0
+10   EIH:   210121  211821     TEPEOREN         GEBZEOSB      2            210121  211821     TEPEOREN         GEBZEOSB      1          91.87        229.6750   250.0
+11   EIH:   210121  211821     TEPEOREN         GEBZEOSB      1            210121  211821     TEPEOREN         GEBZEOSB      2          91.81        229.5250   250.0
+12  BANK:   210211  210222        PASAKOY B        PASAKOY B  1            211210  211221   KARTAL A-OTR-2   KARTAL A-OTR-2  1          90.79        226.9750   250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

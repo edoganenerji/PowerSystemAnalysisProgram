@@ -1,0 +1,76 @@
+1...............................................................................................................................................................
+ .                                         PTI INTERACTIVE POWER SYSTEM SIMULATOR--PSS(R)E     MON, JUN 13 2022  16:11                                  PAGE 1 .
+ .                                                                                                                                                             .
+ .                                                26.01.2022 11:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.                                                 .
+ .                                                                                                                                                             .
+ .                                                                                                                                                             .
+ .                                   *** DCCC OVERLOAD REPORT: MONITORED ELEMENTS LOADED ABOVE  90.0 OF RATING SET  1 ***                                    .
+ ...............................................................................................................................................................
+
+ DISTRIBUTION FACTOR FILE:     kba.dfx
+
+                                                              <------------- O V E R L O A D E D   L I N E S -------------->  <--- MW FLOW --->
+ <----------- C O N T I N G E N C Y   E V E N T S -----------><--------- F R O M ---------> <----------- T O ----------->CKT  PRE-CNT  POST-CNT  RATING  PERCENT
+ OPEN LINE FROM BUS 210111 [TEPEOREN    400.00] TO BUS 214310 [DILISKELESIG400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 21 210111-214310(
+                                                              214321     DILISKELESIG154.00 214821     MAKINAOSB   154.00 1     -38.1   -233.2    250.0     93.3
+                                                              214810     MAKINAOSB   400.00 214821     MAKINAOSB   154.00 1     139.8    226.9    249.9     90.8
+ OPEN LINE FROM BUS 212521 [KOSEKOY     154.00] TO BUS 215021 [GOLCUK      154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 109 212521-215021
+                                                              213621     KARAMURSEL  154.00 213721     YALOVA      154.00 1     -70.2   -165.2    179.9     91.8
+ OPEN LINE FROM BUS 214210 [KOCAELI     400.00] TO BUS 214221 [KOCAELI     154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 129 214210-214221
+                                                              214210     KOCAELI     400.00 214221     KOCAELI     154.00 2     174.8    238.0    248.8     95.7
+ OPEN LINE FROM BUS 214210 [KOCAELI     400.00] TO BUS 214221 [KOCAELI     154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 130 214210-214221
+                                                              214210     KOCAELI     400.00 214221     KOCAELI     154.00 1     174.8    238.0    248.8     95.7
+ OPEN LINE FROM BUS 214210 [KOCAELI     400.00] TO BUS 214810 [MAKINAOSB   400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 131 214210-214810
+                                                              210621     HYUNDAI     154.00 212422     ENJKOSEKOY  154.00 1     171.2    239.8    249.6     96.1
+                                                              214210     KOCAELI     400.00 214221     KOCAELI     154.00 1     174.8    243.5    248.8     97.9
+                                                              214210     KOCAELI     400.00 214221     KOCAELI     154.00 2     174.8    243.5    248.8     97.9
+ OPEN LINE FROM BUS 220010 [BURSADG     400.00] TO BUS 220021 [BURSADG     154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 168 220010-220021
+                                                              220010     BURSADG     400.00 220021     BURSADG     154.00 2     153.2    243.0    250.0     97.2
+ OPEN LINE FROM BUS 220010 [BURSADG     400.00] TO BUS 220021 [BURSADG     154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 169 220010-220021
+                                                              220010     BURSADG     400.00 220021     BURSADG     154.00 1     153.2    243.0    250.0     97.2
+ OPEN LINE FROM BUS 220511 [SEYITOMER   400.00] TO BUS 222811 [ESKISEHIR3  400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 206 220511-222811
+                                                              220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1      74.5    137.7    149.9     91.8
+ OPEN LINE FROM BUS 220921 [OTOSANSIT   154.00] TO BUS 221921 [KESTEL      154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 211 220921-221921
+                                                              220011     BURSADG     400.00 220024     BURSADG     154.00 1     190.1    235.1    250.0     94.0
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 210321 [ADAPAZARI   154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 11(210311-210321(
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 210321 [ADAPAZARI   154.00] CKT 2
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 3     134.2    250.5    250.0    100.2
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 210321 [ADAPAZARI   154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 12(210311-210321(
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 210321 [ADAPAZARI   154.00] CKT 3
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 2     136.2    252.6    250.0    101.0
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 210321 [ADAPAZARI   154.00] CKT 2 -------------------------- CONTINGENCY DOUBLE OPN LIN 13(210311-210321(
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 210321 [ADAPAZARI   154.00] CKT 3
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 1     134.1    250.4    250.0    100.1
+ OPEN LINE FROM BUS 220010 [BURSADG     400.00] TO BUS 220021 [BURSADG     154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 18(220010-220021(
+ OPEN LINE FROM BUS 220010 [BURSADG     400.00] TO BUS 220021 [BURSADG     154.00] CKT 2
+                                                              220011     BURSADG     400.00 220024     BURSADG     154.00 1     190.1    280.0    250.0    112.0
+ OPEN LINE FROM BUS 227211 [ULUDAG      400.00] TO BUS 227221 [ULUDAG      154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 26(227211-227221(
+ OPEN LINE FROM BUS 227211 [ULUDAG      400.00] TO BUS 227221 [ULUDAG      154.00] CKT 2
+                                                              220011     BURSADG     400.00 220024     BURSADG     154.00 1     190.1    229.7    250.0     91.9
+ OPEN LINE FROM BUS 211522 [COLAKOGLU   154.00] TO BUS 211562 [COLAKOGLUOP215.000] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 366 211522-211562
+                                                              211522     COLAKOGLU   154.00 217221     SIDDIK      154.00 1     -92.0   -240.5    248.9     96.6
+                                                              214822     MAKINAOSB   154.00 217221     SIDDIK      154.00 1     185.3    333.8    250.0    133.5
+DC DCCC
++-------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+
+|  Row  |  Contingency Label                   |  Monitored Line                                                   |  Rating MVA    |  Pre-Contingency Flow MW    |  Post-Contingency Flow MW    |  Percent |
++-------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+
+|    1  |  SINGLE OPN LIN 21 210111-214310(    |  214321     DILISKELESIG154.00 214821     MAKINAOSB   154.00 1    |      249.9995  |                   -38.1027  |                   -233.2306  |      93.2924  |
+|    2  |  SINGLE OPN LIN 21 210111-214310(    |  214810     MAKINAOSB   400.00 214821     MAKINAOSB   154.00 1    |      249.8597  |                   139.7803  |                    226.8661  |      90.7974  |
+|    3  |  SINGLE OPN LIN 109 212521-215021    |  213621     KARAMURSEL  154.00 213721     YALOVA      154.00 1    |      179.9018  |                   -70.2124  |                   -165.2153  |      91.8364  |
+|    4  |  SINGLE OPN LIN 129 214210-214221    |  214210     KOCAELI     400.00 214221     KOCAELI     154.00 2    |      248.7526  |                   174.8163  |                    237.9765  |      95.6679  |
+|    5  |  SINGLE OPN LIN 130 214210-214221    |  214210     KOCAELI     400.00 214221     KOCAELI     154.00 1    |      248.7526  |                   174.8163  |                    237.9765  |      95.6679  |
+|    6  |  SINGLE OPN LIN 131 214210-214810    |  210621     HYUNDAI     154.00 212422     ENJKOSEKOY  154.00 1    |      249.6028  |                   171.1661  |                    239.7527  |      96.0537  |
+|    7  |  SINGLE OPN LIN 131 214210-214810    |  214210     KOCAELI     400.00 214221     KOCAELI     154.00 1    |      248.7526  |                   174.8163  |                    243.4755  |      97.8786  |
+|    8  |  SINGLE OPN LIN 131 214210-214810    |  214210     KOCAELI     400.00 214221     KOCAELI     154.00 2    |      248.7526  |                   174.8163  |                    243.4755  |      97.8786  |
+|    9  |  SINGLE OPN LIN 168 220010-220021    |  220010     BURSADG     400.00 220021     BURSADG     154.00 2    |      249.9958  |                   153.2444  |                    242.9734  |      97.1910  |
+|   10  |  SINGLE OPN LIN 169 220010-220021    |  220010     BURSADG     400.00 220021     BURSADG     154.00 1    |      249.9958  |                   153.2444  |                    242.9734  |      97.1910  |
+|   11  |  SINGLE OPN LIN 206 220511-222811    |  220510     SEYITOMER   400.00 220521     SEYITOMER   154.00 1    |      149.9347  |                    74.5063  |                    137.7142  |      91.8495  |
+|   12  |  SINGLE OPN LIN 211 220921-221921    |  220011     BURSADG     400.00 220024     BURSADG     154.00 1    |      249.9778  |                   190.1019  |                    235.0736  |      94.0378  |
+|   13  |  DOUBLE OPN LIN 11(210311-210321(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 3    |      249.9935  |                   134.2004  |                    250.4735  |     100.1920  |
+|   14  |  DOUBLE OPN LIN 12(210311-210321(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 2    |      249.9934  |                   136.2172  |                    252.6047  |     101.0445  |
+|   15  |  DOUBLE OPN LIN 13(210311-210321(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 1    |      249.9934  |                   134.0900  |                    250.3560  |     100.1451  |
+|   16  |  DOUBLE OPN LIN 18(220010-220021(    |  220011     BURSADG     400.00 220024     BURSADG     154.00 1    |      249.9778  |                   190.1019  |                    280.0445  |     112.0278  |
+|   17  |  DOUBLE OPN LIN 26(227211-227221(    |  220011     BURSADG     400.00 220024     BURSADG     154.00 1    |      249.9778  |                   190.1019  |                    229.7438  |      91.9057  |
+|   18  |  SINGLE OPN TIE 366 211522-211562    |  211522     COLAKOGLU   154.00 217221     SIDDIK      154.00 1    |      248.8921  |                   -91.9955  |                   -240.4955  |      96.6264  |
+|   19  |  SINGLE OPN TIE 366 211522-211562    |  214822     MAKINAOSB   154.00 217221     SIDDIK      154.00 1    |      250.0000  |                   185.3036  |                    333.8037  |     133.5215  |
++-------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+

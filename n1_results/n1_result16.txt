@@ -1,0 +1,36 @@
+
+ 11.12.2021 11:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20211211_1100_SN6_TR0.sav was saved on TUE, DEC 14 2021  16:15
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                                   
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus        From Name          To Name  ID Power Flow(%) Power Flow(MVA)  RATEC
+0  EIH:   220511  222811  SEYITOMER     ESKISEHIR3    1            220221  220421     GURAGAC          TUNCBILEK-B   1         126.79        230.7578  182.0
+1  EIH:   220321  220421  TUNCBILEK-A   TUNCBILEK-B   1            220322  220421     TUNCBILEK-A      TUNCBILEK-B   1         115.47        152.4204  132.0
+2  EIH:   220210  220510  GURAGAC       SEYITOMER     1            220221  220421     GURAGAC          TUNCBILEK-B   1         104.58        190.3356  182.0
+3  EIH:   220511  222811  SEYITOMER     ESKISEHIR3    1            220321  220421     TUNCBILEK-A      TUNCBILEK-B   1          98.40        179.0880  182.0
+4  EIH:   220511  222811  SEYITOMER     ESKISEHIR3    1            220510  220521  SEYITOMER OTR-1  SEYITOMER OTR-1  1          94.25        141.3750  150.0
+5  EIH:   220821  222221  ORHANGAZI     PASALAR       1            220221  220421     GURAGAC          TUNCBILEK-B   1          93.81        170.7342  182.0
+6  EIH:   220221  290821  GURAGAC       KUMBETSANAL   1            220221  220421     GURAGAC          TUNCBILEK-B   1          92.59        168.5138  182.0
+7  EIH:   222721  290821  ESKISEHIR2    KUMBETSANAL   1            220221  220421     GURAGAC          TUNCBILEK-B   1          91.75        166.9850  182.0
+8  EIH:   222521  225321  BOZUYUK       BOZUYUKRES    1            220221  220421     GURAGAC          TUNCBILEK-B   1          91.24        166.0568  182.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

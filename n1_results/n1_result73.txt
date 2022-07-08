@@ -1,0 +1,36 @@
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                            Ýzlenen Techizat                                                                                           
+     Type From Bus  To Bus          From Name            To Name  ID         From Bus  To Bus            From Name              To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   BANK:   210311  210321        ADAPAZARI B        ADAPAZARI B  1            210311  210321    ADAPAZARI C-OTR-5    ADAPAZARI C-OTR-5  3         136.40        341.0000  250.0
+1   BANK:   220010  220021          BURSADG A          BURSADG A  1            220011  220024      BURSADG B-OTR-3      BURSADG B-OTR-3  1         125.54        313.8500  250.0
+2    OTR:   214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2            214210  214221      KOCAELI A-OTR-1      KOCAELI A-OTR-1  1         104.25        260.6250  250.0
+3    OTR:   214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1            214210  214221      KOCAELI B-OTR-3      KOCAELI B-OTR-3  2         104.25        260.6250  250.0
+4    EIH:   214210  214810       KOCAELI            MAKINAOSB     1            210621  214221         HYUNDAI              KOCAELI       1         101.44        253.6000  250.0
+5    EIH:   214210  214810       KOCAELI            MAKINAOSB     1            210621  212422         HYUNDAI              ENJKOSEKOY    1          98.45        246.1250  250.0
+6    EIH:   212521  215021       KOSEKOY            GOLCUK        1            213621  213721         KARAMURSEL           YALOVA        1          97.37        175.2660  180.0
+7    EIH:   210321  214222       ADAPAZARI          KOCAELI       2            210321  212521         ADAPAZARI            KOSEKOY       2          96.23        240.5750  250.0
+8    EIH:   214210  214810       KOCAELI            MAKINAOSB     1            214210  214221      KOCAELI A-OTR-1      KOCAELI A-OTR-1  1          94.58        236.4500  250.0
+9    EIH:   214210  214810       KOCAELI            MAKINAOSB     1            214210  214221      KOCAELI B-OTR-3      KOCAELI B-OTR-3  2          94.58        236.4500  250.0
+10  BANK:   220111  220121      BURSASANAYI A      BURSASANAYI A  2            220111  220122  BURSASANAYI B-OTR-4  BURSASANAYI B-OTR-4  2          94.53        236.3250  250.0
+11  BANK:   220111  220122      BURSASANAYI B      BURSASANAYI B  1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.76        315.0336  336.0
+12  BANK:   220111  220122      BURSASANAYI B      BURSASANAYI B  1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.75        315.0000  336.0
+13  BANK:   220111  220121      BURSASANAYI A      BURSASANAYI A  2            220111  220122  BURSASANAYI B-OTR-3  BURSASANAYI B-OTR-3  1          92.19        230.4750  250.0
+14  BANK:   220111  220121      BURSASANAYI A      BURSASANAYI A  2            220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5  1          91.69        229.2250  250.0
+15   OTR:   210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5  3            210311  210321    ADAPAZARI B-OTR-4    ADAPAZARI B-OTR-4  2          91.52        228.8000  250.0
+16   EIH:   220121  221322       BURSASANAYI        BESEVLER      1            221321  228722         BESEVLER             ORHANELI      1          91.39        228.4750  250.0
+17   EIH:   210321  212521       ADAPAZARI          KOSEKOY       2            210321  214222         ADAPAZARI            KOCAELI       2          90.80        227.0000  250.0
+18   OTR:   210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5  3            210311  210321    ADAPAZARI B-OTR-3    ADAPAZARI B-OTR-3  1          90.09        225.2250  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

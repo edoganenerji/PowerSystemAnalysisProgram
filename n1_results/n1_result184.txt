@@ -1,0 +1,52 @@
+
+ 07.03.2022 11:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212321 - 214822, IZMIT        - MAKINAOSB    (1 )
+Inkitaya giden bara numaralari:
+[212321, 212322]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                      Ýzlenen Techizat                                                                                       
+     Type From Bus  To Bus       From Name         To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   BANK:   210110  210121      TEPEOREN A      TEPEOREN A  2            210121  211921       TEPEOREN           KURTKOY       1         120.91        405.0485  335.0
+1   BANK:   210110  210121      TEPEOREN A      TEPEOREN A  2            211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4  1         113.27        283.1750  250.0
+2    EIH:   210121  211821    TEPEOREN        GEBZEOSB      2            210121  211821       TEPEOREN           GEBZEOSB      1         105.64        264.1000  250.0
+3    EIH:   210121  211821    TEPEOREN        GEBZEOSB      1            210121  211821       TEPEOREN           GEBZEOSB      2         105.56        263.9000  250.0
+4    EIH:   211522  214322    COLAKOGLU       DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1         101.91        254.7750  250.0
+5    OTR:   211210  211221  KARTAL C-OTR-6  KARTAL C-OTR-6  1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          96.99        242.4750  250.0
+6    EIH:   210111  214310    TEPEOREN        DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          96.65        241.6250  250.0
+7    OTR:   211210  211221  KARTAL C-OTR-6  KARTAL C-OTR-6  1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          96.42        241.0500  250.0
+8    EIH:   210111  214310    TEPEOREN        DILISKELESIG  1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          92.91        232.2750  250.0
+9    OTR:   211211  211221  KARTAL B-OTR-4  KARTAL B-OTR-4  1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          92.42        231.0500  250.0
+10   EIH:   210111  214310    TEPEOREN        DILISKELESIG  1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          92.37        230.9250  250.0
+11   OTR:   211211  211221  KARTAL B-OTR-4  KARTAL B-OTR-4  1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          91.88        229.7000  250.0
+12   EIH:   211211  214711    KARTAL          YENIDGKC      1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          90.15        225.3750  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,33 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212021 - 217621, DUDULLU      - DUDULLUMETRO (1 )
+Inkitaya giden bara numaralari:
+[217621, 217622]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 8 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210122 - 212221, TEPEOREN     - SILE         (1 )
+Inkitaya giden bara numaralari:
+[212221, 214021, 214022]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                     
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus         From Name           To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   210121  211821  TEPEOREN      GEBZEOSB      1            210121  211821      TEPEOREN          GEBZEOSB      2         100.90         252.250  250.0
+1   EIH:   210121  211821  TEPEOREN      GEBZEOSB      2            210121  211821      TEPEOREN          GEBZEOSB      1          99.93         249.825  250.0
+2  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210111  210122  TEPEOREN B-OTR-3  TEPEOREN B-OTR-3  1          96.64         241.600  250.0
+3  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211221  211622      KARTAL            ICMELER       1          95.76         344.736  360.0
+4  BANK:   210210  210221     PASAKOY A     PASAKOY A  1            210111  210122  TEPEOREN B-OTR-4  TEPEOREN B-OTR-4  2          94.56         236.400  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

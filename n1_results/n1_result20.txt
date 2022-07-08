@@ -1,0 +1,85 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+         Kýsýt                                                                    Ýzlenen Techizat                                                                                         
+          Type From Bus  To Bus             From Name               To Name    ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)  RATEC
+0         EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            210122  211822        TEPEOREN            GEBZEOSB      1         132.16        240.5312  182.0
+1         EIH:   211222  211622          KARTAL                ICMELER         1            210122  211822        TEPEOREN            GEBZEOSB      1         124.26        226.1532  182.0
+2         EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            209921  216722        GEBCOLSANAL         GEBZEKIMYA    1         120.36        219.0552  182.0
+3         EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            210122  211822        TEPEOREN            GEBZEOSB      1         119.87        218.1634  182.0
+4         EIH:   214310  290310          DÝLOVASI              DCELIKSANAL     1            210122  211822        TEPEOREN            GEBZEOSB      1         119.86        218.1452  182.0
+5         EIH:   211522  219121          COLAKOGLU             COLAKOGLU400    1            210122  211822        TEPEOREN            GEBZEOSB      1         119.83        218.0906  182.0
+6         EIH:   214210  214810          KOCAELI               MAKINAOSB       1            210111  214211        TEPEOREN            KOCAELI       1         119.24       1186.4380  995.0
+7         EIH:   211321  211822          TUZLA                 GEBZEOSB        1            211421  211522        KROMANCELIK         COLAKOGLU     1         118.91        216.4162  182.0
+8         EIH:   211822  214322          GEBZEOSB              DILOVASIOSB     1            210122  211822        TEPEOREN            GEBZEOSB      1         117.99        214.7418  182.0
+9         EIH:   214322  214821          DILOVASIOSB           MAKINAOSB       1            210122  211822        TEPEOREN            GEBZEOSB      1         117.96        214.6872  182.0
+10       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            210121  211921        TEPEOREN            KURTKOY       1         117.41        290.0027  247.0
+11        EIH:   211421  211522          KROMANCELIK           COLAKOGLU       1            210122  211822        TEPEOREN            GEBZEOSB      1         112.87        205.4234  182.0
+12        EIH:   211222  211622          KARTAL                ICMELER         1            211421  211522        KROMANCELIK         COLAKOGLU     1         112.37        204.5134  182.0
+13       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            210122  211822        TEPEOREN            GEBZEOSB      1         111.24        202.4568  182.0
+14        EIH:   211822  214322          GEBZEOSB              DILOVASIOSB     1            211421  211522        KROMANCELIK         COLAKOGLU     1         110.54        201.1828  182.0
+15        EIH:   214322  214821          DILOVASIOSB           MAKINAOSB       1            211421  211522        KROMANCELIK         COLAKOGLU     1         110.48        201.0736  182.0
+16        EIH:   210111  214310          TEPEOREN              DÝLOVASI        1            214822  217221        MAKINAOSB           SIDDIK        1         109.76        199.7632  182.0
+17        EIH:   210510  216911          ADA2DGKC              KAVACIK         1            210111  214211        TEPEOREN            KOCAELI       1         107.44       1069.0280  995.0
+18        EIH:   210210  210410          PASAKOY               ADA1DGKC        1            210111  214211        TEPEOREN            KOCAELI       1         107.39       1068.5305  995.0
+19        EIH:   211321  211622          TUZLA                 ICMELER         1            210122  211822        TEPEOREN            GEBZEOSB      1         107.08        194.8856  182.0
+20        EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            211421  211522        KROMANCELIK         COLAKOGLU     1         107.03        194.7946  182.0
+21        EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            211822  214322        GEBZEOSB            DILOVASIOSB   1         106.59        193.9938  182.0
+22        EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            214322  214821        DILOVASIOSB         MAKINAOSB     1         106.54        193.9028  182.0
+23        EIH:   211421  211522          KROMANCELIK           COLAKOGLU       1            211822  214322        GEBZEOSB            DILOVASIOSB   1         105.56        192.1192  182.0
+24        EIH:   211421  211522          KROMANCELIK           COLAKOGLU       1            214322  214821        DILOVASIOSB         MAKINAOSB     1         105.50        192.0100  182.0
+25        EIH:   210121  211821          TEPEOREN              GEBZEOSB        2            210121  211821        TEPEOREN            GEBZEOSB      1         104.56        190.2992  182.0
+26        EIH:   210121  211821          TEPEOREN              GEBZEOSB        1            210121  211821        TEPEOREN            GEBZEOSB      2         104.49        190.1718  182.0
+27        EIH:   210211  231111          PASAKOY               OSMANCA         1            210111  214211        TEPEOREN            KOCAELI       1         103.98       1034.6010  995.0
+28        OTR:   214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1    1            210122  211822        TEPEOREN            GEBZEOSB      1         102.58        186.6956  182.0
+29       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            211421  211522        KROMANCELIK         COLAKOGLU     1         101.18        184.1476  182.0
+30        EIH:   214310  290310          DÝLOVASI              DCELIKSANAL     1            209921  216722        GEBCOLSANAL         GEBZEKIMYA    1          99.47        181.0354  182.0
+31        EIH:   219110  290310          COLAKOGLU400          DCELIKSANAL     1            209921  216722        GEBCOLSANAL         GEBZEKIMYA    1          99.47        181.0354  182.0
+32        EIH:   211522  219121          COLAKOGLU             COLAKOGLU400    1            209921  216722        GEBCOLSANAL         GEBZEKIMYA    1          99.42        180.9444  182.0
+33       BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            211421  211522        KROMANCELIK         COLAKOGLU     1          98.86        179.9252  182.0
+34        EIH:   211321  211622          TUZLA                 ICMELER         1            211421  211522        KROMANCELIK         COLAKOGLU     1          98.82        179.8524  182.0
+35       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            211221  211921        KARTAL              KURTKOY       1          98.69        243.7643  247.0
+36       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            211221  211921        KARTAL              KURTKOY       2          98.69        243.7643  247.0
+37       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            211210  211221      KARTAL A-OTR-2      KARTAL A-OTR-2  2          97.78        244.4500  250.0
+38        EIH:   210111  210211          TEPEOREN              PASAKOY         1            210111  214211        TEPEOREN            KOCAELI       1          96.55        960.6725  995.0
+39       BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            211822  214322        GEBZEOSB            DILOVASIOSB   1          95.74        174.2468  182.0
+40       BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            214322  214821        DILOVASIOSB         MAKINAOSB     1          95.70        174.1740  182.0
+41        EIH:   211521  214321          COLAKOGLU             DILOVASIOSB     1            214822  217221        MAKINAOSB           SIDDIK        1          95.06        173.0092  182.0
+42        OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            210122  211822        TEPEOREN            GEBZEOSB      1          94.77        172.4814  182.0
+43        OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            210122  211822        TEPEOREN            GEBZEOSB      1          94.71        172.3722  182.0
+44        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            210122  211822        TEPEOREN            GEBZEOSB      1          93.76        170.6432  182.0
+45  Generator:   214763    None          YENIELEKTRIK                  None  None           210111  214211        TEPEOREN            KOCAELI       1          93.47        930.0265  995.0
+46  Generator:   214762    None          YENIELEKTRIK                  None  None           210111  214211        TEPEOREN            KOCAELI       1          93.44        929.7280  995.0
+47       BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    2            210910  210921  KBAKKALKOY B-OTR-4  KBAKKALKOY B-OTR-4  1          93.43        233.5750  250.0
+48  Generator:   214761    None          YENIELEKTRIK                  None  None           210111  214211        TEPEOREN            KOCAELI       1          93.37        929.0315  995.0
+49        EIH:   210110  214811          TEPEOREN              MAKINAOSB       1            210111  214211        TEPEOREN            KOCAELI       1          93.23        927.6385  995.0
+50       BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    2            210911  210921  KBAKKALKOY A-OTR-2  KBAKKALKOY A-OTR-2  1          93.19        232.9750  250.0
+51  Generator:   211562    None          COLAKOGLUOP2                  None  None           210111  214211        TEPEOREN            KOCAELI       1          92.46        919.9770  995.0
+52        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            210122  211822        TEPEOREN            GEBZEOSB      1          92.09        167.6038  182.0
+53        OTR:   211211  211222        KARTAL B-OTR-4        KARTAL B-OTR-4    1            210122  211822        TEPEOREN            GEBZEOSB      1          91.98        167.4036  182.0
+54        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            210111  214211        TEPEOREN            KOCAELI       1          91.44        909.8280  995.0
+55        EIH:   209921  211522          GEBCOLSANAL           COLAKOGLU       1            211822  214322        GEBZEOSB            DILOVASIOSB   1          91.19        165.9658  182.0
+56        EIH:   209921  211522          GEBCOLSANAL           COLAKOGLU       1            214322  214821        DILOVASIOSB         MAKINAOSB     1          91.18        165.9476  182.0
+57        EIH:   214821  216722          MAKINAOSB             GEBZEKIMYA      1            211822  214322        GEBZEOSB            DILOVASIOSB   1          91.18        165.9476  182.0
+58        EIH:   209921  216722          GEBCOLSANAL           GEBZEKIMYA      1            214322  214821        DILOVASIOSB         MAKINAOSB     1          91.17        165.9294  182.0
+59        EIH:   214821  216722          MAKINAOSB             GEBZEKIMYA      1            214322  214821        DILOVASIOSB         MAKINAOSB     1          91.17        165.9294  182.0
+60        EIH:   209921  216722          GEBCOLSANAL           GEBZEKIMYA      1            211822  214322        GEBZEOSB            DILOVASIOSB   1          91.17        165.9294  182.0
+61        EIH:   210110  214710          TEPEOREN              YENIDGKC        1            210111  214211        TEPEOREN            KOCAELI       1          91.02        905.6490  995.0
+62        EIH:   214711  214810          YENIDGKC              MAKINAOSB       1            210111  214211        TEPEOREN            KOCAELI       1          90.82        903.6590  995.0
+63        EIH:   210222  211022          PASAKOY               BBAKKALKOY      2            210222  211022        PASAKOY             BBAKKALKOY    1          90.59        223.7573  247.0
+64        EIH:   210222  211022          PASAKOY               BBAKKALKOY      1            210222  211022        PASAKOY             BBAKKALKOY    2          90.59        223.7573  247.0
+65        EIH:   211222  211622          KARTAL                ICMELER         1            211822  214322        GEBZEOSB            DILOVASIOSB   1          90.55        164.8010  182.0
+66        EIH:   214822  217221          MAKINAOSB             SIDDIK          1            210111  214211        TEPEOREN            KOCAELI       1          90.53        900.7735  995.0
+67        EIH:   210122  212122          TEPEOREN              YARIMCA1        1            210111  214211        TEPEOREN            KOCAELI       1          90.51        900.5745  995.0
+68       BANK:   210210  210221             PASAKOY A             PASAKOY A    1            210111  214211        TEPEOREN            KOCAELI       1          90.51        900.5745  995.0
+69        EIH:   211222  211622          KARTAL                ICMELER         1            214322  214821        DILOVASIOSB         MAKINAOSB     1          90.49        164.6918  182.0
+70       BANK:   210211  210222             PASAKOY B             PASAKOY B    2            210111  214211        TEPEOREN            KOCAELI       1          90.26        898.0870  995.0
+71        EIH:   210221  212021          PASAKOY               DUDULLU         1            210111  214211        TEPEOREN            KOCAELI       1          90.23        897.7885  995.0
+72        EIH:   209921  211522          GEBCOLSANAL           COLAKOGLU       1            210111  214211        TEPEOREN            KOCAELI       1          90.16        897.0920  995.0
+73        EIH:   214821  216722          MAKINAOSB             GEBZEKIMYA      1            210111  214211        TEPEOREN            KOCAELI       1          90.16        897.0920  995.0
+74        EIH:   209921  216722          GEBCOLSANAL           GEBZEKIMYA      1            210111  214211        TEPEOREN            KOCAELI       1          90.16        897.0920  995.0
+75        EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            210111  214211        TEPEOREN            KOCAELI       1          90.13        896.7935  995.0
+76        EIH:   212321  214822          IZMIT                 MAKINAOSB       1            210111  214211        TEPEOREN            KOCAELI       1          90.10        896.4950  995.0
+77        EIH:   211822  214322          GEBZEOSB              DILOVASIOSB     1            210111  214211        TEPEOREN            KOCAELI       1          90.01        895.5995  995.0
+78        EIH:   214322  214821          DILOVASIOSB           MAKINAOSB       1            210111  214211        TEPEOREN            KOCAELI       1          90.01        895.5995  995.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

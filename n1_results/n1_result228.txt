@@ -1,0 +1,74 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                             
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214822  217221  MAKINAOSB     SIDDIK        1         103.86          259.65  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Kýsýt                                                                  Ýzlenen Techizat                        
+     Type From Bus  To Bus             From Name               To Name  ID       Bus Number      Bus Name   Voltage
+0    EIH:   210221  212021          PASAKOY               DUDULLU       1            210121  TEPEOREN      1.050180
+1   BANK:   210210  210221             PASAKOY A             PASAKOY A  1            210121  TEPEOREN      1.050259
+2    EIH:   210922  216622          KBAKKALKOY            KADIKOY       1            210121  TEPEOREN      1.050272
+3    EIH:   214821  216721          MAKINAOSB             GEBZEKIMYA    1            210121  TEPEOREN      1.050273
+4    EIH:   214822  217221          MAKINAOSB             SIDDIK        1            210121  TEPEOREN      1.050283
+5    EIH:   210022  210721          UMRANIYE              SELIMIYE      1            210121  TEPEOREN      1.050383
+6   BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-  2            210121  TEPEOREN      1.050386
+7    EIH:   210821  210922          GOZTEPE               KBAKKALKOY    1            210121  TEPEOREN      1.050393
+8    EIH:   211421  211521          KROMANCELIK           COLAKOGLU     1            210121  TEPEOREN      1.050417
+9    EIH:   214321  214821          DILISKELESIG          MAKINAOSB     1            210121  TEPEOREN      1.050440
+10  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            210021  UMRANIYE      1.050465
+11   EIH:   211521  214321          COLAKOGLU             DILISKELESIG  1            210121  TEPEOREN      1.050493
+12   OTR:   210911  210922    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4  1            210121  TEPEOREN      1.050499
+13   OTR:   210910  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2  1            210121  TEPEOREN      1.050499
+14   EIH:   214711  214810          YENIDGKC              MAKINAOSB     1            210121  TEPEOREN      1.050514
+15  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            214121  VANIKOY       1.050532
+16  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            214122  VANIKOY       1.050532
+17   EIH:   211521  219121          COLAKOGLU             COLAKOGLU400  1            210121  TEPEOREN      1.050536
+18  BANK:   210010  210021           UMRANIYE B-           UMRANIYE B-  2            210121  TEPEOREN      1.050551
+19   OTR:   214310  214322    DILISKELESIG OTR-1    DILISKELESIG OTR-1  1            210121  TEPEOREN      1.050569
+20   OTR:   214311  214322    DILISKELESIG OTR-2    DILISKELESIG OTR-2  1            210121  TEPEOREN      1.050570
+21   EIH:   210122  212122          TEPEOREN              YARIMCA1      1            210121  TEPEOREN      1.050622
+22   OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2  1            210121  TEPEOREN      1.050653
+23   EIH:   212021  217621          DUDULLU               DUDULLUMETRO  1            210121  TEPEOREN      1.050659
+24   EIH:   211022  211122          BBAKKALKOY            SOGANLIK      1            210121  TEPEOREN      1.050681
+25   EIH:   211622  214322          ICMELER               DILISKELESIG  1            210121  TEPEOREN      1.050686
+26   EIH:   210222  211022          PASAKOY               BBAKKALKOY    1            210121  TEPEOREN      1.050699
+27   EIH:   210222  211022          PASAKOY               BBAKKALKOY    2            210121  TEPEOREN      1.050699
+28   OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1  1            210121  TEPEOREN      1.050699
+29   OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2  2            210121  TEPEOREN      1.050699
+30   EIH:   211022  211222          BBAKKALKOY            KARTAL        1            210121  TEPEOREN      1.050771
+31  BANK:   210111  210122            TEPEOREN B            TEPEOREN B  1            210121  TEPEOREN      1.050922
+32   EIH:   212321  214822          IZMIT                 MAKINAOSB     1            210121  TEPEOREN      1.051104
+33   EIH:   210321  214821          ADAPAZARI             MAKINAOSB     1            210121  TEPEOREN      1.051286
+34   EIH:   211221  211622          KARTAL                ICMELER       1            210121  TEPEOREN      1.051456
+35   EIH:   211221  211921          KARTAL                KURTKOY       1            210121  TEPEOREN      1.051581
+36   EIH:   211221  211921          KARTAL                KURTKOY       2            210121  TEPEOREN      1.051581
+37  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            212221  SILE          1.051607
+38  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            214021  ISAKOY        1.051674
+39  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            214022  ISAKOY        1.051674
+40   OTR:   211211  211221        KARTAL B-OTR-4        KARTAL B-OTR-4  1            210121  TEPEOREN      1.051884
+41  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            217622  DUDULLUMETRO  1.051998
+42  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            217621  DUDULLUMETRO  1.051998
+43   OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6  1            210121  TEPEOREN      1.052001
+44  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            210122  TEPEOREN      1.052041
+45   EIH:   210121  211821          TEPEOREN              GEBZEOSB      1            210121  TEPEOREN      1.052080
+46   EIH:   211222  211621          KARTAL                ICMELER       1            210121  TEPEOREN      1.052105
+47   EIH:   211822  216721          GEBZEOSB              GEBZEKIMYA    1            210121  TEPEOREN      1.052118
+48  BANK:   210211  210222             PASAKOY B             PASAKOY B  1            210121  TEPEOREN      1.052140
+49  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            212021  DUDULLU       1.052286
+50   EIH:   210121  211821          TEPEOREN              GEBZEOSB      2            210121  TEPEOREN      1.052297
+51   EIH:   211321  211822          TUZLA                 GEBZEOSB      1            211821  GEBZEOSB      1.052478
+52   EIH:   211321  211822          TUZLA                 GEBZEOSB      1            211822  GEBZEOSB      1.052478
+53   EIH:   210010  210911          UMRANIYE              KBAKKALKOY    1            210121  TEPEOREN      1.052519
+54   EIH:   211321  211621          TUZLA                 ICMELER       1            210121  TEPEOREN      1.052672
+55   EIH:   211321  211422          TUZLA                 KROMANCELIK   1            210121  TEPEOREN      1.052725
+56   EIH:   212621  216722          HEREKE                GEBZEKIMYA    1            210121  TEPEOREN      1.052734
+57   EIH:   210121  211921          TEPEOREN              KURTKOY       1            211822  GEBZEOSB      1.052980
+58   EIH:   210121  211921          TEPEOREN              KURTKOY       1            211821  GEBZEOSB      1.052980
+59  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            210221  PASAKOY       1.053733
+60  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            217522  CUMHURIYET    1.055161
+61  BANK:   210210  210221             PASAKOY A             PASAKOY A  1            217521  CUMHURIYET    1.055161
+62   EIH:   211321  211822          TUZLA                 GEBZEOSB      1            210121  TEPEOREN      1.055683
+63   EIH:   210121  211921          TEPEOREN              KURTKOY       1            210121  TEPEOREN      1.060724
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,60 @@
+
+ 27.02.2022 14:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211521 - 219121, COLAKOGLU    - COLAKOGLU400 (1 )
+Inkitaya giden bara numaralari:
+[214910, 219110, 219121, 290310]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                            Ýzlenen Techizat                                                                                       
+     Type From Bus  To Bus          From Name            To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0    EIH:   211321  211422       TUZLA              KROMANCELIK   1            214321  214821       DILISKELESIG       MAKINAOSB     1         105.87         264.675  250.0
+1    EIH:   211321  211822       TUZLA              GEBZEOSB      1            214321  214821       DILISKELESIG       MAKINAOSB     1         105.81         264.525  250.0
+2    OTR:   214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1            210122  211822       TEPEOREN           GEBZEOSB      1         105.39         263.475  250.0
+3    EIH:   210122  211822       TEPEOREN           GEBZEOSB      1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         105.01         262.525  250.0
+4    EIH:   211521  214321       COLAKOGLU          DILISKELESIG  1            211321  211422       TUZLA              KROMANCELIK   1         100.95         252.375  250.0
+5    EIH:   214321  214821       DILISKELESIG       MAKINAOSB     1            211321  211422       TUZLA              KROMANCELIK   1         100.94         252.350  250.0
+6    EIH:   214822  217221       MAKINAOSB          SIDDIK        1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          99.89         249.725  250.0
+7    EIH:   214822  217221       MAKINAOSB          SIDDIK        1            214321  214821       DILISKELESIG       MAKINAOSB     1          98.43         246.075  250.0
+8   BANK:   210111  210122         TEPEOREN B         TEPEOREN B  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.09         235.225  250.0
+9    EIH:   211622  214322       ICMELER            DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          93.07         232.675  250.0
+10   EIH:   211622  214322       ICMELER            DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1          92.75         231.875  250.0
+11   EIH:   211522  217221       COLAKOGLU          SIDDIK        1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          92.43         231.075  250.0
+12   EIH:   214822  217221       MAKINAOSB          SIDDIK        1            210122  211822       TEPEOREN           GEBZEOSB      1          91.69         229.225  250.0
+13   EIH:   211222  211621       KARTAL             ICMELER       1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          91.02         227.550  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      211221  KARTAL             30391.48       30359.40
+1      211621  ICMELER            29271.29       29283.46
+2      211622  ICMELER            29271.29       29283.46
+3      210122  TEPEOREN           28680.18       25701.28
+---------------------------------------------------------------

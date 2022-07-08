@@ -1,0 +1,48 @@
+
+ 12.02.2022 11:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220212_1100_SN6_TR0.sav was saved on MON, FEB 14 2022  16:49
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211321 - 211422, TUZLA        - KROMANCELIK  (1 )
+Inkitaya giden bara numaralari:
+[211421, 211422]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   211321  211822  TUZLA         GEBZEOSB      1            211321  211621       TUZLA              ICMELER       1         123.12         307.800  250.0
+1  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211822  216721       GEBZEOSB           GEBZEKIMYA    1         109.70         274.250  250.0
+2   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1         107.59         268.975  250.0
+3   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         100.45         251.125  250.0
+4   EIH:   210121  211821  TEPEOREN      GEBZEOSB      1            210121  211821       TEPEOREN           GEBZEOSB      2          98.96         247.400  250.0
+5   EIH:   210121  211821  TEPEOREN      GEBZEOSB      2            210121  211821       TEPEOREN           GEBZEOSB      1          97.59         243.975  250.0
+6   EIH:   211321  211822  TUZLA         GEBZEOSB      1            211222  211621       KARTAL             ICMELER       1          95.72         344.592  360.0
+7   EIH:   211222  211621  KARTAL        ICMELER       1            211321  211822       TUZLA              GEBZEOSB      1          92.99         334.764  360.0
+8   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210110  210121   TEPEOREN A-OTR-2   TEPEOREN A-OTR-2  1          91.73         229.325  250.0
+9   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210110  210121   TEPEOREN A-OTR-1   TEPEOREN A-OTR-1  2          91.20         228.000  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

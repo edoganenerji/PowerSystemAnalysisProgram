@@ -1,0 +1,19 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                             
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            211321  211422  TUZLA         KROMANCELIK   1         164.96         412.400  250.0
+1   EIH:   214310  290310  DILOVASIOSB   DCELIKSANAL   1            211321  211422  TUZLA         KROMANCELIK   1         145.56         363.900  250.0
+2   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            210122  211822  TEPEOREN      GEBZEOSB      1         117.22         293.050  250.0
+3   EIH:   219110  290310  COLAKOGLU400  DCELIKSANAL   1            211321  211422  TUZLA         KROMANCELIK   1         109.69         274.225  250.0
+4   EIH:   211522  219121  COLAKOGLU     COLAKOGLU400  1            211321  211422  TUZLA         KROMANCELIK   1         109.63         274.075  250.0
+5   EIH:   214310  290310  DILOVASIOSB   DCELIKSANAL   1            210122  211822  TEPEOREN      GEBZEOSB      1         107.99         269.975  250.0
+6   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214821  217221  MAKINAOSB     SIDDIK        1         106.71         266.775  250.0
+7   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            211421  211521  KROMANCELIK   COLAKOGLU     1         102.45         256.125  250.0
+8   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            211321  211822  TUZLA         GEBZEOSB      1         101.06         363.816  360.0
+9   EIH:   214310  290310  DILOVASIOSB   DCELIKSANAL   1            214821  217221  MAKINAOSB     SIDDIK        1          96.31         240.775  250.0
+10  EIH:   214310  290310  DILOVASIOSB   DCELIKSANAL   1            211321  211822  TUZLA         GEBZEOSB      1          92.20         331.920  360.0
+11  EIH:   219110  290310  COLAKOGLU400  DCELIKSANAL   1            210122  211822  TEPEOREN      GEBZEOSB      1          90.99         227.475  250.0
+12  EIH:   211522  219121  COLAKOGLU     COLAKOGLU400  1            210122  211822  TEPEOREN      GEBZEOSB      1          90.97         227.425  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   210121  211821  TEPEOREN      GEBZEOSB      1            210121  211821       TEPEOREN           GEBZEOSB      2         124.59         311.475  250.0
+1   EIH:   210121  211821  TEPEOREN      GEBZEOSB      2            210121  211821       TEPEOREN           GEBZEOSB      1         123.40         308.500  250.0
+2   EIH:   211421  211521  KROMANCELIK   COLAKOGLU     1            210122  211822       TEPEOREN           GEBZEOSB      1         100.31         250.775  250.0
+3  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211022  211222       BBAKKALKOY         KARTAL        1          96.94         242.350  250.0
+4   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            210122  211822       TEPEOREN           GEBZEOSB      1          96.06         240.150  250.0
+5   EIH:   211321  211822  TUZLA         GEBZEOSB      1            211421  211521       KROMANCELIK        COLAKOGLU     1          95.05         237.625  250.0
+6   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          94.95         237.375  250.0
+7   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214810  214822  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.56         236.400  250.0
+8   EIH:   210122  211822  TEPEOREN      GEBZEOSB      1            211421  211521       KROMANCELIK        COLAKOGLU     1          94.36         235.900  250.0
+9   EIH:   211221  211621  KARTAL        ICMELER       1            210121  211821       TEPEOREN           GEBZEOSB      2          90.45         226.125  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

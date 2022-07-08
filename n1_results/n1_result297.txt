@@ -1,0 +1,62 @@
+
+ 26.06.2022 13:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220626_1300_SN7_TR0.sav was saved on TUE, JUN 28 2022  17:00
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 10 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722, 213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                                         
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            211321  211422        TUZLA               KROMANCELIK   1          98.24         245.600  250.0
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821   MAKINAOSB A-OTR-1   MAKINAOSB A-OTR-1  1          97.77         244.425  250.0
+2  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1          96.96         242.400  250.0
+3  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821        DILISKELESIG        MAKINAOSB     1          93.98         234.950  250.0
+4  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822        TEPEOREN            GEBZEOSB      1          93.75         234.375  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214310  DILISKELESIG  0.948035
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214311  DILISKELESIG  0.948035
+2  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214910  DILERCELIK    0.948071
+3  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            219110  COLAKOGLU400  0.948089
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      211521  COLAKOGLU          29797.06       28440.80
+1      211522  COLAKOGLU          29797.06       28440.80
+2      219121  COLAKOGLU400       29727.65       28285.27
+3      214321  DILISKELESIG       29333.81       26941.73
+4      214322  DILISKELESIG       29333.81       26941.73
+5      210122  TEPEOREN           28067.78       25334.26
+6      210124  TEPEOREN           28067.78       25334.26
+---------------------------------------------------------------

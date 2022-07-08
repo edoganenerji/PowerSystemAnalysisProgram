@@ -1,0 +1,42 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211321 - 211422, TUZLA        - KROMANCELIK  (1 )
+Inkitaya giden bara numaralari:
+[211421, 211422]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210822 - 216621, GOZTEPE      - KADIKOY      (1 )
+Inkitaya giden bara numaralari:
+[210821, 210822]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   211321  211822  TUZLA         GEBZEOSB      1            211321  211621       TUZLA              ICMELER       1         133.44         333.600  250.0
+1   EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214822  217221       MAKINAOSB          SIDDIK        1         107.10         267.750  250.0
+2   EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1         105.52         263.800  250.0
+3  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211822  216721       GEBZEOSB           GEBZEKIMYA    1         100.19         250.475  250.0
+4   EIH:   211321  211822  TUZLA         GEBZEOSB      1            211222  211621       KARTAL             ICMELER       1         100.10         360.360  360.0
+5   EIH:   210121  211821  TEPEOREN      GEBZEOSB      1            210121  211821       TEPEOREN           GEBZEOSB      2          97.17         242.925  250.0
+6   EIH:   210121  211821  TEPEOREN      GEBZEOSB      2            210121  211821       TEPEOREN           GEBZEOSB      1          95.89         239.725  250.0
+7   EIH:   211222  211621  KARTAL        ICMELER       1            211321  211822       TUZLA              GEBZEOSB      1          94.45         340.020  360.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   211321  211822  TUZLA         GEBZEOSB      1            211422  KROMANCELIK   0.934497
+1  EIH:   211321  211822  TUZLA         GEBZEOSB      1            211421  KROMANCELIK   0.934497
+2  EIH:   211321  211822  TUZLA         GEBZEOSB      1            211321  TUZLA         0.935545
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

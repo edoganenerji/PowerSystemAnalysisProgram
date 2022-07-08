@@ -1,0 +1,12 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                            Ýzlenen Techizat                                                                                          
+    Type From Bus  To Bus          From Name            To Name  ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0  BANK:   210110  210121         TEPEOREN A         TEPEOREN A  2            211210  211221      KARTAL A-OTR-2      KARTAL A-OTR-2  1          97.88         244.700   250.0
+1  BANK:   210010  210022        UMRANIYE A-        UMRANIYE A-  2            210910  210922  KBAKKALKOY B-OTR-4  KBAKKALKOY B-OTR-4  1          97.71         244.275   250.0
+2  BANK:   210010  210022        UMRANIYE A-        UMRANIYE A-  2            210911  210921  KBAKKALKOY A-OTR-2  KBAKKALKOY A-OTR-2  1          97.46         243.650   250.0
+3   EIH:   214210  214810       KOCAELI            MAKINAOSB     1            210111  214211        TEPEOREN            KOCAELI       1          92.11        1252.696  1360.0
+4  BANK:   210110  210121         TEPEOREN A         TEPEOREN A  2            210121  211921        TEPEOREN            KURTKOY       1          91.20         306.432   336.0
+5   OTR:   214310  214321  DILOVASIOSB OTR-2  DILOVASIOSB OTR-2  2            214310  214321   DILOVASIOSB OTR-1   DILOVASIOSB OTR-1  1          90.08         225.200   250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

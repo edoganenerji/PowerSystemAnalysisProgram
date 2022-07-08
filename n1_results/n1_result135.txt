@@ -1,0 +1,33 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211321 - 211422, TUZLA        - KROMANCELIK  (1 )
+Inkitaya giden bara numaralari:
+[211421, 211422]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                  Ýzlenen Techizat                                                                                       
+     Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0    EIH:   211222  211621  KARTAL        ICMELER       1            211822  216721       GEBZEOSB           GEBZEKIMYA    1         159.17        397.9250  250.0
+1    EIH:   214821  216721  MAKINAOSB     GEBZEKIMYA    1            211321  211621       TUZLA              ICMELER       1         152.17        380.4250  250.0
+2    EIH:   211822  216721  GEBZEOSB      GEBZEKIMYA    1            211321  211621       TUZLA              ICMELER       1         146.05        365.1250  250.0
+3    EIH:   211321  211621  TUZLA         ICMELER       1            211822  216721       GEBZEOSB           GEBZEKIMYA    1         141.43        353.5750  250.0
+4    EIH:   211321  211822  TUZLA         GEBZEOSB      1            211321  211621       TUZLA              ICMELER       1         123.17        307.9250  250.0
+5    EIH:   211222  211621  KARTAL        ICMELER       1            214821  216721       MAKINAOSB          GEBZEKIMYA    1         122.23        410.6928  336.0
+6    EIH:   214821  216721  MAKINAOSB     GEBZEKIMYA    1            211222  211621       KARTAL             ICMELER       1         116.02        417.6720  360.0
+7    EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         112.22        280.5500  250.0
+8    EIH:   211822  216721  GEBZEOSB      GEBZEKIMYA    1            211222  211621       KARTAL             ICMELER       1         111.77        402.3720  360.0
+9    EIH:   211321  211621  TUZLA         ICMELER       1            214821  216721       MAKINAOSB          GEBZEKIMYA    1         109.01        366.2736  336.0
+10  BANK:   210211  210222     PASAKOY B     PASAKOY B  1            211822  216721       GEBZEOSB           GEBZEKIMYA    1         102.42        256.0500  250.0
+11   EIH:   211222  211621  KARTAL        ICMELER       1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          96.31        240.7750  250.0
+12   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1          96.08        240.2000  250.0
+13   EIH:   211222  211621  KARTAL        ICMELER       1            211321  211822       TUZLA              GEBZEOSB      1          95.78        344.8080  360.0
+14   EIH:   211321  211822  TUZLA         GEBZEOSB      1            211222  211621       KARTAL             ICMELER       1          95.76        344.7360  360.0
+15  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            210121  211921       TEPEOREN           KURTKOY       1          94.92        318.9312  336.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                        Ýzlenen Techizat                                                                                        
+    Type From Bus  To Bus        From Name          To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0  BANK:   210311  210321      ADAPAZARI B      ADAPAZARI B  1            210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5  3         108.74        271.8500   250.0
+1  BANK:   210110  210121       TEPEOREN A       TEPEOREN A  2            210121  211921       TEPEOREN           KURTKOY       1         102.32        343.7952   336.0
+2   EIH:   210310  227210     ADAPAZARI        ULUDAG        1            214210  227211       KOCAELI            ULUDAG        1         101.74       1383.6640  1360.0
+3   EIH:   214210  214810     KOCAELI          MAKINAOSB     1            210111  214211       TEPEOREN           KOCAELI       1          97.51       1326.1360  1360.0
+4   OTR:   214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          92.98        232.4500   250.0
+5   OTR:   214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2            214210  214221    KOCAELI A-OTR-1    KOCAELI A-OTR-1  1          92.98        232.4500   250.0
+6   EIH:   211421  211521     KROMANCELIK      COLAKOGLU     1            210122  211822       TEPEOREN           GEBZEOSB      1          92.74        231.8500   250.0
+7   EIH:   210121  211821     TEPEOREN         GEBZEOSB      2            210121  211821       TEPEOREN           GEBZEOSB      1          91.78        229.4500   250.0
+8   EIH:   210121  211821     TEPEOREN         GEBZEOSB      1            210121  211821       TEPEOREN           GEBZEOSB      2          91.73        229.3250   250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

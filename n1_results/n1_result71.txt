@@ -1,0 +1,14 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+        Kýsýt                                                        Ýzlenen Techizat                                                                                         
+         Type From Bus  To Bus       From Name         To Name    ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0        EIH:   211221  211622    KARTAL          ICMELER         1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1         117.53        293.8250  250.0
+1       BANK:   210110  210121      TEPEOREN A      TEPEOREN A    2            211211  211221      KARTAL B-OTR-4      KARTAL B-OTR-4  1         115.63        289.0750  250.0
+2        EIH:   214822  217221    MAKINAOSB       SIDDIK          1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1         106.02        265.0500  250.0
+3  Generator:   211562    None    COLAKOGLUOP2            None  None           214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1         104.52        261.3000  250.0
+4       BANK:   210110  210121      TEPEOREN A      TEPEOREN A    2            210121  211921        TEPEOREN            KURTKOY       1         100.11        336.3696  336.0
+5       BANK:   210110  210121      TEPEOREN A      TEPEOREN A    2            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1          99.46        248.6500  250.0
+6        OTR:   211210  211221  KARTAL C-OTR-6  KARTAL C-OTR-6    1            210110  210121    TEPEOREN A-OTR-2    TEPEOREN A-OTR-2  1          93.59        233.9750  250.0
+7        OTR:   211210  211221  KARTAL C-OTR-6  KARTAL C-OTR-6    1            210110  210121    TEPEOREN A-OTR-1    TEPEOREN A-OTR-1  2          93.04        232.6000  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

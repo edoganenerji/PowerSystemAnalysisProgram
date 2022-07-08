@@ -1,0 +1,30 @@
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                        Ýzlenen Techizat                                                                                           
+     Type From Bus  To Bus        From Name          To Name  ID         From Bus  To Bus            From Name              To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   BANK:   220010  220021        BURSADG A        BURSADG A  1            220011  220024      BURSADG B-OTR-3      BURSADG B-OTR-3  1         120.73        301.8250  250.0
+1   BANK:   210311  210321      ADAPAZARI B      ADAPAZARI B  1            210311  210321    ADAPAZARI C-OTR-5    ADAPAZARI C-OTR-5  3         110.67        276.6750  250.0
+2    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            214210  214221      KOCAELI B-OTR-3      KOCAELI B-OTR-3  2          99.09        247.7250  250.0
+3    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            214210  214221      KOCAELI A-OTR-1      KOCAELI A-OTR-1  1          99.09        247.7250  250.0
+4    EIH:   212521  215021     KOSEKOY          GOLCUK        1            213621  213721         KARAMURSEL           YALOVA        1          97.05        174.6900  180.0
+5   BANK:   220111  220121    BURSASANAYI A    BURSASANAYI A  2            220111  220122  BURSASANAYI B-OTR-4  BURSASANAYI B-OTR-4  2          94.21        235.5250  250.0
+6   BANK:   220111  220122    BURSASANAYI B    BURSASANAYI B  1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.02        312.5472  336.0
+7   BANK:   220111  220122    BURSASANAYI B    BURSASANAYI B  1            220121  291821         BURSASANAYI          BSANAYISANAL  1          93.01        312.5136  336.0
+8    OTR:   214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1            214210  214221      KOCAELI B-OTR-3      KOCAELI B-OTR-3  2          92.72        231.8000  250.0
+9    OTR:   214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2            214210  214221      KOCAELI A-OTR-1      KOCAELI A-OTR-1  1          92.72        231.8000  250.0
+10  BANK:   220111  220121    BURSASANAYI A    BURSASANAYI A  2            220111  220122  BURSASANAYI B-OTR-3  BURSASANAYI B-OTR-3  1          91.89        229.7250  250.0
+11  BANK:   220111  220121    BURSASANAYI A    BURSASANAYI A  2            220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5  1          91.45        228.6250  250.0
+12   EIH:   220121  221322     BURSASANAYI      BESEVLER      1            221321  228722         BESEVLER             ORHANELI      1          91.25        228.1250  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,99 @@
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 231121 - 233921, OSMANCA      - DUZCEOSB     (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 13 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 232022 - 232121, BOLU2        - BOLUCIM      (1 )
+Inkitaya giden bara numaralari:
+[231821, 232121, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 24 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 232021 - 234422, BOLU2        - BOLU1        (1 )
+Inkitaya giden bara numaralari:
+[231821, 232021, 232022, 232121, 232821, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 9 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 231821 - 232121, GERKONSAN    - BOLUCIM      (1 )
+Inkitaya giden bara numaralari:
+[231821, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 2 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 232022 - 232821, BOLU2        - KOPRUBASI    (1 )
+Inkitaya giden bara numaralari:
+[232821]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   232221  233921  KAYNASLI      DUZCEOSB      1            234421  412421       BOLU1              SARIYAR       1         104.15         187.470  180.0
+1   EIH:   234421  412421  BOLU1         SARIYAR       1            231121  233921       OSMANCA            DUZCEOSB      1         101.16         182.088  180.0
+2  BANK:   210310  210322   ADAPAZARI A   ADAPAZARI A  1            231121  233221       OSMANCA            CUMAYERI      1         100.54         180.972  180.0
+3  BANK:   210310  210322   ADAPAZARI A   ADAPAZARI A  1            212921  233221       HENDEK             CUMAYERI      1          94.85         170.730  180.0
+4  BANK:   214210  214222     KOCAELI B     KOCAELI B  1            210311  210321  ADAPAZARI B-OTR-4  ADAPAZARI B-OTR-4  2          92.53         231.325  250.0
+5  BANK:   214210  214222     KOCAELI B     KOCAELI B  1            210311  210321  ADAPAZARI B-OTR-3  ADAPAZARI B-OTR-3  1          91.09         227.725  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   Kýsýt                                                  Ýzlenen Techizat                        
+    Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0   EIH:   232221  233921  KAYNASLI      DUZCEOSB      1            231821  GERKONSAN     0.822657
+1   EIH:   232221  233921  KAYNASLI      DUZCEOSB      1            232121  BOLUCIM       0.847068
+2   EIH:   232221  233921  KAYNASLI      DUZCEOSB      1            232221  KAYNASLI      0.852216
+3   EIH:   232221  233921  KAYNASLI      DUZCEOSB      1            232222  KAYNASLI      0.852216
+4   EIH:   232221  233921  KAYNASLI      DUZCEOSB      1            232022  BOLU2         0.853561
+5   EIH:   232221  233921  KAYNASLI      DUZCEOSB      1            232021  BOLU2         0.853561
+6   EIH:   232221  233921  KAYNASLI      DUZCEOSB      1            234422  BOLU1         0.857154
+7   EIH:   232221  233921  KAYNASLI      DUZCEOSB      1            234421  BOLU1         0.857154
+8   EIH:   232221  233921  KAYNASLI      DUZCEOSB      1            232821  KOPRUBASI     0.867475
+9   EIH:   232221  234421  KAYNASLI      BOLU1         1            231821  GERKONSAN     0.895894
+10  EIH:   232221  234421  KAYNASLI      BOLU1         1            232121  BOLUCIM       0.916940
+11  EIH:   232221  234421  KAYNASLI      BOLU1         1            232022  BOLU2         0.922514
+12  EIH:   232221  234421  KAYNASLI      BOLU1         1            232021  BOLU2         0.922514
+13  EIH:   232221  234421  KAYNASLI      BOLU1         1            234421  BOLU1         0.924229
+14  EIH:   232221  234421  KAYNASLI      BOLU1         1            234422  BOLU1         0.924229
+15  EIH:   212521  215021  KOSEKOY       GOLCUK        1            215021  GOLCUK        0.934627
+16  EIH:   212521  215021  KOSEKOY       GOLCUK        1            213522  FORD          0.934700
+17  EIH:   212521  215021  KOSEKOY       GOLCUK        1            213521  FORD          0.934700
+18  EIH:   232221  234421  KAYNASLI      BOLU1         1            232821  KOPRUBASI     0.935869
+19  EIH:   212521  215021  KOSEKOY       GOLCUK        1            213621  KARAMURSEL    0.941868
+20  EIH:   213421  216421  MUDURNU       GOKSUHES      1            235121  MAVBIYOKUTLE  1.050640
+21  EIH:   213421  216421  MUDURNU       GOKSUHES      1            235122  MAVBIYOKUTLE  1.050640
+22  EIH:   213421  412421  MUDURNU       SARIYAR       1            235121  MAVBIYOKUTLE  1.050642
+23  EIH:   213421  412421  MUDURNU       SARIYAR       1            235122  MAVBIYOKUTLE  1.050642
+24  EIH:   210322  212921  ADAPAZARI     HENDEK        1            235121  MAVBIYOKUTLE  1.053816
+25  EIH:   210322  212921  ADAPAZARI     HENDEK        1            235122  MAVBIYOKUTLE  1.053816
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      210321  ADAPAZARI          30942.85       27040.83
+1      214222  KOCAELI            28244.51       24642.07
+---------------------------------------------------------------

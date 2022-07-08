@@ -1,0 +1,69 @@
+Backend Qt5Agg is interactive backend. Turning interactive mode on.
+
+ 13.06.2022 11:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220613_1100_SN1_TR0 (1).sav was saved on THU, JUN 16 2022  10:29
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 13 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210010 - 210021, UMRANIYE B-OTR-12 - UMRANIYE B-OTR-12 (1 )
+Inkitaya giden bara numaralari:
+[210021, 214121, 214122, 217621, 217622]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210021 - 217621, UMRANIYE     - DUDULLUMETRO (1 )
+Inkitaya giden bara numaralari:
+[217621, 217622]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                       
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214822  217221       MAKINAOSB          SIDDIK        1         108.06         270.150  250.0
+1   EIH:   210110  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          99.03         247.575  250.0
+2   EIH:   210110  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          96.02         240.050  250.0
+3   EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            210122  211822       TEPEOREN           GEBZEOSB      1          95.03         237.575  250.0
+4   EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          92.40         231.000  250.0
+5  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211211  211221     KARTAL B-OTR-4     KARTAL B-OTR-4  1          92.19         230.475  250.0
+6   EIH:   210110  214310  TEPEOREN      DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1          91.74         229.350  250.0
+7   EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          90.93         227.325  250.0
+8   EIH:   210110  214310  TEPEOREN      DILISKELESIG  1            214822  217221       MAKINAOSB          SIDDIK        1          90.12         225.300  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   214822  216722  MAKINAOSB     GEBZEKIMYA    1            216722  GEBZEKIMYA    0.923596
+1  EIH:   210110  214310  TEPEOREN      DILISKELESIG  1            214910  DILERCELIK    0.933110
+2  EIH:   210110  214310  TEPEOREN      DILISKELESIG  1            219110  COLAKOGLU400  0.933122
+3  EIH:   210110  214310  TEPEOREN      DILISKELESIG  1            214311  DILISKELESIG  0.933124
+4  EIH:   210110  214310  TEPEOREN      DILISKELESIG  1            214310  DILISKELESIG  0.933124
+5  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214910  DILERCELIK    0.937131
+6  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            219110  COLAKOGLU400  0.937144
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

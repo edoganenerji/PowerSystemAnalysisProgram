@@ -1,0 +1,15 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                 
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus       From Name         To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   211221  211621  KARTAL        ICMELER       1            210122  211822    TEPEOREN        GEBZEOSB      1         128.10        320.2500  250.0
+1   EIH:   211221  211621  KARTAL        ICMELER       1            211421  211521    KROMANCELIK     COLAKOGLU     1         106.94        267.3500  250.0
+2   EIH:   210121  211821  TEPEOREN      GEBZEOSB      2            210121  211821    TEPEOREN        GEBZEOSB      1         105.55        263.8750  250.0
+3   EIH:   210121  211821  TEPEOREN      GEBZEOSB      1            210121  211821    TEPEOREN        GEBZEOSB      2         105.46        263.6500  250.0
+4   EIH:   210122  211822  TEPEOREN      GEBZEOSB      1            211221  211621    KARTAL          ICMELER       1          98.27        353.7720  360.0
+5   EIH:   211421  211521  KROMANCELIK   COLAKOGLU     1            210122  211822    TEPEOREN        GEBZEOSB      1          95.97        239.9250  250.0
+6  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            210121  211921    TEPEOREN        KURTKOY       1          94.09        316.1424  336.0
+7   EIH:   211421  211521  KROMANCELIK   COLAKOGLU     1            211221  211621    KARTAL          ICMELER       1          93.25        335.7000  360.0
+8  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211210  211222  KARTAL C-OTR-6  KARTAL C-OTR-6  1          90.47        407.1150  450.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

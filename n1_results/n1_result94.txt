@@ -1,0 +1,39 @@
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 220022 - 220721, BURSADG      - GEMLIK       (1 )
+Inkitaya giden bara numaralari:
+[220721]
+--------------------------------------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 232661, generator ismi ZETES2      
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 232662, generator ismi ZETES2      
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 233661, generator ismi ZETES3      
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 233662, generator ismi ZETES3      
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 234361, generator ismi ZETES1      
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                            Ýzlenen Techizat                                                                                   
+    Type From Bus  To Bus  From Name    To Name  ID         From Bus  To Bus        From Name          To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   220010  220021  BURSADG A  BURSADG A  1            220011  220024  BURSADG B-OTR-3  BURSADG B-OTR-3  1          91.01         227.525  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

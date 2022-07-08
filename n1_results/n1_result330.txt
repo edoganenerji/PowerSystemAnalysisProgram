@@ -1,0 +1,25 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                    Ýzlenen Techizat                                                                                           
+    Type From Bus  To Bus      From Name        To Name  ID         From Bus  To Bus            From Name              To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   220110  220122  BURSASANAYI B  BURSASANAYI B  1            220121  221322         BURSASANAYI          BESEVLER      1         129.87         324.675  250.0
+1  BANK:   220111  220121  BURSASANAYI A  BURSASANAYI A  2            220110  220122  BURSASANAYI B-OTR-4  BURSASANAYI B-OTR-4  2         102.31         255.775  250.0
+2  BANK:   220111  220121  BURSASANAYI A  BURSASANAYI A  2            220110  220122  BURSASANAYI B-OTR-3  BURSASANAYI B-OTR-3  1          99.79         249.475  250.0
+3  BANK:   220111  220121  BURSASANAYI A  BURSASANAYI A  2            220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5  1          99.26         248.150  250.0
+4  BANK:   220110  220122  BURSASANAYI B  BURSASANAYI B  1            220111  220121  BURSASANAYI A-OTR-1  BURSASANAYI A-OTR-1  2          97.44         243.600  250.0
+5  BANK:   220110  220122  BURSASANAYI B  BURSASANAYI B  1            220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5  1          95.05         237.625  250.0
+6   EIH:   220121  291821   BURSASANAYI    BSANAYISANAL  1            220121  221322         BURSASANAYI          BESEVLER      1          95.01         237.525  250.0
+7   EIH:   228621  291821   OSMANGAZI      BSANAYISANAL  1            220121  221322         BURSASANAYI          BESEVLER      1          95.01         237.525  250.0
+8  BANK:   220110  220122  BURSASANAYI B  BURSASANAYI B  1            220111  220121  BURSASANAYI A-OTR-2  BURSASANAYI A-OTR-2  3          94.65         236.625  250.0
+9   EIH:   220121  221821   BURSASANAYI    DEMIRTAS      1            220121  221322         BURSASANAYI          BESEVLER      1          91.29         228.225  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      220121  BURSASANAYI        30353.84       22997.38
+1      220122  BURSASANAYI        28529.79       21040.57
+---------------------------------------------------------------

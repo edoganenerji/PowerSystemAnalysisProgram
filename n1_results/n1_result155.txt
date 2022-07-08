@@ -1,0 +1,44 @@
+
+ Messages for api FDNS
+ 13 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210221 - 212021, PASAKOY      - DUDULLU      (1 )
+Inkitaya giden bara numaralari:
+[210221, 210223, 217521, 217522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211521 - 219121, COLAKOGLU    - COLAKOGLU400 (1 )
+Inkitaya giden bara numaralari:
+[214910, 219110, 219121, 290310]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+         Kýsýt                                                              Ýzlenen Techizat                                                                             
+          Type From Bus  To Bus          From Name            To Name    ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0         EIH:   211321  211422       TUZLA              KROMANCELIK     1            214321  214821  DILISKELESIG  MAKINAOSB     1         121.89        304.7250  250.0
+1         EIH:   211521  214321       COLAKOGLU          DILISKELESIG    1            211321  211422  TUZLA         KROMANCELIK   1         116.02        290.0500  250.0
+2         EIH:   214321  214821       DILISKELESIG       MAKINAOSB       1            211321  211422  TUZLA         KROMANCELIK   1         116.01        290.0250  250.0
+3         EIH:   211321  211822       TUZLA              GEBZEOSB        1            214321  214821  DILISKELESIG  MAKINAOSB     1         115.71        289.2750  250.0
+4         EIH:   214822  217221       MAKINAOSB          SIDDIK          1            214321  214821  DILISKELESIG  MAKINAOSB     1         107.87        269.6750  250.0
+5   Generator:   211562    None       COLAKOGLUOP2               None  None           214321  214821  DILISKELESIG  MAKINAOSB     1         103.61        259.0250  250.0
+6         EIH:   211622  214322       ICMELER            DILISKELESIG    1            214321  214821  DILISKELESIG  MAKINAOSB     1         102.18        255.4500  250.0
+7         EIH:   211622  214322       ICMELER            DILISKELESIG    1            211321  211422  TUZLA         KROMANCELIK   1          97.70        244.2500  250.0
+8         EIH:   214822  217221       MAKINAOSB          SIDDIK          1            211321  211422  TUZLA         KROMANCELIK   1          97.22        243.0500  250.0
+9         EIH:   214821  216721       MAKINAOSB          GEBZEKIMYA      1            214321  214821  DILISKELESIG  MAKINAOSB     1          94.59        236.4750  250.0
+10  Generator:   211562    None       COLAKOGLUOP2               None  None           211321  211422  TUZLA         KROMANCELIK   1          94.48        236.2000  250.0
+11        EIH:   211822  216721       GEBZEOSB           GEBZEKIMYA      1            214321  214821  DILISKELESIG  MAKINAOSB     1          92.84        232.1000  250.0
+12        OTR:   214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3    1            214321  214821  DILISKELESIG  MAKINAOSB     1          92.18        230.4500  250.0
+13        EIH:   211522  217221       COLAKOGLU          SIDDIK          1            214321  214821  DILISKELESIG  MAKINAOSB     1          91.06        227.6500  250.0
+14        EIH:   211321  211422       TUZLA              KROMANCELIK     1            211521  214321  COLAKOGLU     DILISKELESIG  1          90.97        304.7495  335.0
+15        EIH:   211421  211521       KROMANCELIK        COLAKOGLU       1            214321  214821  DILISKELESIG  MAKINAOSB     1          90.84        227.1000  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210121 - 298721, TEPEOREN     - TOSB         (1 )
+Inkitaya giden bara numaralari:
+[211821, 298721]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                                       
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214822  217221       MAKINAOSB          SIDDIK        1         103.38         258.450  250.0
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          96.32         240.800  250.0
+2  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          93.98         234.950  250.0
+3  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          93.43         233.575  250.0
+4  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214822  217221       MAKINAOSB          SIDDIK        1          92.05         230.125  250.0
+5  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1          91.18         227.950  250.0
+6  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            210122  211822       TEPEOREN           GEBZEOSB      1          90.84         227.100  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      210122  TEPEOREN           29915.64       26817.76
+---------------------------------------------------------------

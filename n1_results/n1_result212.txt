@@ -1,0 +1,66 @@
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 220122 - 221221, BURSASANAYI  - BOSEN        (1 )
+Inkitaya giden bara numaralari:
+[221221, 221821]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 2 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 221221 - 221821, BOSEN        - DEMIRTAS     (1 )
+Inkitaya giden bara numaralari:
+[221821]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+N-1 durumunda %90 üzerinde yüklenen bir teçhizat yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Kýsýt                                                      Ýzlenen Techizat                        
+     Type From Bus  To Bus       From Name         To Name  ID       Bus Number      Bus Name   Voltage
+0    EIH:   220010  314911    BURSADG         BANDIRMA1DG   1            222021  YENISEHIR     1.050146
+1    EIH:   220010  227211    BURSADG         ULUDAG        1            222021  YENISEHIR     1.050318
+2    EIH:   220122  228622    BURSASANAYI     OSMANGAZI     1            222021  YENISEHIR     1.050465
+3    EIH:   227121  228721    DEVECIKONAGI    ORHANELI      1            222021  YENISEHIR     1.050537
+4    EIH:   227121  311121    DEVECIKONAGI    GOBEL         1            222021  YENISEHIR     1.050551
+5    EIH:   221521  311121    MKEMALPASA      GOBEL         1            222021  YENISEHIR     1.050552
+6    EIH:   220022  220821    BURSADG         ORHANGAZI     1            222021  YENISEHIR     1.050557
+7    OTR:   227211  227221  ULUDAG B-OTR-4  ULUDAG B-OTR-4  2            222021  YENISEHIR     1.050561
+8    OTR:   227211  227221  ULUDAG A-OTR-1  ULUDAG A-OTR-1  1            222021  YENISEHIR     1.050561
+9    EIH:   214210  227211    KOCAELI         ULUDAG        1            222021  YENISEHIR     1.050570
+10   EIH:   220022  220721    BURSADG         GEMLIK        1            222021  YENISEHIR     1.050571
+11   EIH:   215821  220821    ASILDEMIRCLK    ORHANGAZI     1            222021  YENISEHIR     1.050571
+12   EIH:   224022  311121    KARACABEY       GOBEL         1            222021  YENISEHIR     1.050573
+13   EIH:   220023  228221    BURSADG         RBKARESI      1            222021  YENISEHIR     1.050576
+14   EIH:   225221  228722    POYRAZRES_SU    ORHANELI      1            222021  YENISEHIR     1.050577
+15   EIH:   228621  291821    OSMANGAZI       BSANAYISANAL  1            222021  YENISEHIR     1.050585
+16   EIH:   220121  291821    BURSASANAYI     BSANAYISANAL  1            222021  YENISEHIR     1.050593
+17   EIH:   220121  221621    BURSASANAYI     GORUKLE       1            222021  YENISEHIR     1.050597
+18  BANK:   220110  220122   BURSASANAYI B   BURSASANAYI B  1            222021  YENISEHIR     1.050598
+19   EIH:   213721  220721    YALOVA          GEMLIK        1            222021  YENISEHIR     1.050607
+20   EIH:   221621  221721    GORUKLE         AKCALAR       1            222021  YENISEHIR     1.050610
+21   EIH:   220022  221822    BURSADG         DEMIRTAS      1            222021  YENISEHIR     1.050611
+22   EIH:   220021  221822    BURSADG         DEMIRTAS      1            222021  YENISEHIR     1.050611
+23   EIH:   220121  221322    BURSASANAYI     BESEVLER      1            222021  YENISEHIR     1.050613
+24   EIH:   213621  213721    KARAMURSEL      YALOVA        1            222021  YENISEHIR     1.050620
+25   EIH:   227221  292021    ULUDAG          KESTELSANAL   1            222021  YENISEHIR     1.050625
+26   EIH:   225421  227221    TURANKOY        ULUDAG        1            222021  YENISEHIR     1.050625
+27   EIH:   221921  225422    KESTEL          TURANKOY      1            222021  YENISEHIR     1.050626
+28   EIH:   221721  229421    AKCALAR         GUNEY-1RES    1            222021  YENISEHIR     1.050629
+29  BANK:   220112  220121   BURSASANAYI A   BURSASANAYI A  1            222021  YENISEHIR     1.050638
+30   EIH:   222121  227221    INEGOL          ULUDAG        1            222021  YENISEHIR     1.050640
+31   EIH:   215521  222121    ULURES          INEGOL        1            222021  YENISEHIR     1.050641
+32   EIH:   214421  220821    AKSAYALOVA      ORHANGAZI     1            222021  YENISEHIR     1.050656
+33   EIH:   220921  221921    OTOSANSIT       KESTEL        1            222021  YENISEHIR     1.050668
+34  BANK:   220010  220021       BURSADG A       BURSADG A  1            222021  YENISEHIR     1.050694
+35   EIH:   220111  220210    BURSASANAYI     GURAGAC       1            222021  YENISEHIR     1.053112
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

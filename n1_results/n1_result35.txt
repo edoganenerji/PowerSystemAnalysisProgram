@@ -1,0 +1,44 @@
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211221 - 211622, KARTAL       - ICMELER      (1 )
+Inkitaya giden bara numaralari:
+[211621, 211622]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 9 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210010 - 210021, UMRANIYE B-OTR-13 - UMRANIYE B-OTR-13 (2 )
+Inkitaya giden bara numaralari:
+[210021, 214121, 214122]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212021 - 217621, DUDULLU      - DUDULLUMETRO (1 )
+Inkitaya giden bara numaralari:
+[217621, 217622]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                             
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   211321  211822  TUZLA         GEBZEOSB      1            211421  211521  KROMANCELIK   COLAKOGLU     1         119.41        298.5250  250.0
+1  EIH:   210122  211822  TEPEOREN      GEBZEOSB      1            211421  211521  KROMANCELIK   COLAKOGLU     1         118.03        295.0750  250.0
+2  EIH:   211421  211521  KROMANCELIK   COLAKOGLU     1            210122  211822  TEPEOREN      GEBZEOSB      1         116.98        292.4500  250.0
+3  EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            210122  211822  TEPEOREN      GEBZEOSB      1          95.90        239.7500  250.0
+4  EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            211521  214822  COLAKOGLU     MAKINAOSB     1          90.62        304.4832  336.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

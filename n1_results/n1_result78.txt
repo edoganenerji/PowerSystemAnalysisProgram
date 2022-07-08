@@ -1,0 +1,97 @@
+
+ 21.01.2022 14:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 220010 - 314911, BURSADG      - BANDIRMA1DG  (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210111 - 214310, TEPEOREN     - DILISKELESIG (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210111 - 214211, TEPEOREN     - KOCAELI      (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210311 - 290510, ADAPAZARI    - GOYNUKSANAL  (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210311 - 231110, ADAPAZARI    - OSMANCA      (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 211211 - 214711, KARTAL       - YENIDGKC     (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 120911 - 210210, ZEKERIYAKOY  - PASAKOY      (1 )
+----------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                        Ýzlenen Techizat                                                                                   
+     Type From Bus  To Bus        From Name          To Name  ID         From Bus  To Bus        From Name          To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   BANK:   220010  220021        BURSADG A        BURSADG A  1            220011  220024  BURSADG B-OTR-3  BURSADG B-OTR-3  1         113.59        283.9750  250.0
+1   BANK:   210110  210121       TEPEOREN A       TEPEOREN A  2            211211  211221   KARTAL B-OTR-4   KARTAL B-OTR-4  1          98.48        246.2000  250.0
+2   BANK:   220111  220122    BURSASANAYI B    BURSASANAYI B  1            228621  291821     OSMANGAZI        BSANAYISANAL  1          97.49        327.5664  336.0
+3   BANK:   220111  220122    BURSASANAYI B    BURSASANAYI B  1            220121  291821     BURSASANAYI      BSANAYISANAL  1          97.48        327.5328  336.0
+4    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1          96.59        241.4750  250.0
+5    EIH:   214210  214810     KOCAELI          MAKINAOSB     1            214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2          96.59        241.4750  250.0
+6    OTR:   214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1            214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2          96.01        240.0250  250.0
+7    OTR:   214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2            214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1          96.01        240.0250  250.0
+8    EIH:   212521  215021     KOSEKOY          GOLCUK        1            213621  213721     KARAMURSEL       YALOVA        1          94.35        169.8300  180.0
+9   BANK:   210311  210321      ADAPAZARI B      ADAPAZARI B  1            214210  214221  KOCAELI A-OTR-1  KOCAELI A-OTR-1  1          92.91        232.2750  250.0
+10  BANK:   210311  210321      ADAPAZARI B      ADAPAZARI B  1            214210  214221  KOCAELI B-OTR-3  KOCAELI B-OTR-3  2          92.91        232.2750  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

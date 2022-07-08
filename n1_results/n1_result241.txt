@@ -1,0 +1,123 @@
+
+----------------------------------------------------------------------------------------------------------
+TEMEL DURUM GÜÇ AKIÞI
+----------------------------------------------------------------------------------------------------------
+    From Bus  To Bus             From Name               To Name  ID  Power Flow(%)  Power Flow(MVA)   RATEA
+0     210111  210121      TEPEOREN A-OTR-2      TEPEOREN A-OTR-2  1           64.04         160.1000   250.0
+1     210111  210121      TEPEOREN A-OTR-1      TEPEOREN A-OTR-1  2           63.67         159.1750   250.0
+2     214310  214322    DILISKELESIG OTR-1    DILISKELESIG OTR-1  1           61.25         153.1250   250.0
+3     214311  214322    DILISKELESIG OTR-2    DILISKELESIG OTR-2  1           61.00         152.5000   250.0
+4     210111  214310          TEPEOREN              DILISKELESIG  1           55.79         580.2160  1040.0
+5     214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3  1           55.08         137.7000   250.0
+6     214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1  1           53.56         133.9000   250.0
+7     210111  210311          TEPEOREN              ADAPAZARI     1           53.55         771.1200  1440.0
+8     211822  216721          GEBZEOSB              GEBZEKIMYA    1           49.85         124.6250   250.0
+9     210221  212021          PASAKOY               DUDULLU       1           49.72         178.9920   360.0
+10    210210  210221       PASAKOY A-OTR-1       PASAKOY A-OTR-1  1           49.26         123.1500   250.0
+11    210210  210221       PASAKOY A-OTR-2       PASAKOY A-OTR-2  2           49.05         122.6250   250.0
+12    210122  211822          TEPEOREN              GEBZEOSB      1           48.40         121.0000   250.0
+13    210111  210122      TEPEOREN B-OTR-3      TEPEOREN B-OTR-3  1           48.04         120.1000   250.0
+14    210111  210122      TEPEOREN B-OTR-4      TEPEOREN B-OTR-4  2           47.01         117.5250   250.0
+15    211211  211221        KARTAL B-OTR-4        KARTAL B-OTR-4  1           45.55         113.8750   250.0
+16    210111  217711          TEPEOREN              ATASEHIR      1           44.76         465.5040  1040.0
+17    211522  214322          COLAKOGLU             DILISKELESIG  1           44.46         148.9410   335.0
+18    214822  217221          MAKINAOSB             SIDDIK        1           43.53         108.8250   250.0
+19    214821  216721          MAKINAOSB             GEBZEKIMYA    1           42.24         141.5040   335.0
+20    210010  217710          UMRANIYE              ATASEHIR      1           40.84         424.7360  1040.0
+21    211421  211521          KROMANCELIK           COLAKOGLU     1           40.31         100.7750   250.0
+22    210111  214211          TEPEOREN              KOCAELI       1           39.09         562.8960  1440.0
+23    210010  210022     UMRANIYE A-OTR-10     UMRANIYE A-OTR-10  1           38.78          58.1700   150.0
+24    210010  210022     UMRANIYE A-OTR-11     UMRANIYE A-OTR-11  2           38.78          58.1700   150.0
+25    210911  210922    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4  1           38.58          96.4500   250.0
+26    210910  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2  1           38.49          96.2250   250.0
+27    211321  211621          TUZLA                 ICMELER       1           37.66          94.1500   250.0
+28    120911  210210          ZEKERIYAKOY           PASAKOY       1           37.58         657.6500  1750.0
+29    211221  211622          KARTAL                ICMELER       1           36.13         130.0680   360.0
+30    210121  211821          TEPEOREN              GEBZEOSB      2           35.55          88.8750   250.0
+31    211222  211621          KARTAL                ICMELER       1           35.26         126.9360   360.0
+32    211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6  1           34.53         155.3850   450.0
+33    210211  210222       PASAKOY B-OTR-3       PASAKOY B-OTR-3  2           34.40          86.0000   250.0
+34    210022  210721          UMRANIYE              SELIMIYE      1           33.75          84.3750   250.0
+35    210121  211821          TEPEOREN              GEBZEOSB      1           32.98          82.4500   250.0
+36    214210  214810          KOCAELI               MAKINAOSB     1           32.09         842.3625  2625.0
+37    219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2  2           31.71          79.2750   250.0
+38    219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1  1           31.58          78.9500   250.0
+39    210211  210222       PASAKOY B-OTR-4       PASAKOY B-OTR-4  1           31.38          78.4500   250.0
+40    210010  210111          UMRANIYE              TEPEOREN      1           31.36         451.5840  1440.0
+41    210510  216911          ADA2DGKC              KAVACIK       1           30.95         812.4375  2625.0
+42    211022  211122          BBAKKALKOY            SOGANLIK      1           29.80          74.5000   250.0
+43    120311  216911          ALIBEYKOY             KAVACIK       1           29.08         633.9440  2180.0
+44    210211  231111          PASAKOY               OSMANCA       1           28.93         630.6740  2180.0
+45    211321  211822          TUZLA                 GEBZEOSB      1           28.36         102.0960   360.0
+46    210210  210410          PASAKOY               ADA1DGKC      1           28.27         742.0875  2625.0
+47    210010  210021     UMRANIYE B-OTR-12     UMRANIYE B-OTR-12  1           27.11          40.6650   150.0
+48    214310  290310          DILISKELESIG          DCELIKSANAL   1           26.62         276.8480  1040.0
+49    210010  210021     UMRANIYE B-OTR-13     UMRANIYE B-OTR-13  2           25.60          64.0000   250.0
+50    210121  211921          TEPEOREN              KURTKOY       1           25.44          85.2240   335.0
+51    211211  214711          KARTAL                YENIDGKC      1           25.28         551.1040  2180.0
+52    210321  214821          ADAPAZARI             MAKINAOSB     1           24.81          62.0250   250.0
+53    210222  211022          PASAKOY               BBAKKALKOY    1           24.69          82.7115   335.0
+54    210222  211022          PASAKOY               BBAKKALKOY    2           24.69          82.7115   335.0
+55    211521  219121          COLAKOGLU             COLAKOGLU400  1           23.81         160.7175   675.0
+56    212621  216722          HEREKE                GEBZEKIMYA    1           23.78          59.4500   250.0
+57    211022  211222          BBAKKALKOY            KARTAL        1           23.78          59.4500   250.0
+58    210821  210922          GOZTEPE               KBAKKALKOY    1           23.66          59.1500   250.0
+59    214510  216910          BEYKOZ                KAVACIK       1           21.95         478.5100  2180.0
+60    210010  210911          UMRANIYE              KBAKKALKOY    1           20.93         217.6720  1040.0
+61    120310  214510          ALIBEYKOY             BEYKOZ        1           19.93         434.4740  2180.0
+62    211210  215210          KARTAL                MALTEPEIST    1           19.64         204.2560  1040.0
+63    211321  211422          TUZLA                 KROMANCELIK   1           19.23          48.0750   250.0
+64    211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2  1           19.15          47.8750   250.0
+65    214321  214821          DILISKELESIG          MAKINAOSB     1           18.80          47.0000   250.0
+66    214822  216722          MAKINAOSB             GEBZEKIMYA    1           17.59          58.9265   335.0
+67    210111  214811          TEPEOREN              MAKINAOSB     1           16.03         420.7875  2625.0
+68    210010  216910          UMRANIYE              KAVACIK       1           15.15         330.2700  2180.0
+69    211521  214321          COLAKOGLU             DILISKELESIG  1           14.03          47.0005   335.0
+70    211221  211921          KARTAL                KURTKOY       1           12.19          40.8365   335.0
+71    211221  211921          KARTAL                KURTKOY       2           12.19          40.8365   335.0
+72    210111  214710          TEPEOREN              YENIDGKC      1           12.02         262.0360  2180.0
+73    210922  216622          KBAKKALKOY            KADIKOY       1           11.66          41.9760   360.0
+74    210122  212122          TEPEOREN              YARIMCA1      1           11.65          29.1250   250.0
+75    219110  290310          COLAKOGLU400          DCELIKSANAL   1           11.49         166.6050  1450.0
+76    210910  215211          KBAKKALKOY            MALTEPEIST    1           10.18         105.8720  1040.0
+77    210111  210211          TEPEOREN              PASAKOY       1            9.98         217.5640  2180.0
+78    210022  210922          UMRANIYE              KBAKKALKOY    1            9.78          35.2080   360.0
+79    214711  214810          YENIDGKC              MAKINAOSB     1            9.71         254.8875  2625.0
+80    211522  217221          COLAKOGLU             SIDDIK        1            9.27          23.1750   250.0
+81    212321  214822          IZMIT                 MAKINAOSB     1            9.25          30.9875   335.0
+82    210021  217621          UMRANIYE              DUDULLUMETRO  1            8.33          29.9880   360.0
+83    212021  217621          DUDULLU               DUDULLUMETRO  1            8.24          29.6640   360.0
+84    210021  214121          UMRANIYE              VANIKOY       1            8.16          20.4000   250.0
+85    211121  211222          SOGANLIK              KARTAL        1            7.77          19.4250   250.0
+86    214910  290310          DILERCELIK            DCELIKSANAL   1            7.65         110.9250  1450.0
+87    210122  212221          TEPEOREN              SILE          1            7.14          17.8500   250.0
+88    210122  212021          TEPEOREN              DUDULLU       1            6.33          15.8250   250.0
+89    210122  212021          TEPEOREN              DUDULLU       2            6.33          15.8250   250.0
+90    210921  211021          KBAKKALKOY            BBAKKALKOY    2            6.30          15.7500   250.0
+91    210921  211021          KBAKKALKOY            BBAKKALKOY    1            6.30          15.7500   250.0
+92    210221  217521          PASAKOY               CUMHURIYET    1            5.17           9.0475   175.0
+93    210221  217522          PASAKOY               CUMHURIYET    1            5.17           9.0475   175.0
+94    210722  216621          SELIMIYE              KADIKOY       1            5.11          12.7750   250.0
+95    211622  214322          ICMELER               DILISKELESIG  1            4.55          11.3750   250.0
+96    210122  214022          TEPEOREN              ISAKOY        1            4.29          10.7250   250.0
+97    212221  214022          SILE                  ISAKOY        1            3.44           8.6000   250.0
+98    210822  216621          GOZTEPE               KADIKOY       1            2.74           6.8500   250.0
+----------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                                       
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214822  217221       MAKINAOSB          SIDDIK        1         103.93         259.825  250.0
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.68         236.700  250.0
+2  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          92.11         230.275  250.0
+3  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214822  217221       MAKINAOSB          SIDDIK        1          91.36         228.400  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      210122  TEPEOREN           29747.46       26726.18
+---------------------------------------------------------------

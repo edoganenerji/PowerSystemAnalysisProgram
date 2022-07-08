@@ -1,0 +1,30 @@
+
+ Messages for api FDNS
+ 13 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722, 213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                                       
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            211321  211422       TUZLA              KROMANCELIK   1         136.71        341.7750  250.0
+1  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            211522  214322       COLAKOGLU          DILISKELESIG  1         111.67        374.0945  335.0
+2  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1         105.48        263.7000  250.0
+3  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            211622  214322       ICMELER            DILISKELESIG  1         101.70        254.2500  250.0
+4  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          99.35        248.3750  250.0
+5  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            211221  211622       KARTAL             ICMELER       1          90.91        327.2760  360.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214310  DILISKELESIG  0.934026
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214311  DILISKELESIG  0.934026
+2  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214910  DILERCELIK    0.934041
+3  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            219110  COLAKOGLU400  0.934056
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,62 @@
+
+ Messages for api FDNS
+ 10 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722, 213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 11 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 214822 - 216722, MAKINAOSB    - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722, 213021, 216722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                              Ýzlenen Techizat                                                                                         
+     Type From Bus  To Bus           From Name             To Name  ID         From Bus  To Bus           From Name             To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0    EIH:   211522  214322        COLAKOGLU           DILISKELESIG  1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1         163.35        408.3750  250.0
+1    EIH:   210111  214310        TEPEOREN            DILISKELESIG  1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1         127.00        317.5000  250.0
+2    OTR:   214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1            211522  214322        COLAKOGLU           DILISKELESIG  1         119.73        401.0955  335.0
+3    EIH:   211522  214322        COLAKOGLU           DILISKELESIG  1            214822  217221        MAKINAOSB           SIDDIK        1         107.82        269.5500  250.0
+4    OTR:   214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1         105.95        264.8750  250.0
+5    OTR:   214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1            214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1         105.73        264.3250  250.0
+6    OTR:   214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1         103.54        258.8500  250.0
+7    OTR:   214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1            214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1         103.11        257.7750  250.0
+8    EIH:   210111  214310        TEPEOREN            DILISKELESIG  1            214810  214821   MAKINAOSB A-OTR-1   MAKINAOSB A-OTR-1  1         100.14        250.3500  250.0
+9    EIH:   210111  214310        TEPEOREN            DILISKELESIG  1            210122  211822        TEPEOREN            GEBZEOSB      1          98.51        246.2750  250.0
+10   EIH:   210111  214310        TEPEOREN            DILISKELESIG  1            214321  214821        DILISKELESIG        MAKINAOSB     1          96.99        242.4750  250.0
+11   OTR:   214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1          95.49        238.7250  250.0
+12   OTR:   214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1          95.40        238.5000  250.0
+13   OTR:   214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1            211522  217221        COLAKOGLU           SIDDIK        1          94.04        235.1000  250.0
+14  BANK:   210110  210121          TEPEOREN A          TEPEOREN A  2            211211  211221      KARTAL B-OTR-4      KARTAL B-OTR-4  1          93.83        234.5750  250.0
+15   EIH:   211221  211622        KARTAL              ICMELER       1            214310  214322  DILISKELESIG OTR-1  DILISKELESIG OTR-1  1          93.23        233.0750  250.0
+16   EIH:   211221  211622        KARTAL              ICMELER       1            214311  214322  DILISKELESIG OTR-2  DILISKELESIG OTR-2  1          92.84        232.1000  250.0
+17   EIH:   211221  211622        KARTAL              ICMELER       1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1          92.22        230.5500  250.0
+18   EIH:   211522  217221        COLAKOGLU           SIDDIK        1            214811  214822   MAKINAOSB B-OTR-3   MAKINAOSB B-OTR-3  1          90.78        226.9500  250.0
+19   EIH:   214310  290310        DILISKELESIG        DCELIKSANAL   1            214810  214821   MAKINAOSB A-OTR-1   MAKINAOSB A-OTR-1  1          90.06        225.1500  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214310  DILISKELESIG  0.929447
+1  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214311  DILISKELESIG  0.929447
+2  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214910  DILERCELIK    0.929495
+3  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            219110  COLAKOGLU400  0.929512
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      210122  TEPEOREN           28231.02        25318.5
+1      210124  TEPEOREN           28231.02        25318.5
+---------------------------------------------------------------

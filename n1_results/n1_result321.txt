@@ -1,0 +1,308 @@
+
+
+
+----------------------------------------------------------------------------------------------------------
+Terminated by non-divergent option
+Guc akisi cozulemeyen ariza: 220022 - 221822, BURSADG      - DEMIRTAS     (2 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 30 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 224022 - 311121, KARACABEY    - GOBEL        (1 )
+Inkitaya giden bara numaralari:
+[219321, 221622, 221721, 224021, 224022, 224221, 224222, 224321, 227321, 227621, 229421]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 22 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 224021 - 227621, KARACABEY    - HARMANLIKRES (1 )
+Inkitaya giden bara numaralari:
+[219321, 221622, 221721, 224221, 224222, 224321, 227321, 227621, 229421]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 221121 - 227222, YILDIRIM     - ULUDAG       (1 )
+Inkitaya giden bara numaralari:
+[221121, 228622]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 19 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 227621 - 229421, HARMANLIKRES - GUNEY-1RES   (1 )
+Inkitaya giden bara numaralari:
+[219321, 221622, 221721, 224221, 224222, 224321, 227321, 229421]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 16 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 221721 - 229421, AKCALAR      - GUNEY-1RES   (1 )
+Inkitaya giden bara numaralari:
+[219321, 221622, 221721, 224221, 224222, 224321, 227321]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+          Kýsýt                                                                  Ýzlenen Techizat                                                                              
+           Type From Bus  To Bus            From Name              To Name    ID         From Bus  To Bus     From Name       To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0          EIH:   214210  227211         KOCAELI              ULUDAG          1            220022  221822  BURSADG       DEMIRTAS      2         228.80         640.640   280.0
+1          EIH:   210310  227210         ADAPAZARI            ULUDAG          1            220022  221822  BURSADG       DEMIRTAS      2         220.08         616.224   280.0
+2          EIH:   214421  215121         AKSAYALOVA           ARSLANBEY       1            220022  221822  BURSADG       DEMIRTAS      2         215.19         602.532   280.0
+3          EIH:   220010  227211         BURSADG              ULUDAG          1            220022  221822  BURSADG       DEMIRTAS      2         213.49         597.772   280.0
+4          EIH:   220011  227210         BURSADG              ULUDAG          1            220022  221822  BURSADG       DEMIRTAS      2         213.42         597.576   280.0
+5          EIH:   220921  221921         OTOSANSIT            KESTEL          1            220022  221822  BURSADG       DEMIRTAS      2         212.54         595.112   280.0
+6          EIH:   220022  220922         BURSADG              OTOSANSIT       1            220022  221822  BURSADG       DEMIRTAS      2         210.97         590.716   280.0
+7          EIH:   220022  228221         BURSADG              RBKARESI        1            220022  221822  BURSADG       DEMIRTAS      2         210.84         590.352   280.0
+8          EIH:   220921  228221         OTOSANSIT            RBKARESI        1            220022  221822  BURSADG       DEMIRTAS      2         210.75         590.100   280.0
+9          EIH:   213721  214421         YALOVA               AKSAYALOVA      1            220022  221822  BURSADG       DEMIRTAS      2         210.18         588.504   280.0
+10         EIH:   221921  225422         KESTEL               TURANKOY        1            220022  221822  BURSADG       DEMIRTAS      2         210.06         588.168   280.0
+11         EIH:   225421  227222         TURANKOY             ULUDAG          1            220022  221822  BURSADG       DEMIRTAS      2         209.98         587.944   280.0
+12        BANK:   220111  220121        BURSASANAYI A        BURSASANAYI A    2            220022  221822  BURSADG       DEMIRTAS      2         209.86         587.608   280.0
+13        BANK:   220110  220122        BURSASANAYI B        BURSASANAYI B    1            220022  221822  BURSADG       DEMIRTAS      2         209.85         587.580   280.0
+14         OTR:   220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5    1            220022  221822  BURSADG       DEMIRTAS      2         209.82         587.496   280.0
+15         EIH:   220122  221221         BURSASANAYI          BOSEN           1            220022  221822  BURSADG       DEMIRTAS      2         209.81         587.468   280.0
+16         EIH:   220121  221322         BURSASANAYI          BESEVLER        1            220022  221822  BURSADG       DEMIRTAS      2         209.80         587.440   280.0
+17         EIH:   220121  291821         BURSASANAYI          BSANAYISANAL    1            220022  221822  BURSADG       DEMIRTAS      2         209.80         587.440   280.0
+18         EIH:   221221  221821         BOSEN                DEMIRTAS        1            220022  221822  BURSADG       DEMIRTAS      2         209.80         587.440   280.0
+19         EIH:   228621  291821         OSMANGAZI            BSANAYISANAL    1            220022  221822  BURSADG       DEMIRTAS      2         209.80         587.440   280.0
+20         EIH:   220121  221821         BURSASANAYI          DEMIRTAS        1            220022  221822  BURSADG       DEMIRTAS      2         209.80         587.440   280.0
+21         EIH:   220122  221322         BURSASANAYI          BESEVLER        1            220022  221822  BURSADG       DEMIRTAS      2         209.79         587.412   280.0
+22         EIH:   221721  224222         AKCALAR              ULUABATHES      1            220022  221822  BURSADG       DEMIRTAS      2         209.79         587.412   280.0
+23         EIH:   219321  224221         HASANAGA             ULUABATHES      1            220022  221822  BURSADG       DEMIRTAS      2         209.79         587.412   280.0
+24         EIH:   221421  228722         ORHANELITES          ORHANELI        2            220022  221822  BURSADG       DEMIRTAS      2         209.79         587.412   280.0
+25         EIH:   221421  228722         ORHANELITES          ORHANELI        1            220022  221822  BURSADG       DEMIRTAS      2         209.79         587.412   280.0
+26         EIH:   220121  228721         BURSASANAYI          ORHANELI        1            220022  221822  BURSADG       DEMIRTAS      2         209.79         587.412   280.0
+27         EIH:   219321  221622         HASANAGA             GORUKLE         1            220022  221822  BURSADG       DEMIRTAS      2         209.79         587.412   280.0
+28         EIH:   221321  228721         BESEVLER             ORHANELI        1            220022  221822  BURSADG       DEMIRTAS      2         209.79         587.412   280.0
+29         EIH:   227121  228721         DEVECIKONAGI         ORHANELI        1            220022  221822  BURSADG       DEMIRTAS      2         209.67         587.076   280.0
+30         EIH:   227121  311121         DEVECIKONAGI         GOBEL           1            220022  221822  BURSADG       DEMIRTAS      2         209.66         587.048   280.0
+31   Generator:   220062    None         BURSADG                      None  None           220022  221822  BURSADG       DEMIRTAS      2         209.66         587.048   280.0
+32         EIH:   222121  227222         INEGOL               ULUDAG          1            220022  221822  BURSADG       DEMIRTAS      2         209.64         586.992   280.0
+33         EIH:   215521  222121         ULURES               INEGOL          1            220022  221822  BURSADG       DEMIRTAS      2         209.51         586.628   280.0
+34   Generator:   224261    None         ULUABATHES                   None  None           220022  221822  BURSADG       DEMIRTAS      2         209.42         586.376   280.0
+35         EIH:   222121  228722         INEGOL               ORHANELI        1            220022  221822  BURSADG       DEMIRTAS      2         209.38         586.264   280.0
+36         EIH:   215521  228722         ULURES               ORHANELI        1            220022  221822  BURSADG       DEMIRTAS      2         209.32         586.096   280.0
+37   Generator:   229461    None         GUNEY1RES                    None  None           220022  221822  BURSADG       DEMIRTAS      2         209.26         585.928   280.0
+38   Generator:   220063    None         BURSADG                      None  None           220022  221822  BURSADG       DEMIRTAS      2         209.23         585.844   280.0
+39   Generator:   224361    None         BANDIRMARES                  None  None           220022  221822  BURSADG       DEMIRTAS      2         209.19         585.732   280.0
+40   Generator:   215561    None         ULURES                       None  None           220022  221822  BURSADG       DEMIRTAS      2         209.08         585.424   280.0
+41         OTR:   227211  227221       ULUDAG A-OTR-1       ULUDAG A-OTR-1    2            220022  221822  BURSADG       DEMIRTAS      2         209.02         585.256   280.0
+42         OTR:   227211  227221       ULUDAG B-OTR-4       ULUDAG B-OTR-4    1            220022  221822  BURSADG       DEMIRTAS      2         209.01         585.228   280.0
+43         EIH:   221521  225221         MKEMALPASA           POYRAZRES_SU    1            220022  221822  BURSADG       DEMIRTAS      2         208.92         584.976   280.0
+44         EIH:   220021  220821         BURSADG              ORHANGAZI       1            220022  221822  BURSADG       DEMIRTAS      2         208.83         584.724   280.0
+45         EIH:   220021  220821         BURSADG              ORHANGAZI       2            220022  221822  BURSADG       DEMIRTAS      2         208.83         584.724   280.0
+46         EIH:   215821  220621         ASILDEMIRCLK         KARSAK          1            220022  221822  BURSADG       DEMIRTAS      2         208.64         584.192   280.0
+47         EIH:   225221  228722         POYRAZRES_SU         ORHANELI        1            220022  221822  BURSADG       DEMIRTAS      2         208.47         583.716   280.0
+48         EIH:   220021  220621         BURSADG              KARSAK          1            220022  221822  BURSADG       DEMIRTAS      2         208.35         583.380   280.0
+49         EIH:   221521  311121         MKEMALPASA           GOBEL           1            220022  221822  BURSADG       DEMIRTAS      2         208.31         583.268   280.0
+50         EIH:   221921  292021         KESTEL               KESTELSANAL     1            220022  221822  BURSADG       DEMIRTAS      2         208.09         582.652   280.0
+51         EIH:   213621  213721         KARAMURSEL           YALOVA          1            220022  221822  BURSADG       DEMIRTAS      2         207.95         582.260   280.0
+52         EIH:   220111  220210         BURSASANAYI          GURAGAC         1            220022  221822  BURSADG       DEMIRTAS      2         207.80         581.840   280.0
+53         EIH:   227221  292021         ULUDAG               KESTELSANAL     1            220022  221822  BURSADG       DEMIRTAS      2         207.71         581.588   280.0
+54   Generator:   220061    None         BURSADG                      None  None           220022  221822  BURSADG       DEMIRTAS      2         207.54         581.112   280.0
+55         OTR:   220011  220022      BURSADG B-OTR-3      BURSADG B-OTR-3    1            220022  221822  BURSADG       DEMIRTAS      2         207.52         581.056   280.0
+56   Generator:   221461    None         ORHANELITES                  None  None           220022  221822  BURSADG       DEMIRTAS      2         207.08         579.824   280.0
+57         EIH:   220110  310010         BURSASANAYI          KOYLUKOY        1            220022  221822  BURSADG       DEMIRTAS      2         206.93         579.404   280.0
+58         EIH:   220011  220110         BURSADG              BURSASANAYI     1            220022  221822  BURSADG       DEMIRTAS      2         204.45         572.460   280.0
+59         EIH:   213721  220721         YALOVA               GEMLIK          1            220022  221822  BURSADG       DEMIRTAS      2         203.17         568.876   280.0
+60        BANK:   220010  220022            BURSADG A            BURSADG A    1            220022  221822  BURSADG       DEMIRTAS      2         200.98         562.744   280.0
+61   Generator:   220065    None         BURSADG                      None  None           220022  221822  BURSADG       DEMIRTAS      2         200.94         562.632   280.0
+62         EIH:   214421  220821         AKSAYALOVA           ORHANGAZI       1            220022  221822  BURSADG       DEMIRTAS      2         199.16         557.648   280.0
+63         EIH:   220010  314911         BURSADG              BANDIRMA1DG     1            220022  221822  BURSADG       DEMIRTAS      2         197.68         553.504   280.0
+64         EIH:   220021  220721         BURSADG              GEMLIK          1            220022  221822  BURSADG       DEMIRTAS      2         186.55         522.340   280.0
+65         EIH:   214210  227211         KOCAELI              ULUDAG          1            220021  221822  BURSADG       DEMIRTAS      1         150.83         377.075   250.0
+66         EIH:   210310  227210         ADAPAZARI            ULUDAG          1            220021  221822  BURSADG       DEMIRTAS      1         141.14         352.850   250.0
+67         EIH:   214421  215121         AKSAYALOVA           ARSLANBEY       1            220021  221822  BURSADG       DEMIRTAS      1         135.10         337.750   250.0
+68         EIH:   220010  227211         BURSADG              ULUDAG          1            220021  221822  BURSADG       DEMIRTAS      1         134.15         335.375   250.0
+69         EIH:   220011  227210         BURSADG              ULUDAG          1            220021  221822  BURSADG       DEMIRTAS      1         134.07         335.175   250.0
+70         EIH:   220921  221921         OTOSANSIT            KESTEL          1            220021  221822  BURSADG       DEMIRTAS      1         133.52         333.800   250.0
+71         EIH:   220022  220922         BURSADG              OTOSANSIT       1            220021  221822  BURSADG       DEMIRTAS      1         131.53         328.825   250.0
+72         EIH:   220022  228221         BURSADG              RBKARESI        1            220021  221822  BURSADG       DEMIRTAS      1         131.38         328.450   250.0
+73         EIH:   220921  228221         OTOSANSIT            RBKARESI        1            220021  221822  BURSADG       DEMIRTAS      1         131.29         328.225   250.0
+74         EIH:   213721  214421         YALOVA               AKSAYALOVA      1            220021  221822  BURSADG       DEMIRTAS      1         130.47         326.175   250.0
+75         EIH:   221921  225422         KESTEL               TURANKOY        1            220021  221822  BURSADG       DEMIRTAS      1         130.39         325.975   250.0
+76         EIH:   225421  227222         TURANKOY             ULUDAG          1            220021  221822  BURSADG       DEMIRTAS      1         130.36         325.900   250.0
+77        BANK:   220111  220121        BURSASANAYI A        BURSASANAYI A    2            220021  221822  BURSADG       DEMIRTAS      1         130.25         325.625   250.0
+78        BANK:   220110  220122        BURSASANAYI B        BURSASANAYI B    1            220021  221822  BURSADG       DEMIRTAS      1         130.24         325.600   250.0
+79         OTR:   220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5    1            220021  221822  BURSADG       DEMIRTAS      1         130.23         325.575   250.0
+80         EIH:   220121  221322         BURSASANAYI          BESEVLER        1            220021  221822  BURSADG       DEMIRTAS      1         130.22         325.550   250.0
+81         EIH:   221221  221821         BOSEN                DEMIRTAS        1            220021  221822  BURSADG       DEMIRTAS      1         130.22         325.550   250.0
+82         EIH:   220121  291821         BURSASANAYI          BSANAYISANAL    1            220021  221822  BURSADG       DEMIRTAS      1         130.22         325.550   250.0
+83         EIH:   221721  224222         AKCALAR              ULUABATHES      1            220021  221822  BURSADG       DEMIRTAS      1         130.22         325.550   250.0
+84         EIH:   219321  224221         HASANAGA             ULUABATHES      1            220021  221822  BURSADG       DEMIRTAS      1         130.22         325.550   250.0
+85         EIH:   221421  228722         ORHANELITES          ORHANELI        2            220021  221822  BURSADG       DEMIRTAS      1         130.22         325.550   250.0
+86         EIH:   221421  228722         ORHANELITES          ORHANELI        1            220021  221822  BURSADG       DEMIRTAS      1         130.22         325.550   250.0
+87         EIH:   220121  221821         BURSASANAYI          DEMIRTAS        1            220021  221822  BURSADG       DEMIRTAS      1         130.22         325.550   250.0
+88         EIH:   228621  291821         OSMANGAZI            BSANAYISANAL    1            220021  221822  BURSADG       DEMIRTAS      1         130.22         325.550   250.0
+89         EIH:   219321  221622         HASANAGA             GORUKLE         1            220021  221822  BURSADG       DEMIRTAS      1         130.21         325.525   250.0
+90         EIH:   220122  221221         BURSASANAYI          BOSEN           1            220021  221822  BURSADG       DEMIRTAS      1         130.21         325.525   250.0
+91         EIH:   220122  221322         BURSASANAYI          BESEVLER        1            220021  221822  BURSADG       DEMIRTAS      1         130.21         325.525   250.0
+92         EIH:   220121  228721         BURSASANAYI          ORHANELI        1            220021  221822  BURSADG       DEMIRTAS      1         130.20         325.500   250.0
+93         EIH:   221321  228721         BESEVLER             ORHANELI        1            220021  221822  BURSADG       DEMIRTAS      1         130.20         325.500   250.0
+94         EIH:   227121  311121         DEVECIKONAGI         GOBEL           1            220021  221822  BURSADG       DEMIRTAS      1         130.02         325.050   250.0
+95         EIH:   227121  228721         DEVECIKONAGI         ORHANELI        1            220021  221822  BURSADG       DEMIRTAS      1         130.02         325.050   250.0
+96         EIH:   222121  227222         INEGOL               ULUDAG          1            220021  221822  BURSADG       DEMIRTAS      1         130.02         325.050   250.0
+97   Generator:   224261    None         ULUABATHES                   None  None           220021  221822  BURSADG       DEMIRTAS      1         129.83         324.575   250.0
+98   Generator:   220062    None         BURSADG                      None  None           220021  221822  BURSADG       DEMIRTAS      1         129.83         324.575   250.0
+99   Generator:   229461    None         GUNEY1RES                    None  None           220021  221822  BURSADG       DEMIRTAS      1         129.66         324.150   250.0
+100  Generator:   224361    None         BANDIRMARES                  None  None           220021  221822  BURSADG       DEMIRTAS      1         129.59         323.975   250.0
+101        EIH:   215521  228722         ULURES               ORHANELI        1            220021  221822  BURSADG       DEMIRTAS      1         129.52         323.800   250.0
+102        EIH:   222121  228722         INEGOL               ORHANELI        1            220021  221822  BURSADG       DEMIRTAS      1         129.45         323.625   250.0
+103  Generator:   220063    None         BURSADG                      None  None           220021  221822  BURSADG       DEMIRTAS      1         129.33         323.325   250.0
+104        EIH:   221521  225221         MKEMALPASA           POYRAZRES_SU    1            220021  221822  BURSADG       DEMIRTAS      1         129.33         323.325   250.0
+105  Generator:   215561    None         ULURES                       None  None           220021  221822  BURSADG       DEMIRTAS      1         129.31         323.275   250.0
+106        OTR:   227211  227221       ULUDAG A-OTR-1       ULUDAG A-OTR-1    2            220021  221822  BURSADG       DEMIRTAS      1         129.31         323.275   250.0
+107        OTR:   227211  227221       ULUDAG B-OTR-4       ULUDAG B-OTR-4    1            220021  221822  BURSADG       DEMIRTAS      1         129.30         323.250   250.0
+108        EIH:   215521  222121         ULURES               INEGOL          1            220021  221822  BURSADG       DEMIRTAS      1         129.26         323.150   250.0
+109        EIH:   220021  220821         BURSADG              ORHANGAZI       1            220021  221822  BURSADG       DEMIRTAS      1         129.03         322.575   250.0
+110        EIH:   220021  220821         BURSADG              ORHANGAZI       2            220021  221822  BURSADG       DEMIRTAS      1         129.02         322.550   250.0
+111        EIH:   215821  220621         ASILDEMIRCLK         KARSAK          1            220021  221822  BURSADG       DEMIRTAS      1         128.89         322.225   250.0
+112        EIH:   225221  228722         POYRAZRES_SU         ORHANELI        1            220021  221822  BURSADG       DEMIRTAS      1         128.83         322.075   250.0
+113        EIH:   221521  311121         MKEMALPASA           GOBEL           1            220021  221822  BURSADG       DEMIRTAS      1         128.64         321.600   250.0
+114        EIH:   220021  220621         BURSADG              KARSAK          1            220021  221822  BURSADG       DEMIRTAS      1         128.48         321.200   250.0
+115        EIH:   221921  292021         KESTEL               KESTELSANAL     1            220021  221822  BURSADG       DEMIRTAS      1         128.23         320.575   250.0
+116        EIH:   213621  213721         KARAMURSEL           YALOVA          1            220021  221822  BURSADG       DEMIRTAS      1         127.77         319.425   250.0
+117        OTR:   220011  220022      BURSADG B-OTR-3      BURSADG B-OTR-3    1            220021  221822  BURSADG       DEMIRTAS      1         127.63         319.075   250.0
+118  Generator:   220061    None         BURSADG                      None  None           220021  221822  BURSADG       DEMIRTAS      1         127.46         318.650   250.0
+119        EIH:   220111  220210         BURSASANAYI          GURAGAC         1            220021  221822  BURSADG       DEMIRTAS      1         127.42         318.550   250.0
+120        EIH:   227221  292021         ULUDAG               KESTELSANAL     1            220021  221822  BURSADG       DEMIRTAS      1         127.41         318.525   250.0
+121  Generator:   221461    None         ORHANELITES                  None  None           220021  221822  BURSADG       DEMIRTAS      1         126.95         317.375   250.0
+122        EIH:   220110  310010         BURSASANAYI          KOYLUKOY        1            220021  221822  BURSADG       DEMIRTAS      1         126.62         316.550   250.0
+123        EIH:   220011  220110         BURSADG              BURSASANAYI     1            220021  221822  BURSADG       DEMIRTAS      1         124.46         311.150   250.0
+124        EIH:   213721  220721         YALOVA               GEMLIK          1            220021  221822  BURSADG       DEMIRTAS      1         122.81         307.025   250.0
+125       BANK:   220010  220022            BURSADG A            BURSADG A    1            220021  221822  BURSADG       DEMIRTAS      1         119.89         299.725   250.0
+126  Generator:   220065    None         BURSADG                      None  None           220021  221822  BURSADG       DEMIRTAS      1         119.36         298.400   250.0
+127        EIH:   214421  220821         AKSAYALOVA           ORHANGAZI       1            220021  221822  BURSADG       DEMIRTAS      1         118.72         296.800   250.0
+128        EIH:   220010  314911         BURSADG              BANDIRMA1DG     1            220021  221822  BURSADG       DEMIRTAS      1         116.76         291.900   250.0
+129        EIH:   222121  228722         INEGOL               ORHANELI        1            215521  222121  ULURES        INEGOL        1         104.80         262.000   250.0
+130        EIH:   220021  220721         BURSADG              GEMLIK          1            220021  221822  BURSADG       DEMIRTAS      1         104.07         260.175   250.0
+131        EIH:   227121  228721         DEVECIKONAGI         ORHANELI        1            224022  311121  KARACABEY     GOBEL         1         102.18         183.924   180.0
+132        EIH:   227121  311121         DEVECIKONAGI         GOBEL           1            224022  311121  KARACABEY     GOBEL         1         102.16         183.888   180.0
+133        EIH:   220011  220110         BURSADG              BURSASANAYI     1            224022  311121  KARACABEY     GOBEL         1         102.11         183.798   180.0
+134        EIH:   214210  227211         KOCAELI              ULUDAG          1            224022  311121  KARACABEY     GOBEL         1         102.09         183.762   180.0
+135        EIH:   221321  228721         BESEVLER             ORHANELI        1            224022  311121  KARACABEY     GOBEL         1         102.08         183.744   180.0
+136        EIH:   214421  220821         AKSAYALOVA           ORHANGAZI       1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+137        EIH:   213621  213721         KARAMURSEL           YALOVA          1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+138        EIH:   220021  220621         BURSADG              KARSAK          1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+139        EIH:   220021  220821         BURSADG              ORHANGAZI       2            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+140        EIH:   215821  220621         ASILDEMIRCLK         KARSAK          1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+141        EIH:   220021  220821         BURSADG              ORHANGAZI       1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+142        OTR:   227211  227221       ULUDAG B-OTR-4       ULUDAG B-OTR-4    1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+143        EIH:   210310  227210         ADAPAZARI            ULUDAG          1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+144       BANK:   220010  220022            BURSADG A            BURSADG A    1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+145        OTR:   220011  220022      BURSADG B-OTR-3      BURSADG B-OTR-3    1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+146        EIH:   220010  227211         BURSADG              ULUDAG          1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+147        EIH:   220011  227210         BURSADG              ULUDAG          1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+148        EIH:   221921  292021         KESTEL               KESTELSANAL     1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+149        EIH:   220121  228721         BURSASANAYI          ORHANELI        1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+150        EIH:   213721  220721         YALOVA               GEMLIK          1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+151        EIH:   221421  228722         ORHANELITES          ORHANELI        2            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+152        EIH:   221421  228722         ORHANELITES          ORHANELI        1            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+153        OTR:   227211  227221       ULUDAG A-OTR-1       ULUDAG A-OTR-1    2            224022  311121  KARACABEY     GOBEL         1         102.07         183.726   180.0
+154        EIH:   220022  228221         BURSADG              RBKARESI        1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+155        EIH:   220921  228221         OTOSANSIT            RBKARESI        1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+156        EIH:   220122  221322         BURSASANAYI          BESEVLER        1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+157        OTR:   220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5    1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+158        EIH:   221521  311121         MKEMALPASA           GOBEL           1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+159        EIH:   214421  215121         AKSAYALOVA           ARSLANBEY       1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+160        EIH:   220121  221821         BURSASANAYI          DEMIRTAS        1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+161  Generator:   215561    None         ULURES                       None  None           224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+162        EIH:   220122  221221         BURSASANAYI          BOSEN           1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+163        EIH:   220121  221322         BURSASANAYI          BESEVLER        1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+164        EIH:   220021  220721         BURSADG              GEMLIK          1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+165        EIH:   220022  220922         BURSADG              OTOSANSIT       1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+166        EIH:   220021  221822         BURSADG              DEMIRTAS        1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+167        EIH:   221221  221821         BOSEN                DEMIRTAS        1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+168        EIH:   222121  227222         INEGOL               ULUDAG          1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+169        EIH:   220121  291821         BURSASANAYI          BSANAYISANAL    1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+170        EIH:   213721  214421         YALOVA               AKSAYALOVA      1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+171        EIH:   228621  291821         OSMANGAZI            BSANAYISANAL    1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+172        EIH:   227221  292021         ULUDAG               KESTELSANAL     1            224022  311121  KARACABEY     GOBEL         1         102.06         183.708   180.0
+173  Generator:   220063    None         BURSADG                      None  None           224022  311121  KARACABEY     GOBEL         1         102.05         183.690   180.0
+174  Generator:   220062    None         BURSADG                      None  None           224022  311121  KARACABEY     GOBEL         1         102.05         183.690   180.0
+175        EIH:   215521  228722         ULURES               ORHANELI        1            224022  311121  KARACABEY     GOBEL         1         102.05         183.690   180.0
+176        EIH:   221521  225221         MKEMALPASA           POYRAZRES_SU    1            224022  311121  KARACABEY     GOBEL         1         102.05         183.690   180.0
+177        EIH:   222121  228722         INEGOL               ORHANELI        1            224022  311121  KARACABEY     GOBEL         1         102.05         183.690   180.0
+178  Generator:   220065    None         BURSADG                      None  None           224022  311121  KARACABEY     GOBEL         1         102.04         183.672   180.0
+179       BANK:   220111  220121        BURSASANAYI A        BURSASANAYI A    2            224022  311121  KARACABEY     GOBEL         1         102.04         183.672   180.0
+180  Generator:   220061    None         BURSADG                      None  None           224022  311121  KARACABEY     GOBEL         1         102.04         183.672   180.0
+181        EIH:   220921  221921         OTOSANSIT            KESTEL          1            224022  311121  KARACABEY     GOBEL         1         102.04         183.672   180.0
+182        EIH:   225221  228722         POYRAZRES_SU         ORHANELI        1            224022  311121  KARACABEY     GOBEL         1         102.04         183.672   180.0
+183        EIH:   215521  222121         ULURES               INEGOL          1            224022  311121  KARACABEY     GOBEL         1         102.04         183.672   180.0
+184        EIH:   225421  227222         TURANKOY             ULUDAG          1            224022  311121  KARACABEY     GOBEL         1         102.01         183.618   180.0
+185        EIH:   220111  220210         BURSASANAYI          GURAGAC         1            224022  311121  KARACABEY     GOBEL         1         102.00         183.600   180.0
+186        EIH:   221921  225422         KESTEL               TURANKOY        1            224022  311121  KARACABEY     GOBEL         1         101.99         183.582   180.0
+187        EIH:   220110  310010         BURSASANAYI          KOYLUKOY        1            224022  311121  KARACABEY     GOBEL         1         101.99         183.582   180.0
+188       BANK:   220110  220122        BURSASANAYI B        BURSASANAYI B    1            224022  311121  KARACABEY     GOBEL         1         101.98         183.564   180.0
+189        EIH:   219321  224221         HASANAGA             ULUABATHES      1            224022  311121  KARACABEY     GOBEL         1         101.95         183.510   180.0
+190        EIH:   220010  314911         BURSADG              BANDIRMA1DG     1            224022  311121  KARACABEY     GOBEL         1         101.94         183.492   180.0
+191  Generator:   221461    None         ORHANELITES                  None  None           224022  311121  KARACABEY     GOBEL         1         101.94         183.492   180.0
+192        EIH:   221721  224222         AKCALAR              ULUABATHES      1            224022  311121  KARACABEY     GOBEL         1         101.93         183.474   180.0
+193        EIH:   219321  221622         HASANAGA             GORUKLE         1            224022  311121  KARACABEY     GOBEL         1         101.83         183.294   180.0
+194        EIH:   215521  222121         ULURES               INEGOL          1            222121  228722  INEGOL        ORHANELI      1         101.77         254.425   250.0
+195        EIH:   220021  221822         BURSADG              DEMIRTAS        1            213621  213721  KARAMURSEL    YALOVA        1          97.23         175.014   180.0
+196       BANK:   220110  220122        BURSASANAYI B        BURSASANAYI B    1            220121  221322  BURSASANAYI   BESEVLER      1          95.16         237.900   250.0
+197        EIH:   220021  221822         BURSADG              DEMIRTAS        1            220022  221822  BURSADG       DEMIRTAS      2          91.73         256.844   280.0
+198        EIH:   220011  227210         BURSADG              ULUDAG          1            220010  227211  BURSADG       ULUDAG        1          91.00        1319.500  1450.0
+199        EIH:   220010  227211         BURSADG              ULUDAG          1            220011  227210  BURSADG       ULUDAG        1          90.82        1316.890  1450.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   Kýsýt                                                  Ýzlenen Techizat                        
+    Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0   EIH:   220021  221822  BURSADG       DEMIRTAS      1            220721  GEMLIK        0.772712
+1   EIH:   220021  221822  BURSADG       DEMIRTAS      1            220021  BURSADG       0.779478
+2   EIH:   220021  221822  BURSADG       DEMIRTAS      1            220621  KARSAK        0.782303
+3   EIH:   220021  221822  BURSADG       DEMIRTAS      1            215821  ASILDEMIRCLK  0.782345
+4   EIH:   220021  221822  BURSADG       DEMIRTAS      1            220821  ORHANGAZI     0.786552
+5   EIH:   220021  221822  BURSADG       DEMIRTAS      1            213721  YALOVA        0.796080
+6   EIH:   220021  221822  BURSADG       DEMIRTAS      1            214421  AKSAYALOVA    0.797131
+7   EIH:   220021  221822  BURSADG       DEMIRTAS      1            214422  AKSAYALOVA    0.797131
+8   EIH:   220021  221822  BURSADG       DEMIRTAS      1            216321  CAKILRES      0.811577
+9   EIH:   220021  221822  BURSADG       DEMIRTAS      1            226621  KUREKDAGIRES  0.818963
+10  EIH:   220021  221822  BURSADG       DEMIRTAS      1            226021  YALOVARES     0.820002
+11  EIH:   220021  221822  BURSADG       DEMIRTAS      1            226022  YALOVARES     0.820002
+12  EIH:   220021  221822  BURSADG       DEMIRTAS      1            216221  GOKTEPERES    0.820137
+13  EIH:   220021  221822  BURSADG       DEMIRTAS      1            226821  YARESRES      0.820189
+14  EIH:   221921  225422  KESTEL        TURANKOY      1            228622  OSMANGAZI     0.888735
+15  EIH:   221921  225422  KESTEL        TURANKOY      1            221121  YILDIRIM      0.889367
+16  EIH:   220021  220721  BURSADG       GEMLIK        1            220721  GEMLIK        0.894608
+17  EIH:   225421  227222  TURANKOY      ULUDAG        1            228622  OSMANGAZI     0.899002
+18  EIH:   225421  227222  TURANKOY      ULUDAG        1            221121  YILDIRIM      0.899623
+19  EIH:   221921  225422  KESTEL        TURANKOY      1            225421  TURANKOY      0.907134
+20  EIH:   221921  225422  KESTEL        TURANKOY      1            225422  TURANKOY      0.907134
+21  EIH:   221921  225422  KESTEL        TURANKOY      1            227222  ULUDAG        0.907372
+22  EIH:   225421  227222  TURANKOY      ULUDAG        1            227222  ULUDAG        0.917256
+23  EIH:   220021  220721  BURSADG       GEMLIK        1            213721  YALOVA        0.932142
+24  EIH:   220921  221921  OTOSANSIT     KESTEL        1            228622  OSMANGAZI     0.935407
+25  EIH:   220921  221921  OTOSANSIT     KESTEL        1            221121  YILDIRIM      0.935991
+26  EIH:   221921  225422  KESTEL        TURANKOY      1            222121  INEGOL        0.937368
+27  EIH:   220021  220721  BURSADG       GEMLIK        1            214421  AKSAYALOVA    0.939047
+28  EIH:   220021  220721  BURSADG       GEMLIK        1            214422  AKSAYALOVA    0.939047
+29  EIH:   215521  222121  ULURES        INEGOL        1            228622  OSMANGAZI     0.941675
+30  EIH:   215521  222121  ULURES        INEGOL        1            221121  YILDIRIM      0.942253
+31  EIH:   227221  292021  ULUDAG        KESTELSANAL   1            228622  OSMANGAZI     0.943702
+32  EIH:   227221  292021  ULUDAG        KESTELSANAL   1            221121  YILDIRIM      0.944278
+33  EIH:   225421  227222  TURANKOY      ULUDAG        1            222121  INEGOL        0.944393
+34  EIH:   214421  215121  AKSAYALOVA    ARSLANBEY     1            214422  AKSAYALOVA    0.946403
+35  EIH:   214421  215121  AKSAYALOVA    ARSLANBEY     1            214421  AKSAYALOVA    0.946403
+36  EIH:   214421  215121  AKSAYALOVA    ARSLANBEY     1            213721  YALOVA        0.947924
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

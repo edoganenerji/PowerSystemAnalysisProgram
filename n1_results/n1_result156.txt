@@ -1,0 +1,37 @@
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210010 - 210911, UMRANIYE     - KBAKKALKOY   (1 )
+----------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 211210 - 215210, KARTAL       - MALTEPEIST   (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211521 - 219121, COLAKOGLU    - COLAKOGLU400 (1 )
+Inkitaya giden bara numaralari:
+[214910, 219110, 219121, 290310]
+--------------------------------------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 211562, generator ismi COLAKOGLUOP2
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                  Ýzlenen Techizat                                                                                     
+    Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus         From Name           To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   EIH:   210910  215211  KBAKKALKOY    MALTEPEIST    1            210110  210121  TEPEOREN A-OTR-2  TEPEOREN A-OTR-2  1          96.84        242.1000  250.0
+1   EIH:   210910  215211  KBAKKALKOY    MALTEPEIST    1            210110  210121  TEPEOREN A-OTR-1  TEPEOREN A-OTR-1  2          96.27        240.6750  250.0
+2  BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            210010  210911      UMRANIYE          KBAKKALKOY    1          91.54        903.4998  987.0
+3   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821      DILISKELESIG      MAKINAOSB     1          90.96        227.4000  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

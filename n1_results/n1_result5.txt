@@ -1,0 +1,23 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                  Ýzlenen Techizat                                                                                        
+     Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)   RATEA
+0    EIH:   214210  214810  KOCAELI       MAKINAOSB     1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2         101.00         252.500   250.0
+1   BANK:   210211  210222     PASAKOY B     PASAKOY B  1            211421  211521       KROMANCELIK        COLAKOGLU     1          98.55         246.375   250.0
+2    EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          98.50         246.250   250.0
+3    EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214810  214822  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          98.09         245.225   250.0
+4    EIH:   211221  211622  KARTAL        ICMELER       1            211221  211621       KARTAL             ICMELER       1          96.66         347.976   360.0
+5    EIH:   211221  211621  KARTAL        ICMELER       1            211221  211622       KARTAL             ICMELER       1          96.28         346.608   360.0
+6    EIH:   211321  211621  TUZLA         ICMELER       1            211421  211521       KROMANCELIK        COLAKOGLU     1          94.31         235.775   250.0
+7    EIH:   210310  227210  ADAPAZARI     ULUDAG        1            214210  227211       KOCAELI            ULUDAG        1          93.89        1276.904  1360.0
+8    EIH:   211421  211521  KROMANCELIK   COLAKOGLU     1            211022  211221       BBAKKALKOY         KARTAL        1          93.79         234.475   250.0
+9    EIH:   211022  211221  BBAKKALKOY    KARTAL        1            211421  211521       KROMANCELIK        COLAKOGLU     1          93.14         232.850   250.0
+10   EIH:   210111  214310  TEPEOREN      DILOVASIOSB   1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          92.90         232.250   250.0
+11  BANK:   210111  210122    TEPEOREN B    TEPEOREN B  1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          92.21         230.525   250.0
+12   EIH:   211421  211521  KROMANCELIK   COLAKOGLU     1            211321  211621       TUZLA              ICMELER       1          92.02         230.050   250.0
+13  BANK:   210311  210321   ADAPAZARI B   ADAPAZARI B  1            210311  210321  ADAPAZARI C-OTR-5  ADAPAZARI C-OTR-5  3          91.90         229.750   250.0
+14   EIH:   210111  214211  TEPEOREN      KOCAELI       1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          91.21         228.025   250.0
+15   EIH:   211622  211822  ICMELER       GEBZEOSB      1            211421  211521       KROMANCELIK        COLAKOGLU     1          90.92         227.300   250.0
+16   EIH:   214310  290310  DILOVASIOSB   DCELIKSANAL   1            214210  214221    KOCAELI B-OTR-3    KOCAELI B-OTR-3  2          90.24         225.600   250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

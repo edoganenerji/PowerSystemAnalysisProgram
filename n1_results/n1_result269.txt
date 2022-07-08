@@ -1,0 +1,191 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+          Kýsýt                                                                    Ýzlenen Techizat                                                                                       
+           Type From Bus  To Bus             From Name               To Name    ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0          EIH:   211321  211422          TUZLA                 KROMANCELIK     1            214321  214821       DILISKELESIG       MAKINAOSB     1         148.16         370.400  250.0
+1          EIH:   214321  214821          DILISKELESIG          MAKINAOSB       1            211321  211422       TUZLA              KROMANCELIK   1         138.76         346.900  250.0
+2          EIH:   211221  211622          KARTAL                ICMELER         1            214321  214821       DILISKELESIG       MAKINAOSB     1         134.63         336.575  250.0
+3          EIH:   211321  211822          TUZLA                 GEBZEOSB        1            214321  214821       DILISKELESIG       MAKINAOSB     1         123.37         308.425  250.0
+4          EIH:   214822  217221          MAKINAOSB             SIDDIK          1            214321  214821       DILISKELESIG       MAKINAOSB     1         122.58         306.450  250.0
+5          EIH:   211222  211621          KARTAL                ICMELER         1            210122  211822       TEPEOREN           GEBZEOSB      1         121.67         304.175  250.0
+6          EIH:   211221  211622          KARTAL                ICMELER         1            211321  211422       TUZLA              KROMANCELIK   1         121.44         303.600  250.0
+7          EIH:   211622  214322          ICMELER               DILISKELESIG    1            214321  214821       DILISKELESIG       MAKINAOSB     1         120.21         300.525  250.0
+8          OTR:   214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1    1            210122  211822       TEPEOREN           GEBZEOSB      1         116.90         292.250  250.0
+9          EIH:   211321  211621          TUZLA                 ICMELER         1            210122  211822       TEPEOREN           GEBZEOSB      1         114.85         287.125  250.0
+10         EIH:   214822  217221          MAKINAOSB             SIDDIK          1            211321  211422       TUZLA              KROMANCELIK   1         114.51         286.275  250.0
+11         EIH:   211421  211521          KROMANCELIK           COLAKOGLU       1            214321  214821       DILISKELESIG       MAKINAOSB     1         112.01         280.025  250.0
+12         EIH:   210122  211822          TEPEOREN              GEBZEOSB        1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         111.44         278.600  250.0
+13         EIH:   211622  214322          ICMELER               DILISKELESIG    1            211321  211422       TUZLA              KROMANCELIK   1         111.24         278.100  250.0
+14         EIH:   211221  211622          KARTAL                ICMELER         1            210122  211822       TEPEOREN           GEBZEOSB      1         111.23         278.075  250.0
+15         EIH:   211221  211622          KARTAL                ICMELER         1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         110.17         275.425  250.0
+16         EIH:   211522  217221          COLAKOGLU             SIDDIK          1            214321  214821       DILISKELESIG       MAKINAOSB     1         106.46         266.150  250.0
+17         OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            214321  214821       DILISKELESIG       MAKINAOSB     1         106.13         265.325  250.0
+18   Generator:   211562    None          COLAKOGLUOP2                  None  None           214321  214821       DILISKELESIG       MAKINAOSB     1         106.03         265.075  250.0
+19         EIH:   214822  217221          MAKINAOSB             SIDDIK          1            210122  211822       TEPEOREN           GEBZEOSB      1         105.40         263.500  250.0
+20        BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            214321  214821       DILISKELESIG       MAKINAOSB     1         103.94         259.850  250.0
+21         EIH:   211622  214322          ICMELER               DILISKELESIG    1            210122  211822       TEPEOREN           GEBZEOSB      1         103.07         257.675  250.0
+22         EIH:   214822  217221          MAKINAOSB             SIDDIK          1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         102.89         257.225  250.0
+23   Generator:   211562    None          COLAKOGLUOP2                  None  None           211321  211422       TUZLA              KROMANCELIK   1         102.37         255.925  250.0
+24         OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            211321  211422       TUZLA              KROMANCELIK   1         102.34         255.850  250.0
+25         EIH:   211522  217221          COLAKOGLU             SIDDIK          1            211321  211422       TUZLA              KROMANCELIK   1         102.33         255.825  250.0
+26         EIH:   214821  216721          MAKINAOSB             GEBZEKIMYA      1            214321  214821       DILISKELESIG       MAKINAOSB     1         101.62         254.050  250.0
+27         EIH:   211622  214322          ICMELER               DILISKELESIG    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         101.57         253.925  250.0
+28        BANK:   210211  210222             PASAKOY B             PASAKOY B    1            210122  211822       TEPEOREN           GEBZEOSB      1         101.56         253.900  250.0
+29         EIH:   211222  211621          KARTAL                ICMELER         1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         100.95         252.375  250.0
+30         OTR:   214810  214821     MAKINAOSB A-OTR-1     MAKINAOSB A-OTR-1    1            211321  211422       TUZLA              KROMANCELIK   1         100.31         250.775  250.0
+31         EIH:   210121  211921          TEPEOREN              KURTKOY         1            214321  214821       DILISKELESIG       MAKINAOSB     1          99.53         248.825  250.0
+32        BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            211321  211422       TUZLA              KROMANCELIK   1          99.51         248.775  250.0
+33         OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            214321  214821       DILISKELESIG       MAKINAOSB     1          99.27         248.175  250.0
+34         EIH:   211822  216721          GEBZEOSB              GEBZEKIMYA      1            214321  214821       DILISKELESIG       MAKINAOSB     1          99.15         247.875  250.0
+35         EIH:   211321  211621          TUZLA                 ICMELER         1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          98.00         245.000  250.0
+36         OTR:   211211  211221        KARTAL B-OTR-4        KARTAL B-OTR-4    1            214321  214821       DILISKELESIG       MAKINAOSB     1          97.63         244.075  250.0
+37        BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          97.49         243.725  250.0
+38         EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            214321  214821       DILISKELESIG       MAKINAOSB     1          97.49         243.725  250.0
+39         EIH:   212321  214822          IZMIT                 MAKINAOSB       1            214321  214821       DILISKELESIG       MAKINAOSB     1          97.25         243.125  250.0
+40         EIH:   211222  211621          KARTAL                ICMELER         1            214321  214821       DILISKELESIG       MAKINAOSB     1          96.88         242.200  250.0
+41         OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            211321  211422       TUZLA              KROMANCELIK   1          96.76         241.900  250.0
+42         EIH:   210121  211921          TEPEOREN              KURTKOY         1            211321  211422       TUZLA              KROMANCELIK   1          96.63         241.575  250.0
+43         EIH:   210910  215211          KBAKKALKOY            MALTEPEIST      1            214321  214821       DILISKELESIG       MAKINAOSB     1          96.47         241.175  250.0
+44         EIH:   211211  214711          KARTAL                YENIDGKC        1            214321  214821       DILISKELESIG       MAKINAOSB     1          96.34         240.850  250.0
+45         EIH:   211321  211621          TUZLA                 ICMELER         1            214321  214821       DILISKELESIG       MAKINAOSB     1          96.25         240.625  250.0
+46         OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          96.15         240.375  250.0
+47         EIH:   210010  216910          UMRANIYE              KAVACIK         1            214321  214821       DILISKELESIG       MAKINAOSB     1          95.87         239.675  250.0
+48         EIH:   212321  214822          IZMIT                 MAKINAOSB       1            211321  211422       TUZLA              KROMANCELIK   1          95.81         239.525  250.0
+49         EIH:   211522  217221          COLAKOGLU             SIDDIK          1            210122  211822       TEPEOREN           GEBZEOSB      1          95.69         239.225  250.0
+50         OTR:   211211  211221        KARTAL B-OTR-4        KARTAL B-OTR-4    1            211321  211422       TUZLA              KROMANCELIK   1          95.58         238.950  250.0
+51        BANK:   210211  210222             PASAKOY B             PASAKOY B    1            214321  214821       DILISKELESIG       MAKINAOSB     1          95.37         238.425  250.0
+52         EIH:   211210  215210          KARTAL                MALTEPEIST      1            214321  214821       DILISKELESIG       MAKINAOSB     1          95.32         238.300  250.0
+53   Generator:   211562    None          COLAKOGLUOP2                  None  None           210122  211822       TEPEOREN           GEBZEOSB      1          95.31         238.275  250.0
+54         EIH:   210510  216911          ADA2DGKC              KAVACIK         1            214321  214821       DILISKELESIG       MAKINAOSB     1          95.09         237.725  250.0
+55         EIH:   210111  210211          TEPEOREN              PASAKOY         1            211321  211422       TUZLA              KROMANCELIK   1          95.09         237.725  250.0
+56         EIH:   210111  210311          TEPEOREN              ADAPAZARI       1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.96         237.400  250.0
+57         EIH:   211521  219121          COLAKOGLU             COLAKOGLU400    1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.88         237.200  250.0
+58         OTR:   214811  214822     MAKINAOSB B-OTR-3     MAKINAOSB B-OTR-3    1            210122  211822       TEPEOREN           GEBZEOSB      1          94.83         237.075  250.0
+59         EIH:   210211  231111          PASAKOY               OSMANCA         1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.77         236.925  250.0
+60        BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            210122  211822       TEPEOREN           GEBZEOSB      1          94.67         236.675  250.0
+61         EIH:   210210  210410          PASAKOY               ADA1DGKC        1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.62         236.550  250.0
+62         EIH:   211321  211422          TUZLA                 KROMANCELIK     1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.60         236.500  250.0
+63         EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            211321  211422       TUZLA              KROMANCELIK   1          94.53         236.325  250.0
+64         EIH:   210111  217711          TEPEOREN              ATASEHIR        1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.53         236.325  250.0
+65         EIH:   210010  210110          UMRANIYE              TEPEOREN        1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.52         236.300  250.0
+66         EIH:   210010  210911          UMRANIYE              KBAKKALKOY      1            210122  211822       TEPEOREN           GEBZEOSB      1          94.50         236.250  250.0
+67         EIH:   210110  214211          TEPEOREN              KOCAELI         1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.48         236.200  250.0
+68         EIH:   211521  214321          COLAKOGLU             DILISKELESIG    1            211321  211422       TUZLA              KROMANCELIK   1          94.45         236.125  250.0
+69         EIH:   211522  214322          COLAKOGLU             DILISKELESIG    1            211321  211422       TUZLA              KROMANCELIK   1          94.45         236.125  250.0
+70         EIH:   210010  217710          UMRANIYE              ATASEHIR        1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.44         236.100  250.0
+71         EIH:   210111  210211          TEPEOREN              PASAKOY         1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.44         236.100  250.0
+72         EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.42         236.050  250.0
+73         OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.35         235.875  250.0
+74         EIH:   210910  215211          KBAKKALKOY            MALTEPEIST      1            211321  211422       TUZLA              KROMANCELIK   1          94.29         235.725  250.0
+75         EIH:   214821  216721          MAKINAOSB             GEBZEKIMYA      1            210122  211822       TEPEOREN           GEBZEOSB      1          94.28         235.700  250.0
+76         OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.26         235.650  250.0
+77         OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            214321  214821       DILISKELESIG       MAKINAOSB     1          94.26         235.650  250.0
+78         EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.24         235.600  250.0
+79         EIH:   211022  211222          BBAKKALKOY            KARTAL          1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.23         235.575  250.0
+80        BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.19         235.475  250.0
+81         EIH:   210222  211022          PASAKOY               BBAKKALKOY      1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.18         235.450  250.0
+82         EIH:   210222  211022          PASAKOY               BBAKKALKOY      2            214321  214821       DILISKELESIG       MAKINAOSB     1          94.18         235.450  250.0
+83         EIH:   211121  211222          SOGANLIK              KARTAL          1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.13         235.325  250.0
+84         EIH:   210022  210721          UMRANIYE              SELIMIYE        1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.12         235.300  250.0
+85         EIH:   210922  216622          KBAKKALKOY            KADIKOY         1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.12         235.300  250.0
+86         EIH:   210022  210922          UMRANIYE              KBAKKALKOY      1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.11         235.275  250.0
+87         EIH:   210821  210922          GOZTEPE               KBAKKALKOY      1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.11         235.275  250.0
+88         EIH:   210121  211821          TEPEOREN              GEBZEOSB        2            214321  214821       DILISKELESIG       MAKINAOSB     1          94.09         235.225  250.0
+89         EIH:   210121  211821          TEPEOREN              GEBZEOSB        1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.09         235.225  250.0
+90         OTR:   210910  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2    1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.08         235.200  250.0
+91         OTR:   210911  210922    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4    1            214321  214821       DILISKELESIG       MAKINAOSB     1          94.08         235.200  250.0
+92   Generator:   211562    None          COLAKOGLUOP2                  None  None           214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.04         235.100  250.0
+93         EIH:   214210  214810          KOCAELI               MAKINAOSB       1            211321  211422       TUZLA              KROMANCELIK   1          94.03         235.075  250.0
+94         EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            211321  211422       TUZLA              KROMANCELIK   1          94.00         235.000  250.0
+95         EIH:   210010  216910          UMRANIYE              KAVACIK         1            211321  211422       TUZLA              KROMANCELIK   1          93.95         234.875  250.0
+96         EIH:   210021  217621          UMRANIYE              DUDULLUMETRO    1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.91         234.775  250.0
+97         OTR:   214310  214322    DILISKELESIG OTR-1    DILISKELESIG OTR-1    1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.79         234.475  250.0
+98         EIH:   210221  212021          PASAKOY               DUDULLU         1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.75         234.375  250.0
+99         EIH:   210122  212122          TEPEOREN              YARIMCA1        1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.71         234.275  250.0
+100        EIH:   211210  215210          KARTAL                MALTEPEIST      1            211321  211422       TUZLA              KROMANCELIK   1          93.67         234.175  250.0
+101        EIH:   210321  214821          ADAPAZARI             MAKINAOSB       1            210122  211822       TEPEOREN           GEBZEOSB      1          93.66         234.150  250.0
+102        EIH:   211522  217221          COLAKOGLU             SIDDIK          1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          93.65         234.125  250.0
+103       BANK:   210010  210021           UMRANIYE B-           UMRANIYE B-    1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.58         233.950  250.0
+104       BANK:   210210  210221             PASAKOY A             PASAKOY A    1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.56         233.900  250.0
+105        OTR:   211210  211222        KARTAL A-OTR-2        KARTAL A-OTR-2    1            210122  211822       TEPEOREN           GEBZEOSB      1          93.53         233.825  250.0
+106        OTR:   214310  214322    DILISKELESIG OTR-1    DILISKELESIG OTR-1    1            211321  211422       TUZLA              KROMANCELIK   1          93.39         233.475  250.0
+107        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.22         233.050  250.0
+108        EIH:   210510  216911          ADA2DGKC              KAVACIK         1            211321  211422       TUZLA              KROMANCELIK   1          93.14         232.850  250.0
+109       BANK:   210010  210022           UMRANIYE A-           UMRANIYE A-    1            211321  211422       TUZLA              KROMANCELIK   1          93.09         232.725  250.0
+110        EIH:   210010  217710          UMRANIYE              ATASEHIR        1            211321  211422       TUZLA              KROMANCELIK   1          93.07         232.675  250.0
+111        EIH:   210922  216622          KBAKKALKOY            KADIKOY         1            211321  211422       TUZLA              KROMANCELIK   1          93.07         232.675  250.0
+112        EIH:   210022  210922          UMRANIYE              KBAKKALKOY      1            211321  211422       TUZLA              KROMANCELIK   1          93.06         232.650  250.0
+113        EIH:   210821  210922          GOZTEPE               KBAKKALKOY      1            211321  211422       TUZLA              KROMANCELIK   1          93.06         232.650  250.0
+114        EIH:   210022  210721          UMRANIYE              SELIMIYE        1            211321  211422       TUZLA              KROMANCELIK   1          93.06         232.650  250.0
+115        EIH:   210010  210110          UMRANIYE              TEPEOREN        1            211321  211422       TUZLA              KROMANCELIK   1          93.06         232.650  250.0
+116        OTR:   210911  210922    KBAKKALKOY B-OTR-4    KBAKKALKOY B-OTR-4    1            211321  211422       TUZLA              KROMANCELIK   1          93.04         232.600  250.0
+117        OTR:   210910  210921    KBAKKALKOY A-OTR-2    KBAKKALKOY A-OTR-2    1            211321  211422       TUZLA              KROMANCELIK   1          93.04         232.600  250.0
+118        EIH:   210121  211821          TEPEOREN              GEBZEOSB        2            211321  211422       TUZLA              KROMANCELIK   1          93.04         232.600  250.0
+119        EIH:   210111  217711          TEPEOREN              ATASEHIR        1            211321  211422       TUZLA              KROMANCELIK   1          93.04         232.600  250.0
+120        EIH:   210121  211821          TEPEOREN              GEBZEOSB        1            211321  211422       TUZLA              KROMANCELIK   1          93.04         232.600  250.0
+121        EIH:   210111  210311          TEPEOREN              ADAPAZARI       1            211321  211422       TUZLA              KROMANCELIK   1          92.93         232.325  250.0
+122        OTR:   219110  219121  COLAKOGLU400 A-OTR-2  COLAKOGLU400 A-OTR-2    2            211321  211422       TUZLA              KROMANCELIK   1          92.92         232.300  250.0
+123        OTR:   219110  219121  COLAKOGLU400 A-OTR-1  COLAKOGLU400 A-OTR-1    1            211321  211422       TUZLA              KROMANCELIK   1          92.92         232.300  250.0
+124        EIH:   211211  214711          KARTAL                YENIDGKC        1            211321  211422       TUZLA              KROMANCELIK   1          92.87         232.175  250.0
+125        EIH:   211121  211222          SOGANLIK              KARTAL          1            211321  211422       TUZLA              KROMANCELIK   1          92.69         231.725  250.0
+126        EIH:   210110  214211          TEPEOREN              KOCAELI         1            211321  211422       TUZLA              KROMANCELIK   1          92.67         231.675  250.0
+127        EIH:   211522  214322          COLAKOGLU             DILISKELESIG    1            214321  214821       DILISKELESIG       MAKINAOSB     1          92.66         231.650  250.0
+128        EIH:   211521  214321          COLAKOGLU             DILISKELESIG    1            214321  214821       DILISKELESIG       MAKINAOSB     1          92.66         231.650  250.0
+129        EIH:   211521  219121          COLAKOGLU             COLAKOGLU400    1            211321  211422       TUZLA              KROMANCELIK   1          92.57         231.425  250.0
+130        EIH:   210021  217621          UMRANIYE              DUDULLUMETRO    1            211321  211422       TUZLA              KROMANCELIK   1          92.48         231.200  250.0
+131        EIH:   210222  211022          PASAKOY               BBAKKALKOY      1            211321  211422       TUZLA              KROMANCELIK   1          92.42         231.050  250.0
+132        EIH:   210222  211022          PASAKOY               BBAKKALKOY      2            211321  211422       TUZLA              KROMANCELIK   1          92.42         231.050  250.0
+133        EIH:   210211  231111          PASAKOY               OSMANCA         1            211321  211422       TUZLA              KROMANCELIK   1          92.36         230.900  250.0
+134       BANK:   210110  210121            TEPEOREN A            TEPEOREN A    2            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          92.35         230.875  250.0
+135        EIH:   210122  212122          TEPEOREN              YARIMCA1        1            211321  211422       TUZLA              KROMANCELIK   1          92.31         230.775  250.0
+136        EIH:   210210  210410          PASAKOY               ADA1DGKC        1            211321  211422       TUZLA              KROMANCELIK   1          92.25         230.625  250.0
+137        EIH:   211822  216721          GEBZEOSB              GEBZEKIMYA      1            210122  211822       TEPEOREN           GEBZEOSB      1          92.14         230.350  250.0
+138        EIH:   211022  211222          BBAKKALKOY            KARTAL          1            211321  211422       TUZLA              KROMANCELIK   1          92.12         230.300  250.0
+139        EIH:   211022  211122          BBAKKALKOY            SOGANLIK        1            211321  211422       TUZLA              KROMANCELIK   1          92.12         230.300  250.0
+140       BANK:   210111  210122            TEPEOREN B            TEPEOREN B    1            214321  214821       DILISKELESIG       MAKINAOSB     1          92.05         230.125  250.0
+141        EIH:   210910  215211          KBAKKALKOY            MALTEPEIST      1            210122  211822       TEPEOREN           GEBZEOSB      1          91.95         229.875  250.0
+142        EIH:   210121  211921          TEPEOREN              KURTKOY         1            210122  211822       TEPEOREN           GEBZEOSB      1          91.77         229.425  250.0
+143       BANK:   210211  210222             PASAKOY B             PASAKOY B    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          91.66         229.150  250.0
+144        EIH:   210221  212021          PASAKOY               DUDULLU         1            211321  211422       TUZLA              KROMANCELIK   1          91.65         229.125  250.0
+145       BANK:   210010  210021           UMRANIYE B-           UMRANIYE B-    1            211321  211422       TUZLA              KROMANCELIK   1          91.58         228.950  250.0
+146        EIH:   212321  214822          IZMIT                 MAKINAOSB       1            210122  211822       TEPEOREN           GEBZEOSB      1          91.38         228.450  250.0
+147       BANK:   210210  210221             PASAKOY A             PASAKOY A    1            211321  211422       TUZLA              KROMANCELIK   1          90.97         227.425  250.0
+148        OTR:   211210  211221        KARTAL C-OTR-6        KARTAL C-OTR-6    1            210122  211822       TEPEOREN           GEBZEOSB      1          90.94         227.350  250.0
+149        EIH:   214822  216722          MAKINAOSB             GEBZEKIMYA      1            211321  211422       TUZLA              KROMANCELIK   1          90.93         227.325  250.0
+150        EIH:   212621  216722          HEREKE                GEBZEKIMYA      1            211321  211422       TUZLA              KROMANCELIK   1          90.92         227.300  250.0
+151        EIH:   214210  214810          KOCAELI               MAKINAOSB       1            210122  211822       TEPEOREN           GEBZEOSB      1          90.89         227.225  250.0
+152        EIH:   214321  214821          DILISKELESIG          MAKINAOSB       1            214822  217221       MAKINAOSB          SIDDIK        1          90.60         226.500  250.0
+153        EIH:   211221  211622          KARTAL                ICMELER         1            214822  217221       MAKINAOSB          SIDDIK        1          90.23         225.575  250.0
+154        EIH:   211210  215210          KARTAL                MALTEPEIST      1            210122  211822       TEPEOREN           GEBZEOSB      1          90.22         225.550  250.0
+155        EIH:   214822  216722          MAKINAOSB             GEBZEKIMYA      1            214321  214821       DILISKELESIG       MAKINAOSB     1          90.09         225.225  250.0
+156        EIH:   212621  216722          HEREKE                GEBZEKIMYA      1            214321  214821       DILISKELESIG       MAKINAOSB     1          90.08         225.200  250.0
+157        OTR:   211211  211221        KARTAL B-OTR-4        KARTAL B-OTR-4    1            210122  211822       TEPEOREN           GEBZEOSB      1          90.08         225.200  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   Kýsýt                                                            Ýzlenen Techizat                        
+    Type From Bus  To Bus          From Name            To Name  ID       Bus Number      Bus Name   Voltage
+0   EIH:   214822  216722       MAKINAOSB          GEBZEKIMYA    1            216722  GEBZEKIMYA    0.938785
+1   EIH:   211221  211622       KARTAL             ICMELER       1            211622  ICMELER       0.941026
+2   EIH:   211221  211622       KARTAL             ICMELER       1            214910  DILERCELIK    0.941971
+3   EIH:   211221  211622       KARTAL             ICMELER       1            219110  COLAKOGLU400  0.941983
+4   EIH:   211221  211622       KARTAL             ICMELER       1            214311  DILISKELESIG  0.941993
+5   EIH:   211221  211622       KARTAL             ICMELER       1            214310  DILISKELESIG  0.941993
+6   EIH:   214321  214821       DILISKELESIG       MAKINAOSB     1            214910  DILERCELIK    0.946319
+7   EIH:   214321  214821       DILISKELESIG       MAKINAOSB     1            219110  COLAKOGLU400  0.946330
+8   EIH:   214321  214821       DILISKELESIG       MAKINAOSB     1            214311  DILISKELESIG  0.946341
+9   EIH:   214321  214821       DILISKELESIG       MAKINAOSB     1            214310  DILISKELESIG  0.946341
+10  EIH:   211321  211422       TUZLA              KROMANCELIK   1            214910  DILERCELIK    0.947633
+11  EIH:   211321  211422       TUZLA              KROMANCELIK   1            219110  COLAKOGLU400  0.947644
+12  EIH:   211321  211422       TUZLA              KROMANCELIK   1            214311  DILISKELESIG  0.947658
+13  EIH:   211321  211422       TUZLA              KROMANCELIK   1            214310  DILISKELESIG  0.947658
+14  OTR:   214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1            214910  DILERCELIK    0.949675
+15  OTR:   214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1            219110  COLAKOGLU400  0.949687
+16  OTR:   214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1            214311  DILISKELESIG  0.949698
+17  OTR:   214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1            214310  DILISKELESIG  0.949698
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      210122  TEPEOREN           28035.81        25482.1
+---------------------------------------------------------------

@@ -1,0 +1,21 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                      Ýzlenen Techizat                                                                                           
+    Type From Bus  To Bus       From Name         To Name  ID         From Bus  To Bus            From Name              To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   220010  220021       BURSADG A       BURSADG A  1            220011  220024      BURSADG B-OTR-3      BURSADG B-OTR-3  1         121.67         304.175  250.0
+1  BANK:   220111  220121   BURSASANAYI A   BURSASANAYI A  2            220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5  1         100.34         250.850  250.0
+2  BANK:   220111  220121   BURSASANAYI A   BURSASANAYI A  2            220110  220122  BURSASANAYI B-OTR-4  BURSASANAYI B-OTR-4  2          94.70         236.750  250.0
+3  BANK:   220111  220121   BURSASANAYI A   BURSASANAYI A  2            220110  220122  BURSASANAYI B-OTR-3  BURSASANAYI B-OTR-3  1          92.36         230.900  250.0
+4  BANK:   220110  220122   BURSASANAYI B   BURSASANAYI B  1            220111  220121  BURSASANAYI A-OTR-1  BURSASANAYI A-OTR-1  2          92.01         230.025  250.0
+5   OTR:   227211  227221  ULUDAG A-OTR-1  ULUDAG A-OTR-1  1            227211  227221       ULUDAG B-OTR-4       ULUDAG B-OTR-4  2          91.17         227.925  250.0
+6   OTR:   227211  227221  ULUDAG B-OTR-4  ULUDAG B-OTR-4  2            227211  227221       ULUDAG A-OTR-1       ULUDAG A-OTR-1  1          90.85         227.125  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   Kýsýt                                                  Ýzlenen Techizat                        
+    Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  BANK:   220010  220021     BURSADG A     BURSADG A  1            221822  DEMIRTAS      0.932691
+1  BANK:   220010  220021     BURSADG A     BURSADG A  1            220721  GEMLIK        0.936760
+2  BANK:   220010  220021     BURSADG A     BURSADG A  1            220022  BURSADG       0.937819
+3  BANK:   220010  220021     BURSADG A     BURSADG A  1            220021  BURSADG       0.937819
+4   EIH:   220022  220721  BURSADG       GEMLIK        1            220721  GEMLIK        0.948376
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

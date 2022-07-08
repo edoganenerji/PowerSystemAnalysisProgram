@@ -1,0 +1,38 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+         Kýsýt                                                      Ýzlenen Techizat                                                                                           
+          Type From Bus  To Bus      From Name        To Name    ID         From Bus  To Bus            From Name              To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0         EIH:   228621  291821   OSMANGAZI      BSANAYISANAL    1            220121  221322         BURSASANAYI          BESEVLER      1         133.10         332.750  250.0
+1         EIH:   220121  291821   BURSASANAYI    BSANAYISANAL    1            220121  221322         BURSASANAYI          BESEVLER      1         133.07         332.675  250.0
+2         EIH:   221321  228722   BESEVLER       ORHANELI        1            220121  221322         BURSASANAYI          BESEVLER      1         128.49         321.225  250.0
+3        BANK:   220111  220121  BURSASANAYI A  BURSASANAYI A    2            220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5  1         126.03         315.075  250.0
+4         EIH:   228621  291821   OSMANGAZI      BSANAYISANAL    1            220122  221322         BURSASANAYI          BESEVLER      1         120.64         301.600  250.0
+5         EIH:   220121  291821   BURSASANAYI    BSANAYISANAL    1            220122  221322         BURSASANAYI          BESEVLER      1         120.60         301.500  250.0
+6         EIH:   220121  221821   BURSASANAYI    DEMIRTAS        1            220121  221322         BURSASANAYI          BESEVLER      1         120.17         300.425  250.0
+7         EIH:   220122  221621   BURSASANAYI    GORUKLE         1            220121  221322         BURSASANAYI          BESEVLER      1         117.57         293.925  250.0
+8         EIH:   219321  221621   HASANAGA       GORUKLE         1            220121  221322         BURSASANAYI          BESEVLER      1         117.53         293.825  250.0
+9         EIH:   219321  224221   HASANAGA       ULUABATHES      1            220121  221322         BURSASANAYI          BESEVLER      1         113.44         283.600  250.0
+10  Generator:   221461    None   ORHANELITES            None  None           220121  221322         BURSASANAYI          BESEVLER      1         110.29         275.725  250.0
+11        EIH:   220122  221621   BURSASANAYI    GORUKLE         1            220122  221322         BURSASANAYI          BESEVLER      1         108.17         270.425  250.0
+12        EIH:   219321  221621   HASANAGA       GORUKLE         1            220122  221322         BURSASANAYI          BESEVLER      1         108.11         270.275  250.0
+13        EIH:   220121  221821   BURSASANAYI    DEMIRTAS        1            220122  221322         BURSASANAYI          BESEVLER      1         107.43         268.575  250.0
+14        EIH:   219321  224221   HASANAGA       ULUABATHES      1            220122  221322         BURSASANAYI          BESEVLER      1         103.46         258.650  250.0
+15        EIH:   220011  220110   BURSADG        BURSASANAYI     1            220121  221322         BURSASANAYI          BESEVLER      1         102.23         255.575  250.0
+16        EIH:   221221  221821   BOSEN          DEMIRTAS        1            220121  221322         BURSASANAYI          BESEVLER      1         101.87         254.675  250.0
+17        EIH:   227121  228722   DEVECIKONAGI   ORHANELI        1            220121  221322         BURSASANAYI          BESEVLER      1          99.93         249.825  250.0
+18        EIH:   227121  311121   DEVECIKONAGI   GOBEL           1            220121  221322         BURSASANAYI          BESEVLER      1          99.90         249.750  250.0
+19        EIH:   221121  228621   YILDIRIM       OSMANGAZI       1            220121  221322         BURSASANAYI          BESEVLER      1          98.78         246.950  250.0
+20        EIH:   214421  220821   AKSAYALOVA     ORHANGAZI       1            213721  220721         YALOVA               GEMLIK        1          94.34         169.812  180.0
+21        EIH:   221721  224222   AKCALAR        ULUABATHES      1            220121  221322         BURSASANAYI          BESEVLER      1          93.11         232.775  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   220021  220721  BURSADG       GEMLIK        1            220721  GEMLIK        0.917522
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      220022  BURSADG            23974.71       28191.79
+---------------------------------------------------------------

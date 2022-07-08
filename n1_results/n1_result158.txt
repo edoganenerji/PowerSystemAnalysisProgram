@@ -1,0 +1,63 @@
+
+ Messages for api FDNS
+ 13 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210221 - 212021, PASAKOY      - DUDULLU      (1 )
+Inkitaya giden bara numaralari:
+[210221, 210223, 217521, 217522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 6 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211521 - 219121, COLAKOGLU    - COLAKOGLU400 (1 )
+Inkitaya giden bara numaralari:
+[214910, 219110, 219121, 290310]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+         Kýsýt                                                              Ýzlenen Techizat                                                                                       
+          Type From Bus  To Bus          From Name            To Name    ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0         EIH:   211521  214321       COLAKOGLU          DILISKELESIG    1            211321  211422       TUZLA              KROMANCELIK   1         114.97         287.425  250.0
+1         EIH:   214321  214821       DILISKELESIG       MAKINAOSB       1            211321  211422       TUZLA              KROMANCELIK   1         114.96         287.400  250.0
+2         EIH:   211321  211422       TUZLA              KROMANCELIK     1            214321  214821       DILISKELESIG       MAKINAOSB     1         113.44         283.600  250.0
+3         EIH:   210122  211822       TEPEOREN           GEBZEOSB        1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         108.86         272.150  250.0
+4         EIH:   214822  217221       MAKINAOSB          SIDDIK          1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         108.59         271.475  250.0
+5         EIH:   211321  211822       TUZLA              GEBZEOSB        1            214321  214821       DILISKELESIG       MAKINAOSB     1         107.16         267.900  250.0
+6         EIH:   214822  217221       MAKINAOSB          SIDDIK          1            211321  211422       TUZLA              KROMANCELIK   1         104.67         261.675  250.0
+7        BANK:   210111  210122         TEPEOREN B         TEPEOREN B    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         104.62         261.550  250.0
+8         EIH:   214822  217221       MAKINAOSB          SIDDIK          1            214321  214821       DILISKELESIG       MAKINAOSB     1         103.76         259.400  250.0
+9         OTR:   214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1    1            210122  211822       TEPEOREN           GEBZEOSB      1         102.38         255.950  250.0
+10        EIH:   211622  214322       ICMELER            DILISKELESIG    1            211321  211422       TUZLA              KROMANCELIK   1         102.29         255.725  250.0
+11        EIH:   211622  214322       ICMELER            DILISKELESIG    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          99.13         247.825  250.0
+12        EIH:   211522  217221       COLAKOGLU          SIDDIK          1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          98.23         245.575  250.0
+13        EIH:   211222  211621       KARTAL             ICMELER         1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          96.67         241.675  250.0
+14        EIH:   211321  211621       TUZLA              ICMELER         1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          95.99         239.975  250.0
+15       BANK:   210010  210021        UMRANIYE B-        UMRANIYE B-    2            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          95.44         238.600  250.0
+16        OTR:   214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1    1            214822  217221       MAKINAOSB          SIDDIK        1          95.38         238.450  250.0
+17        EIH:   211622  214322       ICMELER            DILISKELESIG    1            214321  214821       DILISKELESIG       MAKINAOSB     1          95.02         237.550  250.0
+18        EIH:   214321  214821       DILISKELESIG       MAKINAOSB       1            214822  217221       MAKINAOSB          SIDDIK        1          94.96         237.400  250.0
+19        EIH:   211521  214321       COLAKOGLU          DILISKELESIG    1            214822  217221       MAKINAOSB          SIDDIK        1          94.95         237.375  250.0
+20        EIH:   211221  211622       KARTAL             ICMELER         1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.90         237.250  250.0
+21       BANK:   210110  210121         TEPEOREN A         TEPEOREN A    2            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          94.10         235.250  250.0
+22        EIH:   211321  211422       TUZLA              KROMANCELIK     1            214822  217221       MAKINAOSB          SIDDIK        1          93.73         234.325  250.0
+23        EIH:   211321  211422       TUZLA              KROMANCELIK     1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          93.65         234.125  250.0
+24  Generator:   211562    None       COLAKOGLUOP2               None  None           214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          93.24         233.100  250.0
+25       BANK:   210211  210222          PASAKOY B          PASAKOY B    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          93.23         233.075  250.0
+26        EIH:   211522  217221       COLAKOGLU          SIDDIK          1            211321  211422       TUZLA              KROMANCELIK   1          92.87         232.175  250.0
+27        OTR:   214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          92.84         232.100  250.0
+28        EIH:   210021  217621       UMRANIYE           DUDULLUMETRO    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          92.50         231.250  250.0
+29        EIH:   211321  211822       TUZLA              GEBZEOSB        1            211321  211621       TUZLA              ICMELER       1          91.30         228.250  250.0
+30        EIH:   212021  217621       DUDULLU            DUDULLUMETRO    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          91.04         227.600  250.0
+31        EIH:   211622  214322       ICMELER            DILISKELESIG    1            214822  217221       MAKINAOSB          SIDDIK        1          90.66         226.650  250.0
+32        EIH:   211211  214711       KARTAL             YENIDGKC        1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          90.65         226.625  250.0
+33        EIH:   214822  217221       MAKINAOSB          SIDDIK          1            210122  211822       TEPEOREN           GEBZEOSB      1          90.22         225.550  250.0
+34        OTR:   211210  211221     KARTAL C-OTR-6     KARTAL C-OTR-6    1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1          90.11         225.275  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

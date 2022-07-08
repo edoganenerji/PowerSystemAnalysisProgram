@@ -1,0 +1,69 @@
+
+ Messages for api FDNS
+ 11 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212622, 212721, 212722, 213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 2 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 213021, HEREKE       - YARIMCA2     (1 )
+Inkitaya giden bara numaralari:
+[213021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 212721, HEREKE       - NUHCIMENTO   (1 )
+Inkitaya giden bara numaralari:
+[212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 2 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210921 - 211021, KBAKKALKOY   - BBAKKALKOY   (1 )
+Inkitaya giden bara numaralari:
+[211021]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                    Ýzlenen Techizat                                                                                           
+     Type From Bus  To Bus      From Name        To Name  ID         From Bus  To Bus            From Name              To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0   BANK:   220010  220021      BURSADG A      BURSADG A  1            220011  220024      BURSADG B-OTR-3      BURSADG B-OTR-3  1         120.23        300.5750  250.0
+1    EIH:   214210  214810   KOCAELI        MAKINAOSB     1            210621  214221         HYUNDAI              KOCAELI       1         108.24        270.6000  250.0
+2   BANK:   210110  210121     TEPEOREN A     TEPEOREN A  2            211211  211221       KARTAL B-OTR-4       KARTAL B-OTR-4  1         105.33        263.3250  250.0
+3    EIH:   214210  214810   KOCAELI        MAKINAOSB     1            210621  212422         HYUNDAI              ENJKOSEKOY    1         105.24        263.1000  250.0
+4    EIH:   210111  214310   TEPEOREN       DILISKELESIG  1            214810  214821    MAKINAOSB A-OTR-1    MAKINAOSB A-OTR-1  1          99.42        248.5500  250.0
+5    EIH:   212521  215021   KOSEKOY        GOLCUK        1            213621  213721         KARAMURSEL           YALOVA        1          97.06        174.7080  180.0
+6   BANK:   210110  210121     TEPEOREN A     TEPEOREN A  2            210121  211921         TEPEOREN             KURTKOY       1          96.95        325.7520  336.0
+7    EIH:   214210  214810   KOCAELI        MAKINAOSB     1            214210  214221      KOCAELI B-OTR-3      KOCAELI B-OTR-3  2          96.64        241.6000  250.0
+8    EIH:   214210  214810   KOCAELI        MAKINAOSB     1            214210  214221      KOCAELI A-OTR-1      KOCAELI A-OTR-1  1          96.64        241.6000  250.0
+9   BANK:   220111  220121  BURSASANAYI A  BURSASANAYI A  2            220111  220122  BURSASANAYI B-OTR-4  BURSASANAYI B-OTR-4  2          94.20        235.5000  250.0
+10   EIH:   210310  214210   ADAPAZARI      KOCAELI       1            210321  212521         ADAPAZARI            KOSEKOY       2          94.15        235.3750  250.0
+11   EIH:   210111  214310   TEPEOREN       DILISKELESIG  1            210621  214221         HYUNDAI              KOCAELI       1          93.71        234.2750  250.0
+12  BANK:   220111  220122  BURSASANAYI B  BURSASANAYI B  1            228621  291821         OSMANGAZI            BSANAYISANAL  1          93.01        312.5136  336.0
+13  BANK:   220111  220122  BURSASANAYI B  BURSASANAYI B  1            220121  291821         BURSASANAYI          BSANAYISANAL  1          92.99        312.4464  336.0
+14   EIH:   210111  214310   TEPEOREN       DILISKELESIG  1            214811  214822    MAKINAOSB B-OTR-3    MAKINAOSB B-OTR-3  1          92.45        231.1250  250.0
+15  BANK:   220111  220121  BURSASANAYI A  BURSASANAYI A  2            220111  220122  BURSASANAYI B-OTR-3  BURSASANAYI B-OTR-3  1          91.88        229.7000  250.0
+16  BANK:   220111  220121  BURSASANAYI A  BURSASANAYI A  2            220111  220121  BURSASANAYI C-OTR-5  BURSASANAYI C-OTR-5  1          91.45        228.6250  250.0
+17   EIH:   220121  221322   BURSASANAYI    BESEVLER      1            221321  228722         BESEVLER             ORHANELI      1          91.25        228.1250  250.0
+18   EIH:   210111  214310   TEPEOREN       DILISKELESIG  1            210621  212422         HYUNDAI              ENJKOSEKOY    1          90.73        226.8250  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

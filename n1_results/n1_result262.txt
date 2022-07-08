@@ -1,0 +1,70 @@
+
+ 12.06.2022 14:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220612_1400_SN7_TR0.sav was saved on MON, JUN 13 2022  16:50
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ 21 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 232021 - 234422, BOLU2        - BOLU1        (1 )
+Inkitaya giden bara numaralari:
+[231821, 232021, 232022, 232121, 232821, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 13 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 232022 - 232121, BOLU2        - BOLUCIM      (1 )
+Inkitaya giden bara numaralari:
+[231821, 232121, 616521, 616522]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                                   
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus        From Name          To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   231111  233611  OSMANCA       ZETES3        1            217321  230021     ALAPLI           BOLUCEK       1         182.16         327.888  180.0
+1  EIH:   231111  233611  OSMANCA       ZETES3        1            217321  231521     ALAPLI           AKCAKOCA      1         173.63         312.534  180.0
+2  EIH:   231111  233611  OSMANCA       ZETES3        1            231121  231521     OSMANCA          AKCAKOCA      1         168.94         304.092  180.0
+3  EIH:   231111  233611  OSMANCA       ZETES3        1            230010  230021  BOLUCEK B-OTR-4  BOLUCEK B-OTR-4  1         128.37         192.555  150.0
+4  EIH:   210511  232611  ADA2DGKC      ZETES2        1            217321  230021     ALAPLI           BOLUCEK       1         123.46         222.228  180.0
+5  EIH:   210511  232611  ADA2DGKC      ZETES2        1            217321  231521     ALAPLI           AKCAKOCA      1         114.99         206.982  180.0
+6  EIH:   210511  232611  ADA2DGKC      ZETES2        1            231121  231521     OSMANCA          AKCAKOCA      1         110.38         198.684  180.0
+7  EIH:   231111  233611  OSMANCA       ZETES3        1            230010  230021  BOLUCEK B-OTR-3  BOLUCEK B-OTR-3  2         107.90         269.750  250.0
+8  EIH:   210511  232611  ADA2DGKC      ZETES2        1            230010  230021  BOLUCEK B-OTR-4  BOLUCEK B-OTR-4  1          96.69         145.035  150.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   212621  216722  HEREKE        GEBZEKIMYA    1            212722  NUHCIMENTO    0.943435
+1  EIH:   212621  216722  HEREKE        GEBZEKIMYA    1            212721  NUHCIMENTO    0.943435
+2  EIH:   212621  216722  HEREKE        GEBZEKIMYA    1            212621  HEREKE        0.943755
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      210321  ADAPAZARI          29373.12       25804.24
+---------------------------------------------------------------

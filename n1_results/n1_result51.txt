@@ -1,0 +1,58 @@
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210111 - 214211, TEPEOREN     - KOCAELI      (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 8 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 212621 - 216722, HEREKE       - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 214210 - 214810, KOCAELI      - MAKINAOSB    (1 )
+----------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 9 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 214822 - 216722, MAKINAOSB    - GEBZEKIMYA   (1 )
+Inkitaya giden bara numaralari:
+[212621, 212721, 212722, 216722]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: 210211 - 231111, PASAKOY      - OSMANCA      (1 )
+----------------------------------------------------------------------------------------------------------
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 211562, generator ismi COLAKOGLUOP2
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 214761, generator ismi YENIELEKTRIK
+Iteration limit exceeded
+Guc akisi cozulemeyen ariza: bara no 214763, generator ismi YENIELEKTRIK
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+   Kýsýt                                                      Ýzlenen Techizat                                                                                     
+    Type From Bus  To Bus       From Name         To Name  ID         From Bus  To Bus         From Name           To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  BANK:   210110  210121      TEPEOREN A      TEPEOREN A  2            211210  211221    KARTAL C-OTR-6    KARTAL C-OTR-6  1         105.95         476.775  450.0
+1   OTR:   211210  211221  KARTAL C-OTR-6  KARTAL C-OTR-6  1            210110  210121  TEPEOREN A-OTR-2  TEPEOREN A-OTR-2  1          97.54         243.850  250.0
+2   OTR:   211210  211221  KARTAL C-OTR-6  KARTAL C-OTR-6  1            210110  210121  TEPEOREN A-OTR-1  TEPEOREN A-OTR-1  2          96.97         242.425  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

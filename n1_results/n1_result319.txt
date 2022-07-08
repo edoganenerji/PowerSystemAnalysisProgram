@@ -1,0 +1,22 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+  Kýsýt                                                  Ýzlenen Techizat                                                                                       
+   Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214321  214821       DILISKELESIG       MAKINAOSB     1         110.83         277.075  250.0
+1  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         105.90         264.750  250.0
+2  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1         102.03         255.075  250.0
+3  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214810  214821  MAKINAOSB A-OTR-1  MAKINAOSB A-OTR-1  1         101.12         252.800  250.0
+4  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            210122  211822       TEPEOREN           GEBZEOSB      1          98.73         246.825  250.0
+5  EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            211321  211422       TUZLA              KROMANCELIK   1          93.95         234.875  250.0
+6  EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            210122  211822       TEPEOREN           GEBZEOSB      1          93.67         234.175  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 durumunda gerilim bozulmasý yoktur.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      210122  TEPEOREN            29848.1       26773.98
+1      210124  TEPEOREN            29848.1       26773.98
+---------------------------------------------------------------

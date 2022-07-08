@@ -1,0 +1,72 @@
+
+ 07.06.2022 11:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+
+ Messages for api FDNS
+ Topology error: 3 bus(es) with bus type code and series element status inconsistencies   (001742)
+Baslangic guc akisi cozulemedi. Data'yi kontrol edin.
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------

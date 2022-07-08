@@ -1,0 +1,87 @@
+
+ 17.06.2022 15:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.
+
+
+ The Saved Case in file C:\Users\erdidogan\Downloads\20220617_1500_SN5_TR0 (1).sav was saved on WED, JUN 22 2022  15:35
+
+ The following option settings are changed to the settings contained in the Saved Case File:
+
+ ** VOLTAGE OUTPUT UNITS option setting set to KILOVOLTS
+
+ ** VOLTAGE INPUT UNITS option setting set to KILOVOLTS
+
+ ** SHORT CIRCUIT UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT IMPEDANCE UNITS option setting set to PHYSICAL UNITS
+
+ ** SHORT CIRCUIT COORDINATES option setting set to POLAR
+
+ ** SHORT CIRCUIT IMPEDANCE COORDINATES option setting set to POLAR
+
+ ** TRANSFORMER PERCENT LOADING UNITS option setting set to CURRENT
+1...............................................................................................................................................................
+ .                                         PTI INTERACTIVE POWER SYSTEM SIMULATOR--PSS(R)E     WED, JUN 22 2022  15:42                                  PAGE 1 .
+ .                                                                                                                                                             .
+ .                                                17.06.2022 15:00 SAATINE AIT SNAPSHOT FULL TEIAS DOSYASIDIR.                                                 .
+ .                                                                                                                                                             .
+ .                                                                                                                                                             .
+ .                                   *** DCCC OVERLOAD REPORT: MONITORED ELEMENTS LOADED ABOVE  90.0 OF RATING SET  1 ***                                    .
+ ...............................................................................................................................................................
+
+ DISTRIBUTION FACTOR FILE:     kba.dfx
+
+                                                              <------------- O V E R L O A D E D   L I N E S -------------->  <--- MW FLOW --->
+ <----------- C O N T I N G E N C Y   E V E N T S -----------><--------- F R O M ---------> <----------- T O ----------->CKT  PRE-CNT  POST-CNT  RATING  PERCENT
+ OPEN LINE FROM BUS 210111 [TEPEOREN    400.00] TO BUS 210121 [TEPEOREN    154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 18 210111-210121(
+                                                              210111     TEPEOREN    400.00 210121     TEPEOREN    154.00 2     164.3    232.2    249.9     92.9
+ OPEN LINE FROM BUS 210111 [TEPEOREN    400.00] TO BUS 210121 [TEPEOREN    154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 19 210111-210121(
+                                                              210111     TEPEOREN    400.00 210121     TEPEOREN    154.00 1     165.3    233.0    249.9     93.2
+ OPEN LINE FROM BUS 210111 [TEPEOREN    400.00] TO BUS 214310 [DILISKELESIG400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 25 210111-214310(
+                                                              210122     TEPEOREN    154.00 211822     GEBZEOSB    154.00 1     121.8    229.4    249.7     91.9
+                                                              214810     MAKINAOSB   400.00 214821     MAKINAOSB   154.00 1     124.3    225.8    243.8     92.6
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 210321 [ADAPAZARI   154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 54 210311-210321(
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 2     185.8    249.5    250.0     99.8
+ OPEN LINE FROM BUS 210311 [ADAPAZARI   400.00] TO BUS 210321 [ADAPAZARI   154.00] CKT 2 -------------------------- CONTINGENCY SINGLE OPN LIN 55 210311-210321(
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 1     182.9    246.9    250.0     98.8
+ OPEN LINE FROM BUS 211522 [COLAKOGLU   154.00] TO BUS 214322 [DILISKELESIG154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 101 211522-214322
+                                                              214822     MAKINAOSB   154.00 217221     SIDDIK      154.00 1     101.3    262.4    250.0    105.0
+ OPEN LINE FROM BUS 214210 [KOCAELI     400.00] TO BUS 214810 [MAKINAOSB   400.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 138 214210-214810
+                                                              214210     KOCAELI     400.00 214221     KOCAELI     154.00 1     191.0    235.6    250.0     94.3
+ OPEN LINE FROM BUS 231121 [OSMANCA     154.00] TO BUS 233921 [DUZCEOSB    154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN LIN 306 231121-233921
+                                                              234421     BOLU1       154.00 412421     SARIYAR     154.00 1     -97.9   -184.2    178.8    103.0
+ OPEN LINE FROM BUS 214210 [KOCAELI     400.00] TO BUS 214222 [KOCAELI     154.00] CKT 1 -------------------------- CONTINGENCY DOUBLE OPN LIN 19(214210-214222(
+ OPEN LINE FROM BUS 214210 [KOCAELI     400.00] TO BUS 214222 [KOCAELI     154.00] CKT 2
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 1     182.9    249.5    250.0     99.8
+                                                              210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 2     185.8    253.4    250.0    101.4
+ OPEN LINE FROM BUS 214422 [AKSAYALOVA  154.00] TO BUS 214441 [AKSAYALOVA  34.500] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 436 214422-214441
+                                                              214422     AKSAYALOVA  154.00 214441     AKSAYALOVA  34.500 2      35.7     71.8     60.4    118.9
+ OPEN LINE FROM BUS 214422 [AKSAYALOVA  154.00] TO BUS 214441 [AKSAYALOVA  34.500] CKT 2 -------------------------- CONTINGENCY SINGLE OPN TIE 437 214422-214441
+                                                              214422     AKSAYALOVA  154.00 214441     AKSAYALOVA  34.500 1      36.1     71.8     61.6    116.6
+ OPEN LINE FROM BUS 234421 [BOLU1       154.00] TO BUS 412421 [SARIYAR     154.00] CKT 1 -------------------------- CONTINGENCY SINGLE OPN TIE 704 234421-412421
+                                                              231121     OSMANCA     154.00 233921     DUZCEOSB    154.00 1      86.3    184.2    179.6    102.6
+DC DCCC
++-------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+
+|  Row  |  Contingency Label                   |  Monitored Line                                                   |  Rating MVA    |  Pre-Contingency Flow MW    |  Post-Contingency Flow MW    |  Percent |
++-------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+
+|    1  |  SINGLE OPN LIN 18 210111-210121(    |  210111     TEPEOREN    400.00 210121     TEPEOREN    154.00 2    |      249.9272  |                   164.3477  |                    232.1763  |      92.8976  |
+|    2  |  SINGLE OPN LIN 19 210111-210121(    |  210111     TEPEOREN    400.00 210121     TEPEOREN    154.00 1    |      249.9249  |                   165.3056  |                    232.9724  |      93.2169  |
+|    3  |  SINGLE OPN LIN 25 210111-214310(    |  210122     TEPEOREN    154.00 211822     GEBZEOSB    154.00 1    |      249.6927  |                   121.8343  |                    229.4456  |      91.8912  |
+|    4  |  SINGLE OPN LIN 25 210111-214310(    |  214810     MAKINAOSB   400.00 214821     MAKINAOSB   154.00 1    |      243.8060  |                   124.2946  |                    225.8428  |      92.6322  |
+|    5  |  SINGLE OPN LIN 54 210311-210321(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 2    |      249.9983  |                   185.7709  |                    249.4972  |      99.7996  |
+|    6  |  SINGLE OPN LIN 55 210311-210321(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 1    |      249.9982  |                   182.8699  |                    246.9448  |      98.7787  |
+|    7  |  SINGLE OPN LIN 101 211522-214322    |  214822     MAKINAOSB   154.00 217221     SIDDIK      154.00 1    |      249.9782  |                   101.3238  |                    262.3963  |     104.9677  |
+|    8  |  SINGLE OPN LIN 138 214210-214810    |  214210     KOCAELI     400.00 214221     KOCAELI     154.00 1    |      249.9743  |                   191.0369  |                    235.6303  |      94.2618  |
+|    9  |  SINGLE OPN LIN 306 231121-233921    |  234421     BOLU1       154.00 412421     SARIYAR     154.00 1    |      178.8274  |                   -97.9057  |                   -184.2158  |     103.0132  |
+|   10  |  DOUBLE OPN LIN 19(214210-214222(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 1    |      249.9982  |                   182.8699  |                    249.4721  |      99.7896  |
+|   11  |  DOUBLE OPN LIN 19(214210-214222(    |  210311     ADAPAZARI   400.00 210321     ADAPAZARI   154.00 2    |      249.9983  |                   185.7709  |                    253.4298  |     101.3726  |
+|   12  |  SINGLE OPN TIE 436 214422-214441    |  214422     AKSAYALOVA  154.00 214441     AKSAYALOVA  34.500 2    |       60.4040  |                    35.7445  |                     71.8006  |     118.8673  |
+|   13  |  SINGLE OPN TIE 437 214422-214441    |  214422     AKSAYALOVA  154.00 214441     AKSAYALOVA  34.500 1    |       61.5875  |                    36.0561  |                     71.8006  |     116.5832  |
+|   14  |  SINGLE OPN TIE 704 234421-412421    |  231121     OSMANCA     154.00 233921     DUZCEOSB    154.00 1    |      179.5875  |                    86.3101  |                    184.2158  |     102.5772  |
++-------+--------------------------------------+-------------------------------------------------------------------+----------------+-----------------------------+------------------------------+---------------+
+
+---------------------------------------------------------------
+KISA DEVRE ANALÝZ SONUCU
+   Bus Number      Bus Name  3-phase Fault  1-phase Fault
+0      210122  TEPEOREN           28945.57       26109.33
+1      210124  TEPEOREN           28945.57       26109.33
+---------------------------------------------------------------

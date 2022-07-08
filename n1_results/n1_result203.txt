@@ -1,0 +1,45 @@
+
+ Messages for api FDNS
+ 4 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 211321 - 211422, TUZLA        - KROMANCELIK  (1 )
+Inkitaya giden bara numaralari:
+[211421, 211422]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ Messages for api FDNS
+ 5 buses in island(s) without a swing bus--use activity TREE   (001741)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Servis harici olmasi durumunda radyal baglanti nedeniyle inkitaya neden olan ariza: 210822 - 216621, GOZTEPE      - KADIKOY      (1 )
+Inkitaya giden bara numaralari:
+[210821, 210822]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+N-1 DURUMU GÜÇ AKIÞI
+    Kýsýt                                                  Ýzlenen Techizat                                                                                       
+     Type From Bus  To Bus     From Name       To Name  ID         From Bus  To Bus          From Name            To Name  ID Power Flow(%) Power Flow(MVA)  RATEA
+0    EIH:   211321  211822  TUZLA         GEBZEOSB      1            211321  211621       TUZLA              ICMELER       1         130.40         326.000  250.0
+1    EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1         108.79         271.975  250.0
+2    EIH:   211522  214322  COLAKOGLU     DILISKELESIG  1            214822  217221       MAKINAOSB          SIDDIK        1         108.18         270.450  250.0
+3   BANK:   210110  210121    TEPEOREN A    TEPEOREN A  2            211822  216721       GEBZEOSB           GEBZEKIMYA    1         104.79         261.975  250.0
+4    EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214321  214821       DILISKELESIG       MAKINAOSB     1         104.01         260.025  250.0
+5    EIH:   211321  211822  TUZLA         GEBZEOSB      1            211222  211621       KARTAL             ICMELER       1          98.82         355.752  360.0
+6    EIH:   210121  211821  TEPEOREN      GEBZEOSB      1            210121  211821       TEPEOREN           GEBZEOSB      2          98.64         246.600  250.0
+7    EIH:   210121  211821  TEPEOREN      GEBZEOSB      2            210121  211821       TEPEOREN           GEBZEOSB      1          97.34         243.350  250.0
+8    EIH:   211222  211621  KARTAL        ICMELER       1            211321  211822       TUZLA              GEBZEOSB      1          93.67         337.212  360.0
+9    EIH:   214310  290310  DILISKELESIG  DCELIKSANAL   1            214321  214821       DILISKELESIG       MAKINAOSB     1          93.43         233.575  250.0
+10   EIH:   210111  214310  TEPEOREN      DILISKELESIG  1            214811  214822  MAKINAOSB B-OTR-3  MAKINAOSB B-OTR-3  1          91.04         227.600  250.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kýsýt                                                  Ýzlenen Techizat                        
+   Type From Bus  To Bus     From Name       To Name  ID       Bus Number      Bus Name   Voltage
+0  EIH:   211321  211822  TUZLA         GEBZEOSB      1            211422  KROMANCELIK   0.929121
+1  EIH:   211321  211822  TUZLA         GEBZEOSB      1            211421  KROMANCELIK   0.929121
+2  EIH:   211321  211822  TUZLA         GEBZEOSB      1            211321  TUZLA         0.930181
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
