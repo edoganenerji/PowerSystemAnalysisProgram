@@ -12,7 +12,7 @@ NSGA-II technique is used to execute the bus splitting optimization restricting 
 - Program **Yük Tevzi Bilgi Sistemi ([YTBS](https://ytbs.teias.gov.tr/ytbs/frm_login.jsf))** üzerinden indirilen PSS/E .sav ve .iec dosyalarıyla çalıştırılmaktadır.
 
 - The developed software uses PSS/E program to run Newton Raphson power flow equations and calculate short-circuit currents.
-- The software is created to be used in only North West Anatolian Dispatching Center of Turskih Electricity Transmission System.
+- The software is created to be used in only North West Anatolian Dispatching Center of Turkish Electricity Transmission System.
 - The software is run with PSS/E .sav and .iec file that can be downloaded from Dispatching Center Information System ([YTBS]((https://ytbs.teias.gov.tr/ytbs/frm_login.jsf)).
 ## Başlangıç sayfası
 Başlangıç sayfası (Home Page): 
